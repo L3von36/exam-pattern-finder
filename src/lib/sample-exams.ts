@@ -2,6 +2,8 @@
 // Each sample is a representative past exam, designed to surface clear patterns
 // when fed through the analyzer (topic clusters, question type mixes, difficulty).
 
+import ethiopianAptitude2018 from './ethiopian-aptitude-2018'
+
 export type SampleExam = {
   id: string
   title: string
@@ -207,6 +209,14 @@ Section E — Creative Response (10 marks)
 
 6. Write a 250-word monologue in the voice of a minor character from a text you have studied. Your monologue should reveal something about the character that is not explicit in the original text. (10 marks)
 `,
+  },
+  {
+    id: 'ethiopian-aptitude-2018',
+    title: 'Ethiopian Aptitude — 2018 E.C. Entrance Exam',
+    subject: 'Aptitude',
+    level: 'Grade 12 · National Exam (Ethiopia)',
+    blurb: 'Real Grade 12 Ethiopian national exam scraped from temari.et — 41 analogy/word-relation questions.',
+    content: ethiopianAptitude2018,
   },
 ]
 

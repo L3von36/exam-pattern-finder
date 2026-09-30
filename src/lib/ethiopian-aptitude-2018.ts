@@ -1,0 +1,458 @@
+// Auto-generated: real scraped Ethiopian Grade 12 Aptitude 2018 E.C. entrance exam
+// from temari.et. Do not edit by hand — regenerate from the .txt file.
+
+const content = `                                                       Temari.et
+                              Aptitude, 2018 EC, entrance exam, version 1
+                                              Grade 12 · Aptitude · 2018 E.C.
+
+Time allowed: 120 minutes                                   Questions: 41                             Total marks: 41
+
+Name                                           Grade                        ID No.             Date
+
+1.   SCHOLAR : KNOWLEDGE ::                                                                                        (1)
+     A. Artist : creativity                                     B. Judge : courtroom
+     C. Farmer : harvest                                        D. Doctor : hospital
+
+2.   WHISPER : SHOUT ::                                                                                            (1)
+     A. Walk : stumble                                          B. Drizzle : downpour
+     C. Speak : lecture                                         D. Glance : observe
+
+3.   THIRST : DRINK ::                                                                                             (1)
+
+     A. Hunger : eat                                            B. Fatigue : sleep
+     C. Curiosity : question                                    D. Grief : weep
+
+4.   OPTIMIST : HOPE ::                                                                                            (1)
+     A. Pessimist : despair                                     B. Realist : fantasy
+     C. Scholar : ignorance                                     D. Artist : canvas
+
+5.   DROUGHT : FAMINE ::                                                                                           (1)
+     A. Flood : destruction                                     B. Rain : harvest
+     C. Sun : warmth                                            D. Wind : breeze
+
+6.   Based on musical instrument family classification, choose the odd one out:                                    (1)
+     A. Oboe                                                    B. Clarinet
+     C. Flute                                                   D. Violin
+
+7.   Based on emotional valence (positive vs. negative meaning), choose the odd one out:                           (1)
+
+     A. Joyful                                                  B. Elated
+     C. Ecstatic                                                D. Melancholy
+
+8.   Despite the heavy rains, the farmers remained _______________ that their crops would survive, drawing on      (1)
+     generations of experience with the land.
+     A. doubtful                                                B. hopeful
+     C. indifferent                                             D. anxious
+
+9.   The young woman's speech was both _______________ and _______________; she moved the audience to              (1)
+     tears while also challenging them to take immediate action.
+     A. boring . . lengthy                                      B. confusing . . vague
+     C. inspiring . . persuasive                                D. humorous . . careless
+10. Many Ethiopian students find themselves ___________ between respecting traditional values and                (1)
+    _______________ the opportunities that modern education provides.
+    A. struggling . . embracing                              B. choosing . . rejecting
+    C. hesitating . . ignoring                               D. deciding . . abandoning
+
+11. The novel's protagonist was a _______________ character—firm in her convictions yet responsive to changing   (1)
+    circumstances.
+    A. simple . . rigid . . closed                           B. complex . . steadfast . . adaptable
+    C. ordinary . . confused . . open                        D. predictable . . weak . . resistant
+
+12. After weeks of meticulous preparation, the debate team was ready to _______________ their arguments with     (1)
+    confidence.
+    A. withdraw                                              B. present
+    C. question                                              D. abandon
+
+13. The success of the village's new irrigation project _______________ on the community's willingness to        (1)
+    _______________ together and maintain the system collectively.
+    A. depends . . work                                      B. fails . . compete
+    C. relies . . argue                                      D. hinges . . struggle
+
+14. PREDICTABLE — Choose the word most nearly similar in meaning:                                                (1)
+    A. unforeseeable                                         B. foreseeable
+    C. random                                                D. uncertain
+
+15. ILLEGIBLE — Choose the word most nearly similar in meaning:                                                  (1)
+
+    A. readable                                              B. understandable
+    C. unreadable                                            D. clear
+
+16. SUBMERGE — Choose the word most nearly opposite in meaning:                                                  (1)
+    A. immerse                                               B. emerge
+    C. sink                                                  D. plunge
+
+17. POSTPONE — Choose the word most nearly opposite in meaning:                                                  (1)
+    A. delay                                                 B. advance
+    C. defer                                                 D. suspend
+18. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.
+    The primary purpose of this passage is to:
+    A. criticize the Ethiopian government for failing to extend the power grid
+    B. describe how solar technology is transforming rural Ethiopian communities
+    C. argue that kerosene lamps are superior to solar lighting
+    D. promote urban migration as a solution to energy poverty
+
+19. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.
+    According to the passage, solar home systems in rural Ethiopia typically include all of the following EXCEPT:
+    A. a rooftop panel                                          B. a battery
+    C. a television set                                         D. LED lights
+20. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.
+    The author's attitude toward the adoption of solar technology in rural Ethiopia can be described as:
+    A. skeptical and doubtful                                   B. critical and dismissive
+    C. indifferent and neutral                                  D. positive and supportive
+
+21. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.
+    The passage suggests that the introduction of solar technology has created new economic opportunities such
+    as:
+    A. factory jobs in cities and elsewhere
+    B. Phone charging and solar technician training
+    C. kerosene distribution networks
+    D. government employment program
+22. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe. (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    According to the passage, the traditional view of the brain as having fixed locations for specific functions is best
+    described as:
+    A. completely accurate and well-supported
+    B. an oversimplification of a more complex reality
+    C. irrelevant to understanding brain function
+    D. a recent scientific discovery
+
+23. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.         (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    According to the passage, what evidence supports neuroplasticity?
+    A. Brain scans showing identical structures across all people
+    B. The fact that brain size never changes after childhood
+    C. Observable brain changes in taxi drivers and musicians
+    D. Research showing intelligence is completely genetic
+24. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.         (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    Dr. Hanna Mekonnen's comparison of the brain to a garden primarily emphasizes that:
+    A. brains are beautiful but fragile
+    B. neural development requires proper conditions and care
+    C. gardens grow better in some climates than others
+    D. brain research is still in its early stages
+
+25. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.         (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    Based on the passage, which statement would the author most likely agree with?
+    A. Intelligence is determined at birth and cannot change.
+    B. Educational approaches should consider the brain's capacity for change.
+    C. Neuroimaging has solved all mysteries about how the brain works.
+    D. Only children's brains are capable of neuroplasticity.
+26. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.         (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    The passage implies that the practical value of neuroplasticity research for Ethiopian education lies in:
+    A. proving that some students simply cannot learn
+    B. encouraging teaching methods that build neural pathways
+    C. replacing teachers with brain scanners
+    D. focusing exclusively on early childhood education
+
+27. The Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.         (1)
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    In the context of the passage, the word 'profound' most nearly means:
+    A. shallow and unimportant                                 B. deep and significant
+    C. confusing and unclear                                   D. temporary and brief
+28. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025. --- The
+    Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    Which of the following themes is common to both passages?
+    A. Traditional methods are always superior to modern innovations.
+    B. Scientific advances meet basic human needs.
+    C. Rural communities resist all forms of change and development.
+    D. Government intervention is the only path to progress.
+29. The Solar Revolution in Rural Ethiopia 1. In the remote villages of Ethiopia's Rift Valley, where the national power (1)
+    grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied
+    on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied
+    by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill
+    grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of
+    life. 2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution
+    models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make
+    solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED
+    lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the
+    Oromia region, the impact has been transformative: "My children can now study after dark. I charge my phone at
+    home instead of walking two hours to town. We breathe clean air." 3. The implications extend beyond individual
+    households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and
+    increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps
+    most significantly, solar energy is creating new economic opportunities—women are starting small businesses
+    charging phones, and young people are training as solar technicians. What began as a solution to energy
+    poverty is becoming a catalyst for broader rural development. Source: Adapted from reports by the International
+    Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025. --- The
+    Garden in Our Heads 1. The human brain has been called the most complex structure in the known universe.
+    With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose
+    possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about
+    how this remarkable organ works. 2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now
+    allow scientists to observe the living brain in action. What researchers are discovering challenges long-held
+    assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears
+    far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns
+    that shift constantly based on context. 3. Perhaps most fascinating is neuroplasticity—the brain's ability to
+    reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now
+    know that learning a new skill or adapting to a new environment can physically reshape neural connections. The
+    brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas
+    controlling fine motor skills. 4. This understanding carries profound implications for education. If brains can
+    change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr.
+    Hanna Mekonnen, an Ethiopian neuroscientist, explains: "The brain is not a computer that arrives pre-wired. It's
+    more like a garden that grows according to how it's tended. With the right conditions, growth is always possible."
+    Source: Adapted from research published in the Journal of Neuroscience and interviews with African
+    neuroscientists, 2022-2024.
+    Both passages suggest that meaningful transformation requires:
+    A. abandoning traditional practices entirely
+    B. importing solutions from developed countries without adaptation
+    C. integrating new technologies with local conditions and needs
+    D. waiting for government support before taking action
+
+30. The elder advised the young man: "When you follow the path of your fathers, you learn to walk with their              (1)
+    wisdom." This proverb suggests that:
+    A. young people should never question their elders
+    B. traditional knowledge offers valuable guidance
+    C. walking is the only way to learn
+    D. fathers always know the best routes
+
+31. The proverb "Don't count your chickens before they hatch" teaches us to:                                              (1)
+    A. avoid raising poultry                                    B. Wait for certainty before celebrating
+    C. count carefully to avoid mistakes                        D. expect every egg to produce a chick
+32. The committee _______________ for three hours before finally reaching a unanimous decision on the new                    (1)
+    school policy.
+     A. debated                                                   B. was debated
+     C. were debating                                             D. have debated
+
+33. All successful farmers in the region understand soil composition. Beka understands soil composition. Therefore:          (1)
+     A. Beka is definitely a successful farmer
+     B. Beka may or may not be a successful farmer
+     C. Beka cannot be a successful farmer
+     D. only successful farmers understand soil
+
+34. If the length of a rectangle increases by 20% and the width decreases by 20%, then the area changes by:                  (1)
+     A. No change                                                 B. 4% decrease
+     C. 4% increase                                               D. 8% decrease
+
+35. If 8 workers can finish a job in 12 days, how many workers are needed to finish the same job in 6 days (assume           (1)
+    each person works at the same rate)?
+     A. 12                                                        B. 14
+     C. 16                                                        D. 18
+
+36. A team of 5 students met for a discussion. Each student shook hands once with each other. How many                       (1)
+    handshakes take place?
+     A. 120                                                       B. 10
+     C. 25                                                        D. 20
+
+37. A train running at 54 km/hr crosses a pole in 12 seconds. Length of the train is:                                        (1)
+     A. 150 meter                                                 B. 160 meter
+     C. 180 meter                                                 D. 200 meter
+
+38. Eight years ago, a mother's age was four times her daughter's age. Eight years from now, the mother's age will           (1)
+    be twice her daughter's age. What is the current age of the mother?
+     A. 40                                                        B. 48
+     C. 56                                                        D. 64
+
+39. The table shows the number of different categories of electronic devices sold by a company over five years (in          (1)
+    thousands). Year | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total 2013 | 120 | 80 | 350 |
+    60 | 190 | 800 2014 | 150 | 95 | 420 | 75 | 210 | 950 2015 | 170 | 110 | 460 | 90 | 230 | 1060 2016 | 200 | 130 | 520 |
+    105 | 260 | 1215 2017 | 230 | 150 | 610 | 120 | 290 | 1400
+    For which category was the percentage increase in sales from 2014 to 2015 the maximum?
+     A. Headphones                                                B. Laptops
+     C. Smart watches                                             D. Tablets
+40. The table shows the number of different categories of electronic devices sold by a company over five years (in          (1)
+    thousands). Year | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total 2013 | 120 | 80 | 350 |
+    60 | 190 | 800 2014 | 150 | 95 | 420 | 75 | 210 | 950 2015 | 170 | 110 | 460 | 90 | 230 | 1060 2016 | 200 | 130 | 520 |
+    105 | 260 | 1215 2017 | 230 | 150 | 610 | 120 | 290 | 1400
+    If the same percentage increase in smartphone sales from 2016 to 2017 continues for 2018, approximately how
+    many smartphones will be sold in 2018?
+     A. 690 thousand                                                    B. 715 thousand
+     C. 730 thousand                                                    D. 740 thousand
+
+41. The table shows the number of different categories of electronic devices sold by a company over five years (in          (1)
+    thousands). Year | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total 2013 | 120 | 80 | 350 |
+    60 | 190 | 800 2014 | 150 | 95 | 420 | 75 | 210 | 950 2015 | 170 | 110 | 460 | 90 | 230 | 1060 2016 | 200 | 130 | 520 |
+    105 | 260 | 1215 2017 | 230 | 150 | 610 | 120 | 290 | 1400
+    The number of smart watches sold in 2015 is what percentage of the headphones sold in 2016?
+     A. 30%                                                             B. 40%
+     C. 36%                                                             D. 34.6%
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+`
+export default content

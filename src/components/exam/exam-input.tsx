@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Textarea } from '@/components/ui/textarea'
 import { Button } from '@/components/ui/button'
@@ -15,13 +15,25 @@ import { Loader2, Sparkles, BookOpen, FileText, Settings2, ChevronDown, ChevronU
 type Props = {
   onAnalyze: (input: { examContent: string; bookContent?: string; focus?: string }) => void
   loading: boolean
+  preloadedContent?: string
 }
 
-export function ExamInput({ onAnalyze, loading }: Props) {
+export function ExamInput({ onAnalyze, loading, preloadedContent }: Props) {
   const [examContent, setExamContent] = useState('')
   const [bookContent, setBookContent] = useState('')
   const [focus, setFocus] = useState('')
   const [showAdvanced, setShowAdvanced] = useState(false)
+
+  // Sync with preloaded content from the dashboard store (e.g. when a paper
+  // is loaded from the question bank). This is an effect-driven state sync,
+  // which is what the lint rule complains about, but here we explicitly want
+  // the textarea to update when the parent pushes new content.
+  useEffect(() => {
+    if (preloadedContent !== undefined) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setExamContent(preloadedContent)
+    }
+  }, [preloadedContent])
 
   const charCount = examContent.length
   const canAnalyze = examContent.trim().length >= 50 && !loading
