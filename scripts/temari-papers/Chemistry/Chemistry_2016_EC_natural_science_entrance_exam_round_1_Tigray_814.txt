@@ -1,0 +1,399 @@
+                                                        Temari.et
+         Chemistry, 2016 EC, natural science, entrance exam, round 1, Tigray
+                                              Grade 12 · Chemistry · 2016 E.C.
+
+Time allowed: 120 minutes                                   Questions: 71                                   Total marks: 71
+
+Name                                            Grade                       ID No.                  Date
+
+1.   The number of significant figures obtained by addition of 300.53 and 2.507 is:                                      (1)
+     A. 7                                                       B. 5
+     C. 6                                                       D. 4
+
+2.   Digits that make measurements certain plus one of uncertain values are known as _____.                              (1)
+     A. scientific notation                                     B. decimal places
+     C. significant figures                                     D. conversion factors
+
+3.   Which one of the following is the CORRECT description of uncertainty in measurements? It is used that exact         (1)
+     number is
+     A. whose values are known exactly                          B. accurate number
+     C. certain number                                          D. whose values known inexactly
+
+4.   The spontaneous emission of high-energy radiation and particles is said to be:                                      (1)
+
+     A. Radioisotope                                            B. Radioactive decay
+     C. Radioactivity                                           D. Radioactive radiation
+
+5.   "Both the position and the momentum of an electron in atom cannot be determined at the same time", this is the (1)
+     statement of the:
+     A. Bohr's theory                                           B. de-Broglie's statement
+     C. Planck's theory                                         D. Heisenberg's uncertainty principle
+
+6.   Which of the following is CORRECT according to Hund's rule?                                                         (1)
+     A. The lowest energy electron configuration for degenerate orbitals is the one with the maximum number of
+        unpaired valence electrons
+     B. No two electrons in a multi-electron atom have the same set of four quantum numbers; principal, secondary,
+        magnetic and spin
+     C. The most stable atomic structures are those in which the electrons are in the lowest energy orbitals available
+     D. Electrons in an atom move in a circular orbits called stationary states and have a dual nature, particle and wave
+
+7.   Silver (Ag) has two stable isotopes; silver-107 (106.905 amu) that contributes 51.85% and silver-109 (108.905)      (1)
+     contributes 48.15%. What is the relative atomic mass of silver?
+     A. 106.868                                                 B. 107.868
+     C. 108.868                                                 D. 109.868
+
+8.   Which of the following is the class of an element with atomic number of 38? The element is:                         (1)
+     A. a transition element                                    B. a representative element
+     C. an inner transition element                             D. post-transitional element
+9.   The average mass of the atoms in an element is known to be                                                           (1)
+     A. isotopic mass                                           B. molar mass
+     C. equivalent mass                                         D. atomic mass
+
+10. Which of the following statements is CORRECT about electromagnetic radiation?                                         (1)
+
+     A. The energy of an electromagnetic radiation increases with increase in its frequency
+     B. The energy of an electromagnetic radiation increases with increase in its wavelength
+     C. The speed of an electromagnetic radiation is inversely proportional to its wavelength
+     D. The wavelength of an electromagnetic radiation is directly proportional to its frequency
+
+11. Which of the following is the MOST STABLE ground state electronic configuration of Molybdenum? (Z = 42)               (1)
+     A. [Kr] 5s 2 4d 4                                          B. [Kr] 5s 1 4d 5
+     C. [Kr] 5s 2 4d 3                                          D. [Kr] 5s 1 4d 6
+
+12. Which of the following is NOT responsible for the shape of the modern periodic table?                                 (1)
+
+     A. valence electron                                        B. atomic mass
+     C. atomic number                                           D. the energy level
+
+13. Which of the following is NOT included in the intermolecular forces found in covalent compounds?                      (1)
+     A. Dipole-Dipole Forces                                    B. London Forces
+     C. Dispersion Forces                                       D. Electrostatic Forces
+
+14. Among the following properties given below which one is CORRECT about crystalline solid?                              (1)
+     A. Ionic crystals have weak inter-ionic forces, which makes them to have low melting points.
+     B. Molecular crystals are conductors of heat and electricity in molten state and usually have high melting points.
+     C. Covalent network crystals are conductors of heat and electricity and have low melting points.
+     D. Metallic crystals are ductile, malleable and they usually have high melting points.
+
+15. Which of the following is observed in liquid water or solid ice due to hydrogen bonding?                              (1)
+     A. Molecules of water are closer together in ice than in liquid water.
+     B. At the melting point of water, ice is denser than liquid water.
+     C. Molecules of water are closer together in liquid water than in ice.
+     D. When ice and water are mixed, the water floats on the surface of the ice.
+
+16. Among the following statements which explains the exception to the octet rule? When compound is formed, the           (1)
+    central atom has:
+     A. eight electrons configuration.                          B. more than eight electron configuration.
+     C. core element electron configuration.                    D. noble gas electron configuration.
+
+17. The properties of a covalent molecule depend on the intermolecular forces within the molecule. Which of the           (1)
+    following is an example that can represent these phenomena?
+     A. Polar cis -1, 2-dichloroethene has a higher boiling point than non-polar trans -1, 2-dichloroethene.
+     B. Polar cis -1, 2-dichloroethene has a lower boiling point than non-polar trans -1, 2-dichloroethene.
+     C. Non-polar cis -1, 2-dichloroethene has a higher boiling point than polar trans -1, 2-dichloroethene.
+     D. Non-polar cis -1, 2-dichloroethene has a lower boiling point than polar trans -1, 2-dichloroethene.
+18. Describe the hybridization scheme for the central atom of tetrachloroiodate, radical, ICl 4 - .                     (1)
+    A. dsp 2                                                    B. sp 3 d
+    C. sp 3 d 2                                                 D. d 3 sp 2
+
+19. "Reactant molecules are first transformed into an intermediate activated complex that is unstable and breaks        (1)
+    into the products", this is called
+    A. reaction theory                                          B. collision theory
+    C. activation theory                                        D. transition state theory
+
+20. Which of the following differentiates between biological catalysts and non-biological catalysts? Biological         (1)
+    catalysts
+    A. are largely organic in nature while non-biological catalysts can be inorganic compounds.
+    B. are largely inorganic in nature while non-biological catalysts can be organic compounds.
+    C. speed up chemical reactions while non-biological catalysts inhibit chemical reactions.
+    D. inhibit chemical reactions while non-biological catalysts speed up chemical reactions.
+
+21. What is the difference between homogenous and heterogeneous reactions? A reaction between substances in             (1)
+    the same
+    A. state is called a homogenous reaction while between different states is heterogeneous reaction.
+    B. state is called heterogeneous reaction while between different states is homogenous reaction.
+    C. phase is called a homogenous reaction while between different phases is heterogeneous reaction.
+    D. phase is called heterogeneous reaction while between different phases is homogenous reaction.
+
+22. Which of the following explains how transition state theory affects a reaction rate?                                (1)
+
+    A. For reaction to occur, reactant molecules must collide with a certain minimum energy.
+    B. For reaction to take place, reactants must collide with the proper orientation.
+    C. The rate of reaction is directly proportional to the number of collisions per second.
+    D. The rate of the reaction is dependent on the speed at which the reactants can clamp to the top of energy barrier.
+
+23. Rate constants of reactions are used when rates are determined experimentally. This is done by gathering data       (1)
+    on the variation of
+    A. concentration over time.                                 B. time over concentration.
+    C. speed with time.                                         D. time with speed.
+
+24. The decomposition of hydrogen iodide on gold surface is zero - order in HI. The rate constant for the reaction is   (1)
+    0.050 M/s. If the initial concentration of HI is 0.50 M, what is the half - life of this reaction?
+    A. 0.1 s                                                    B. 1.0 s
+    C. 0.5 s                                                    D. 5.0 s
+
+25. An equation that defines the experimentally determined relation between the concentrations of reactants and         (1)
+    rate of that reaction is known as _____.
+    A. rate law                                                 B. rate constant
+    C. order of reaction                                        D. mechanism reaction
+
+26. The ratio of the rate constant for the forward reaction over the reverse reaction is said to be _______.            (1)
+    A. gas constant                                             B. rate constant
+    C. reaction constant                                        D. equilibrium constant
+27. Which of the following is CORRECT for a reaction at a chemical equilibrium? Given: Q c is the reaction quotient         (1)
+    and K eq is the equilibrium constant
+    A. Q c = K eq                                                B. Q c > K eq
+    C. Q c ≤ K eq                                                D. Q c ≥ K eq
+
+28. What is the value of equilibrium constant (K p ) for the following reaction? 2SO 3 (g) ⇌ 2SO 2 (g) + O 2 (g) Given:     (1)
+    the equilibrium partial pressures of the three gases (SO 3 , O 2 and SO 2 ) are 0.10 atm, 0.25 atm and 0.50 atm,
+    respectively.
+    A. 0.625 atm                                                 B. 6.25 atm
+    C. 62.5 atm                                                  D. 625 atm
+
+29. The equilibrium constant Kc for the equilibrium reaction CO (g) + Cl2(g) ⇌ COCl2(g) is 6.1. In which direction will     (1)
+    the reaction proceed to reach equilibrium? Given: [CO] = 2.5 M, [Cl2] = 1.0 M and [COCl2] = 5.0 M
+    A. Forward reaction                                          B. Backward reaction
+    C. In the direction of the reactants                         D. Not possible to predict
+
+30. Which of the following is the CORRECT order of carboxylic acid listed below based on the number of functional           (1)
+    group that contains mono, di and tricarboxylic acids, respectively?
+    A. citric acid, acetic acid and oxalic acid                  B. oxalic acid, acetic acid and citric acid
+    C. acetic acid, citric acid and oxalic acid                  D. acetic acid, oxalic acid and citric acid
+
+31. A triglyceride containing primarily unsaturated fatty acids is known as                                                 (1)
+    A. oil                                                       B. ester
+    C. soap                                                      D. fat
+
+32. Which of the following methods is used for the preparation of saturated monocarboxylic acids? Oxidation of              (1)
+    A. primary alcohols                                          B. secondary alcohols
+    C. tertiary alcohols                                         D. quaternary alcohols
+
+33. Which of the following is the common use of esters? It is used for                                                      (1)
+
+    A. making soaps, detergents and shampoos                     B. making artificial flavors and perfumes
+    C. preparation of carboxylic acids                           D. preparation of primary alcohols
+
+34. A student placed 50 mL of 1 M sulfuric acid into the 500 mL round - bottom flask. He/she added 5 g of sodium            (1)
+    dichromate and a few pieces of broken porcelain. After mixing the resulting solution, he/she cooled the mixture
+    under a running tap. He/she added 5 mL of ethanol drop-wise into the flask and boiled under reflux for 20
+    minutes. In this experiment ethanol
+    A. is oxidized by sodium dichromate and produces acetic acid
+    B. is reduced by sodium dichromate and produces acetic acid
+    C. reacts with sodium dichromate to produce ethane, carbon dioxide and water
+    D. reacts with sodium dichromate to produce an ester and water
+
+35. "At a given temperature, the solubility of a sparingly soluble and chemical unreactive gas in a liquid is               (1)
+    proportional to the partial pressure of the gas over the solution", this quantitative relationship is given by _____.
+    A. Raoult's law                                              B. Hess's law
+    C. Henry's law                                               D. Dalton's law
+36. The ratio of the number of moles of a component in a mixture to the total number of moles in the mixture is      (1)
+    known to be _____.
+    A. molarity                                                B. molality
+    C. mole percent                                            D. mole fraction
+
+37. Which of the following distinguishes between homogenous and heterogeneous mixtures? In homogenous                (1)
+    mixture
+    A. components are not distributed uniformly while in heterogeneous mixture the components are distributed
+       uniformly
+    B. it contains distinct regions of different composition while in heterogeneous mixture the components do not have
+       visible boundary
+    C. components are distributed uniformly while in heterogeneous mixture the components are not distributed
+       uniformly
+    D. composition is not uniform while in heterogeneous mixture the components are mixed as individual atoms and
+       molecules
+
+38. Which of the following explanations differentiates between suspensions and colloids?                             (1)
+    A. Suspensions are composed of particles that settle down in due course of time while colloidal particles do not
+       settle down
+    B. Suspensions are homogenous mixtures composed of particles visible to the naked eye while colloids are
+       heterogeneous mixtures.
+    C. Colloids are composed of particles that settle down in due course of time while suspensions do not settle down.
+    D. Colloids are homogenous mixtures composed of particles visible to the naked eye while suspensions are
+       heterogeneous mixtures.
+
+39. How much water is added to 75 mL of 0.5 M HCl solution to prepare a 0.1 M HCl solution?                          (1)
+    A. 75 mL                                                   B. 150 mL
+    C. 300 mL                                                  D. 375 mL
+
+40. Which of the following methods is used to prepare a supersaturated sodium thiosulfate solution?                  (1)
+    A. Slowly dropping the temperature of a saturated solution of sodium thiosulfate
+    B. Increasing the volume of unsaturated solution through slow evaporation
+    C. Slowly increasing the temperature of unsaturated solution of sodium thiosulfate
+    D. Increasing the volume of a saturated solution through slow evaporation
+
+41. The maximum amount of a solute that dissolves in a given quantity of solvent at a given temperature is said to   (1)
+    be _____.
+    A. molarity                                                B. molality
+    C. normality                                               D. solubility
+
+42. The ratio of the number of equivalents of the solute divided by the total volume of solution gives _____.        (1)
+    A. equivalent mass                                         B. molar mass
+    C. normality                                               D. molality
+43. Which of the following is CORRECT about the heat of solution?                                                        (1)
+    A. If the solute-solvent attraction is stronger than both the solvent-solvent and solute-solute attraction, the
+       solution process is endothermic.
+    B. If the solute-solvent attraction is stronger than both the solvent and solute-solute attraction, the solution
+       process is exothermic.
+    C. If the solute-solvent attraction is stronger than both the solvent-solvent and solute-solute attraction, the
+       solution process is neutral.
+    D. The solution process is independent of solute-solvent, solvent-solvent or solute-solute attractions.
+
+44. Which of the following is the definition of an acid according to Lewis concept? An acid is a substance that:         (1)
+    A. increases [H + ] when placed in water                    B. decreases [OH - ] when placed in water
+    C. acts as an electron pair acceptor                        D. acts as a proton donor
+
+45. Which one of the following is a buffer solution? A mixture of                                                        (1)
+
+    A. ethanoic acid and ethanol                                B. acetic acid and sodium acetate
+    C. acetic anhydride and acetate ion                         D. sodium ethanoate and ethyl alcohol
+
+46. Which of the following determines the equivalent mass of acids and bases?                                            (1)
+    A. Total number of electrons transferred in a chemical reaction
+    B. Number of hydrogen ions or hydroxide ions transferred in a chemical reaction
+    C. Mole of reactants and products at the equilibrium point of the reactions
+    D. Mole of reactants and products at the start and at the end of a chemical reaction
+
+47. What is the concentration of OH - ions in a solution whose pH = 6?                                                   (1)
+
+    A. 1.0 x 10 -6 M                                            B. 1.0 x 10 -8 M
+    C. 1.0 x 10 -6 M                                            D. 1.0 x 10 -8 M
+
+48. The pH of a 1.00 M solution of formic acid (HCOOH) is 1.88. What is the percent ionization of formic acid? K a of    (1)
+    HCOOH = 1.7 x 10 -4
+    A. 0.013                                                    B. 1.30
+    C. 0.13                                                     D. 13.0
+
+49. What is the [H + ] ion concentration in 1.0 x 10 -3 M solution of a weak acid (CH 3 COOH), whose K a = 1.8 x 10 -5   (1)
+    A. 4.13 x 10 -4 M                                           B. 1.34 x 10 -4 M
+    C. 4.13 x 10 -5 M                                           D. 1.34 x 10 -5 M
+
+50. From the following alternatives, which one is a Brønsted-Lowry base?                                                 (1)
+    A. NH 3                                                     B. NH 4 +
+    C. H 2 S                                                    D. H 3 O +
+
+51. Which of the following is a CORRECT explanation for the existence of hydrogen ion (H + ) as hydronium ion (H 3       (1)
+    O + ) in water?
+    A. The small size and high charge of protons
+    B. The large size and small charge of protons
+    C. The neutral pH of liquid water
+    D. The small reactivity of water with protons
+52. The difference between the reduction potentials of a voltaic cell's cathode and anode is known as _____.            (1)
+    A. electrode cell                                           B. electrochemical cell
+    C. electrochemical potential                                D. cell potential
+
+53. Which of the following is galvanic requires continuous supply of reactant and continuous removal of product to      (1)
+    keep functioning?
+    A. Daniel cell                                              B. Leclanché Cell
+    C. Fuel Cell                                                D. Mercury Cell
+
+54. Which of the following factors DOES NOT affect the preferential discharge of ions in the electrochemical series?    (1)
+
+    A. The nature of the electrodes
+    B. The nature of the ions in the electrolyte
+    C. The concentration of the ions in the electrolyte
+    D. The position of the ions in the electrochemical series
+
+55. During the electrolysis of dilute sulfuric acid solution, which of the following is discharged at the anode         (1)
+    electrode?
+    A. OH - ions are discharged in preference to SO 4 2- ions, because the concentration of OH - ions is greater than
+       SO 4 2- ions.
+    B. SO 4 2- ions are discharged in preference to OH - ions, because the concentration of SO 4 2- ions is greater than
+       OH - ions.
+    C. OH - ions are discharged in preference to SO 4 2- ions, because the OH - ion is below the SO 4 2- ion in the
+       electrochemical series.
+    D. SO 4 2- ions are discharged in preference to OH - ions, because SO 4 2- ions are stronger bases than OH - ions.
+
+56. An electrolysis reaction of copper (II) sulfate deposited copper metal at the cathode and liberated oxygen gas at   (1)
+    the anode. What are the electrodes used for this reaction?
+    A. Zinc electrodes                                          B. Magnesium electrodes
+    C. Copper electrodes                                        D. Platinum electrodes
+
+57. Which of the following is CORRECT about the environmental effects of corrosion?                                     (1)
+    A. is a non-redox reaction of metals
+    B. is the major factor to prevent rusting of iron
+    C. causes metals to be stronger in industry and construction
+    D. causes enormous damage to buildings, bridges, ships and cars
+
+58. Which of the following is the CORRECT half reactions at the electrodes and overall reaction observed during the     (1)
+    electrolysis of CuSO 4 solution using inert electrodes?
+    A. Anode: 2Cu 2+ (aq) + 4e - → 2Cu (s) Cathode: 4OH - (a q) → 2H 2 O (l) + O 2 (g) + 4e - Cell reaction: 2Cu 2+ (aq) +
+       4OH - (aq) → 2Cu (s) + 2H 2 O (l) + O 2 (g)
+    B. Anode: 4OH - (aq) → 2H 2 O (l) + O 2 (g) + 4e - Cathode: 2Cu 2+ (aq) + 4e - → 2Cu (s) Cell reaction: 2Cu 2+ (aq) +
+       4OH - (aq) → 2Cu (s) + 2H 2 O (l) + O 2 (g)
+    C. Anode: Cu (s) → Cu 2+ (aq) + 2e - Cathode: Cu 2+ (aq) + 2e - → Cu (s) Cell reaction: Cu (s) + Cu 2+ → Cu 2+ (aq)
+       +Cu (s)
+    D. Anode: 2H 2 O (l) + O 2 (g) + 4e - → 4OH - (aq) Cathode: 2Cu (s) → 2Cu 2+ (aq) + 4e - Cell reaction: 2Cu (s) + 2H 2
+       O (l) + O 2 (g) → 2Cu 2+ (aq) + 4OH - (aq)
+59. What mass of aluminum is deposited electrolytically in 10 minutes by a current of 40 A? (I F = 96500 C/mol)      (1)
+    A. 2.25 g                                                 B. 0.24 g
+    C. 6.71 g                                                 D. 0.67 g
+
+60. Which of the following is the CORRECT sequence of the first five most abundant elements in the earth's crust?    (1)
+
+    A. oxygen, aluminum, silicon, iron and calcium
+    B. oxygen, silicon, iron, aluminum and calcium
+    C. oxygen, iron, silicon, calcium and aluminum
+    D. oxygen, silicon, aluminum, iron and calcium
+
+61. Which compound of chromium is used in the production of stainless steel?                                         (1)
+    A. Nichrome                                               B. Chromate ion
+    C. Ferrochrome                                            D. Dichromate ion
+
+62. When copper powder is used as a catalyst, silicon reacts with methyl chloride (CH 3 Cl) at high temperature.     (1)
+    What is the product of this reaction?
+    A. CH 3 Cl                                                B. CH 3 SiCl
+    C. (CH 3 ) 2 SiCl 2                                       D. (CH 3 ) 3 SiCl 2
+
+63. Which of the following is the procedure for the manufacture of tin?                                              (1)
+
+    A. Leaching the mineral casseterite with acid to remove impurities followed by roasting of with carbon in furnace
+       at high temperature.
+    B. Electrochemical reduction of the mineral casseterite after leaching the mineral ore.
+    C. Oxidation of the mineral casseterite with hydrogen in furnace at low temperature followed by refining with acid
+       to remove impurities.
+    D. Reduction of the mineral casseterite with hydrogen in furnace at low temperature followed by refining with acid
+       to remove impurities.
+
+64. Which of the following IS NOT made by an addition polymer?                                                       (1)
+
+    A. polyethylene                                           B. Teflon
+    C. Polystyrene                                            D. Polyester
+
+65. Which of the following polymers is a natural polymer?                                                            (1)
+    A. Glycogen                                               B. Nylons
+    C. Polystyrene                                            D. Polyester
+
+66. "Entropy of an isolated thermodynamic system always increases during a spontaneous process", this is called      (1)
+    A. Hess's law                                             B. The second law of thermodynamics
+    C. The first law of thermodynamics                        D. The third law of thermodynamics
+
+67. What are the monomers of Bakelite, in a condensation polymer?                                                    (1)
+    A. Hexamethylene diamine and adipic acid                  B. Terephthalic acid and ethylene glycol
+    C. Styrene and 1, 3-butadiene                             D. Formaldehyde and phenol
+68. Which of the following expression about entropy or entropy change is CORRECT?                                      (1)
+    A. Entropy is the sum of internal energy and the pressure-volume product of a system.
+    B. Entropy change for a chemical change is the product of the entropies of the products and the entropies of the
+       reactants.
+    C. Entropy is the thermodynamic property of a system that is related to its degree of randomness.
+    D. Entropy change for a chemical change is the sum of the entropies of the reactants minus the sum of the
+       entropies of the products.
+
+69. What is the standard free energy change, ΔG°, for the complete combustion of methane? CH₄(g) + 2O₂(g) →            (1)
+    CO₂(g) + 2H₂O(l) Given: The standard free energies of formation: - CH₄(g) = -51 kJ/mol - CO₂(g) = -394 kJ/mol -
+    H₂O(l) = -237 kJ/mol
+    A. -631 kJ/mol                                                    B. -632 kJ/mol
+    C. -838 kJ/mol                                                    D. -817 kJ/mol
+
+70. A process that occurs only as long as energy is continually applied to the system is said to be                    (1)
+    A. thermodynamic process                                          B. nonspontaneous process
+    C. spontaneous process                                            D. equilibrium process
+
+71. What kind of system is formed by closing a flask containing water, so that NO water vapor can escape from or       (1)
+    condense into the container?
+    A. An open system                                                 B. A closed system
+    C. An isolated system                                             D. An adiabatic system
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

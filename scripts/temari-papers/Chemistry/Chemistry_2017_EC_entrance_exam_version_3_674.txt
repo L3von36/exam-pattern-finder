@@ -1,0 +1,372 @@
+                                                        Temari.et
+                            Chemistry, 2017 EC, entrance exam, version 3
+                                               Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                    Questions: 76                                  Total marks: 76
+
+Name                                            Grade                        ID No.                  Date
+
+1.   According to the Brønsted-Lowry theory, a base is defined as:                                                       (1)
+     A. A proton donor                                           B. An electron-pair donor
+     C. A proton acceptor                                        D. An electron-pair acceptor
+
+2.   Which of the following solid is NOT amorphous solid?                                                                (1)
+     A. Glass                                                    B. Plastics
+     C. Rubber                                                   D. Sodium chloride
+
+3.   In an ionic bond, electrons are:                                                                                    (1)
+
+     A. Shared equally between atoms.                            B. Transferred from one atom to another.
+     C. Shared unequally between atoms.                          D. Completely absent.
+
+4.   Which of the following is true about the liquid state of matter?                                                    (1)
+     A. Liquids have a definite volume but take the shape of their container
+     B. Liquids have a definite shape and volume
+     C. Liquids have an indefinite volume but a definite shape
+     D. Liquids have neither a definite shape nor volume
+
+5.   What is true for the following given reaction? Cr₂O₇²⁻ + 14H⁺ + 6Cl⁻ → 2Cr³⁺ + 3Cl₂ + 7H₂O                          (1)
+
+     A. Cr³⁺ is oxidized                                         B. Cl⁻ is reduced to Cl₂
+     C. H⁺ is reduced to H₂                                      D. Cl⁻ is oxidized to Cl₂
+
+6.   What is the conjugate base of H₂CO₃?                                                                                (1)
+     A. HCO₃⁻                                                    B. CO₃²⁻
+     C. OH⁻                                                      D. H₃O⁺
+
+7.   Which gas law relates the pressure and volume of a gas at constant temperature?                                     (1)
+     A. Boyle's Law                                              B. Charles's Law
+     C. Gay-Lussac's Law                                         D. Avogadro's Law
+
+8.   Which of the following best describes metallic bonding?                                                             (1)
+     A. Electrons are shared equally between atoms
+     B. Electrons are transferred from one atom to another
+     C. Electrons are delocalized and free to move throughout the metal
+     D. Electrons are localized around each atom
+
+9.   Given a 0.1 M solution of a weak acid (Ka = 1.8 × 10⁻⁵), what is the approximate pH of the solution?                (1)
+     A. 2.87                                                     B. 3.45
+     C. 4.72                                                     D. 5.60
+10. What happens to the kinetic energy of particles as a substance moves from a solid to a liquid state?             (1)
+    A. The kinetic energy decreases                            B. The kinetic energy increases
+    C. The kinetic energy remains the same                     D. The particles stop moving
+
+11. What type of intermolecular force is responsible for the high boiling point of water?                            (1)
+
+    A. London dispersion forces                                B. Hydrogen bonds
+    C. Ionic bonds                                             D. Dipole-dipole interactions
+
+12. Why does a buffer solution resist changes in pH? Because                                                         (1)
+    A. it contains only a strong acid
+    B. it contains a weak acid and its conjugate base
+    C. it prevents ionization of water
+    D. it absorbs all added ions
+
+13. What is the wavelength of the yellow sodium emission, which has a frequency of 5.09 × 10¹⁴ s⁻¹?                  (1)
+
+    A. 890 nm                                                  B. 400 nm
+    C. 589 nm                                                  D. 670 nm
+
+14. In a covalent bond, how do atoms achieve a stable electron configuration?                                        (1)
+    A. By transferring electrons from one atom to another.
+    B. By sharing electrons.
+    C. By losing all their electrons.
+    D. By gaining electrons from other elements.
+
+15. Which of the following factors affects the ionization of weak acids?                                             (1)
+
+    A. Temperature                                             B. Pressure
+    C. Volume                                                  D. Mass
+
+16. The blue color in fireworks is often achieved by heating copper(I) chloride to about 1200°C. Then the compound   (1)
+    emits blue light having a wavelength of 450 nm. What is the increment of energy (the quantum) that is emitted
+    at 4.50×10² nm by CuCl?
+    A. 9.93×10⁻¹⁹ J                                            B. 4.42×10⁻¹⁹ J
+    C. 12.1×10⁻² J                                             D. 6.1×10⁻⁵ J
+
+17. In a molecule of nitrogen (N₂), how many electrons are shared between the two nitrogen atoms?                    (1)
+
+    A. 2 electrons                                             B. 4 electrons
+    C. 6 electrons                                             D. 10 electrons
+
+18. If the reaction, Cu + HNO₃ → Cu(NO₃)₂ + NO₂ + H₂O is balanced. What is the coefficient of HNO₃?                  (1)
+    A. 8                                                       B. 3
+    C. 2                                                       D. 4
+
+19. A sample of gas occupies 10.0 L at 2.0 atm pressure. What will be its volume if the pressure is reduced to 1.0   (1)
+    atm at constant temperature?
+    A. 5.0 L                                                   B. 20.0 L
+    C. 15.0 L                                                  D. 10.0 L
+20. A salt derived from a weak acid and a weak base will produce a solution whose pH depends on:                     (1)
+    A. The strength of the weak acid only
+    B. The strength of the weak base only
+    C. The relative strengths of the weak acid and weak base
+    D. The concentration of the salt
+
+21. At STP, 2 moles of an ideal gas will occupy:                                                                     (1)
+    A. 11.2 L                                                    B. 22.4 L
+    C. 44.8 L                                                    D. 33.6 L
+
+22. A student electrolyzes an aqueous copper sulfate solution using platinum electrodes. What will they observe at   (1)
+    the anode?
+    A. Copper deposition                                         B. Hydrogen gas evolution
+    C. Oxygen gas evolution                                      D. Chlorine gas evolution
+
+23. If a titration curve shows a sharp pH rise around pH 9, what type of titration is it?                            (1)
+    A. Strong acid vs. strong base                               B. Strong acid vs. weak base
+    C. Weak acid vs. strong base                                 D. Weak acid vs. weak base
+
+24. Which of the following is the correct order of elements in the Modern Periodic Table?                            (1)
+
+    A. Elements are arranged by increasing atomic number.
+    B. Elements are arranged by increasing atomic mass.
+    C. Elements are arranged by increasing chemical properties.
+    D. Elements are arranged by their colors.
+
+25. Which law states that mass is neither created nor destroyed in a chemical reaction?                              (1)
+    A. Law of Definite Proportions                               B. Law of Conservation of Mass
+    C. Law of Multiple Proportions                               D. Dalton's Law
+
+26. Which of the following is a key characteristic of chemical industries?                                           (1)
+
+    A. They avoid the use of chemical reactions                  B. They produce only organic compounds
+    C. They consume large quantities of energy                   D. They do not test product quality
+
+27. What is a major environmental concern related to cement manufacturing?                                           (1)
+    A. Excessive water use                                       B. Carbon dioxide emissions
+    C. Excessive gypsum use                                      D. Noise pollution
+
+28. According to Dalton's atomic theory, atoms of the same element are:                                              (1)
+    A. Different in size and mass                                B. Always in motion
+    C. Identical in size and mass                                D. Made up of smaller particles
+
+29. What is the main raw material obtained from the atmosphere for industrial use?                                   (1)
+    A. Nitrogen gas                                              B. Sodium chloride
+    C. Phosphates                                                D. Crude petroleum
+30. One of the advantages of periodic classification is that it helps in understanding:          (1)
+    A. The periodicity of chemical properties among elements
+    B. The exact uses of each element in everyday life
+    C. The number of atoms in a compound.
+    D. The physical appearance of each element.
+
+31. Which subatomic particle has a mass closest to that of a proton?                             (1)
+    A. Electron                                                 B. Photon
+    C. Neutron                                                  D. Positron
+
+32. What role does industrial chemistry play in society?                                         (1)
+    A. Reduces technological development
+    B. Limits chemical product manufacturing
+    C. Prevents resource utilization
+    D. Supports economic growth and industrial development
+
+33. Which of the following elements is correctly matched with its block in the periodic table?   (1)
+    A. Na, Mg, and Cl - s-block                                 B. Fe, Mn and P - d-block
+    C. P, S and Cl - p-block                                    D. Cr, Ni and Al - p-block
+
+34. What does the Aufbau principle state about the filling of electron orbitals?                 (1)
+    A. Electrons will fill the orbitals in order of increasing energy.
+    B. Electrons will fill the orbitals in order of increasing atomic number.
+    C. Electrons will fill the orbitals from higher to lower energy
+    D. Electrons will fill the orbitals randomly.
+
+35. Which natural resource is most crucial for energy production in developing countries?        (1)
+    A. Biomass                                                  B. Crude oil
+    C. Hydropower                                               D. Solar energy
+
+36. Which industry significantly contributes to Ethiopia's agricultural economy?                 (1)
+    A. Sugar industry                                           B. Cement industry
+    C. Glass industry                                           D. Paper industry
+
+37. Which of the following best describes the Rutherford gold foil experiment?                   (1)
+
+    A. Discovered the electron
+    B. Showed that atoms are mostly empty space with a dense nucleus
+    C. Proposed the planetary model of the atom
+    D. Demonstrated the law of multiple proportions
+
+38. What is the primary industrial process for manufacturing ammonia?                            (1)
+    A. Ostwald process                                          B. Solvay process
+    C. Haber-Bosch process                                      D. Contact process
+39. Why does the electron configuration of chromium (Cr, atomic number 24) deviate from the expected [Ar] 4s²   (1)
+    3d⁴?
+    A. Chromium prefers a half-filled 3d subshell for stability.
+    B. Chromium has fewer protons than expected.
+    C. Chromium's 4s orbital is filled before the 3d.
+    D. Chromium's 4p orbital is partially filled.
+
+40. Which renewable resource can directly be used for generating electricity?                                   (1)
+    A. Solar energy                                                B. Coal
+    C. Crude petroleum                                             D. Magnesium
+
+41. Which of the following is the correct value of the angular momentum quantum number (l) for a d-orbital?     (1)
+    A. 2                                                           B. 1
+    C. 0                                                           D. 3
+
+42. Which resource is classified as non-renewable?                                                              (1)
+    A. Fossil fuels                                                B. Vegetation
+    C. Solar energy                                                D. Water
+
+43. How many unpaired electrons are present in the electron configuration of carbon (1s² 2s² 2p²)?              (1)
+
+    A. 1                                                           B. 3
+    C. 4                                                           D. 2
+
+44. Which raw material is primarily used in glass manufacturing?                                                (1)
+    A. Limestone                                                   B. Silica
+    C. Gypsum                                                      D. Alumina
+
+45. Which of the following forms of electromagnetic radiation has the shortest wavelength?                      (1)
+    A. Radio waves                                                 B. Infrared waves
+    C. Ultraviolet waves                                           D. Gamma rays
+
+46. Which local Ethiopian alcoholic beverage is commonly made using traditional methods?                        (1)
+    A. Wine                                                        B. Beer
+    C. Vodka                                                       D. Araki
+
+47. What is used in the Contact Process for sulfuric acid production?                                           (1)
+
+    A. Iron oxide                                                  B. Vanadium (V) oxide
+    C. Platinum                                                    D. Palladium
+
+48. Which method is commonly used to preserve food in Ethiopia?                                                 (1)
+    A. Vacuum packing                                              B. Chemical preservation
+    C. Sun drying                                                  D. Pasteurization
+
+49. What is the main purpose of tanning in leather production?                                                  (1)
+    A. To make leather waterproof
+    B. To remove hair from hides
+    C. To improve the color of leather
+    D. To convert raw hides into durable leather
+50. What byproduct of sugar manufacturing is used to produce ethanol in Ethiopia?                                        (1)
+    A. Sugarcane leaves                                        B. Bagasse
+    C. Lime                                                    D. Molasses
+
+51. Which material is added to cement to control its setting time?                                                       (1)
+
+    A. Silica                                                  B. Gypsum
+    C. Lime                                                    D. Alumina
+
+52. What does the period number of an element indicate in the Modern Periodic Table?                                     (1)
+    A. The energy level or shell in which the valence electrons are found
+    B. The number of protons in the atom.
+    C. The number of valence electrons
+    D. The atomic number of the element.
+
+53. What is the primary product of sugar manufacturing?                                                                  (1)
+
+    A. Glucose                                                 B. Sucrose
+    C. Ethanol                                                 D. Maltose
+
+54. Which of the following is NOT a characteristic of transition elements?                                               (1)
+    A. They are metals with high densities
+    B. They are good conductors of heat and electricity.
+    C. They tend to form colored compounds.
+    D. They are highly reactive with water
+
+55. Which glass type is commonly used in laboratory equipment due to its resistance to chemical corrosion?               (1)
+
+    A. Soda-lime glass                                         B. Silicate glass
+    C. Quartz glass                                            D. Borosilicate glass
+
+56. Which ions are preferentially discharged at the cathode during the electrolysis of copper(II) sulfate using          (1)
+    platinum electrodes?
+    A. Cu²⁺ ions                                               B. OH⁻ ions
+    C. H⁺ ions                                                 D. SO₄²⁻ ions
+
+57. Which type of crystal structure would be best suited for a substance that is hard, has a high melting point, and is (1)
+    a good insulator?
+    A. Molecular crystal                                       B. Covalent network crystal
+    C. Metallic crystal                                        D. Ionic crystal
+
+58. Why are isotopes of an element chemically similar?                                                                   (1)
+    A. They have different energy levels.
+    B. They have the same number of neutrons.
+    C. They have different atomic masses.
+    D. They have the same number of protons and electrons.
+59. A student is asked to balance the redox reaction using the half-reaction method. What is the first step?        (1)
+    A. Balance oxygen atoms
+    B. Identify oxidation and reduction half-reactions
+    C. Add water molecules
+    D. Balance hydrogen atoms
+
+60. Who discovered the nucleus of an atom?                                                                          (1)
+    A. Niels Bohr                                              B. J.J. Thomson
+    C. James Chadwick                                          D. Ernest Rutherford
+
+61. What determines the ions preferentially discharged during electrolysis?                                         (1)
+    A. Temperature                                             B. Reactivity series and ion concentration
+    C. Voltage applied                                         D. Electrode size
+
+62. According to Bohr's atomic model, where are electrons located?                                                  (1)
+
+    A. Embedded in a positive sphere                           B. Randomly distributed inside the nucleus
+    C. Fixed orbits around the nucleus                         D. In stationary energy clouds
+
+63. What happens if the salt bridge in a voltaic cell is removed?                                                   (1)
+    A. The voltage increases
+    B. The reaction continues unaffected
+    C. The flow of ions stops and the cell stops working
+    D. The electrodes dissolve
+
+64. Design an experiment to determine the mass of silver deposited when a current of 2 A is passed through silver   (1)
+    nitrate for 30 minutes. What formula would you use?
+    A. m = V i t                                               B. m = M I t / n F
+    C. m = z Q                                                 D. m = n F
+
+65. Why do ionic compounds have high melting points?                                                                (1)
+
+    A. They have weak intermolecular forces
+    B. They consist of covalent bonds
+    C. They have no molecular structure
+    D. The strong electrostatic attraction between ions requires a large amount of energy to break
+
+66. Who proposed the first atomic theory based on experimental evidence?                                            (1)
+    A. J.J. Thomson                                            B. Niels Bohr
+    C. Ernest Rutherford                                       D. John Dalton
+
+67. Which of the following is NOT a common industrial application of electrolysis?                                  (1)
+
+    A. Electroplating                                          B. Electro-refining
+    C. Metal extraction                                        D. Nuclear fusion
+
+68. Which of the following molecules would likely exhibit sp³ hybridization in its central atom?                    (1)
+    A. CO₂                                                     B. BF₃
+    C. H₂O                                                     D. PCl₅
+69. Which model of the atom is referred to as the 'plum pudding model'?                                                   (1)
+    A. Thomson's Model                                                 B. Dalton's Model
+    C. Rutherford's Model                                              D. Bohr's Model
+
+70. Which bonding theory explains the formation of covalent bonds through the overlap of atomic orbitals?                 (1)
+
+    A. Valence bond theory                                             B. Molecular orbital theory
+    C. Lewis dot theory                                                D. VSEPR theory
+
+71. Which of the following molecules has a linear molecular geometry?                                                     (1)
+    A. Water (H₂O)                                                     B. Ammonia (NH₃)
+    C. Methane (CH₄)                                                   D. Carbon dioxide (CO₂)
+
+72. Create a cell diagram for a voltaic cell using Zn and Cu electrodes in their respective sulfate solutions. How will   (1)
+    it be represented?
+    A. Zn(s) / Cu²⁺(aq) // Cu²⁺(aq) / Cu(s)                            B. Cu(s) / Cu²⁺(aq) // Zn²⁺(aq) / Zn(s)
+    C. Zn²⁺(aq) / Zn(s) // Cu(s) / Cu²⁺(aq)                            D. Zn(s) / Zn²⁺(aq) // Cu²⁺(aq) / Cu(s)
+
+73. Which type of covalent bond is formed when electrons are shared equally between two atoms?                            (1)
+    A. Polar covalent bond                                             B. Ionic bond
+    C. Non-polar covalent bond                                         D. Coordinate bond
+
+74. What is the hybridization of the central atom in a molecule of carbon dioxide (CO₂)?                                  (1)
+    A. sp²                                                             B. sp³d
+    C. sp                                                              D. sp³
+
+75. A current of 5 A flows for 2 hours during electrolysis. What is the total charge passed?                              (1)
+
+    A. 180 C                                                           B. 3600 C
+    C. 1,800 C                                                         D. 36,000 C
+
+76. What is the bond angle in a molecule with a tetrahedral geometry, such as methane (CH₄)?                              (1)
+    A. 90°                                                             B. 120°
+    C. 180°                                                            D. 109.5°
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

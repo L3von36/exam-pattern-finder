@@ -1,0 +1,186 @@
+                                                        Temari.et
+                        Chemistry, 2016 EC, natural science, entrance exam
+                                              Grade 12 · Chemistry · 2016 E.C.
+
+Time allowed: 120 minutes                                   Questions: 29                                 Total marks: 29
+
+Name                                            Grade                       ID No.                 Date
+
+1.   What is the equilibrium constant expression for the heterogeneous reaction: CaCO₃(s) ⇌ CaO(s) + CO₂(g)?           (1)
+     A. Kc = [CaO][CO₂]                                         B. Kc = [CaO][CO₃] / [CaCO₃]
+     C. Kc = [CO₂]                                              D. Kc = [CaO] / [CaCO₃]
+
+2.   Which of the following is CORRECT about the formation of a covalent bond?                                         (1)
+     A. A covalent bond is formed between positively and negatively charged ions.
+     B. A covalent bond is formed between mobile and stationary electrons.
+     C. A covalent bond is formed by the sharing of valence electrons.
+     D. A covalent bond is formed by the transfer of valence electrons.
+
+3.   A sample ofa certain gas has a volume of 100 L at 27°C and 750 torr. The gas is expanded to a volume of 250 L     (1)
+     at 200 torr. What is the final temperature ofthe gas?
+     A. -83°C                                                   B. -73°C
+     C. -17°C                                                   D. -273°C
+
+4.   Which of the following reaction is used for the preparation of bases?                                             (1)
+     A. Reaction of metal hydroxides with dilute acids.
+     B. Reaction of active metal oxides with water.
+     C. Heating of a salt with a non-volatile acid.
+     D. Heating of carbonates with dilute acids.
+
+5.   Which of the following characteristics of an electromagnetic radiation is CORRECT?                                (1)
+     A. The speed of an electromagnetic radiation decreases with increase in its wavelength.
+     B. The speed of an electromagnetic radiation increases with increase in its frequency.
+     C. The speed of an electromagnetic wave is independent of the nature of the medium it travels through.
+     D. The wavelength of an electromagnetic radiation is directly proportional to its frequency.
+
+6.   Which of the following is the general formula for saturated monocarboxylic acids? (R is an alkyl group)           (1)
+
+     A. R --- C --- H                                           B. R --- C --- OR
+     C. R --- C --- R                                           D. R --- C --- OH
+
+7.   Which of the following is NOT the industrial application of electrochemistry?                                     (1)
+     A. Electrolytic refining                                   B. Electroplating
+     C. Electromagnetism                                        D. Electrosynthesis
+
+8.   The component of the environment consisting earth's upper outer most skin and accessible to human beings is       (1)
+     known as _______
+     A. biosphere                                               B. hydrosphere
+     C. lithosphere                                             D. atmosphere
+9.   What is the pOH of pure water at 37°C, where Kw equals 2.5 x 10-14 and its pH is 6.8?                              (1)
+     A. 6.8                                                     B. 7.2
+     C. 8.8                                                     D. 8.2
+
+10. What is the molecular formula and IUPAC name of a saturated monocarboxylic acid having six carbon atoms?            (1)
+
+     A. C_(5)H_(11)COOH, heptanoic acid                         B. C_(6)H_(13)COOH, heptanoic acid
+     C. C_(5)H_(11) COOH, hexanoic acid                         D. C_(6)H_(13)COOH, hexanoic acid
+
+11. Which of the following is the core electron configuration of the metal ion in ferric sulfate, Fe2 (S04)3? (Atomic   (1)
+    Number of Fe = 26)
+     A. [Ar] 4s^2 3d^6                                          B. [Ar] 4s^2 3d^5
+     C. [Ar] 3d^5                                               D. [Ar] 3d^6
+
+12. A 250 mL solution is formed from 24.5 g of sulfuric acid (H2SO4). What is the normality of this solution?           (1)
+    (Molecular weight of H2SO4 = 98 g/mol)
+     A. 4.00N                                                   B. 2.00N
+     C. 0.250N                                                  D. 0.125N
+
+13. A water molecule has two bond pairs and two lone pairs of electrons. Which of the following is CORRECT about        (1)
+    these pairs of electrons?
+     A. The repulsion between the two bonding pairs is greater than the repulsion between the two lone pairs.
+     B. The repulsion between the two lone pairs is greater than the repulsion between the two bonding pairs.
+     C. Bonding pair - lone pair repulsion is greater than lone pair - lone pair repulsion.
+     D. Lone pair - lone pair repulsion is exactly identical with bonding pair - bonding pair repulsion.
+
+14. Which of the following descriptions of the property of a covalent compound is CORRECT?                              (1)
+
+     A. Covalent compounds have low melting and boiling points.
+     B. Most covalent compounds are solids at room temperature.
+     C. Most covalent compounds are soluble in water.
+     D. Covalent compounds are non-volatile.
+
+15. A student is interested in determining the content of a leaf from his/her environment and performed the             (1)
+    following steps:
+
+     1) Dried the leaves up in sunlight,
+     2) Evaluated the work and drew conclusions,
+     3) Collected leaves from around his village,
+     4) Boiled the leaves and collected the leaves extract,
+     5) Analyzed the content of the leaves extract using an instrument.
+
+     Which of the following is the CORRECT procedure if a student developed an experimental skill?
+     A. Steps: 3 → 5 → 4 → 1 → 2                                B. Steps: 3 → 4 → 1 → 5 → 2
+     C. Steps: 3 → 1 → 4 → 5 → 2                                D. Steps: 3 → 1 → 5 → 4 → 2
+
+16. What is the scientific notation for 0.000055?                                                                       (1)
+     A. 55 x 10^(-7)                                            B. 5.5 x 10^(-6)
+     C. 5.5 x 10^(-5)                                           D. 5.5 x 10^(-4)
+17. Upon standing long, 'Tella' or 'Tej' turns sour. Which of the following is the CORRECT explanation for the            (1)
+    observed effect?
+    A. The reduction of alcohol to an acid.
+    B. The oxidation of alcohol to an acid.
+    C. Addition reaction of alcohol with an acid.
+    D. . Decomposition reaction of alcohol.
+
+18. What are the molecular formulae of an alkene and alkyne containing seven carbon atoms, respectively?                  (1)
+    A. C_(7)H_(14) and C_(7)H_(12)                              B. C_(7)H_(16) and C_(7)H_(14)
+    C. C_(7)H_(14) and C_(7)H_(16)                              D. C_(7)H_(12) and C_(7)H_(14)
+
+19. A student collected the following information from the community on the preparation of the local alcoholic drink      (1)
+    "ARAKI":
+    Step 1: Distillation of the liquid mixture in traditional utensils.
+    Step 2: Adding a proportionalamount of water to liquidify the dough-like mixture and leaving for 1-2 days for
+    further fermentation
+    Step 3: 'Bikel' preparation from barely, the starter ('Tinses') by mixing the Bikel with Gesho(Rhamnusprinoides)
+    powder and fermentation of the starter for a few days
+    Step 4: Baking of bread from different ingredients and breaking down the bread and mixing with the fermented
+    starter and leaving for fermentation for a couple of days
+
+    Which of the following is the correct procedure for the preparation of Araki?
+    A. Step 2 → Step 4 → Step 3 → Step 1                        B. Step 2 → Step 3 → Step 4 → Step 1
+    C. Step 3 → Step 4 → Step 2 → Step 1                        D. Step 4 → Step 3 → Step 2 → Step 1
+
+20. Which of the following is the CORRECT structure of benzene?                                                           (1)
+    A. Hexagon with three double bonds at alternate positions
+    B. Hexagon with no double bonds
+    C. Circle inside a hexagon
+    D. Hexagon with alternating single and double bonds
+
+21. Which of the following is CORRECT about equivalents of acids and bases?                                               (1)
+
+    A. The volume of an acid or base required to reach equivalence point during acid-base titration reaction.
+    B. The number of moles of an acid or base required to form a one molar aqueous acidic or basic solution.
+    C. It is the amount of a substance that is required to react with one mole of hydroxide ions in redox reactions.
+    D. It is the amount of a substance that is required to react with one mole of hydrogen ions in acid-base reactions.
+
+22. Which of the following CORRECTLY describes conjugate acids and conjugate bases?                                       (1)
+    A. Conjugate acid is a species formed after a removal of a proton from a base whereas conjugate base is formed
+       after addition of proton to an acid.
+    B. Conjugate base is a species formed after removal ofa proton from an acid whereas conjugate acid is formed
+       after addition of a proton to a base.
+    C. Conjugate acid has one fewer hydrogen and one more minus charge than the corresponding acid.
+    D. Conjugate base has one more hydrogen and one fewer minus charge than the corresponding base.
+
+23. Which of the following is the general formula of alkenes?                                                             (1)
+
+    A. C_(n)H_(2n—2)                                            B. C_(n)H_(2n+2)
+    C. C_(n)H_(n)                                               D. C_(n)H_(2n)
+24. A given element has atomic number of 55 and mass number of 133. Which of the following describes        (1)
+    CORRECTLY the property of this element?
+    A. The non-metallic character of the element is high.
+    B. The metallic character of the element is high.
+    C. The element has high electron affinity.
+    D. The element has high electronegativity.
+
+25. Among the following which one is a ternary acid?                                                        (1)
+    A. HBr                                                             B. HCl
+    C. H_(2)SO_(4)                                                     D. H_(2)S
+
+26. Which of the following is CORRECT about molten electrolytes and aqueous electrolytes?                   (1)
+    A. The possible half reactions in molten electrolytes are more compared to aqueous electrolytes.
+    B. Both molten and aqueous electrolytes involve preferential discharge of ions at each electrode.
+    C. An electrolyte that conducts electricity when dissolved in a certain liquid is molten electrolyte.
+    D. During the electrolysis of a molten electrolyte, the reduction of cations occurs at the cathode.
+
+27. Which of the following is the CORRECT method of preparation of alkenes in the laboratory?               (1)
+    A. Alkylation of sodium acetylide with a primary alkyl halide.
+    B. Heating of sodium salt of an organic acid with soda lime.
+    C. Reaction of halogenated alkane with sodium.
+    D. Dehydration of alcohols with concentrated sulfuric acid.
+
+28. Which of the following is the product of fractional distillation of crude oil?                          (1)
+
+    A. Producer gas                                                    B. Naphthalene
+    C. Water gas                                                       D. Kerosene
+
+29. Given the following structure:                                                                          (1)
+
+
+    What is the IUPAC name for the above structure?
+       Question Diagram
+    A. Methyl ethanoate                                                B. Propyl formate
+    C. Ethyl ethanoate                                                 D. Ethyl acetate
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

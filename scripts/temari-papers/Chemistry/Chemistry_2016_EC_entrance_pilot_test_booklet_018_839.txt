@@ -1,0 +1,469 @@
+                                                          Temari.et
+                      Chemistry, 2016 EC, entrance pilot test, booklet 018
+                                               Grade 12 · Chemistry · 2016 E.C.
+
+Time allowed: 120 minutes                                    Questions: 67                               Total marks: 67
+
+Name                                            Grade                        ID No.              Date
+
+1.   Among the following which one of the metal thin foil bombardments is CORRECT for the discovery neutrons?         (1)
+     A. Gold with α-particle of radioactive substance.
+     B. Gold with β -particle of radioactive substance.
+     C. Beryllium with α-particle of radioactive substance.
+     D. Beryllium and gold with α-particle of radioactive substance.
+
+2.   The atomic mass of element 11 X and 21 Y are 1.6078 amu and 2.0141 amu, respectively. The relationship between
+                                   ​       ​
+                                                                                                                      (1)
+     element x and y is known as ________
+     A. isotopic                                                 B. monomeric
+     C. isobaric                                                 D. isotonic
+
+3.   The arrangement of electrons in the shells of an atom is known as ________                                       (1)
+     A. Electronegativity                                        B. Electro affinity
+     C. Electro positivity                                       D. Electronic configuration
+
+4.   What is the electronic configuration of sodium, Na? (Atomic number, Z = 11)                                      (1)
+     A. 1s2 2s2 2p5 3s2                                          B. 1s2 2s2 2p6 3s1
+     C. 1s2 2s2 3p6 3s2                                          D. 1s2 2s1 2p6 3s2
+
+5.   Which periods in the periodic table are known as long periods?                                                   (1)
+     A. 1, 2 and 3                                               B. 1, 2, 3 and 4
+     C. 4, 5 and 6                                               D. 4, 5, 6 and 7
+
+6.   Which of the following is the CORRECT period and group number of an element with atomic number 40
+                                                                                                    20 Y?  ​          (1)
+
+     A. Period 3 and group IVA                                   B. Period 3 and group IA
+     C. Period 4 and group VIIIA                                 D. Period 4 and group IIA
+
+7.   What is the force that holds two atoms or ions together in a compound?                                           (1)
+     A. Chemical bond                                            B. Chemical equilibrium
+     C. Chemical reaction                                        D. Chemical kinetics
+
+8.   Which statement CORRECTLY explains the formation of an ionic bonding?                                            (1)
+     A. Transfer of electrons from non-metal to metal.
+     B. Gaining of electrons between metals.
+     C. Transfer of electrons from metal to non-metal.
+     D. Gaining of electrons between non-metallic elements.
+
+9.   A bond between two atoms formed by sharing of one or more pairs of electrons is known as ______                  (1)
+     A. ionic bond                                               B. hydrogen bond
+     C. covalent bond                                            D. metallic bond
+10. Which of the following statements describes the properties of covalent compounds?                               (1)
+    A. They conduct electric current in solution.
+    B. They have high melting and boiling points.
+    C. They are generally solid at ordinary temperature.
+    D. They are insoluble in polar solvents such as water.
+
+11. Which of the following molecules has a significant dispersion force?                                            (1)
+    A. Ar                                                     B. Xe
+    C. Kr                                                     D. He
+
+12. In the general convention of writing a chemical equation, reactant and product can be separated by?             (1)
+    A. point                                                  B. dot
+    C. arrow                                                  D. circle
+
+13. How many grams of aluminum sulphate are formed when 27g of aluminum reacts with sulphuric acid?( At.wt. Al      (1)
+    =27 g, S =32 g, H = 1 g and O =16 g)
+    Al(s) + H₂SO₄(aq) → Al₂ (SO₄)₃ + H₂
+    A. 27 g                                                   B. 54 g
+    C. 171 g                                                  D. 342 g
+
+14. Consider the following reaction: 2KClO₃ → 2KCl + 3O₂                                                            (1)
+    When 122.5 g of KClO₃ decomposes, 8.5 g of O₂ is formed. What is the percentage yield? (At.wt. K = 39 g, Cl =
+    35.5 g and O = 16 g)
+    A. 1.77%                                                  B. 7.77%
+    C. 17.7%                                                  D. 77.7%
+
+15. Which of the following statements CORRECTLY define oxidation state? It is the number of electrons that an       (1)
+    atom
+    A. completely loses when it is combined with other atoms.
+    B. completely accepts when it is combined with other atoms.
+    C. equally shares electrons when it is combined with other atoms.
+    D. appears to have gained or lost when it is combined with other atoms.
+
+16. Consider the following reaction:                                                                                (1)
+    Fe₂O₃ + CO → Fe + CO₂
+    Which substance is reduced and oxidized respectively?
+    A. Iron and carbon                                        B. Carbon monoxide and iron
+    C. Carbon and iron                                        D. Iron and carbon monoxide
+
+17. What is the term that describes a dynamic process in which the concentrations of reactants and products         (1)
+    remain constant with time?
+    A. Chemical property                                      B. Chemical equilibrium
+    C. Chemical reaction                                      D. Chemical equation
+
+18. What is the main reason for the gas and liquid NOT to have definite shape? They have:                           (1)
+    A. higher intermolecular force                            B. higher density and mass
+    C. lower intermolecular force                             D. stronger force of attraction
+19. What is the term that describes the phase change from solid to a gas state?                                        (1)
+    A. Deposition                                             B. Condensation
+    C. Fusion                                                 D. Sublimation
+
+20. What is the term used for naming groups attached to the compounds and are responsible for the differences in       (1)
+    chemical properties of the compounds?
+    A. Functional groups                                      B. Organic groups
+    C. Inorganic groups                                       D. Alkane groups
+
+21. What is the IUPAC name of the following organic compound?                                                          (1)
+    [Figure: A chemical structural formula showing a horizontal six-carbon chain: H₃C—C(CH₃)₂—CH(CH₃)—CH(CH₃)
+    —CH₂—CH₃. Specifically, the leftmost carbon is H₃C connected to a C atom with a CH₃ branch above and a CH₃
+    branch below; this C is connected to the next C which has a CH₃ branch above and an H below; this is
+    connected to the next C with an H above and a CH₃ branch below; this is connected to the next C with an H
+    above and an H below; which is finally bonded to —CH₃ on the far right.]
+    A. 3, 4, 5, 5-tetramethylhexane                           B. 2, 2, 3, 4-tetramethylhexane
+    C. 2-ethyl-3, 4, 4-trimethylpentane                       D. 4-ethyl-2, 2, 3-trimethylpentane
+
+22. Which one of the following is CORRECT about the cathode in electrolysis?                                           (1)
+
+    A. Oxidation takes place at the cathode                   B. Reduction takes place at the Cathode
+    C. lose of electrons occurs at the cathode                D. gain of electrons occurs at the anode
+
+23. Which of the following natural resources is renewable?                                                             (1)
+    A. petroleum                                              B. coal
+    C. soil                                                   D. minerals
+
+24. Among the following statements, which one CORRECTLY describes electrochemistry? It deals with the                  (1)
+    relationship between:
+    A. electrolytic cell and voltaic cell.
+    B. electrical energy and chemical energy.
+    C. electrical energy and mechanical energy.
+    D. biofuel conversion and electrical energy.
+
+25. Consider the following Cell:                                                                                      (1)
+    What is the direction of electron flow and the electrode where reduction takes place?
+    [Figure: A diagram of an electrochemical cell consisting of two beakers. The left beaker contains a solution
+    labeled "ZnS04 solution" and an electrode labeled "Zn electred". The right beaker contains a solution labeled
+    "CuSO4 solution" and an electrode labeled "Cu electrode". A "salt bridge" connects the solutions in both beakers.
+    An external wire connects the two electrodes through a "voltmeter".]
+    A. Zn to Cu, the Zn elctrode                              B. Cu to Zn, the Zn elctrode
+    C. Cu to Zn, the Cu elctrode                              D. Zn to Cu, the Cu electrode
+
+26. A diagnostic laboratory reported 6.51 × 103 μg blood sample analysis of chromium. What is the value of the         (1)
+    report in gram?
+    A. 0.00651 g                                              B. 0.0651 g
+    C. 0.651 g                                                D. 651 g
+27. How many decimal places are there in 0.00012?                                                                    (1)
+    A. 2                                                        B. 4
+    C. 5                                                        D. 6
+
+28. How many significant figures are there in 0.01698g?                                                              (1)
+
+    A. 4                                                        B. 5
+    C. 6                                                        D. 7
+
+29. What is the term used to express the spontaneous emission of radiation from the unstable nuclei of certain       (1)
+    isotopes?
+    A. Radioactivity                                            B. Radio-isotope
+    C. Radioactive decay                                        D. Radiocarbon dating
+
+30. Isotopes 63                                                    65
+              29 Cu (62.9298 amu) accounts for 69.09% and isotopes 29 Cu (64.9278 amu) accounts for 30.91%. What (1)
+                ​                                                        ​
+
+
+
+
+    is the average atomic mass of copper?
+    A. 61.9289 amu                                              B. 63.5409 amu
+    C. 63.9298 amu                                              D. 64.5409 amu
+
+31. The threshold frequency of a metal surface is in the violet light region. What types of radiation will cause     (1)
+    photoelectrons to be emitted from the metal surface?
+    A. IR radiation                                             B. Red light
+    C. UV radiation                                             D. Radio wave
+
+32. Which quantum number describes the shape of an orbital?                                                          (1)
+    A. The magnetic number                                      B. The principal number
+    C. The spin number                                          D. The azimuthal number
+
+33. What is the shape of s orbital?                                                                                  (1)
+    A. spherical                                                B. dumb bell
+    C. complex                                                  D. distorted dumb bell
+
+34. For the polyatomic ion, CO2−3 , which one of the following CORRECTLY represents the resonance structure(s)?
+                                   ​                                                                                 (1)
+    [Figure: Four sets of Lewis resonance structures for the carbonate ion, CO2−
+                                                                              3 , enclosed in square brackets with
+                                                                                    ​
+
+
+
+
+        −
+    a 2 $ charge: - A shows two structures connected by a double-headed resonance arrow: the first has a double
+    bond to the top oxygen and single bonds to the two lower oxygens; the second has a double bond to the
+    bottom-left oxygen and single bonds to the top and bottom-right oxygens. - B shows two structures connected
+    by a double-headed resonance arrow: both have a double bond to the top oxygen and single bonds to the two
+    lower oxygens. - C shows three structures connected by double-headed resonance arrows: the first has a
+    double bond to the top oxygen (with two lone pairs) and single bonds to the two lower oxygens (each with three
+    lone pairs); the second has a double bond to the bottom-left oxygen and single bonds to the top and bottom-
+    right oxygens; the third has a double bond to the bottom-right oxygen and single bonds to the top and bottom-
+    left oxygens. - D shows three structures connected by double-headed resonance arrows, each having only
+    single C-O bonds to all three oxygen atoms.]
+    A. Two resonance structures showing a C=O double bond alternating between the top oxygen and the bottom-left
+       oxygen
+    B. Two resonance structures showing a C=O double bond to the top oxygen in both structures
+    C. Three resonance structures showing a C=O double bond alternating among the top oxygen, the bottom-left
+       oxygen, and the bottom-right oxygen
+    D. Three structures showing only single bonds between the central carbon and each of the three oxygen atoms
+35. Which of the following molecule has a polar bond and is a non-polar molecule?                                          (1)
+    A. HCl                                                      B. CHCl₃
+    C. CO₂                                                      D. O₂
+
+36. What intermolecular force occurs in compounds that contain H-F, H-O and H-N bonds?                                     (1)
+
+    A. London force                                             B. Dipole-dipole
+    C. Induced dipole                                           D. Hydrogen bond
+
+37. Which one of the following statements CORRECTLY describes hybridization?                                               (1)
+    A. It is the mixing of atomic orbitals to produce a new set of orbitals.
+    B. Sideway overlapping of atomic orbitals produces sigma bonding.
+    C. Combination of one s and one p orbitals produces a sp² hybrid orbital.
+    D. The new hybrid orbitals is higher than the total number of atomic orbitals combined.
+
+38. Which of the following statement is CORRECT about the molecular orbital theory?                                        (1)
+
+    A. When two pure p-orbitals overlap end-to-end, they form two pi-molecular orbitals.
+    B. Bonding molecular orbitals have a region of high electron density between the nuclei.
+    C. Antibonding molecular orbitals have a region of high electron density between the nuclei.
+    D. The number of molecular orbitals formed is higher than the number of atomic orbitals combined.
+
+39. Consider the following model of sodium chloride:                                                                       (1)
+    What is the expected crystalline structure of the sodium chloride crystal?
+    [Figure: A 3D ball-and-stick model of a sodium chloride crystal lattice. A legend to the lower left indicates that a
+    larger shaded circle represents Cl⁻ and a smaller shaded circle represents Na⁺. The lattice consists of
+    alternating Na⁺ and Cl⁻ ions forming a cubic lattice. A bracket below one repeat unit at the base is labeled "Unit
+    cell".]
+    A. Molecular crystal                                        B. Covalent network crystal
+    C. Metallic crystal                                         D. Ionic crystal
+
+40. At what condition do the forward and reverse reactions are taking place at the same rate? It is in state of _____.     (1)
+    A. dynamic equilibrium                                      B. equilibrium constant
+    C. phase equilibrium                                        D. chemical kinetics
+
+41. The ratio of the concentration of products to the concentration of reactants raised to the power of their              (1)
+    coefficient is known as _____.
+    A. reaction rate                                            B. reaction quotient
+    C. reaction intermediate                                    D. reaction mechanism
+
+42. Consider the following reaction: 2CO (g) + O₂ (g) ⇌ 2CO₂ (g)                                                           (1)
+    Has an equilibrium constant Kc = 4.3 × 106 , [CO] = 0.10M, [CO₂] = 10M and [O₂]= 0.1M
+                                        ​
+
+
+
+
+    To which direction will the reaction proceed to attain equilibrium?
+    A. Backward                                                 B. to the left
+    C. Forward                                                  D. to reverse
+
+43. Consider the following reaction: N2(g) + 3H2(g) ⇌ 2NH3(g)
+                                            ​         ​           ΔH = −92 kJ/mol
+                                                                   ​                                                       (1)
+    What happens when the temperature of the system is increased?
+    A. More NH₃ is formed                                       B. Less N₂ is formed
+    C. Equilibrium shifts to the left                           D. Equilibrium shifts to the right
+44. Which of the following is a chemical property of esters?                                                      (1)
+    A. Hydrolysis                                                  B. Solubility
+    C. Volatility                                                  D. Odour
+
+45. What is the name of the compounds formed when carboxylic acids react with alcohol?                            (1)
+
+    A. Ethers                                                      B. Ketones
+    C. Esters                                                      D. Amides
+
+46. Which one of the following structures represents a triglyceride?                                              (1)
+    [Figure: Four chemical structures are shown as choices:
+    A shows a glycerol backbone: H₂C—OH bonded vertically to HC—OH, which is bonded vertically to H₂C—OH.
+    B shows a three-carbon chain where each carbon is bonded to an acyl/ester group: H₂C—COOR₁ bonded
+    vertically to HC—COOR₂, which is bonded vertically to H₂C—COOR₃.
+    C shows a three-carbon chain where each carbon is bonded to an ether group: H₂C—OR₁ bonded vertically to
+    HC—OR₂, which is bonded vertically to H₂C—OR₃.
+    D shows a two-carbon chain: H₂C—OR₁ bonded vertically to H₂C—OR₂.]
+    A. H2 C—OH
+            ​                                                      B. H2 C—COOR1
+                                                                             ​                 ​
+
+
+
+
+           ∣                                                                ∣
+       HC—OH         ​                                                HC—COOR2             ​       ​
+
+
+
+
+           ∣                                                                ∣
+       H2 C—OH
+            ​                                                         H2 C—COOR3
+                                                                             ​                 ​
+
+
+
+
+    C. H2 C—OR1
+            ​                ​
+                                                                   D. H2 C—OR1
+                                                                             ​     ​
+
+
+
+
+            ∣                                                             ∣            ​
+
+
+
+
+       HC—OR2            ​       ​                                    H2 C—OR2
+                                                                             ​     ​
+
+
+
+
+            ∣
+       H2 C—OR3
+            ​                ​
+
+
+
+
+47. Which of the following reaction represents the ionization of acid according to Arrhenius definition?          (1)
+    A. NaCl(s) + H₂O (l) ⇌ Na⁺(aq) + Cl⁻(aq)
+    B. NH₃(aq) + H₂O (l) ⇌ NH₄⁺(aq) + OH⁻(aq)
+    C. OCl⁻(aq) + H₂O (l) ⇌ HOCl (aq) + OH⁻(aq)
+    D. HClO₂(aq) + H₂O (l) ⇌ ClO₂⁻(aq) + H₃O⁺(aq)
+
+48. How is acid named according to the Lewis acid-base concept?                                                   (1)
+    A. a proton donor                                              B. an electron pair donor
+    C. a proton accepter                                           D. an electron pair accepter
+
+49. The ion product constant for water can be written as Kw = [H3 O+ ][OH− ]. What happens to the solution when
+                                                               ​         ​                                        (1)
+    [H3 O+ ] > [OH− ]?
+        ​
+
+
+
+
+    A. The solution becomes neutral                                B. The solution becomes basic
+    C. The solution becomes acidic                                 D. The pH is higher than the pOH
+
+50. Which of the following given pairs represents an example of buffer system?                                    (1)
+    A. NaCl/H₂O and H₂O/NaOH                                       B. LiOH/HNO₃ and NaOH/NH₄Cl
+    C. NH₄OH/NH₄Cl and CH₃COOH/CH₃COONa                            D. NH₄OH/CH₃COOH and NH₄Cl/CH₃COONa
+
+51. Which one of the following is TRUE about oxidation? Oxidation is:                                             (1)
+
+    A. loss of electrons                                           B. gain of electrons
+    C. sharing of electron                                         D. decrease in oxidation number
+52. Which ion is preferentially discharged at the anode during the electrolysis of aqueous solution of dilute H₂SO₄?           (1)
+     A. SO₄²⁻                                                      B. OH⁻
+     C. H⁺                                                         D. Na⁺
+
+53. Which one of the following statements describes Faraday's second law of electrolysis?                                      (1)
+
+     A. The masses of different substance liberated by the same amount of electricity are proportional to their
+        equivalent masses
+     B. The rate of reaction is directly proportional to the product of the concentration raised to the power of their
+        respective coefficients
+     C. The mass of a substance deposited or dissolved at electrodes is proportional to the quantity of electricity
+        passed through the electrolyte
+     D. The electromotive force of attraction between atoms is proportional to the product of the two charges and
+        inversely proportional to the square of their radius.
+
+54. Consider the following Galvanic cell:                                                                                      (1)
+    The half reaction
+    Anode: Zn(s) → Zn2+ (1M) + 2e− E0 red = −0.76v
+    Cathod: Cu2+ (1M) + 2e− → Cu(s) E0 red = +0.34v
+    What is the cell potential of the voltaic cell at 25C0 ?
+    [Figure: A diagram of a galvanic cell with two beakers connected by an inverted U-tube salt bridge labeled
+    "KNO3(aq) Salt bridge". The left beaker contains "1.00 M Zn(NO3)2(aq)" solution and a strip labeled "Zn" and
+    "Anode (-)". The right beaker contains "1.00 M Cu(NO3)2(aq)" solution and a strip labeled "Cu" and "Cathode (+)".
+    An external wire connects the Zn and Cu electrodes through a "Voltmeter", with arrows showing electron flow
+    from the Zn electrode to the Cu electrode.]
+     A. 0.34v                                                      B. 0.76v
+     C. 1.10v                                                      D. 1.42v
+
+55. Among the following, which one is the negative effect of corrosion of metals?                                              (1)
+     A. Strengthening of the metal
+     B. Increasing the conductivity of the metals
+     C. Giving lustrous or shining appearance to the metals
+     D. Damaging the metals by converting them to their oxides
+
+56. Which of the following is a well-organized facility with high degree of automation and provide goods and                   (1)
+    services?
+     A. Industry                                                   B. Polymerization
+     C. Calcination                                                D. Densification
+
+57. Consider the following schematic diagram:                                                                                 (1)
+    The diagram above displays the production of sulphuric acid in the contact processes, which step uses V₂O₅
+    catalyst with very high temperature?
+    [Figure: A schematic diagram showing the contact process for sulphuric acid production, separated horizontally
+    into three stages: 'First Step', 'Second Step', and 'Third Step'. In the 'First Step', 'sulphur' from above and 'Dry Air'
+    from below enter a 'Furnace' to produce 'SO₂'. In the 'Second Step', the gas pipe labelled 'SO₂ + O₂' leads into a
+    tall reaction vessel, which outputs 'SO₃'. In the 'Third Step', 'Concentrated sulphuric Acid' is added to 'SO₃' in an
+    absorber tower to produce 'H₂S₂O₇ (Oleum)'. Adding 'Water' to the oleum produces 'H₂SO₄', with an exhaust 'Pipe'
+    leading to an emission stack.]
+     A. Third step                                                 B. First step
+     C. Second step                                                D. Frist and second steps
+58. Which one of the following increases the production of nitric acid in the Ostwald's process?            (1)
+    A. Using V₂O₅ catalyst                                       B. Oxidation of NH₃
+    C. Oxidation of NO₂                                          D. Removal of H₂O
+
+59. Which one of the following is CORRECT about the uses of animal hide? It is used for:                    (1)
+
+    A. making soap and detergents                                B. making garments and handbags
+    C. making kitchenware and bathroom                           D. removing impurities from waste water
+
+60. Among the following, which one is NOT a natural condensation polymer?                                   (1)
+    A. Starch                                                    B. Proteins
+    C. Cellulose                                                 D. Polyester
+
+61. Which one of the following materials is capable of conducting electricity without transfer of matter?   (1)
+    A. Electrolytic                                              B. Ionic
+    C. Metallic                                                  D. Covalent
+
+62. What is the point of conversion in a titration where an indicator changes its color? It is:             (1)
+    A. equivalent point                                          B. endpoint
+    C. minimum point                                             D. equilibrium point
+
+63. Which of the following statement is INCORRECT about polysaccharide? They are                            (1)
+
+    A. made by addition reaction                                 B. called macromolecules
+    C. called biopolymers                                        D. made by condensation reaction
+
+64. What is the technique used to prevent pollution caused by over use of fertilizers?                      (1)
+    A. Excessive use of Inorganic fertilizer
+    B. Use of urea and phosphate fertilizers
+    C. Excessive use of non-biodegradable wastes
+    D. Use of natural and easily degradable wastes
+
+65. Which one of the following gases has higher contribution to global warming?                             (1)
+
+    A. Methane                                                   B. Nitrous oxide
+    C. Carbon dioxide                                            D. Halogenated compounds
+
+66. Among the following, which one is the cause of soil pollution?                                          (1)
+    A. Reduction of forest fires and smoking
+    B. Excessive use of synthetic fertilizers
+    C. Avoiding using of products with chemicals
+    D. Recycling industrial and agricultural wastes
+67. Which of the following represents the structure of disaccharide?                                                (1)
+    [Figure: Four chemical structures labeled A, B, C, and D showing cyclic representations of carbohydrates: -
+    Option A shows two six-membered pyranose rings connected by an ether (glycosidic) linkage between the
+    anomeric carbon of one ring and a carbon of the second ring, representing a disaccharide. - Option B shows a
+    single pyranose ring with substituents HOH₂C-, HO-, and -OH, representing a monosaccharide. - Option C shows
+    four pyranose rings linked linearly via glycosidic bonds with wavy bonds extending at both ends, representing a
+    polysaccharide chain. - Option D shows four pyranose rings connected in a branched structure via glycosidic
+    bonds.]
+    A. [Structure showing two six-membered cyclic sugar units linked together by a glycosidic oxygen bond]
+    B. [Structure showing a single six-membered cyclic sugar unit]
+    C. [Structure showing a linear chain of four repeating six-membered cyclic sugar units with wavy bonds indicating
+       a continuing polymer chain]
+    D. [Structure showing a branched chain of four six-membered cyclic sugar units]
+
+                                              — E N D O F E X A M I N AT I O N —
+                              Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

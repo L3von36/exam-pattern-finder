@@ -1,0 +1,417 @@
+                                                        Temari.et
+                            Chemistry, 2017 EC, entrance exam, version 2
+                                              Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                   Questions: 70                                      Total marks: 70
+
+Name                                            Grade                       ID No.                      Date
+
+1.   Which of the following is correct about the postulates of Thomson's experiment?                                        (1)
+     A. Cathode rays are made of positively charged particles, later called electrons.
+     B. Electrons are NOT present in all atoms of all elements.
+     C. Electrons have a very large mass compared to the atom.
+     D. Cathode rays travel in straight lines and can be deflected by electric and magnetic fields
+
+2.   Imagine you are a scientist in the 19th century and want to improve Dalton's Atomic Theory. Which of the               (1)
+     following new experiments would best refine his ideas?
+     A. Designing a cathode ray tube experiment to identify subatomic particles.
+     B. Proposing that all atoms are made of fire, water, air, and earth
+     C. Conducting an experiment to prove that atoms cannot form compounds.
+     D. Showing that atoms of the same element have completely different masses.
+
+3.   The atomic mass of element A is 91 atomic mass unit. The only naturally occurring isotopes of element A are A-         (1)
+     90 and A-94. The percent abundance in naturally occurring sample of element A are
+     A. 31% A-90 and 69% A-94                                   B. 75% A-90 and 25% A-94
+     C. 69% A-94 and 31% A-90                                   D. 20% A-94 and 80% A-90
+
+4.   Which of the following statements best explains the relationship between electrons' energy levels and the              (1)
+     emission spectra of atoms?
+     A. Electrons absorb energy on jumping from lower to higher energy level
+     B. Electron emit energy on revolving around the nucleus
+     C. Electron absorb energy on revolving around the nucleus
+     D. The emission spectra are unrelated to electron transitions but depend on atomic size.
+
+5.   Which one of the following sets of quantum numbers could be those of the distinguishing (last) electron of Cr at       (1)
+     s-orbital?
+     A. n = 3, l = 0, m_l = 0, m_s = +1/2                       B. n = 3, l = 2, m_l = -1, m_s = +1/2
+     C. n = 4, l = 1, m_l = 3, m_s = -1/2                       D. n = 4, l = 0, m_l = 0, m_s = -1/2
+
+6.   A radio station broadcasts at a frequency of 100 MHz. What is the wavelength of the radio waves? (Speed of             (1)
+     light, c = 3.00 × 10⁸ m/s)
+     A. 3.0 × 10⁻³ m                                            B. 3.0 m
+     C. 3.0 × 10⁶ m                                             D. 3.0 × 10⁻³ m
+
+7.   The photoelectric effect can be observed when:                                                                         (1)
+     A. Light with low intensity shined on a metal surface.
+     B. Light of sufficient frequency shining and ejects electrons from a metal
+     C. Electrons jump to higher energy levels when exposed to light
+     D. The intensity of light is increased with decreasing frequency
+8.   Which of the following molecules is correctly matched with its geometry?                                        (1)
+     A. IF₅ - Trigonal pyramidal                                B. PCl₃ - Trigonal bipyramidal
+     C. BrF₃ - T-shape                                          D. SF₄ - Square pyramidal
+
+9.   Which of the following is TRUE about periodic trend of elements?                                                (1)
+
+     A. Ionization energy increases down a group
+     B. Atomic size decreases across a period
+     C. Both atomic size and electron affinity have the same periodic trend.
+     D. Effective nuclear charge increases down a group.
+
+10. Which of the following best describes the nature of chemical bonds?                                              (1)
+     A. A repulsive force that separates atoms
+     B. A temporary interaction between particles
+     C. An attractive force that holds atoms or ions together
+     D. A force that changes atomic nuclei
+
+11. Which of the following condition favors the formation of an ionic bond?                                          (1)
+     A. Low ionization energy of metal and high electron affinity of non-metal
+     B. High ionization energy of metal and low ionization energy of non-metal
+     C. High electron affinity of metals and low ionization energy of non-metal
+     D. Large atomic size of nonmetal
+
+12. The electron set geometries of NH₃ and H₂O molecules are distorted tetrahedral but bond angle in water is less   (1)
+    than that of ammonia. Why?
+     A. LP-LP of H₂O repel strongly than LP-BP of NH₃ does
+     B. LP-BP of H₂O repel strongly than LP-BP of NH₃ does
+     C. Generally lone pair-lone pair repulsion is weaker than lone pair-bond pair repulsion
+     D. H₂O is polar and NH₃ is non-polar
+
+13. Which of the following is NOT true about properties of metallic bonding?                                         (1)
+     A. It gives rise to excellent electrical conductivity
+     B. Valence electrons are free to move throughout the structure
+     C. The conductivity of electric current is due to the presence of free ions
+     D. The strength of metallic bond affects physical properties of metals
+
+14. According to Molecular orbital theory, which of the following species does NOT exist?                            (1)
+     A. O₂²⁻                                                    B. He₂
+     C. O₂                                                      D. C₂
+
+15. Which of the following molecules is the WRONG combination arrangement of the molecules with their                (1)
+    respective molecular geometry?
+     A. CH₄ - AX₄ - sp³                                         B. H₂O - AX₂E₂ - sp²
+     C. CO₂ - AX₂ - sp                                          D. BeCl₂ - AX₂ - sp
+16. Given the following polyatomic and diatomic molecules: CH₄, NH₃, H₂S, CH₄, OF₂, NF₃, H₂O, CO₂, N₂, HF, HBr.   (1)
+    Which one of the following sets of molecules describes the correct intermolecular force of attraction?
+    A. CH₄, CCl₄, N₂, CO₂ - London force
+    B. CO₂, H₂O, HF, NF₃ - Hydrogen bonding
+    C. H₂S, CCl₄, NF₃, HBr, N₂ - Dipole-dipole force
+    D. H₂S, NF₃, CCl₄, HBr, N₂ - Dipole-dipole force
+
+17. Which of the following molecule contains two pi bonds and two sigma bonds ONLY?                               (1)
+    A. CO                                                       B. CH₄
+    C. HCN                                                      D. HO
+
+18. Which of the following compound would have the same electrolysis of water?                                    (1)
+    A. Concentrated NaCl (aq)                                   B. Diluted HCl (aq)
+    C. Molten Al₂O₃                                             D. Concentrated NaCl
+
+19. The pressure of a gas in a cylinder when heated to a temperature of 250 K is 1.5 atm. What is the initial     (1)
+    temperature of the gas if its initial pressure was 1.0 atm?
+    A. 166.67 K                                                 B. 300 K
+    C. 200 K                                                    D. 100 K
+
+20. The correct increasing order of rate of diffusion of gases PH₃, O₂, CH₄, NH₃, HCl is:                         (1)
+    A. O₂ < HCl < PH₃ < NH₃ < CH₄                               B. CH₄ < NH₃ < PH₃ < O₂ < CH₄
+    C. HCl < PH₃ < O₂ < NH₃ < CH₄                               D. PH₃ < CH₄ < NH₃ < HCl < O₂
+
+21. Which of the following statements is TRUE about alkanes and alkenes?                                          (1)
+
+    A. Alkanes are unsaturated hydrocarbons, while alkenes are saturated hydrocarbons.
+    B. Alkanes and alkenes are both saturated hydrocarbons.
+    C. Alkanes are saturated hydrocarbons, while alkenes are unsaturated hydrocarbons.
+    D. Alkanes and alkenes are both unsaturated hydrocarbons.
+
+22. How does the kinetic energy of gas particles compare to that of liquid and solid particles?                   (1)
+    A. Gas particles have the least kinetic energy
+    B. Gas particles have the most kinetic energy
+    C. Gas particles have the same kinetic energy as solids
+    D. Gas particles have no kinetic energy
+
+23. Which of the following precondition of the reaction is necessarily important?                                 (1)
+    A. Proper orientation                                       B. High activation energy
+    C. Ineffective collision                                    D. Minimum pressure
+
+24. For the chemical reaction H₂ + Br₂ → 2HBr, what can be said of the relative rates of consumption of the       (1)
+    reactants when compared to the formation of product?
+    A. HBr will be produced at half the rate that bromine is consumed.
+    B. HBr will be produced at the same rate that bromine is consumed.
+    C. Br₂ and H₂ will be consumed at different rates.
+    D. HBr will be produced at twice the rate that bromine is consumed.
+25. Why does powdered zinc react faster with hydrochloric acid than a solid block?                                         (1)
+    A. Powdered zinc has lower energy
+    B. Powdered zinc has a higher surface area for collision
+    C. The solid block has more atoms
+    D. Solid blocks dissolve faster
+
+26. Which of the following is TRUE regarding the concentration of products, for a chemical reaction that is already at (1)
+    equilibrium, assuming no disruptions to the equilibrium?
+    A. The concentrations of product and reactant are equal
+    B. The rate of forward and backward reaction are equal at equilibrium
+    C. The rate of forward and backward reaction are constant but may not be equal
+    D. The concentrations of products will change continually because of reversibility.
+
+27. If the reaction quotient Qc has a smaller value than the related equilibrium constant, Kc:                             (1)
+
+    A. The reaction is at equilibrium.
+    B. The reaction is not at equilibrium, and will make more products at the expense of reactants.
+    C. The reaction is not at equilibrium, and will make more reactants at the expense of products.
+    D. The value of Kc will decrease until it is equal to Qc
+
+28. What does Le Chatelier's principle state about equilibrium?                                                            (1)
+    A. A system at equilibrium will always remain unchanged at any condition
+    B. If a system at equilibrium is disturbed, it will shift to oppose the disturbance.
+    C. Equilibrium is only affected by temperature changes.
+    D. The addition of a catalyst will change the equilibrium position
+
+29. For the reaction CO(g) + H₂O(l) ⇌ CO₂(g) + H₂(g), how does adding CO₂ affect equilibrium?                              (1)
+    A. The reaction shifts toward products                       B. The reaction shifts toward the reactants
+    C. No change occurs                                          D. The reaction stops
+
+30. Which of the following cause the greatest shift in equilibrium to the left for the hypothetical reaction given: A(g)   (1)
+    ⇌ B(g) + C(g).
+    A. Increases pressure                                        B. Adding catalyst
+    C. Decrease temperature                                      D. Adding more PCl₅
+
+31. Which of the following correctly defines alcohol?                                                                      (1)
+    A. hydrocarbon containing an oxygen atom
+    B. A compound containing a hydroxyl (-OH) group attached to a carbon atom
+    C. A compound with an oxygen atom bonded to two alkyl groups
+    D. A compound containing carbonyl (-C=O) group
+
+32. Alcohols A, B and C all have the composition C₄H₁₀O. Molecules of alcohol A can be oxidized to an aldehyde;            (1)
+    molecules of alcohol B can be oxidized to a ketone; and molecules of alcohol C can be oxidized to neither an
+    aldehyde nor a ketone. What are the correct structural formulas of molecules A, B, and C respectively?
+    A. A: 1-butanol, B: 2-butanol, C: 2-methyl-2-propanol
+    B. A: 2-butanol, B: 1-butanol, C: ether
+    C. A: 3-butanol, B: 2-butanol, C: 1-butanol
+    D. A: 2-methylbutanol, B: 2-butanol, C: ether
+33. Which one of the following about alcohol is NOT true?                                                                (1)
+    A. Dihydric and trihydric alcohols have higher boiling points than monohydric alcohols of similar molecular size
+    B. The solubility of alcohols in water increases with increasing carbon number.
+    C. The water solubility of dihydric and trihydric alcohols are higher than those of monohydric alcohols of similar
+       molecular mass.
+    D. The boiling point of a branched isomer is lower than that of its isomeric straight-chain alcohol.
+
+34. Which of the following is NOT a physical property of saturated monocarboxylic acids?                                 (1)
+    A. High boiling point                                       B. Weakest intermolecular force
+    C. Soluble in water (lower members)                         D. Oily or waxy nature (higher members)
+
+35. The statement accurately describes the chemical composition of fats?                                                 (1)
+    A. Esters of glycerol with three saturated fatty acids
+    B. Esters of glycerol with one saturated fatty acids.
+    C. Esters of glycerol with three unsaturated fatty acids.
+    D. Esters of glycerol with two fatty acids
+
+36. Given the following set of compounds, alcohol and carboxylic acids. Select which one is correctly arranged in        (1)
+    increasing order of their boiling points. (Compounds: CH₃CH₂CH₂CH₂OH, CH₃CH(CH₃)CH₃, CH₃(CH₂)₅COOH,
+    CH₃C(CH₃)₂COOH)
+    A. CH₃C(CH₃)₂COOH < CH₃CH₂CH₂CH₂OH < CH₃(CH₂)₅COOH < CH₃CH(CH₃)CH₃
+    B. CH₃(CH₂)₅COOH < CH₃CH(CH₃)CH₃ < CH₃C(CH₃)₂COOH < CH₃CH₂CH₂CH₂OH
+    C. CH₃CH(CH₃)CH₃ < CH₃CH₂CH₂CH₂OH < CH₃(CH₂)₅COOH < CH₃C(CH₃)₂COOH
+    D. CH₃CH(CH₃)CH₃ < CH₃CH₂CH₂CH₂OH < CH₃C(CH₃)₂COOH < CH₃(CH₂)₅COOH
+
+37. Which of the following is correct about the discovery of subatomic particles?                                        (1)
+    A. The experiment of nucleus discovery is cathode ray experiment
+    B. Neutron is discovered by J.J. Thomson
+    C. Nucleus is discovered by alpha particle scattering experiment
+    D. Proton is discovered by discharge tube experiment
+
+38. An element has three isotopes: Isotope 1: mass = 10 amu, abundance = 2%; Isotope 2: mass = 20 amu,                   (1)
+    abundance = 95%; Isotope 3: mass = 30 amu, abundance = 3%. Which of the following is the most likely atomic
+    mass for this element without any calculation?
+    A. About 23.00 amu, because it is the average mass of the isotopes.
+    B. About 20.00 amu, because the heaviest isotope is the most abundant.
+    C. About 25.00 amu, because it's the median mass of the isotopes.
+    D. About 10.00 amu, because the lightest isotope is the least abundant.
+
+39. How does atomic radius change as you move down a group in the periodic table, and why?                               (1)
+    A. It decreases due to stronger nuclear attraction.
+    B. It remains constant because electron shielding has no effect.
+    C. It increases due to addition of more electron shells.
+    D. It decreases because valence electrons experience more attraction from the nucleus.
+
+40. Which of the following statements is true about nonpolar covalent molecules?                                         (1)
+    A. They share electrons unequally                           B. They are always asymmetrical
+    C. They dissolve easily in water.                           D. They have equal sharing of electrons.
+41. A student needs to determine which compound has the highest boiling point from the given compounds: H₂S,       (1)
+    CO₂, NH₃, or CH₄. Based on your understanding of intermolecular forces, which option would you recommend
+    and why?
+    A. H₂S, because it has the weakest London dispersion forces.
+    B. CO₂, because it has dipole-dipole interactions.
+    C. NH₃, because it forms strong hydrogen bonds.
+    D. CH₄, because it has stronger dipole-dipole forces.
+
+42. What does the Law of Conservation of Mass state?                                                               (1)
+
+    A. Matter can be created and destroyed in a chemical reaction.
+    B. The total mass of reactants and products are equal in a balanced chemical reaction.
+    C. The composition of a compound varies depending on how it is prepared.
+    D. The ratio of elements in a compound changes based on reaction conditions.
+
+43. A student performs a reaction with two reactants and finds that the actual yield is significantly lower than   (1)
+    expected. Which approach would best help them determine whether a reactant was limiting or in excess?
+    A. Calculate the theoretical yield based on stoichiometry and compare it with the actual yield.
+    B. Measure the temperature change of the reaction to assess reactant consumption
+    C. Weigh only one reactant before and after the reaction and assume the other is limiting.
+    D. Estimate the product yield visually to determine whether the reaction reached completion.
+
+44. What is meant by an amphiprotic species?                                                                       (1)
+    A. A species that can donate a proton (acid) or accept a proton (base).
+    B. A species that can only donate a proton
+    C. A species that can only accept a proton
+    D. A species that cannot donate or accept a proton.
+
+45. In the reaction: CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺, what is the acid-base conjugate pair involving the            (1)
+    reaction?
+    A. HCOOH and CH₃COO⁻                                       B. CH₃COOH and H₃O⁺
+    C. CH₃COO⁻ and H₂O                                         D. H₂O and H₃O⁺
+
+46. A solution has a hydroxide ion concentration of [OH⁻] = 2.5 × 10⁻³ M. Using Kw = 1.0 × 10⁻¹⁴, how would you    (1)
+    determine the hydronium ion concentration [H₃O⁺] at 25°C?
+    A. [H₃O⁺] = (1.0×10⁻¹⁴) / (2.5×10⁻³)                       B. [H₃O⁺] = (2.5×10⁻³) × (1.0×10⁻¹⁴)
+    C. [H₃O⁺] = (1.0×10⁻¹⁴) + (2.5×10⁻³)                       D. [H₃O⁺] = (1.0×10⁻¹⁴) - (2.5×10⁻³)
+
+47. If a 0.05 M solution of Ba(OH)₂ completely dissociates in water, what is the [OH⁻] and pH?                     (1)
+
+    A. [OH⁻] = 0.05 M, pH = 2                                  B. [OH⁻] = 0.10 M, pH = 13
+    C. [OH⁻] = 0.025 M, pH = 1.6                               D. [OH⁻] = 0.01 M, pH = 2
+
+48. Two students argue about the hydroxide ion concentration in a solution with a pH of 4. Student A suggested     (1)
+    [OH⁻] = 1.0 × 10⁻¹⁰ M, while Student B suggested [OH⁻] = 1.0 × 10⁻⁴ M. Who is correct?
+    A. Student A, because pOH = 14 - pH and [OH⁻] = 10^{-pOH}
+    B. Student B, because in acidic solutions [OH⁻] is greater than [H⁺]
+    C. Neither, because [OH⁻] can't be calculated from pH
+    D. Both are correct because pH and pOH are independent values.
+49. Which of the following is the Net Effect for addition of sodium acetate (CH₃COONa) to acetic acid (CH₃COOH)        (1)
+    solution?
+    A. [H₃O⁺] increase                                         B. [OH⁻] increase
+    C. pH decrease                                             D. ionization level of CH₃COOH increase
+
+50. Which of the following is an example of a common buffer system?                                                    (1)
+    A. NaCl and HCl                                            B. H₂CO₃ and HCO₃⁻
+    C. H₂SO₄ and SO₄²⁻                                         D. NaOH and H₂O
+
+51. What is the primary function of a buffer solution?                                                                 (1)
+
+    A. To speed up chemical reactions
+    B. To completely neutralize acid and base
+    C. To resist pH changes when acids or bases are added
+    D. To prevent neutralization reaction
+
+52. If you mix acetic acid (CH₃COOH) with sodium acetate (CH₃COONa), what will be the resulting solution?              (1)
+    A. A strong acid solution                                  B. A strong base solution
+    C. A neutral solution                                      D. A buffer solution
+
+53. Which of the following is the correct difference between soap and detergent?                                       (1)
+
+    A. Soap is better than detergent
+    B. Soap is made from synthetic fats or oils, while detergents are natural.
+    C. Soaps do not work well in hard water, but detergents work better in hard water.
+    D. Both soap and detergent are equally dissolve in water
+
+54. If a buffer solution has a pH of 7.4 and additional small amount of HCl is added, what will likely happen?         (1)
+    A. The pH will decrease slightly                           B. The pH will increase significantly
+    C. The buffer will break down immediately                  D. The pH will remain exactly the same
+
+55. Why is the bicarbonate buffer system essential in human blood?                                                     (1)
+
+    A. It neutralizes strong acids only
+    B. It maintains blood pH within a narrow pH range
+    C. It increases oxygen levels in the blood
+    D. It eliminates carbon dioxide
+
+56. Consider potassium phosphate (K₃PO₄) dissolving in water. Why does the solution become basic?                      (1)
+    A. The phosphate ion (from a weak acid) hydrolyzes to produce OH⁻ ions.
+    B. The potassium ion hydrolyzes to produce OH⁻ ions.
+    C. Both ions hydrolyze equally to raise the pH.
+    D. Neither ion hydrolyzes.
+
+57. A chemist is examining the titration curve of a reaction between an acid and a base. By analyzing the curve, the   (1)
+    chemist notices that after a certain volume of titrant has been added, the neutralization reaction is nearly
+    complete. Based on your analysis of the titration data, which statement best defines the equivalence point?
+    A. Amount of titrant = Amount of analyte in a sample.
+    B. Amount of titrant > Amount of analyte in a sample.
+    C. Amount of titrant < Amount of analyte in a sample.
+    D. Neither of titrant nor analyte consumed
+58. Which of the following is correct about oxidation-reduction reaction?                                             (1)
+    A. Oxidation reaction takes place by losing of electron
+    B. Electron is always transferred from oxidizing agent to reducing agent
+    C. Reduction takes place by increasing its oxidation number
+    D. The reaction takes place without transferring of electron.
+
+59. Which of the following is TRUE about metallic conductors?                                                         (1)
+    A. There is flow of electrical energy and transfer of matter
+    B. Electrical conduction through metals does bring about chemical transformations
+    C. Free and mobile electrons of the metallic atoms are responsible for electrical conductance
+    D. Conductivity of metal increases with increase in temperature
+
+60. For the electrolysis of aqueous copper(II) sulfate, which of the following statements is correct?                 (1)
+    A. Cu and O₂ are produced in mol ratio of 1:1
+    B. H₂ and O₂ are produced in mol ratio of 1:1
+    C. H₂ and O₂ are produced in mol ratio of 2:1
+    D. Cu and O₂ are produced in mol ratio of 2:1
+
+61. What is Faraday's first law of electrolysis?                                                                      (1)
+
+    A. The amount of substance deposited is directly proportional to the voltage
+    B. The amount of substance deposited is inversely proportional to the time taken
+    C. The amount of substance deposited is inversely proportional to the charge
+    D. Amount of substance deposited is directly proportional to the charge passed through the cell
+
+62. The process of electro refining of copper involves electrolysis. What is the primary purpose of this process in   (1)
+    industry?
+    A. To add impurities to copper                               B. To decrease the temperature of copper
+    C. To make copper a better conductor                         D. To remove impurities from copper
+
+63. Given the challenges of corrosion in metal products, evaluate the effectiveness of electroplating in preventing   (1)
+    rust formation compared to other protective methods used in the manufacturing industry.
+    A. Electroplating is the most effective method that forms durable protective coating on metals.
+    B. Electroplating is less effective than galvanization because it requires more maintenance.
+    C. Electroplating is ineffective in preventing rust formation at extreme temperatures.
+    D. Electroplating is only effective when metals are combined with nonmetals.
+
+64. Which of the following statements correctly distinguishes between primary and secondary cells?                    (1)
+    A. Primary cells can be recharged, while secondary cells cannot
+    B. Secondary cells convert chemical energy into electrical energy only once
+    C. Primary cells are for single-use, while secondary cells can be recharged
+    D. Both types of cells are rechargeable
+
+65. In a galvanic cell, why does oxidation occur at the anode?                                                        (1)
+
+    A. Because the anode is always negatively charged in an electrochemical cell
+    B. Because electrons are sourced from anode and enter to cathode
+    C. Because reduction can only happen at the cathode
+    D. Because the anode gains electrons
+66. Which of the following is best describing the difference between electrolytic and galvanic cell?                     (1)
+    A. Electrolytic cell: Requires an external power supply; Galvanic cell: Generates electrical energy
+    B. Electrolytic cell: Spontaneous (ΔG < 0); Galvanic cell: Non-spontaneous (ΔG > 0)
+    C. Electrolytic cell: Electrons flow from cathode to anode through an external wire; Galvanic cell: Electrons flow
+       from anode to cathode through salt bridge.
+    D. Electrolytic cell: Oxidation takes place at anode electrode; Galvanic cell: Oxidation takes place at cathode
+       electrode
+
+67. What is the primary contribution of industrial chemistry to society?                                                 (1)
+
+    A. Reducing the need for natural resources
+    B. Producing materials essential for daily life
+    C. Reducing extent to use resources
+    D. Stopping all chemical reactions
+
+68. Which of the following is a renewable resource?                                                                      (1)
+    A. Coal                                                           B. Petroleum
+    C. Solar energy                                                   D. Natural gas
+
+69. Which of the following would decrease ammonia production in the Haber process?                                       (1)
+
+    A. Increasing nitrogen concentration                              B. Removing ammonia as it is formed
+    C. Increasing temperature significantly                           D. Using an iron catalyst
+
+70. Which of the following is NOT true about industrial production of sodium carbonate (Na₂CO₃)?                         (1)
+    A. The raw materials are brine solution (NaCl), limestone (CaCO₃), ammonia and water
+    B. The byproduct of manufacturing of Na₂CO₃ in the Solvay process is CaCl₂
+    C. Burning coke in the Solvay process is required to provide the heat energy
+    D. The Solvay process involves industrial manufacturing process of Na₂SO₄
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

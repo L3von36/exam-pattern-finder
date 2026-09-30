@@ -1,0 +1,594 @@
+                                                             Temari.et
+                    Chemistry, 2017 EC, natural science, entrance exam, round 1
+                                                    Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                         Questions: 72                                           Total marks: 72
+
+Name                                                 Grade                        ID No.                       Date
+
+1.   Which type of glass is made by heating a mixture of silica, sodium carbonate and limestone?                                       (1)
+     A. Pyrex glass                                                   B. Soda-lime
+     C. Borosilicate                                                  D. Quartz
+
+2.   Consider the following galvanic cell: ﻿When the Zn strip was connected to metal 'B' at 25°C, the voltmeter shows (1)
+                                                                                        ∘
+     0.51 V. Which of the following is the standard reduction potential of metal 'B'? (EZn 2+ /Zn = −0.76 V)
+                                                                                                   ​
+
+
+
+
+     A. EB∘ 2+ /B = 1.27 V
+                    ​
+                                                                      B. EB∘ 2+ /B = 0.25 V
+                                                                                  ​
+
+
+
+
+     C. EB∘ 2+ /B = −1.27 V
+                    ​
+                                                                      D. EB∘ 2+ /B = −0.25 V
+                                                                                  ​
+
+
+
+
+3.   Which of the following polymer is used to make ropes, clothes, hair combs and stockings?                                          (1)
+     A. Bakelite                                                      B. Teflon
+     C. Nylon                                                         D. Perspex
+
+4.   Which of the following catalyst is used in the Ostwald process for the production of HN O3 ?      ​                               (1)
+     A. CuO                                                           B. Fe
+     C. V2 O5
+           ​    ​
+                                                                      D. Pt
+
+5.   Which of the following factors does NOT affect the rate of a chemical reaction having solid reactants?                            (1)
+     A. Volume of reaction vessel                                     B. Physical state of reactants
+     C. Temperature of reaction                                       D. Concentration of reactants
+
+6.   What is the electron configuration of O2− molecule as per the molecular orbital model? (Atomic number of O =
+                                                ​                                                                                      (1)
+     8)
+     A. σ₁s² σ₁s*² σ₂s² σ₂s*² σ₂px² (π₂py² = π₂pz²) (π*₂py¹ = π*₂pz¹)
+     B. σ₁s² σ₁s*² σ₂s² σ₂s*² σ₂px² (π₂py² = π₂pz²) (π*₂pz²)
+     C. σ₁s² σ₁s*² σ₂s² σ₂s*² σ₂px² (π₂py² = π₂pz²) (π*₂py² = π*₂pz²)
+     D. σ₁s² σ₁s*² σ₂s² σ₂s*² σ₂px² (π₂py² = π₂pz²) (π*₂py² = π*₂pz¹)
+
+7.   At a particular temperature, the equilibrium constant, Kc = 0.36 for the reaction SO3 (g) ⇌ SO2 (g) + O2 (g). Which
+                                                                                               ​           ​          ​                (1)
+     of the following predictions can be drawn from the given data?
+     A. It is not possible to predict the direction of the reaction.
+     B. The reaction will proceed to the right.
+     C. The reaction will proceed to the left.
+     D. The reaction is at equilibrium.
+
+8.   A mineral absorbs purple light of frequency 7.11 × 1014 Hz. What is the wavelength (in nm) of the absorbed                        (1)
+     light? (c = 3.00 × 108 m/s)
+     A. 314.5 nm                                                      B. 421.9 nm
+     C. 237.5 nm                                                      D. 184.4 nm
+9.   Why do atoms absorb energy when their electrons undergo transitions from a lower energy to a higher energy   (1)
+     level? This is because
+     A. The electrons of the atoms absorb energy when they go from higher to lower energy.
+     B. The electrons of the atoms do not have allowable energy levels.
+     C. The electrons of the atoms move from one orbit of higher radius to another one having lower radius.
+     D. The electrons of the atoms move from one orbit of lower radius to another one having larger radius.
+
+10. What are the quantum numbers for the 5s orbital?                                                              (1)
+     A. n = 5, l = 0, ml = 0, ms = ± 12
+                          ​         ​       ​
+                                                              B. n = 5, l = 2, ml = −2, ms = ± 12
+                                                                                    ​           ​      ​
+
+
+
+
+     C. n = 5, l = 1, ml = −2, ms = ± 12
+                          ​             ​       ​             D. n = 5, l = 0, ml = −1, ms = ± 12
+                                                                                    ​           ​      ​
+
+
+
+
+11. Which of the following is CORRECT about the set of quantum numbers assigned to the two electrons of the       (1)
+    helium atom?
+     A. The magnetic quantum numbers of both electrons are different.
+     B. The second electron occupies the same orbital as the first with the opposite spin quantum number.
+     C. The second electron occupies the same orbital as the first with the same spin quantum number.
+     D. Both electrons have the same four quantum numbers.
+
+12. What is the bond formed between two or more atoms by sharing of electrons?                                    (1)
+
+     A. Valence bond                                          B. Covalent bond
+     C. Metallic bond                                         D. Ionic bond
+
+13. Which statement below CORRECTLY describes dipole-dipole forces? It is the force that exists                   (1)
+     A. between polar and non-polar molecules.                B. between non-polar molecules.
+     C. between polar molecules.                              D. in all
+
+14. Comparing the forces between molecules of similar molar masses, which one of the following produces the       (1)
+    weakest force?
+     A. Van der Waals forces.                                 B. Ionic forces.
+     C. Hydrogen bonding.                                     D. Covalent bonds
+
+15. Which of the following is NOT true about greenhouse effect and greenhouse gases?                              (1)
+     A. The greater the percentage of greenhouse gases in the atmosphere, the cooler the earth should be.
+     B. Oxygen (O₂) and nitrogen (N₂) are transparent to infrared radiation.
+     C. Carbon dioxide and water vapor are greenhouse gases.
+     D. Greenhouse effect is the trapping of the infrared radiation by certain gases in the atmosphere
+
+16. In which of the following is the type of natural resource and the given example CORRECTLY paired?             (1)
+     A. Non-Renewable Resources; water                        B. Non-Renewable Resources; animal wool
+     C. Renewable resources; crops                            D. Renewable resources; copper
+
+17. Which of the following compound is a Bronsted-Lowry base?                                                     (1)
+     A. \ceH2S                                                B. \ceHCl
+     C. \ceN H3                                               D. \ceBF 3
+18. In an activity during laboratory session a small amount of lead bromide (\ceP bBr2) crystals were placed in a   (1)
+    beaker. Two electrodes are inserted until they are in contact with the \ceP bBr2 crystals. When the \ceP bBr2
+    crystals in the beaker are gently heated, which of the following will be observed?
+    A. Lead (II) ion is oxidized at the cathode                B. Lead (II) ion is reduced at the anode
+    C. Bromide ion is oxidized at the cathode                  D. Bromine gas is evolved at the anode
+
+19. What is the name given to the pollution caused by the dumping of non-biodegradable wastes into the              (1)
+    environment?
+    A. Water pollution                                         B. Sound pollution
+    C. Land pollution                                          D. Air pollution
+
+20. What is the purpose of the conversion of pig iron to steel?                                                     (1)
+    A. To decrease the concentration of iron in the pig iron
+    B. To increase the concentration of iron in the pig iron
+    C. To remove impurities by reduction
+    D. To remove impurities by oxidation
+
+21. Which of the following statements CORRECTLY describes the law of conservation of mass?                          (1)
+    A. Pure compounds always contain the elements in the same percentage by mass.
+    B. A particular compound is composed of the same elements in the same parts by mass.
+    C. Mass is neither created nor destroyed during a chemical reaction.
+    D. The total mass of substances varies during a chemical reaction.
+
+22. What is the density of methane (CH4 ) at a pressure of 900 torr and a temperature of 25°C? (R = 0.082 atm.
+                                           ​                                                                        (1)
+    L/mol. K, 1 atm = 760 torr)
+    A. 9.2                                                     B. 1.25
+    C. 0.92                                                    D. 0.78
+
+23. It takes 2.25 minutes for 0.02 mol of He to diffuse. How long will it take to diffuse for the same amount of    (1)
+    methane gas, CH4 ? (M.wt of He = 4 g/mol, CH4 = 16 g/mol)
+                         ​                            ​
+
+
+
+
+    A. 6 min                                                   B. 4.5 minutes
+    C. 2.25 min                                                D. 1.25 min
+
+24. Which one of the following statement CORRECTLY defines rate of reaction? The rate of a reaction is              (1)
+
+    A. the measure of the rate of diffusion of different gases inside a tube.
+    B. the study of necessary mechanisms occurred in a chemical reaction.
+    C. the measure of the amount of energy change in a chemical reaction.
+    D. the changes in concentration of reactants or products per unit time.
+
+25. Consider the following equilibrium: 2SO2 (g) + O2 (g) ⇌ 2SO3 (g)ΔH = −198.2kJ . Which of the following
+                                                  ​       ​              ​                                          (1)
+    changes will shift the equilibrium to the left?
+    A. Decreasing the concentrations of the reactants and increasing the concentration of the product.
+    B. Increasing the concentrations of the reactants and decreasing the concentration of the product.
+    C. Increasing the concentration of the reactants and products equivalently.
+    D. Decreasing the concentrations of the reactants and products equivalently.
+26. Aluminum reacts with oxygen to form aluminum oxide. What is the coefficient of aluminum after balancing the                                                  (1)
+    reaction?
+    A. 8                                                                                          B. 6
+    C. 4                                                                                          D. 2
+
+27. What property of an ionic compound can be investigated by heating it in a crucible?                                                                          (1)
+    A. Crystallization point                                                                      B. Malleability
+    C. Solubility                                                                                 D. Melting point
+
+28. Silver has two known isotopes, 107 Ag and 108 Ag with their percent abundance of 52% and 48%, respectively.                                                  (1)
+    What is the average atomic mass of silver?
+    A. 108.86                                                                                     B. 107.48
+    C. 108.06                                                                                     D. 107.89
+
+29. Which reaction scheme below illustrates the formation of a cation?                                                                                           (1)
+
+    A. M g 2+ + 2e− → M g                                                                         B. S + 2e− → S 2−
+    C. 2Cl− → Cl2 + 2e−               ​
+                                                                                                  D. N a → N a+ + e−
+
+30. Which statement distinguishes equilibrium point from end point in acid-base titration?                                                                       (1)
+    A. End point is a point at which the indicator changes color whereas equivalence point is the point where an acid
+       has completely reacted with a base.
+    B. Equivalence point is a point at which the indicator changes color whereas end point is the point where an acid
+       has completely reacted with a base.
+    C. Equivalence point is a point at which reactants start to melt whereas end point is the point where products start
+       to freeze.
+    D. Equivalence point is a point at which reactants start to evaporate whereas end point is the point where a
+       product starts to condense
+
+31. Which one is the mathematical expression for Faraday's first law of electrolysis?                                                                            (1)
+
+    A. m = MnFIt          ​                                                                       B. m = MP
+                                                                                                          RT
+                                                                                                            V                        ​
+
+
+
+
+    C. M = V (liter)
+               n
+                              ​
+                                                                                                  D. m
+                                                                                                     m = E
+                                                                                                       1 E1  ​
+
+
+
+
+                                                                                                                 ​
+                                                                                                                             ​
+
+
+
+
+                                                                                                                                 ​
+
+
+
+
+                                                                                                         2   ​
+                                                                                                                         2   ​
+
+
+
+
+32. Which of the following describes the process of manufacturing valuable products in industries?                                                               (1)
+    A. Manufacturing industry uses only inorganic chemicals in the production of valuable products.
+    B. Carry out unwanted reaction of a material that result in the dissolution or consumption of the material.
+    C. Discharging of a solid, liquid or gaseous substance into an environment that causes unwanted changes.
+    D. Designing to produce a desired output from raw materials using energy through different steps.
+
+33. For the dissociation of HN O2 : HN O2 (aq) ⇌ N O2− (aq) + H + (aq) What is the percent ionization of a 0.5
+                                                                  ​           ​           ​                                                                      (1)
+    M solution of HN O2 ? (Ka of HN O2 = 7.1 × 10−4 )
+                                              ​           ​           ​
+
+
+
+
+    A. 9.1%                                                                                       B. 3.8%
+    C. 1.8%                                                                                       D. 0.2%
+
+34. Which of the following reaction shows the action of H2 S O4 as oxidizing agent?           ​     ​                                                            (1)
+
+    A. M g(s) + 2H2 SO4 (aq) → 3M gSO4 (aq) +
+                                          ​           ​                           ​               B. Cu(s) + 2H2 SO4 (aq) → CuSO4 (aq) + ​       ​           ​
+
+
+
+
+       (N H2 )2 S O4 (aq)
+                  ​   ​           ​                                                                  SO2 (g) + 2H2 O(l)
+                                                                                                                     ​                       ​
+
+
+
+
+    C. 2KOH(aq) + H2 S O4 (aq) → K2 S O4 (aq) +   ​           ​           ​           ​
+                                                                                                  D. SO3 (g) + H2 O(l) → H2 S O4 (aq)
+                                                                                                                     ​                   ​           ​   ​
+
+
+
+
+       2H2 O(l)
+              ​
+35. A 0.47 M aqueous solution of a weak base has a pOH of 2. What is Kb for the weak base?
+                                                                            ​                                           (1)
+    A. 4.4 \times 10^{-1}                                      B. 1.0 \times 10^{-2}
+    C. 3.14 \times 10^{-3}                                     D. 2.17 \times 10^{-4}
+
+36. A student was given a standard Zn(s)|Zn2+ (aq) half-cell and another half-cell containing copper immersed in        (1)
+    1.00 M CuSO4 (aq). When the Zn was connected as the anode at 25°C, the cell potential reading on the
+                    ​
+
+
+
+
+    voltmeter shows 1.1 V. Which of the following is NOT correct regarding the cell potential measurement?
+    A. Electrons travel through the external circuit from copper cathode to the zinc anode.
+    B. The zinc electrode was dissolved and the blue color CuSO₄ solution would fade.
+    C. The circuit is completed inside the cell by migration of ions through the salt bridge.
+    D. The mass of copper was increased during the cell potential measurement.
+
+37. Which of the following properties is the property of an acidic oxide? An acidic oxide reacts with                   (1)
+    A. Water to form acids.
+    B. Salts to form acids.
+    C. Basic oxides to form hydroxides and water.
+    D. Bases to form basic hydroxide and water.
+
+38. What is the name given to an acid that dissociates (ionizes) only to a slight extent in aqueous solution?           (1)
+
+    A. Strong acid                                             B. Dilute acid
+    C. Concentrated acid                                       D. Weak acid
+
+39. Solutions can be classified based upon their pH values. What is a solution whose pH value is 13?                    (1)
+    A. Acidic solution                                         B. Amphoteric solution
+    C. Basic solution                                          D. Neutral solution
+
+40. During laboratory class, a student placed clean water in a beaker and added pieces of calcium metal using           (1)
+    tongs. After the reaction is completed, he/she tested the solution using red litmus paper. Which of the following
+    will be observed?
+    A. The litmus paper turns to red.                          B. The litmus paper turns to blue.
+    C. The litmus paper turns to colorless.                    D. The litmus paper maintains its color.
+
+41. Which of the following statements CORRECTLY describes the relationship among wavelength, frequency and              (1)
+    speed in electromagnetic radiation?
+    A. As the wavelength decreases, the frequency increases.
+    B. As the wavelength increases, the frequency increases.
+    C. As the frequency increases, the speed of light decreases.
+    D. As the wavelength decreases, the speed of light increases.
+
+42. Which of the following organic compounds has the highest boiling point?                                             (1)
+    A. Ethene                                                  B. Ethanol
+    C. Ethane                                                  D. Ethanal
+
+43. What is a Lewis base? It is                                                                                         (1)
+
+    A. Proton acceptor                                         B. Proton donor
+    C. Electron pair donor                                     D. Electron pair acceptor
+44. Given the following information: CH₃COOH (aq) ⇌ CH₃COO⁻ (aq) + H⁺ (aq) CH₃COOH CH₃COO⁻ H⁺ Initial                    (1)
+    concentration (mol/L) 0.2 0 0 Change -X +X +X Equilibrium concentration 0.2 - X X X Which of the following
+    expressions represents the percent ionization of CH₃COOH?
+    A. (x/0.2)100%                                                           B. ((0.2-x)/0.2)100%
+    C. (x/(0.2-x))100%                                                       D. ((0.2)/x)100%
+
+45. Scandium (Sc) has the electron configuration [Ar] 4s2 3d1 . To which group of elements does it belong to?            (1)
+    A. Transition elements                                                   B. Representative elements
+    C. Nonmetals                                                             D. Inner transition elements
+
+46. A student carried out an experiment to determine the melting points of NaCl and CuCl2 . He/she added 0.2 g of
+                                                                                                               ​         (1)
+    NaCl and CuCl2 into two different test tubes and heated both tubes simultaneously using a Bunsen burner.
+                     ​
+
+
+
+
+    Which of the following statements is CORRECT regarding the melting point of NaCl and CuCl2 ?                   ​
+
+
+
+
+    A. The melting point of NaCl is higher than that of CuCl2 .      ​
+
+
+
+
+    B. The melting point of NaCl is lower than that of CuCl2 .   ​
+
+
+
+
+    C. Both NaCl and CuCl2 will not melt.
+                                     ​
+
+
+
+
+    D. Both NaCl and CuCl2 will melt at the same time.
+                                 ​
+
+
+
+
+47. What is the cause of unusual high boiling points of HF, H2 O and NH3 ?
+                                                                         ​               ​                               (1)
+
+    A. Induced dipole forces                                                 B. Dipole-Dipole forces
+    C. Ion-dipole forces                                                     D. Hydrogen bonding
+
+48. Which statement below describes CORRECTLY the assumptions in the kinetic theory of gases?                            (1)
+    A. Gas molecules are in random motion with no interactions.
+    B. Gas molecules occupy a finite volume and have indefinite shape.
+    C. The average kinetic energies of gas molecules are independent of the amount of gas.
+    D. The average kinetic energies of gas molecules are independent of temperature.
+
+49. If the rate of diffusion of a certain unknown gas is half times the rate of diffusion of helium, what will be the    (1)
+    molar mass of the unknown gas? (Atomic mass of He= 4.0 g/mole)
+    A. 8.0 g/mole                                                            B. 2.0 g/mole
+    C. 32.0 g/mole                                                           D. 16.0 g/mole
+
+50. A student added boiling chips into a beaker of water while carrying out an activity to determine the boiling point   (1)
+    of water. Why do you think the boiling chips are necessary?
+    A. To speed up the rate of evaporation
+    B. To ensure smooth rate of evaporation
+    C. To reach the boiling point with less consumption of heat
+    D. To maintain constant temperature and pressure
+
+51. What is the oxidation number of manganese in KMnO4 ?     ​                                                           (1)
+    A. +6                                                                    B. +5
+    C. +8                                                                    D. +7
+
+52. 2-methyl-1-butene is one of the isomers of C5 H10 . Which of the following is the CORRECT structural formula of
+                                                    ​   ​                                                                (1)
+    this isomer?
+    A. CH3 -CH2 -C(CH3 )=CH2
+            ​    ​       ​               ​
+                                                                             B. CH3 -CH(CH3 )-CH=CH2
+                                                                                     ​           ​         ​
+
+
+
+
+    C. CH3 -CH=CH-CH2 -CH3
+            ​                ​               ​
+                                                                             D. CH3 -C(CH3 )=CH-CH3
+                                                                                     ​       ​         ​
+53. Which of the following organic compounds is used for the production of 1, 2-ethanediol?                                                   (1)
+    A. Ethane                                                                   B. Ethene
+    C. Ethanol                                                                  D. Ethyne
+
+54. Which of the following is the main constituent of natural gas?                                                                            (1)
+
+    A. Butane                                                                   B. Ethane
+    C. Methane                                                                  D. Propane
+
+55. In order to avoid the decrease in quality of some clothes after washing with water, which of the following                                (1)
+    chemicals is used for dry cleaning?
+    A. CH2 Cl2    ​       ​                                                     B. CH4        ​
+
+
+
+
+    C. C2 Cl4
+          ​           ​
+                                                                                D. C2 H4
+                                                                                      ​           ​
+
+
+
+
+56. The molecule of BF3 has both bonding and lone pair of electrons. Based upon these electrons, which one is the
+                                                ​
+                                                                                                                                              (1)
+    CORRECT molecular geometry of the molecule of BF3 ?                     ​
+
+
+
+
+    A. Square pyramidal                                                         B. Square planar
+    C. Trigonal bipyramidal                                                     D. Trigonal planar
+
+57. Which law governs the fact that the ratio of the amount of hydrogen to oxygen by weight will be the same in a                             (1)
+    drop of water and a lake of water?
+    A. Law of conservation of mass                                              B. Law of relative composition
+    C. Law of definite proportion                                               D. Law of multiple proportions
+
+58. Which statement below CORRECTLY describes the characteristics of chemical equilibrium?                                                    (1)
+    A. A reaction stops if sufficient amount of time is given.
+    B. A reaction stops when it reaches equilibrium.
+    C. A new substance or substances are formed when equilibrium is attained.
+    D. The rates of the forward and reverse reactions are equal.
+
+59. What is the name given to compounds of carbon and hydrogen containing multiple bonds?                                                     (1)
+
+    A. Aromatic hydrocarbons                                                    B. Aliphatic hydrocarbons
+    C. Unsaturated hydrocarbons                                                 D. Saturated hydrocarbons
+
+60. The following reaction can be used for the synthesis of CH3 CH2 CH2 CH3 as a desired product: CH3 CH2 CHBrCH3
+                                                                                  ​       ​           ​       ​                   ​   ​   ​
+                                                                                                                                              (1)
+    + CH3 S− → CH3 CH2 CH2 CH3 + CH3 SH + Br− Which of the following is the atom economy for the above
+              ​                       ​     ​           ​       ​       ​
+
+
+
+
+    reaction? (Atomic masses: H=1; C=12; S=32 and Br=80)
+    A. 48%                                                                      B. 30.43%
+    C. 80%                                                                      D. 56%
+
+61. Which of the following process involves preventing the growth of bacteria, fungi and reducing the oxidation of                            (1)
+    fats?
+    A. Tanning                                                                  B. Haber-Bosch
+    C. Contact                                                                  D. Food preservation
+
+62. Which of the following is the overall reaction for electrolysis of molten NaCl?                                                           (1)
+              +                   −
+    A. Na (l) + Cl                    (l) → Na(l) + 12 Cl2 (g)
+                                                            ​       ​           B. Na (l) + 12 Cl2 (g) → Na+ (l) + Cl− (l)
+                                                                                          +               ​           ​
+
+
+
+
+    C. H2 (g) + 12 O2 (g) → H2 O(g)
+          ​                   ​   ​                 ​
+                                                                                D. H2 O(g) → H2 (g) + 12 O2 (g)
+                                                                                      ​                           ​       ​   ​
+63. Which of the following occur during the electrolysis of dilute H2 SO4 ?
+                                                                     ​           ​                                  (1)
+    A. The overall reaction is: H2 (g) + 12 O2 (g) → H2 O(g)
+                                    ​       ​   ​      ​
+
+
+
+
+    B. SO2−
+         4 is discharged at the anode.
+             ​
+
+
+
+
+    C. A basic solution is formed
+    D. H+ is discharged at the negative electrode
+
+64. Which statement below CORRECTLY distinguishes redox and non-redox reactions?                                    (1)
+    A. Reduction occurs in redox reactions and oxidation takes place in non-redox reactions.
+    B. Electrons are transferred in redox reactions but not in non-redox reactions.
+    C. Acid-base reactions can be considered as both redox and non-redox reactions.
+    D. Oxidation number remains the same in both redox and non-redox reactions
+
+65. Given the reaction: C(s) + CO2 (g) ⇌ 2CO(g) What is the equilibrium constant expression for the reaction?
+                                        ​
+                                                                                                                    (1)
+             2
+    A. [CO] /[CO2 ]                                                      2
+                                                               B. [CO] /[C][CO2 ]
+                       ​                                                             ​
+
+
+
+
+    C. [C][CO2 ]/[CO]
+                   ​
+                           2                                   D. [CO2 ] /[C]
+                                                                         ​
+                                                                             2
+
+
+66. Which of the following pair of substances can be considered as examples of the liquid state of matter at room   (1)
+    temperature and 1 atm pressure?
+    A. Water and carbon dioxide                                B. Carbon and mercury
+    C. Carbon and carbon monoxide                              D. Water and mercury
+
+67. Which gas law describes the behavior of gases using the variables: temperature, volume, pressure and number     (1)
+    of moles?
+    A. Boyle's law                                             B. Ideal gas law
+    C. Combined gas law                                        D. Avogadro's law
+
+68. Which one of the following CORRECTLY shows the relative charges of an electron, proton and neutron,             (1)
+    respectively?
+    A. 0, -1, +1                                               B. 0, +1, -1
+    C. -1, 0, +1                                               D. -1, +1, 0
+
+69. Which statement below CORRECTLY describes the Bohr's model of an atom?                                          (1)
+    A. Electrons and neutrons are found in the nucleus.
+    B. Protons and electrons are found in the nucleus.
+    C. Electrons move in circular orbits around the nucleus.
+    D. Protons move in circular orbits around the nucleus.
+
+70. Which statement below CORRECTLY describes periodicity? Periodicity is                                           (1)
+    A. a row in the Periodic Table which contains elements with same number of shells.
+    B. a regular repetition of chemical and physical properties in the Periodic Table.
+    C. a column in the Periodic Table which contains elements with similar chemical properties.
+    D. a measure of electronegativity which runs from least electronegative to most electronegative elements.
+71. Which statement below CORRECTLY expresses hydrogen bonding? It is formed by bonding                          (1)
+    A. a hydrogen atom to an element such as oxygen.
+    B. a hydrogen atom to an element such as sodium.
+    C. two hydrogen atoms with unequal sharing of electrons.
+    D. two hydrogen atoms with equal sharing of electrons.
+
+72. Consider the molecular structure of COCl2 shown below. What are the predicted bond angles Cl-C-O and Cl-C-
+                                                 ​                                                               (1)
+    Cl?
+    A. Cl-C-O < 120° and Cl-C-Cl = 120°                             B. Cl-C-O and Cl-C-Cl = 120°
+    C. Cl-C-O > 120° and Cl-C-Cl < 120°                             D. Cl-C-O = 120° and Cl-C-Cl > 120°
+
+                                             — E N D O F E X A M I N AT I O N —
+                             Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

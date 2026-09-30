@@ -1,0 +1,373 @@
+                                                        Temari.et
+                            Chemistry, 2017 EC, entrance exam, version 4
+                                              Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                   Questions: 72                                 Total marks: 72
+
+Name                                            Grade                       ID No.                 Date
+
+1.   Which of the following statements belongs to the limitation of Dalton's atomic theory?                             (1)
+     A. An element is made up of smaller particle called atom
+     B. Atoms are made up of protons, neutrons and electrons
+     C. Atoms of the same element may have the same mass and properties
+     D. Atoms can neither be created nor destroyed during an ordinary chemical reaction
+
+2.   Which observation led J.J. Thomson to propose the 'plum pudding' model of the atom?                                (1)
+     A. Measurement of electron charge using the oil drop experiment
+     B. Emission of X-rays by atoms
+     C. Deflection of alpha particles by gold foil
+     D. Discovery of electrons in cathode rays
+
+3.   According to modern atomic theory, which of the following subatomic particles is responsible for the atomic        (1)
+     number of an element?
+     A. Protons                                                 B. Nucleons
+     C. Neutrons                                                D. Electrons
+
+4.   Which of the following types of radioactive decays involves the emission of a particle consisting of two protons   (1)
+     and two neutrons?
+     A. Gamma decay                                             B. Positron emission
+     C. Alpha decay                                             D. Beta decay
+
+5.   'The atom has a small, dense, positively charged nucleus around which electrons rotate at high speed and           (1)
+     relatively long distance from it'. This postulate is according to which model of the atom?
+     A. Rutherford's                                            B. Thomson's
+     C. Bohr's                                                  D. Dalton's
+
+6.   Unknown element X has a valence shell electron configuration of 3s²3p⁵. Which of the following is true about       (1)
+     element X?
+     A. It is stable and belongs to period 7
+     B. It forms a compound with others by losing electrons
+     C. It belongs to a class of noble gases
+     D. It belongs to group VIIA and period 3
+
+7.   Which properties of elements increase across a period in the periodic table?                                       (1)
+     A. Number of shells                                        B. Electronegativity
+     C. Metallic character                                      D. Atomic size
+8.   Which one of the following electromagnetic radiations has the highest frequency?                                  (1)
+     A. UV rays                                                       B. Microwaves
+     C. X-rays                                                        D. Gamma rays
+
+9.   Which of the following represents an acceptable or possible set of quantum numbers (in the order n, l, ml, ms)    (1)
+     for an electron in an atom?
+     A. 3,1,-1,+1/2                                                   B. 3,0,2,-1/2
+     C. 3,2,0,0                                                       D. 3,0,2,+1/2
+
+10. Which property of elements increases both as you move from left to right across a period and from bottom to        (1)
+    top within a group?
+     A. Metallic character                                            B. Nuclear charge
+     C. Atomic radius                                                 D. Electronegativity
+
+11. Which of these elements has the highest second ionization energy?                                                  (1)
+
+     A. Magnesium (Mg)                                                B. Silicon (Si)
+     C. Sodium (Na)                                                   D. Aluminum (Al)
+
+12. Which of the following statements is correct according to Ernest Rutherford's famous Gold Foil Experiment?         (1)
+     A. Most alpha particles passed straight through, with a few deflected at large angles.
+     B. All alpha particles were absorbed by the foil.
+     C. All alpha particles passed straight through the gold foil.
+     D. Most alpha particles were deflected at large angles.
+
+13. Which scientist is known for formulating the uncertainty principle, which states that the position and momentum (1)
+    of a particle cannot both be known exactly at the same time?
+     A. Niels Bohr                                                    B. Erwin Schrödinger
+     C. Albert Einstein                                               D. Werner Heisenberg
+
+14. In the quantum mechanical model, the azimuthal quantum number for an electron in a 4f orbital is                   (1)
+
+     A. 3                                                             B. 4
+     C. 1                                                             D. 5
+
+15. Which quantum number determines the orientation of an orbital in space?                                            (1)
+     A. Azimuthal quantum number                                      B. Spin quantum number
+     C. Principal quantum number                                      D. Magnetic quantum number
+
+16. According to Hund's Rule, when electrons occupy orbitals of equal energy, they will                                (1)
+     A. fill each orbital singly with parallel spins before pairing
+     B. fill orbitals in random order regardless of spin
+     C. pair up in each orbital first before occupying the next
+     D. fill the lowest energy orbital available
+
+17. Which of the following factors does NOT affect the kinetic energy of photoelectrons in the photoelectric effect?   (1)
+     A. Work function of the material                                 B. Frequency of incident light
+     C. Wavelength of the incident light                              D. Intensity of incident light
+18. Which of the following statements best explains why a red light has a lower frequency than a blue light?               (1)
+    A. Red light contains more photons than blue light.
+    B. Red light undergoes greater refraction in a vacuum.
+    C. Red light travels slower than blue light.
+    D. Red light has a longer wavelength than blue light.
+
+19. When comparing infrared (IR) and ultraviolet (UV) radiation, which of the following is true?                           (1)
+    A. IR has a shorter wavelength and higher energy than UV radiation.
+    B. Both IR and UV have the same frequency but different energies.
+    C. IR has a higher frequency than UV radiation.
+    D. IR has a longer wavelength and lower frequency than UV radiation.
+
+20. How does the energy of a photon relate to its wavelength in the electromagnetic spectrum?                              (1)
+    A. Energy decreases as wavelength increases.
+    B. Energy is highest in visible light and lowest in gamma rays.
+    C. Energy increases with increasing wavelength.
+    D. Energy is independent of wavelength.
+
+21. What is the wavelength of light (nm) that has a frequency 4.62 × 10¹⁴ s⁻¹?                                             (1)
+
+    A. 1.39×10²³                                                B. 3.06×10⁻¹⁹
+    C. 1.54×10⁻³                                                D. 649
+
+22. The energy of a photon in joule that has a wavelength of 12.3 nm is _____ J.                                           (1)
+    A. 1.62×10⁻¹⁷                                               B. 1.99×10⁻²⁵
+    C. 2.72×10⁻⁵⁰                                               D. 4.42×10⁻²³
+
+23. Which one of the following represents an impossible set of quantum numbers for an electron in an atom?                 (1)
+    (arranged as n, l, ml, ms)
+    A. 1,0,0,1/2                                                B. 3,3,3,1/2
+    C. 2,1,1,1/2                                                D. 5,4,3,1/2
+
+24. The n = 5 to n = 3 transition in the Bohr hydrogen atom corresponds to the _____ of a photon with a wavelength         (1)
+    of _____ nm.
+    A. emission, 657                                            B. absorption, 1270
+    C. absorption, 657                                          D. emission, 1280
+
+25. If an electron transitions from the n = 4 level to the n = 2 level in a hydrogen atom, what is the wavelength of the   (1)
+    photon emitted?
+    A. 434 nm                                                   B. 410 nm
+    C. 487 nm                                                   D. 656 nm
+
+26. Which of the following properties of an electron in an atom does the principal quantum number determine?               (1)
+    A. Energy of the electron and distance from the nucleus
+    B. Spin direction of the electron
+    C. Orientation of the orbital in space
+    D. Shape of the orbital
+27. Which of the following elements has the highest first ionization energy?                                           (1)
+    A. Oxygen (O)                                               B. Fluorine (F)
+    C. Carbon (C)                                               D. Nitrogen (N)
+
+28. Which of the following ions has the largest radius?                                                                (1)
+
+    A. Ca²⁺                                                     B. S²⁻
+    C. Cl⁻                                                      D. K⁺
+
+29. Which of the following is correct regarding the atomic radii of elements as you move across a period and down a    (1)
+    group?
+    A. Atomic radius remains constant across a period and down a group
+    B. Atomic radius increases both across a period and down a group
+    C. Atomic radius decreases across a period and increases down a group
+    D. Atomic radius increases across a period and decreases down a group
+
+30. In a certain experiment NaOH solution is added from a burette to dilute sulphuric acid in a beaker. Which of the   (1)
+    following changes will occur in the beaker?
+    A. concentration of hydroxide ion decreases                 B. pH increases
+    C. concentration of hydrogen ion increases                  D. pOH increases
+
+31. A solution of NaOH has a concentration of 0.001 M. What is the pH of this solution?                                (1)
+    A. 13                                                       B. 14
+    C. 11                                                       D. 12
+
+32. According to Lewis definition, a base is a (an)                                                                    (1)
+
+    A. electron pair donor                                      B. proton acceptor
+    C. electron pair acceptor                                   D. proton donor
+
+33. Which of the following is true about salts formed from weak acid and weak bases?                                   (1)
+    A. the type of salt formed has acidic property
+    B. no hydrolysis takes place at all
+    C. only the cation of the salt undergo hydrolysis
+    D. both the cation and the anion of the salt undergo hydrolysis
+
+34. Which of the following species is NOT amphoteric?                                                                  (1)
+
+    A. H₂O                                                      B. NH₄⁺
+    C. H₂PO₄⁻                                                   D. HSO₄⁻
+
+35. What is the initial pH of a 0.1 M HCl solution before any NaOH is added in a titration?                            (1)
+    A. 3.0                                                      B. 4.0
+    C. 1.0                                                      D. 2.0
+
+36. During the titration of 0.1 M HCl with 0.1 M NaOH, what is the pH of the solution at the equivalence point?        (1)
+    A. Exactly 7
+    B. Depends on the concentration of the NaOH solution
+    C. Less than 7
+    D. Greater than 7
+37. According to the Arrhenius definition, which of the following compounds is considered an acid?                   (1)
+    A. NH₃                                                     B. CH₄
+    C. NaOH                                                    D. HNO₃
+
+38. Which of the following solutions would have the highest pH?                                                      (1)
+
+    A. 0.01 M NaOH                                             B. 0.1 M acetic acid
+    C. 0.01 M HCl                                              D. 0.05 M NH₄OH
+
+39. According to the Lewis definition, which of the following is a Lewis acid?                                       (1)
+    A. BF₃                                                     B. CH₄
+    C. NH₃                                                     D. OH⁻
+
+40. Which of the following statements is true regarding the three acid-base theories?                                (1)
+    A. All Lewis bases are Arrhenius bases.
+    B. All Brønsted-Lowry acids are Arrhenius acids.
+    C. The Arrhenius theory can be applied in non-aqueous solvents.
+    D. All Brønsted-Lowry acids are Lewis acids.
+
+41. The pH of a buffer made by mixing 0.2 M NH₄Cl and 0.2 M NH₃ (Kb for NH₃ = 1.8 × 10⁻⁵) is closest to:             (1)
+    A. 7.26                                                    B. 6.26
+    C. 9.26                                                    D. 8.26
+
+42. Which one of the following pairs can't be mixed together to form a buffer solution?                              (1)
+    A. CH₃COOH and CH₃COONa                                    B. H₃PO₄ and NaH₂PO₄
+    C. HNO₃ and NH₄NO₃                                         D. NH₃ and NH₄Cl
+
+43. If CH₃COONa is added to a solution of CH₃COOH, which of the following statements is correct?                     (1)
+    A. The concentration of hydrogen ion increases
+    B. The concentration of CH₃COOH decreases
+    C. The dissociation of CH₃COOH decreases
+    D. The pH of a solution decreases
+
+44. A one liter solution is prepared by mixing 0.1 mole HCl and 0.05 mole NaOH. What is the resulting pH of the      (1)
+    solution?
+    A. 3.3                                                     B. 4.2
+    C. 1.3                                                     D. 2.5
+
+45. A 50 mL sample of 2.0 M HCl is diluted with water to a final volume of 250 mL. What is the concentration of HCl (1)
+    in the diluted solution?
+    A. 0.5 M                                                   B. 0.8 M
+    C. 0.2 M                                                   D. 0.4 M
+
+46. During the titration of known volume of strong acid with strong base, there is                                   (1)
+    A. a low pH at the beginning of a titration
+    B. no pH change of solution
+    C. a formation of acidic salt
+    D. a sharp decreasing of pH around the equivalence point
+47. The hydronium concentration of a certain acidic solution is 1×10⁻⁵ M, what will be the hydroxide ion                   (1)
+    concentration of the solution?
+     A. 1×10⁻⁹                                                   B. 1×10⁻⁸
+     C. 1×10⁻⁶                                                   D. 1×10⁻¹⁴
+
+48. The acid-base indicator methyl red has Kin of 1.0×10⁻⁶. Its acidic form is red while its alkaline form is yellow. If   (1)
+    methyl red is added to a solution with pH=7, the color observed will be
+     A. pink                                                     B. no color observed
+     C. red                                                      D. yellow
+
+49. A 50 mL solution of 0.2 M H₂SO₄ solution is titrated with NaOH solution of unknown concentration. The                  (1)
+    equivalence point against phenolphthalein indicator was signaled when 40.0 mL of NaOH was added. What is
+    the concentration of NaOH solution?
+     A. 0.25 M                                                   B. 0.50 M
+     C. 0.10 M                                                   D. 0.40 M
+
+50. What is the effect of a common ion in an electrolytic solution?                                                        (1)
+     A. It changes the equilibrium position to the right
+     B. It has no effect on equilibrium position
+     C. It has no effect on the pH of solution
+     D. It decreases the dissociation of a solute
+
+51. Potassium phosphate is a basic salt because it is a salt of a                                                          (1)
+     A. weak acid and a weak base and the cation of the weak base can be hydrolyzed
+     B. strong base and a weak acid and the cation of the strong base can be hydrolyzed
+     C. strong acid and a weak base and the anion of the strong acid can be hydrolyzed
+     D. strong base and a weak acid and the anion of the weak acid can be hydrolyzed
+
+52. The Ka of acetic acid CH₃COOH is 1.8×10⁻⁵, what is the percent ionization of 0.1 M CH₃COOH?                            (1)
+
+     A. 4.2                                                      B. 1.34
+     C. 1.42                                                     D. 3.6
+
+53. The point in a titration at which the number of moles of ions added to a solution is equal to the number of moles      (1)
+    of ions is known as
+     A. zero point                                               B. equivalence point
+     C. triple point                                             D. end point
+
+54. At the halfway point in the titration of acetic acid with NaOH, where half of the acetic acid has been neutralized,    (1)
+    what is the pH of the solution?
+     A. 7
+     B. Equal to the pKa of acetic acid
+     C. Equal to the pH of the initial acetic acid solution
+     D. Equal to the pH of NaOH
+55. During the titration of 0.1 M acetic acid with 0.1 M NaOH, what can be said about the pH at the equivalence           (1)
+    point?
+    A. It is greater than 7 because acetate ions form a basic solution.
+    B. It depends on the concentration of NaOH.
+    C. It is less than 7 because acetic acid is weak.
+    D. It is equal to 7 because NaOH is strong.
+
+56. Which one of the following is a conjugate acid-base pair?                                                             (1)
+    A. NH₄⁺ and NH₃                                              B. NaF and F⁻
+    C. H₂O and H₂O₂                                              D. HNO₃ and HNO₂
+
+57. In a titration of acetic acid with sodium hydroxide, what is the pH of the solution before the equivalence point?     (1)
+    A. pH > 7                                                    B. Cannot be determined
+    C. pH = 7                                                    D. pH < 7
+
+58. A buffer solution contains acetic acid and sodium acetate. If the concentration of acetic acid equals the             (1)
+    concentration of sodium acetate, what is the pH of the buffer solution?
+    A. 5.05                                                      B. 5.23
+    C. 4.57                                                      D. 4.74
+
+59. If the following reaction is balanced in acidic media, what will be the coefficient of Fe²⁺ in the balanced           (1)
+    reaction? Fe²⁺ + Cr₂O₇²⁻ → Fe³⁺ + Cr³⁺
+    A. 6                                                         B. 3
+    C. 14                                                        D. 1
+
+60. If the following chemical reaction is balanced using a change in oxidation number method, what would be the           (1)
+    coefficient of SO₂? PbS(s) + O₂(g) → PbO(s) + SO₂(g)
+    A. 5                                                         B. 4
+    C. 2                                                         D. 3
+
+61. Which of the following pairs represents a conjugate acid-base pair in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻?           (1)
+    A. NH₄⁺ and H₂O                                              B. NH₄⁺ and OH⁻
+    C. NH₃ and OH⁻                                               D. NH₃ and NH₄⁺
+
+62. Which of the following salts will create a basic solution when dissolved in water?                                    (1)
+
+    A. FeCl₃                                                     B. KBr
+    C. NH₄Cl                                                     D. Na₂CO₃
+
+63. If the pKa of lactic acid is 3.86, which of the following ratios of lactate to lactic acid would give a pH of 4.86?   (1)
+    A. 1:1                                                       B. 1:5
+    C. 1:10                                                      D. 10:1
+
+64. What is the oxidation number of sulfur in the compound Na₂S₂O₇ (sodium thiosulfate? Actually Na₂S₂O₇ is               (1)
+    sodium pyrosulfate, not thiosulfate. Thiosulfate is Na₂S₂O₃. So careful: question says 'sodium thiosulfate' but
+    formula given is Na₂S₂O₇. Likely they mean pyrosulfate. Oxidation number calculation: Na (+1 each), O (-2 each).
+    Let S = x. 2(+1) + 2x + 7(-2) = 0 → 2 + 2x -14 = 0 → 2x = 12 → x = +6.
+    A. +2                                                        B. +3
+    C. +4                                                        D. +6
+65. In the following reaction, identify the species being oxidized and the species acting as the oxidizing agent: Cu +   (1)
+    HNO₃ → Cu(NO₃)₂ + NO₂ + H₂O
+    A. Cu is oxidized, and NO₂ is the reducing agent.
+    B. HNO₃ is oxidized, and NO₂ is the reducing agent.
+    C. Cu is oxidized, and HNO₃ is the oxidizing agent.
+    D. HNO₃ is oxidized, and Cu is the oxidizing agent.
+
+66. To balance the following redox reaction in a basic solution, how many hydroxide ions (OH⁻) are needed? MnO₄⁻         (1)
+    + I⁻ → MnO₂ + I₂
+    A. 4                                                               B. 8
+    C. 2                                                               D. 6
+
+67. Given the following Ka constants: Ka(HF)=7.2×10⁻⁴, Ka(HNO₂)=4.5×10⁻⁴, Ka(HCN)=6.5×10⁻¹⁰. Which of the                (1)
+    following is the correct order of the substances in basic strength?
+    A. NO₂⁻ > F⁻ > CN⁻                                                 B. NO₂⁻ > CN⁻ > F⁻
+    C. CN⁻ > NO₂⁻ > F⁻                                                 D. F⁻ > NO₂⁻ > CN⁻
+
+68. Which acid has the highest percentage ionization in a 0.1 M solution, assuming equal initial concentrations?         (1)
+    A. Acid with Ka 4.5×10⁻⁴                                           B. Acid with Ka 2.1×10⁻³
+    C. Acid with Ka 1.8×10⁻⁵                                           D. Acid with Ka 7.5×10⁻⁶
+
+69. A solution contains 1.0 M of a weak acid (HA) and 0.1 M of its conjugate base (A⁻). If the pKa of the acid is 5.0,   (1)
+    what is the pH of the solution?
+    A. 3.0                                                             B. 6.0
+    C. 4.0                                                             D. 5.0
+
+70. For a weak acid with a pKa of 4.5, what ratio of conjugate base to acid is needed to prepare a buffer with a pH of (1)
+    5.5?
+    A. 100:1                                                           B. 1:100
+    C. 1:10                                                            D. 10:1
+
+71. Which salt would you expect to create a pH closest to neutral when dissolved in water?                               (1)
+    A. NaCN                                                            B. NH₄Cl
+    C. NaNO₃                                                           D. NH₄NO₃
+
+72. A solution of KCN has a pH greater than 7. Which ion in this salt is responsible for the basic pH?                   (1)
+    A. H⁺                                                              B. OH⁻
+    C. K⁺                                                              D. CN⁻
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

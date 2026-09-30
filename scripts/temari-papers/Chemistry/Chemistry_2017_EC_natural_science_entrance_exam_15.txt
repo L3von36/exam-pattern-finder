@@ -1,0 +1,327 @@
+                                                            Temari.et
+                        Chemistry, 2017 EC, natural science, entrance exam
+                                                  Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                       Questions: 43                                   Total marks: 43
+
+Name                                                Grade                          ID No.             Date
+
+1.   Which one of the following CORRECTLY shows the relative charges of an electron, proton, and neutron, respectively? (1)
+     A. 0, +1, -1                                                   B. 0, -1, +1
+     C. -1, +1, 0                                                   D. -1, 0, +1
+
+2.   Which statement below CORRECTLY describes Bohr's model of an atom?                                                      (1)
+     A. Protons and electrons are found in the nucleus.
+     B. Electrons and neutrons are found in the nucleus.
+     C. Protons move in circular orbits around the nucleus.
+     D. Electrons move in circular orbits around the nucleus.
+
+3.   Which statement below CORRECTLY describes periodicity? Periodicity is                                                   (1)
+     A. a regular repetition of chemical and physical properties in the Periodic Table.
+     B. a row in the Periodic Table which contains elements with the same number of shells.
+     C. a measure of electronegativity which runs from least to most electronegative elements.
+     D. a column of the Periodic Table which contains elements with similar chemical properties.
+
+4.   Which statement below CORRECTLY expresses hydrogen bonding? It is formed by bonding                                     (1)
+     A. a hydrogen atom to an element such as sodium.
+     B. a hydrogen atom to an element such as oxygen.
+     C. two hydrogen atoms with equal sharing of electrons.
+     D. two hydrogen atoms with unequal sharing of electrons.
+
+5.   What is the bond formed between two or more atoms by sharing of electrons?                                              (1)
+
+     A. Ionic bond                                                  B. Metallic bond
+     C. Covalent bond                                               D. Valence bond
+
+6.   Which statement below CORRECTLY describes dipole-dipole forces? It is the force that exists                             (1)
+     A. in all molecules                                            B. between polar molecules.
+     C. between non-polar molecules.                                D. between polar and non-polar molecules.
+
+7.   Comparing the forces between molecules of similar molar masses, which one of the following produces the weakest (1)
+     force?
+     A. Covalent bonds.                                             B. Hydrogen bonding.
+     C. Ionic forces.                                               D. Van der Waal’s forces.
+
+8.   What is a limiting reactant? It is the reactant that                                                                    (1)
+     A. is regenerated at the end of the reaction.
+     B. remains unreacted as the reaction proceeds.
+     C. is present in excess when the reaction goes to completion.
+     D. is completely consumed when the reaction goes to completion.
+9.   Which statement below CORRECTLY distinguishes redox and non-redox reactions?                                             (1)
+     A. Electrons are transferred in redox reactions but not in non-redox reactions.
+     B. Reduction occurs in redox reactions and oxidation takes place in non-redox reactions.
+     C. Oxidation number remains the same in both redox and non-redox reactions.
+     D. Acid-base reactions can be considered as both redox and non-redox reactions.
+
+10. Given the reaction C(s) + CO₂(g) ⇌ 2CO(g), what is the equilibrium constant expression?                                   (1)
+     A. [CO]² / [Cl][CO₂]                                          B. [CO]² / [CO₂]
+     C. [CO]² / [C]                                                D. [Cl][CO₂] / [CO]²
+
+11. Which of the following pair of substances can be considered as examples of the liquid state of matter at room             (1)
+    temperature and 1 atm pressure?
+     A. Carbon and mercury                                         B. Water and carbon dioxide
+     C. Water and mercury                                          D. Carbon and carbon monoxide
+
+12. Which gas law describes the behavior of gases using the variables: temperature, volume, pressure and number of            (1)
+    moles?
+     A. Ideal gas law                                              B. Boyle's law
+     C. Avogadro's law                                             D. Combined gas law
+
+13. Which statement below describes CORRECTLY the assumptions in the kinetic theory of gases?                                 (1)
+     A. Gas molecules occupy a finite volume and have indefinite shape.
+     B. Gas molecules are in random motion with no interactions.
+     C. The average kinetic energies of gas molecules are independent of temperature.
+     D. The average kinetic energies of gas molecules are independent of the amount of gas.
+
+14. If the rate of diffusion of a certain unknown gas is half times the rate of diffusion of helium, what will be the molar   (1)
+    mass of the unknown gas? (Atomic mass of He = 4.0 g/mole)
+     A. 2.0 g/mole                                                 B. 8.0 g/mole
+     C. 16.0 g/mole                                                D. 32.0 g/mole
+
+15. A student added boiling chips into a beaker of water while carrying out an activity to determine the boiling point of     (1)
+    water. Why do you think the boiling chips are necessary?
+     A. To ensure smooth rate of evaporation
+     B. To speed up the rate of evaporation
+     C. To maintain constant temperature and pressure
+     D. To reach the boiling point with less consumption of heat
+
+16. What is the oxidation number of manganese in KMnO₄? (Atomic Number K=19, Mn=25, O=16)                                     (1)
+
+     A. +5                                                         B. +6
+     C. +7                                                         D. +8
+
+17. Aluminum reacts with oxygen to form aluminum oxide. What is the coefficient of aluminum after balancing the               (1)
+    reaction? (Atomic number of Al=13, O=16)
+     A. 2                                                          B. 4
+     C. 6                                                          D. 8
+
+18. What property of an ionic compound can be investigated by heating it in a crucible?                                       (1)
+     A. Melting point                                              B. Solubility
+     C. Malleability                                               D. Crystallization point
+19. Silver has two known isotopes, ¹⁰⁷Ag and ¹⁰⁹Ag with their percent abundance of 52% and 48% respectively. What is      (1)
+    the average atomic mass of silver?
+    A. 107.89                                                    B. 108.06
+    C. 107.48                                                    D. 108.86
+
+20. Which reaction scheme below illustrates the formation of a cation?                                                    (1)
+    A. Na → Na⁺ + e⁻                                             B. 2Cl⁻ → Cl₂ + 2e⁻
+    C. S + 2e⁻ → S²⁻                                             D. Mg²⁺ + 2e⁻ → Mg
+
+21. Which law governs the fact that the ratio of the amount of hydrogen to oxygen by weight will be the same in a drop    (1)
+    of water and a lake of water?
+    A. Law of relative composition                               B. Law of conservation of mass
+    C. Law of multiple proportions                               D. Law of definite composition
+
+22. Which statement below CORRECTLY describes the characteristics of chemical equilibrium?                                (1)
+
+    A. A reaction stops when it reaches equilibrium
+    B. A reaction stops if sufficient amount of time is given.
+    C. The rates of the forward and reverse reactions are equal.
+    D. A new substance or substances are formed when equilibrium is attained.
+
+23. What is the CORRECT IUPAC name of this alkane?                                                                        (1)
+
+       Question Diagram
+    A. 5,7-dichloro-3,9-dimethyldecane                           B. 4,6-dichloro-2,8-dimethyldecane
+    C. 4,6-dichloro-2-ethyl-8-methylnonane                       D. 4,6-dichloro-8-ethyl-2-methylnonane
+
+24. What is the name given to compounds of carbon and hydrogen containing multiple bonds?                                 (1)
+    A. Aliphatic hydrocarbons                                    B. Aromatic hydrocarbons
+    C. Saturated hydrocarbons                                    D. Unsaturated hydrocarbons
+
+25. Which organic compound is used for producing 1,2-ethanediol?                                                          (1)
+
+    A. Ethene                                                    B. Ethane
+    C. Ethyne                                                    D. Ethanol
+
+26. Which of the following is the main constituent of natural gas?                                                        (1)
+    A. Ethane                                                    B. Butane
+    C. Propane                                                   D. Methane
+
+27. In order to avoid the decrease in quality of some clothes after washing with water, which of the following chemicals (1)
+    is used for dry cleaning?
+    A. CH₄                                                       B. CH₂Cl₂
+    C. C₂H₄                                                      D. C₂Cl₄
+
+28. Which of the following properties is the property of an acidic oxide? An acidic oxide reacts with                     (1)
+    A. salts to form acids.
+    B. water to form acids.
+    C. bases to form basic hydroxide and water.
+    D. basic oxides to form hydroxides and water
+29. What is the name given to an acid that dissociates (ionizes) only to a slight extent in aqueous solution?              (1)
+    A. Dilute acid                                                B. Strong acid
+    C. Weak acid                                                  D. Concentrated acid
+
+30. Solutions can be classified based upon their pH values. What is a solution whose pH value 13?                          (1)
+
+    A. Amphoteric solution                                        B. Acidic solution
+    C. Neutral solution                                           D. Basic solution
+
+31. During laboratory class, a student placed clean water in a beaker and added pieces of calcium metal using tongs.       (1)
+    After the reaction is completed, he/she tested the solution using red litmus paper. Which of the following will be
+    observed?
+    A. The litmus paper turns to blue.                            B. The litmus paper turns to red.
+    C. The litmus paper maintains its color.                      D. The litmus paper turns to colorless.
+
+32. In an activity during laboratory session a small amount of lead bromide (PbBr₂) crystals were placed in a beaker. Two (1)
+    electrodes are inserted until they are in contact with the PbBr₂ crystals. When the PbBr₂ crystals in the beaker are
+    gently heated, which of the following will be observed?
+    A. Bromine gas is evolved at the anode                        B. Bromide ion is oxidized at the cathode
+    C. Lead (II) ion is reduced at the anode                      D. Lead (II) ion is oxidized at the cathode
+
+33. What is the name given to the pollution caused by the dumping of non-biodegradable wastes into the environment? (1)
+    A. Air pollution                                              B. Land pollution
+    C. Sound pollution                                            D. Water pollution
+
+34. What is the purpose of the conversion of pig iron to steel?                                                            (1)
+
+    A. To remove impurities by oxidation
+    B. To remove impurities by reduction
+    C. To increase the concentration of iron in the pig iron
+    D. To decrease the concentration of iron in the pig iron
+
+35. Which of the following statements CORRECTLY describes the law of conservation of mass?                                 (1)
+    A. The total mass of substances varies during a chemical reaction.
+    B. Mass is neither created nor destroyed during a chemical reaction.
+    C. A particular compound is composed of the same elements in the same parts by mass.
+    D. Pure compounds always contain the elements in the same percentage by mass.
+
+36. A mineral absorbs purple light of frequency 7.11 × 1014 Hz. What is the wavelength (in nm) of the absorbed light?      (1)
+    Given: c = 3.00 × 108 m/s
+    A. 184.4 nm                                                   B. 237.5 nm
+    C. 421.9 nm                                                   D. 514.5 nm
+
+37. Why do atoms absorb energy when their electrons undergo transitions from a lower energy to a higher energy level? (1)
+    This is because,
+    A. the electrons of the atoms move from one orbit of lower radius to another one having larger radius.
+    B. the electrons of the atoms move from one orbit of higher radius to another one having lower radius.
+    C. the electrons of the atoms do not have allowable energy levels.
+    D. electrons of the atoms absorb energy when they go from higher to lower energy.
+38. What are the quantum numbers for the 5s orbital?                                                                                                                                                                                        (1)
+    A.                                                                                                             B.
+                                                                               1                                                                                                                                    1
+         n = 5,              l = 0,      ml = −1,                       ms = ±                                                  n = 5,          l = 1,      ml = −2,                       ms = ±
+                                                                               2                                                                                                                                    2
+                                                  ​                               ​                ​                                                                 ​                                  ​                   ​
+
+
+
+
+    C.                                                                                                             D.
+                                                                                          1                                                                                                                 1
+         n = 5,              l = 2,      ml = −2,                       ms = ±                                                  n = 5,          l = 0,      ml = 0,                      ms = ±
+                                                                                          2                                                                                                                 2
+                                                  ​                               ​                ​                                                                 ​                      ​                   ​
+
+
+
+
+39. Which is CORRECT about the quantum numbers of helium's two electrons?                                                                                                                                                                   (1)
+
+    A. Both electrons have the same four quantum numbers.
+    B. The second electron occupies the same orbital as the first with the same spin.
+    C. The second electron occupies the same orbital as the first with opposite spin.
+    D. The magnetic quantum numbers of both electrons are different.
+
+40. Scandium (Sc) has the configuration [Ar] 4s² 3d¹. To which group does it belong?                                                                                                                                                        (1)
+    A. Representative elements                                                                                     B. Transition elements
+    C. Inner transition elements                                                                                   D. Nonmetals
+
+41. A student carried out an experiment to determine the melting points of NaCl and CuCl₂. He/she added 0.2 g of NaCl (1)
+    and CuCl₂ into two different test tubes and heated both tubes simultaneously using a Bunsen burner. Which of the
+    following statements is CORRECT regarding the melting point of NaCl and CuCl₂?
+    A. The melting points of NaCl are lower than that of CuCl₂.
+    B. The melting point of NaCl is higher than that of CuCl₂.
+    C. Both NaCl and CuCl₂ will start to melt at the same time.
+    D. Both NaCl and CuCl₂ will not melt.
+
+42. What is the cause of unusual high boiling points of HF, H₂O and NH₃?                                                                                                                                                                    (1)
+    A. Dipole-Dipole forces                                                                                        B. Induced dipole forces
+    C. Hydrogen bonding                                                                                            D. Ion-dipole forces
+
+43. What is the electron configuration of O2 molecule as per the molecular orbital model? (Atomic number of O = 8)                                                                                                                          (1)
+    A.    2         ∗2         2         ∗2            2               2       2                        ∗1
+                                                                                                                 B. 2
+                                                                                                                ∗1                     ∗2         2         ∗2            2               2       2                              ∗2      ∗
+         σ1s   ​   σ1s   ​    σ2s   ​   σ2s   ​       σ2p x   ​
+                                                                  ​   π2p y
+                                                                          ​
+                                                                            = π2p
+                                                                              ​
+
+
+
+
+                                                                                  z        ​
+                                                                                               ​       π2p y
+                                                                                                           ​
+                                                                                                             = π2p
+                                                                                                               ​
+
+
+
+
+                                                                                                                   z
+                                                                                                                     σ1s​
+                                                                                                                            ​     ​   σ1s   ​    σ2s   ​   σ2s   ​       σ2p x   ​
+                                                                                                                                                                                     ​   π2p y
+                                                                                                                                                                                               = π2p
+                                                                                                                                                                                                ​
+                                                                                                                                                                                                    ​
+
+
+
+
+                                                                                                                                                                                                     z              ​
+                                                                                                                                                                                                                        ​       π2p y
+                                                                                                                                                                                                                                    ​
+                                                                                                                                                                                                                                      = π2p
+                                                                                                                                                                                                                                        ​
+
+
+
+
+    C.    2         ∗2         2         ∗2            2               2       2                        ∗2
+                                                                                                                 D. 2
+                                                                                                                ∗3                     ∗2         2         ∗2            2               2       2                              ∗1      ∗
+         σ1s   ​   σ1s   ​    σ2s   ​   σ2s   ​       σ2p x   ​
+                                                                  ​   π2p y
+                                                                          ​
+                                                                            = π2p
+                                                                              ​
+
+
+
+
+                                                                                  z        ​
+                                                                                               ​       π2p y
+                                                                                                           ​
+                                                                                                             = π2p
+                                                                                                               ​
+
+
+
+
+                                                                                                                   z
+                                                                                                                     σ1s​
+                                                                                                                            ​     ​   σ1s   ​    σ2s       σ2s   ​       σ2p x   ​
+                                                                                                                                                                                     ​   π2p y
+                                                                                                                                                                                               = π2p
+                                                                                                                                                                                                ​
+                                                                                                                                                                                                    ​
+
+
+
+
+                                                                                                                                                                                                     z              ​
+                                                                                                                                                                                                                        ​       π2p y
+                                                                                                                                                                                                                                    ​
+                                                                                                                                                                                                                                      = π2p
+                                                                                                                                                                                                                                        ​
+
+
+
+
+                                                                                      — E N D O F E X A M I N AT I O N —
+                                                      Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,413 @@
+                                                          Temari.et
+                Chemistry, 2016 EC, natural science, entrance exam, round 1
+                                                Grade 12 · Chemistry · 2016 E.C.
+
+Time allowed: 120 minutes                                     Questions: 72                                  Total marks: 72
+
+Name                                              Grade                       ID No.                  Date
+
+1.   What are the molecular formulae of an alkene and alkyne containing seven carbon atoms, respectively?                   (1)
+     A. C 7 H 14 and C 7 H 12                                     B. C 7 H 16 and C 7 H 14
+     C. C 7 H 14 and C 7 H 16                                     D. C 7 H 12 and C 7 H 14
+
+2.   Which of the following is the CORRECT method of preparation of alkenes in the laboratory?                              (1)
+     A. Alkylation of sodium acetylide with a primary alkyl halide.
+     B. Heating of sodium salt of an organic acid with soda lime.
+     C. Reaction of halogenated alkane with sodium.
+     D. Dehydration of alcohols with concentrated sulfuric acid.
+
+3.   Which of the following is the product of fractional distillation of crude oil?                                         (1)
+     A. Producer gas                                              B. Naphthalene
+     C. Water gas                                                 D. Kerosene
+
+4.   What is the molecular formula and IUPAC name of a saturated monocarboxylic acid having six carbon atoms?               (1)
+     A. C 5 H 11 COOH, heptanoic acid                             B. C 6 H 13 COOH, heptanoic acid
+     C. C 5 H 11 COOH, hexanoic acid                              D. C 6 H 13 COOH, hexanoic acid
+
+5.   During summer, the average value for the temperature measured in a certain chemistry laboratory is 298.15 K.           (1)
+     How many decimal places are there in the measured value?
+     A. 5                                                         B. 3
+     C. 2                                                         D. 1
+
+6.   Which of the following is the CORRECT Lewis electron -dot symbol of MgO? (Atomic number: Mg = 12 and O = 8) (1)
+     A. Mg + : .. O : .. 2-                                       B. Mg +2 : .. O : .. -
+     C. Mg + : .. O : .. -                                        D. Mg +2 : .. O : .. 2-
+
+7.   A student collected four beakers in his/her laboratory and added some small amounts of the following:                  (1)
+     naphthalene to the first, graphite to the second, iodine to the third and alcohol to the fourth. If they added equal
+     volume of water to each of the above beakers and shake each beaker, which of the following will be their
+     observation?
+     A. There will be dissolution in the first three beakers.
+     B. Water will dissolve iodine rather than graphite.
+     C. Water will dissolve the whole given chemicals in the four beakers.
+     D. There will be dissolution of alcohol in the fourth beaker.
+8.   Which of the following explanations about reversible and irreversible reactions is CORRECT?                              (1)
+     A. A reaction that has only a forward reaction or a reverse reaction is known as a reversible chemical reaction.
+     B. A reaction that proceeds from reactant to product and from product to reactant is known as an irreversible
+        reaction.
+     C. Chemical reactions that proceed only towards the formation of a product are known as irreversible reactions.
+     D. Chemical reactions that proceed only towards the formation of a product are known as reversible reactions.
+
+9.   Consider the following three steps: Step 1 : Electrolysis of water and fractional distillation of air Step 2 : Passing   (1)
+     hot mixture of gases through a condenser Step 3 : Introducing hydrogen and nitrogen gases in a chamber
+     containing iron particles at a temperature of 300 - 500 °C and a pressure of 15 - 25 MPa Which of the following
+     is the CORRECT sequence involved during the industrial production of ammonia using the Haber process?
+     A. Step 1 → Step 3 → Step 2                                 B. Step 2 → Step 3 → Step 1
+     C. Step 2 → Step 1 → Step 3                                 D. Step 1 → Step 2 → Step 3
+
+10. Which of the following is a physical property of nitric acid, HNO 3 ?                                                     (1)
+     A. On exposure to light, it turns brown.                    B. Nitric acid is a corrosive chemical.
+     C. Nitric acid has a pungent smell.                         D. It forms large number of salts.
+
+11. Which of the following is the CORRECT explanation about herbicides?                                                       (1)
+
+     A. Selective herbicides control specific weed species, leaving the desired crop unharmed.
+     B. Organochlorine compounds are the most common herbicide substances.
+     C. Herbicides are substances that are used to control unwanted insects.
+     D. Herbicides are substances that are used to enhance the growth of important plants.
+
+12. A student collected the following information from the community on the preparation of the local alcoholic drink          (1)
+    "ARAKI": Step 1 : Distillation of the liquid mixture in traditional ways Step 2 : Adding a proportional amount of
+    water to liquidity the tick dough - like mixture and leaving for 1-2 days for further fermentation Step 3 : "Bikel"
+    preparation from barely, the starter ("Tinsess") preparation by mixing the Bikel with Gesho (Rhamunspronoides)
+    powder and fermentation of the starter for few days Step 4 : Baking of bread from different ingredients and
+    breaking down the bread and mixing with the fermented starter and leaving for fermentation for couple of days
+    Which of the following is the correct procedure for the preparation of Araki?
+     A. Step 2 → Step 4 → Step 3 → Step - 1                      B. Step 2 → Step 3 → Step 4 → Step - 1
+     C. Step 3 → Step 4 → Step 2 → Step - 1                      D. Step 4 → Step 3 → Step 2 → Step - 1
+
+13. Which one of the following synthetic polymers is used to make squeeze bottles, plastic wrapping and electrical            (1)
+    insulation?
+     A. Polypropylene                                            B. Polymethyl methacrylate
+     C. Polyvinylchloride                                        D. Polyethylene
+
+14. Which of the following descriptions of the property of a covalent compound is CORRECT?                                    (1)
+     A. Covalent compounds have low melting and boiling points.
+     B. Most covalent compounds are solids at room temperature.
+     C. Most covalent compounds are soluble in water.
+     D. Covalent compounds are non-volatile.
+
+15. The attractive force between molecules is known as _________.                                                             (1)
+     A. nuclear force                                            B. intermolecular force
+     C. lattice force                                            D. intramolecular forces
+16. The hybridization of the central atom xenon (Xe) in xenon tetraflouride, XeF 4 , is sp 3 d 2 . Which of the following (1)
+    is the shape of XeF 4 ?
+    A. Octahedral                                               B. Square planar
+    C. Tetrahedral                                              D. Seesaw shape
+
+17. Consider the following reaction between nitrogen (N 2 ) and oxygen (O 2 ): N 2 (g) + O 2 (g) → 2NO(g) If the rate      (1)
+    of disappearance of N 2 is 2.5 x 10 -6 M/s, what is the rate of reaction for the formation of NO?
+    A. 5.0 x 10 -6 M/s                                          B. 1.25 x 10 -3 M/s
+    C. 2.50 x 10 -3 M/s                                         D. 2.50 x 10 -6 M/s
+
+18. Which of the following is a Lewis acid?                                                                                (1)
+    A. SO 4 2-                                                  B. SO 3 2-
+    C. BF 3                                                     D. NH 3
+
+19. The pH of a 0.10 M solution of an aqueous solution of a certain acid is 3. What is the value of acid ionization        (1)
+    constant (K a ) of this acid?
+    A. 1.0 x 10 -7                                              B. 1.0 x 10 -5
+    C. 1.0 x 10 -3                                              D. 1.0 x 10 1
+
+20. The shift in the position of equilibrium caused by the addition of an ion already involved in the reaction is known    (1)
+    as _________.
+    A. common-ion effect                                        B. buffer-ion effect
+    C. hydrolysis-effect                                        D. titration-effect
+
+21. Which of the following is CORRECT about equivalents of acids and bases?                                                (1)
+
+    A. The volume of an acid or base required to reach equivalence point during acid-base titration reaction.
+    B. The number of moles of an acid or base required to form a one molar aqueous acidic or basic solution.
+    C. It is the amount of a substance that is required to react with one mole of hydroxide ions in redox reactions.
+    D. It is the amount of a substance that is required to react with one mole of hydrogen ions in acid-base reactions.
+
+22. A 250 mL solution is formed from 24.5 g of sulfuric acid (H 2 SO 4 ). What is the normality of this solution? (Mol.    (1)
+    wt. H 2 SO 4 = 98 g/mol)
+    A. 4.00 N                                                   B. 2.00 N
+    C. 0.250 N                                                  D. 0.125 N
+
+23. Which of the following reaction is used for the preparation of bases?                                                  (1)
+    A. Reaction of metal hydroxides with dilute acids.
+    B. Reaction of active metal oxides with water
+    C. Heating of a salt with a non-volatile acid.
+    D. Heating of carbonates with dilute acids.
+
+24. Which of the following salts is used in the treatment of waste water?                                                  (1)
+    A. CaCO 3                                                   B. BaSO 4
+    C. FeCl 3                                                   D. KNO 3
+25. A student prepared two beakers, each containing 100 mL of water. The student dissolved 10 mL of concentrated          (1)
+    HCl in the first beaker and 10 mL of concentrated CH 3 COOH in the second beaker, which of the following
+    would occur in the solution?
+    A. In the first beaker, a large fraction of HCl dissociates into ions and in the second beaker, a small fraction of CH 3
+       COOH dissociates into ions.
+    B. In the first beaker, a small fraction of HCl dissociates into ions and in the second beaker, a large fraction of CH 3
+       COOH dissociates into ions.
+    C. There is no dissociation or ionization of the HCl and CH 3 COOH in both the first and second beakers.
+    D. The amount of HCl dissociated in the first beaker and the amount of CH 3 COOH dissociated in the second
+       beaker are identical.
+
+26. Consider the following five-steps during the extraction of aluminum from its bauxite ore by the Hall process: I.      (1)
+    Treating the mixture of an aqueous solution of sodium silicate and aluminate with an acid II. Heating aluminum
+    oxide strongly in a furnace III. Heating the ore with sodium hydroxide solution IV Conversion of aluminum oxide
+    to soluble sodium aluminate V. Electrolysis of molten mixture of cryolite and aluminum oxide Which of the
+    following is the CORRECT sequence of production?
+    A. III, IV, I, II and V                                     B. IV, II, I, III and V
+    C. V, I, II, IV and III                                     D. II, I, III, IV and V
+
+27. Which of the following food preservation methods leaves a product without loss of aroma or flavor?                    (1)
+    A. Vacuum-packing                                           B. Freeze-drying
+    C. Freezing                                                 D. Melting
+
+28. The electronic configuration of an element in the periodic table is 1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 10 4p 5 . In     (1)
+    which block does this element belong?
+    A. f-block                                                  B. d-block
+    C. p-block                                                  D. s-block
+
+29. Which of the following is CORRECT about the formation of a covalent bond? A covalent bond is formed                   (1)
+    A. between positively and negatively charged ions.
+    B. between mobile and stationary electrons.
+    C. by the sharing of valence electrons.
+    D. by the transfer of valence electrons.
+
+30. The molecule of carbon tetrachloride (CCl 4 ) has four polar (C - Cl) bonds. However, CCl 4 is a non-polar            (1)
+    molecule. Which of the following explains the reason for the observed property of CCl 4 ?
+    A. The molecule is non-polar because of the presence of four polar C-Cl bonds in the molecule.
+    B. The molecule is non-polar because of the difference in electronegativity between carbon and chlorine.
+    C. Even though the bond in CCl 4 is polar, the net dipole moment of the molecule is different from zero.
+    D. Even though the bond in CCl 4 is polar, the net dipole moment of the molecule is zero.
+
+31. Which of the following is responsible for the unusual high boiling points of HF, H 2 O and NH 3 ?                     (1)
+
+    A. London dispersion forces                                 B. Hydrogen bonding
+    C. Covalent bonding                                         D. Ionic bonding
+32. From the assumption of kinetic molecular theory of gases, which of the following is CORRECT?                             (1)
+    A. The pressure of a gas is the effect of the negligible volume of the gas compared to the total volume of the gas.
+    B. The average kinetic energy of gas particles is inversely proportional to the absolute temperature of the gas.
+    C. There are some forces of attraction or repulsion between gas particles.
+    D. Under ordinary conditions, the total volume of gas molecules is much smaller than the total volume of gas.
+
+33. Which of the following is CORRECT about the phase change observed in water?                                              (1)
+    A. Water starts to evaporate at the boiling point and condenses at the melting point.
+    B. When a solid ice is heated, it is changed to liquid water without melting.
+    C. At the boiling point temperature, water exists in three different physical states.
+    D. At the melting point of ice, the temperature remains constant.
+
+34. Given the symbols of the three subatomic particles; electrons (e - ), protons (p + ) and neutrons (n 0 ), which of       (1)
+    the following is the CORRECT comparison of the absolute masses of protons, electrons and neutrons?
+    A. Mass of e - > mass of p + = mass of n 0
+    B. Mass of e - = mass of p + > mass of n 0
+    C. Mass of e - < mass of p + < mass of n 0
+    D. Mass of e - > mass of p + > mass of n 0
+
+35. In the modern periodic table, what is the name of the group that contains the most electronegative elements?             (1)
+    A. Alkali                                                    B. Halogens
+    C. Chalcogens                                                D. Noble gases
+
+36. A given element has atomic number of 55 and mass number of 133. Which of the following describes                         (1)
+    CORRECTLY the property of this element?
+    A. The non-metallic character of the element is high.
+    B. The metallic character of the element is high.
+    C. The element has high electron affinity.
+    D. The element has high electronegativity.
+
+37. Consider the mechanism for the decomposition of N 2 O 5 to NO 2 : First step: 2N 2 O 5 (g) = 4NO 2 (g) Second            (1)
+    step: N 4 O 10 (g) → NO 3 (g) + 2 NO 2 (g) + O 3 (g) Third step: N 2 O 5 (g) + O 3 (g) → 2 NO 2 (g) + O 2 (g) Overall:
+    2N 2 O 5 (g) → 4 NO 2 (g) + O 2 (g) Which step is the rate-determining step?
+    A. Third step                                                B. First step
+    C. The overall step                                          D. Second step
+
+38. Consider the following reaction: N 2 (g) + O 2 (g) = 2NO(g) The equilibrium concentrations of gaseous nitrogen,          (1)
+    oxygen and nitrogen monoxide in a sealed container are as follows: [N 2 ] = 1 x 10 -3 M, [O 2 ] = 2 x 10 -5 M and
+    [NO] = 4 x 10 -5 M. What is the value of the equilibrium constant for the reaction?
+    A. 8                                                         B. 2
+    C. 16                                                        D. 4
+39. At a certain temperature the following reaction has an equilibrium constant Kc = 12.4. N 2 (g) + 3H 2 (g) ⇌ 2NH 3       (1)
+    (g) If [N 2 ] = 2.0 M, [H 2 ] = 2.0 M and [NH 3 ] = 10.0 M, to which direction will the reaction proceed to reach
+    equilibrium?
+    A. The reaction will proceed to the reverse direction.
+    B. The reaction is at a chemical equilibrium.
+    C. The equilibrium is independent of the concentration.
+    D. The reaction will proceed to the forward direction.
+
+40. Upon standing long, "Tella" or "Tej" turns sour. Which of the following is the CORRECT explanation for the              (1)
+    observed effect?
+    A. The reduction of alcohol to an acid.
+    B. The oxidation of alcohol to an acid.
+    C. Addition reaction of alcohol with an acid.
+    D. Decomposition reaction of alcohol.
+
+41. A student is interested in determining the content of a leaf from his/her environment and performed the          (1)
+    following: Step: 1 He/she dried the leaves up in sun light Step: 2 Evaluated the work and draw conclusions Step:
+    3 Collected leaves from the tree around his village Step: 4 He/she boiled the leaves and collected the leaves
+    extracted Step: 5 Analyze the content of the leaves extracted using an instrument Which of the following is the
+    CORRECT procedure if a student developed an experimental skill?
+    A. Steps: 3 → 5 → 4 → 1 → 2                                  B. Steps: 3 → 4 → 1 → 5 → 2
+    C. Steps: 3 → 1 → 4 → 5 → 2                                  D. Steps: 3 → 1 → 5 → 4 → 2
+
+42. "The hydrogen atom moves in a fixed circular orbit associated with allowable energy states" This is called ____.        (1)
+    A. Planck's theory                                           B. Bohr's theory
+    C. Pauli's principle                                         D. Aufbau's principle
+
+43. Which of the following is the core electron configuration of the metal ion in ferric sulfate, Fe 2 (SO 4 ) 3 ? (Atomic (1)
+    Number of Fe = 26)
+    A. [Ar]4s 2 3d 6                                             B. [Ar]4s 1 3d 6
+    C. [Ar]3d 6                                                  D. [Ar]3d 5
+
+44. A chemical bond that results from the attractive force between shared electrons and nonmetal nucleus is called          (1)
+    _____.
+    A. covalent bond                                             B. ionic bond
+    C. hydrogen bond                                             D. metallic bond
+
+45. Which of the following is peroxide?                                                                                     (1)
+
+    A. ZnO                                                       B. FeO
+    C. K 2 O                                                     D. CaO 2
+
+46. Among the following which one is a ternary acid?                                                                        (1)
+    A. HBr                                                       B. HCl
+    C. H 2 SO 4                                                  D. H 2 S
+
+47. What is the pH of pure water at 37°C, where K w equals 2.50 × 10 -14 and its pH is 6.8? (log 10 0.4 = -0.4)             (1)
+    A. 8.8                                                       B. 8.2
+    C. 6.8                                                       D. 7.5
+48. The hydrogen ion concentration in a certain solution at 25 °C is 10 × 10 -6 M. What is the pH of this solution?   (1)
+    A. 8                                                        B. 10
+    C. 2                                                        D. 6
+
+49. Given the following oxidation-reduction reaction: H 2 S + HNO 3 → S + NO + H 2 O Which of the following is        (1)
+    CORRECT from the given equation?
+    A. The oxidation number of N is increased.                  B. The oxidation number of S is decreased.
+    C. S is a reducing substance.                               D. HNO 3 is an oxidizing agent.
+
+50. Consider the following diagram of an electrolytic cell: Which of the following is CORRECT from the given          (1)
+    diagram
+    A. Oxidation takes place at the cathode.
+    B. Reduction takes place at the anode.
+    C. Magnesium ion is oxidizing agent in the electrode reaction.
+    D. There is a decrease in oxidation number of chloride ion.
+
+51. Which of the following is CORRECT about molten electrolytes and aqueous electrolytes?                             (1)
+    A. The possible half reactions in molten electrolytes are more compared to aqueous electrolytes.
+    B. Both molten and aqueous electrolytes involve preferential discharge of ions at each electrode.
+    C. An electrolyte that conducts electricity when dissolved in a certain liquid is molten electrolyte.
+    D. During the electrolysis of a molten electrolyte, the reduction of cations occurs at the cathode.
+
+52. Which of the following is NOT the industrial application of electrochemistry?                                     (1)
+    A. Electrolytic refining                                    B. Electroplating
+    C. Electromagnetism                                         D. Electro synthesis
+
+53. Which of the following chemical industries is INCORRECTLY matched with its products?                              (1)
+    A. Textile industry- glasses                                B. Beverage industry- alcohols
+    C. Food industry- Biscuits                                  D. Paper industry- cartons
+
+54. A student added 25 mL of AgNO 3 solution to a beaker and weighed the mass of the beaker and its content as        (1)
+    m 1 . He/she added 50 mL of a saturated solution of NaCl into the second beaker and weighed the mass of the
+    beaker and its content as m 2 . Finally, he/she mixed the two solutions and weighed the mass of the resulting
+    solution with the two beakers and recorded as m 3 . If he/she found that m 1 = m 2 , which one of the following
+    laws is investigated by this trial?
+    A. Law of definite composition                              B. Law of multiple proportions
+    C. Law of conservation of energy                            D. Law of conservation of mass
+
+55. A chemical reaction that releases heat energy to the surrounding is known as _____.                               (1)
+
+    A. exothermic reaction                                      B. endothermic reaction
+    C. decomposition reaction                                   D. combination reaction
+
+56. A type of reaction in which two compounds react together to form two or more products by exchanging               (1)
+    reactants ions is known as _____________.
+    A. Decomposition reaction                                   B. Combination reaction
+    C. Double Displacement reaction                             D. Single Displacement reaction
+57. "At a given temperature and pressure, equal volumes of different gases contain equal number of molecules", this   (1)
+    is known as _______
+    A. Charle's law                                             B. Boyle's law
+    C. Gay Lussac's law                                         D. Avogadro's law
+
+58. Which of the following includes the preconditions required for a chemical reaction to occur?                      (1)
+    A. Temperature, activation energy, proper orientation
+    B. Temperature, pressure and proper orientation
+    C. Activation energy, proper orientation and collision between reactants
+    D. Activation energy, pressure and collision between reactants
+
+59. Consider the following reaction of zinc carbonate, ZnCO 3 : ZnCO 3 (s) → ZnO(s) + CO 2 (g) The chemical reaction (1)
+    that takes place during the conversion of ZnCO 3 is classified as
+    A. decomposition reaction                                   B. combination reaction
+    C. double displacement reaction                             D. single displacement reaction
+
+60. Given the following reaction: CaCO 3 + HCl → CaCl 2 + CO 2 + H 2 O (unbalanced) If 40 g of CaCO 3 reacts with     (1)
+    30 g of HCl, which substance is the limiting and which is the excess reagent? (Atomic Mass: Ca=40 g/mol, C=12
+    g/mol, O=16 g/mol, H=1 g/mol and Cl=35.5 g/mol)
+    A. HCl is limiting and CaCl 2 is excess reagents.
+    B. HCl is limiting and CaCO 3 is excess reactants.
+    C. CaCO 3 is limiting and CaCl 2 is excess reagents.
+    D. CaCO 3 is limiting and HCl is excess reactants.
+
+61. A sample of a certain gas has a volume of 100 L at 27 °C and 750 torr. The gas is expanded to a volume of 250 L (1)
+    at 200 torr. What is the final temperature of the gas?
+    A. -83 °C                                                   B. -73 °C
+    C. -17 °C                                                   D. -273 °C
+
+62. Which of the following is a CORRECT explanation of the given term?                                                (1)
+    A. Boiling point is the temperature at which the vapor pressure of the liquid equals the atmospheric pressure.
+    B. Condensation is the process by which a liquid changes to a gas at the boiling point of the liquid.
+    C. Normal boiling point is the temperature at which the liquid starts to be converted to the gaseous state.
+    D. Heat of vaporization is the energy required to convert one gram of a solid to a gas at its boiling point.
+
+63. Which of the following is the general formula of alkenes?                                                         (1)
+    A. C n H 2n-2                                               B. C n H 2n+2
+    C. C n H n                                                  D. C n H 2n
+
+64. What are the two types of polymerizations?                                                                        (1)
+    A. Condensation and substitution polymerizations
+    B. Addition and decomposition polymerizations
+    C. Condensation and displacement polymerizations
+    D. Addition and condensation polymerizations
+
+65. Which of the following is a monomer of natural rubber?                                                            (1)
+    A. Ethylene terephthalate                                   B. Styrene
+    C. Hexamethylene diamine                                    D. Isoprene
+66. The component of the environment consisting earth's upper outer most skin, and accessible to human beings is     (1)
+    known as _____.
+    A. biosphere                                                      B. lithosphere
+    C. hydrosphere                                                    D. atmosphere
+
+67. Consider the following steps that occur during the nitrogen cycle: Step: 1 Reduction of nitrate by microbial     (1)
+    action Step: 2 Fixation of nitrogen by bacteria and algae Step: 3 Nitrification by nitrososnas and nitrobactra
+    Step: 4 Denitrification of nitrate with acid and formaldyde Which of the following is the CORRECT sequence in
+    the nitrogen cycle?
+    A. Step 2 → Step 3 → Step 4 → Step 1                              B. Step 1 → Step 2 → Step 3 → Step 4
+    C. Step 2 → Step 3 → Step 1 → Step 4                              D. Step 1 → Step 3 → Step 4 → Step 2
+
+68. Some hazardous substances damage and create unwanted changes in air, water, soil or any other natural            (1)
+    resource. The resulting change created is known as:
+    A. afforestation                                                  B. pollution
+    C. greenhouse effect                                              D. global warming
+
+69. Given the following heterogeneous reaction: CaCO 3 (s) ⇌ CaO (s) + CO 2 (g) What is the equilibrium constant     (1)
+    expression for the above reaction?
+    A. K c = [CaO][CO 2 ]                                             B. K c = [CaO][CO 2 ]/[CaCO 3 ]
+    C. K c = [CO 2 ]                                                  D. K c = [CaO]/[CaCO 3 ]
+
+70. Which of the following statements is CORRECT regarding the properties of monocarboxylic acids?                   (1)
+    A. Carboxylic acids react with active metals to form salt and hydrogen gas.
+    B. The hydrolysis of carboxylic acids in water produces an ester and water.
+    C. Carboxylic acids react with strong bases to form esters and water.
+    D. Heating of carboxylic acid with alcohol produces salt and water.
+
+71. A water molecule has two bond pairs and two lone pairs of electrons. Which of the following is CORRECT about     (1)
+    these pairs of electrons?
+    A. The repulsion between the two bonding pairs is greater than the repulsion between the two lone pairs.
+    B. The repulsion between the two lone pairs is greater than the repulsion between the two bonding pairs.
+    C. Bonding pair - lone pair repulsion is greater than lone pair - lone pair repulsion.
+    D. Lone pair - lone pair repulsion is exactly identical with bonding pair - bonding pair repulsion.
+
+72. Which of the following CORRECTLY describes conjugate acids and conjugate bases?                                  (1)
+    A. Conjugate acid is a species formed after a removal of a proton from a base whereas conjugate base is formed
+       after addition of proton to an acid.
+    B. Conjugate base is a species formed after removal of a proton from an acid whereas conjugate acid is formed
+       after addition of a proton to a base.
+    C. Conjugate acid has one fewer hydrogen and one more minus charge than the corresponding acid.
+    D. Conjugate base has one more hydrogen and one fewer minus charge than the corresponding base.
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

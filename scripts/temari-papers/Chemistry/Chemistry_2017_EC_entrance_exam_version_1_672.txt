@@ -1,0 +1,416 @@
+                                                         Temari.et
+                            Chemistry, 2017 EC, entrance exam, version 1
+                                               Grade 12 · Chemistry · 2017 E.C.
+
+Time allowed: 120 minutes                                    Questions: 75                                    Total marks: 75
+
+Name                                             Grade                       ID No.                   Date
+
+1.   Which of the following atomic models is NOT expressed correctly?                                                       (1)
+     A. Dalton's atomic model. billiard ball model
+     B. Thomson's model of atom .Plum pudding model
+     C. Thomson's model of atom .Planetary model
+     D. Rutherford atomic model .Nuclear model
+
+2.   Suppose an unknown element does NOT deflect cathode rays in an electric field but has significant mass. Based (1)
+     on atomic models, which subatomic particle could it be composed of, and how would this impact the element's
+     atomic structure?
+     A. Protons; making the nucleus positively charged
+     B. Neutrons; contributing to atomic mass without charge
+     C. Electrons; moving freely in orbitals
+     D. Positrons; leading to an unstable atom
+
+3.   A student is studying an atom with a mass number of 23 and an atomic number of 11. Based on nuclear                    (1)
+     composition, which of the following statements is correct?
+     A. The nucleus contains 11 protons and 12 neutrons
+     B. The nucleus contains 11 neutrons and 12 protons
+     C. The nucleus contains only 11 protons
+     D. The nucleus contains 23 neutrons and 11 protons
+
+4.   A scientist shines red and blue light on a metal surface. The red light does not eject electrons, but the blue light   (1)
+     does. What conclusion can be drawn?
+     A. The red light has higher intensity than the red light
+     B. The blue light has a higher frequency and sufficient energy
+     C. The red light has more energy than the blue light
+     D. The photoelectric effect depends only on intensity, not frequency
+
+5.   The maximum kinetic energy of photoelectrons ejected from a metal when it is subjected to a radiation of               (1)
+     frequency 3.0 × 10^15 Hz is 6.63 × 10^-19 J. The threshold frequency, ν₀ of the photoelectron of the metal is
+     A. 1.0×10^15 Hz                                             B. 2.0×10^-15 Hz
+     C. 3.0×10^15 Hz                                             D. 2.0×10^15 Hz
+
+6.   Which of the following correctly explains Heisenberg's Uncertainty Principle?                                          (1)
+     A. The exact position and momentum of a particle can be simultaneously determined.
+     B. The more precisely the position of an electron is known, the less precisely its momentum is known.
+     C. It suggests that electrons move in fixed circular orbits around the nucleus.
+     D. It only applies to macroscopic objects and not quantum particles.
+7.   Why do ionic compounds typically have higher melting points than covalent compounds?                              (1)
+     A. Due to ionic bonds involve electron sharing.
+     B. Due to ionic lattices have strong electrostatic forces.
+     C. Due to covalent bonds are weaker than van der Waals forces.
+     D. Due to ionic compounds have lower polarity?
+
+8.   Using Born-Haber cycle, what is the lattice energy of NaCl, given the following data? Sublimation energy of Na = (1)
+     +108 kJ/mol; Ionization energy of Na = +496 kJ/mol; Bond dissociation of Cl₂ = +240 kJ/mol; Electron affinity of
+     Cl = -349 kJ/mol; Enthalpy formation of NaCl = -411 kJ/mol.
+     A. -750 kJ/mol                                             B. -880 kJ/mol
+     C. -786 kJ/mol                                             D. -920 kJ/mol
+
+9.   Which of the following molecules is an exception to the octet rule due to having an incomplete octet?             (1)
+     A. CO₂                                                     B. BeCl₂
+     C. NH₃                                                     D. CH₄
+
+10. Which molecular shape is expected when a central atom has three bonding pairs and one lone pair?                   (1)
+     A. Trigonal planar                                         B. Tetrahedral
+     C. Trigonal pyramidal                                      D. Trigonal bipyramidal
+
+11. According to valence shell electron pair repulsion (VSEPR) theory, what is the molecular shape of PF₅?             (1)
+     A. Trigonal planar                                         B. Tetrahedral
+     C. Trigonal bipyramidal                                    D. Octahedral
+
+12. Which of the following sample routine correctly indicate the extraction of copper from its principal ore?          (1)
+
+     A. Concentration of ores → Reduction → Roasting → Purification
+     B. Concentration of ores → Roasting → Reduction → Purification
+     C. Concentration of ores → Purification → Roasting → Reduction
+     D. Purification → Concentration of ores → Reduction → Roasting
+
+13. Though Graphite is a non-metal, it conducts electricity. Which of the following is correctly explaining this       (1)
+    property?
+     A. Due to the presence of delocalized electrons within its structure that allow charge movement.
+     B. Because it is made of ionic bonds, allowing ions to move freely.
+     C. Because it contains metallic bonds similar to those in metals.
+     D. Due to Graphite atoms are arranged randomly, which increases conductivity.
+
+14. Which type of intermolecular force is primarily responsible for the high boiling point of water?                   (1)
+     A. Ion-dipole interactions                                 B. London dispersion forces
+     C. Hydrogen bonding                                        D. Covalent bonding
+
+15. Which of the following represents the correct molecular orbital electron configuration of O₂?                      (1)
+     A. σ1s² σ*1s² σ2s² σ*2s² σ2px² (π2py² = π2pz²) (π*2py¹ = π*2pz¹)
+     B. σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2py²
+     C. σ1s² σ*1s² σ2s² σ*2s² π2py² = π2pz² σ2px² π*2py² = π*2pz¹
+     D. σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2pz²
+16. Why does the molecular geometry of ammonia (NH₃) have a trigonal pyramidal shape rather than being a            (1)
+    tetrahedral shape?
+    A. Due to the presence of lone pair-bonding pair repulsion on nitrogen
+    B. Due to the presence of hydrogen bonding in ammonia molecule.
+    C. Because nitrogen exhibits sp-hybridization
+    D. Because the hydrogen atoms are different in size
+
+17. If a molecule has sp hybridization, what will its molecular geometry be?                                        (1)
+    A. Tetrahedral                                             B. Trigonal planar
+    C. Linear                                                  D. Bent
+
+18. If the temperature of a gas decreases while the volume remains constant, what happens to the pressure?          (1)
+    A. Increases                                               B. Decreases
+    C. Stays the same                                          D. Doubles
+
+19. A gas occupies 2 L at 300 K. If the temperature increases to 600 K at constant pressure, what will be its new   (1)
+    volume?
+    A. 1 L                                                     B. 2 L
+    C. 4 L                                                     D. 6 L
+
+20. Why do solids have a fixed shape?                                                                               (1)
+    A. Their particles are far apart and move freely
+    B. Their particles are tightly packed
+    C. Their particles slide past each other
+    D. Their particles have the highest kinetic energy
+
+21. Which of the following statements about the three states of matter is FALSE?                                    (1)
+    A. Solids have definite shape and volume                   B. Liquid attain the shape of container
+    C. Gases have definite shape and volume                    D. Gases can be compressed easily
+
+22. Which of the following is NOT a factor affecting rate of reaction?                                              (1)
+    A. Pressure of gaseous substance                           B. Concentration of product
+    C. Surface area of solid substance                         D. Temperature of solid
+
+23. In the reaction X + 3Y → 2Z, how does disappearance rate of Y compare with the rate of appearance of Z?         (1)
+
+    A. The rate of disappearance of Y is 1/2 the rate of appearance of Z
+    B. The rate of disappearance of Y is 3/2 the rate of appearance of Z
+    C. The rate of disappearance of Y is 2/3 the rate of appearance of Z
+    D. The rate of disappearance of Y is 1/3 the rate of appearance of Z
+
+24. How does catalyst generally affect the rate of a chemical reaction?                                             (1)
+    A. Positive catalyst promote the rate of reaction by increasing activation energy
+    B. Positive catalyst promote the rate of reaction by decreasing activation energy
+    C. Inhibitor facilitate the rate of reaction with constant activation energy
+    D. Catalyst doesn't affect rate of reaction
+25. If you need to design an experiment to increase the rate of reaction between magnesium and hydrochloric acid,   (1)
+    which combination of factors would work best?
+    A. Use large pieces of magnesium and decrease temperature
+    B. Crush magnesium block into powder and use a catalyst
+    C. Reduce hydrochloric acid concentration and add a catalyst
+    D. Increase pressure and decrease reactant concentration
+
+26. What does Le Chatelier's Principle predict when the concentration of reactants in a system at equilibrium is    (1)
+    increased?
+    A. The equilibrium will shift to favor the reactants.
+    B. The equilibrium will shift to favor the products.
+    C. The equilibrium will not shift
+    D. The reaction will stop.
+
+27. The value of the equilibrium constant, Kc for the reaction given: A + 2B ⇌ 2C is 10. What is the value of the   (1)
+    equilibrium constant for the reaction: 6C ⇌ 3A + 6B?
+    A. 0.010                                                   B. 1000
+    C. 0.001                                                   D. 10
+
+28. Which elements are commonly found in the alloy of bronze?                                                       (1)
+    A. Copper and tin                                          B. Iron and carbon
+    C. Aluminum and zinc                                       D. Nickel and chromium
+
+29. In general, melting point of fat is _________ and melting point of oil is ________                              (1)
+
+    A. Higher, higher                                          B. Lower, lower
+    C. Higher, lower                                           D. Lower, higher
+
+30. Given the general structure of organic compounds: R-CH₂-CH₂CH₂ OH ... monohydric alcohol; R-CH₂-CH₂COOH         (1)
+    ... Carboxylic acid; R-CH₂CH₂CHO ... Aldehyde. Then which general formula derived for monohydric alcohol,
+    carboxylic acid and aldehyde respectively?
+    A. CₙH₂ₙ₊₁(OH), CₙH₂ₙ(O)₂, CₙH₂ₙ₋₂(O)                      B. CₙH₂ₙ(OH), CₙH₂ₙ(O), CₙH₂ₙ(O)
+    C. CₙH₂ₙ(OH), CₙH₂ₙ₊₁(O), CₙH₂ₙ(O)                         D. CₙH₂ₙ(OH), CₙH₂ₙ(O), CₙH₂ₙ(O)₂
+
+31. Why carboxylic acids are more acidic than alcohols both of them have a hydrogen atom attached to an oxygen      (1)
+    atom (—O—H)? Because:
+    A. Carboxylic acids can release proton easier than alcohols.
+    B. The intermolecular force of carboxylic acid is stronger than that of alcohol
+    C. The boiling point of carboxylic acid is higher than that of alcohol
+    D. The surface area of carboxylic acid is greater than that of alcohol
+
+32. In which of the following compounds, IUPAC name, common name and its structure is NOT correctly matched?        (1)
+    A. Ethanedioic acid - Oxalic acid - HO₂C-CO₂H
+    B. Propanedioic acid - Malonic acid - HO₂CCH₂CO₂H
+    C. Butanedioic acid - Succinic acid - HO₂C(CH₂)₂CO₂H
+    D. Pentanedioic acid - Glutaric acid - HO₂CCH₂CO₂H
+33. Esters are reduced to primary alcohols by special reducing agents. What is the most appropriate reagent used to (1)
+    do this reduction?
+    A. LiAlH₄/H⁺                                              B. V₂O₅
+    C. KMnO₄                                                  D. Pt/Pd
+
+34. Which of the following are the correct postulates of Dalton atomic theory that are inconsistent with modern      (1)
+    atomic theory?
+    A. All elements are made up of small particles called atoms
+    B. Compounds are formed when atoms of more than one element combine
+    C. Any matter is composed from indivisible atoms
+    D. Atoms of the same elements have identical chemical properties.
+
+35. What is the main product when benzene is treated with a mixture of concentrated nitric acid and sulfuric acid?   (1)
+    A. Nitrobenzene                                           B. Benzaldehyde
+    C. Phenol                                                 D. Toluene
+
+36. What is the period and group of the element with atomic number 13?                                               (1)
+    A. Period 2, Group IIA                                    B. Period 3, Group IIA
+    C. Period 3, Group IIIA                                   D. Period 4, Group IIA
+
+37. Which of the following is TRUE about the periodic properties of elements?                                        (1)
+    A. Alkali metals lose electrons more easily due to lower ionization energy
+    B. Halogens gain electrons less readily due to higher electron affinity
+    C. Both alkali metals and halogens are more readily to lose electron at arbitrary condition
+    D. Alkali metals gain electrons more readily than halogens.
+
+38. Which of the following statements is TRUE about polar covalent molecules?                                        (1)
+    A. They have equal sharing of electrons                   B. They always involve symmetrical geometry
+    C. They dissolve easily in benzene.                       D. They have unequal sharing of electrons.
+
+39. A Grade 12 student claims that hydrogen bonding and dipole-dipole forces are equally strong. How would you       (1)
+    assess this statement?
+    A. The student is correct because both forces occur between polar molecules.
+    B. The student is incorrect because dipole-dipole forces are weaker than hydrogen bonding.
+    C. The student is incorrect because dipole-dipole interactions only exist in ionic compounds.
+    D. The student is correct because both forces require permanent dipoles.
+
+40. Which of the following is the best example of the Law of Conservation of Mass?                                   (1)
+    A. 10 g of hydrogen reacts with 80 g of oxygen to form 90 g of water.
+    B. 10 g of hydrogen reacts with 40 g of oxygen to form 30 g of water.
+    C. 10 g of hydrogen reacts with 10 g of oxygen to form 5 g of water.
+    D. 10 g of hydrogen reacts with 5 g of oxygen to form 20 g of water.
+
+41. Which of the following is TRUE about conjugated acid-base pair?                                                  (1)
+
+    A. The stronger the acid, the weaker its conjugate acid.
+    B. The stronger the acid, the stronger its conjugate base.
+    C. Conjugated acid has one more hydrogen than its base.
+    D. Conjugated base has one fewer negative charge than its acid.
+42. For the reaction given: HOBr + OH⁻ ⇌ H₂O + OBr⁻, which of the following is the correct conjugated acid-base     (1)
+    pair?
+    A. HOBr / OBr⁻                                              B. OBr⁻ / OH⁻
+    C. OH⁻ / H₃O⁺                                               D. OBr⁻ / H₂O
+
+43. Given the reaction: H₂O + H₂O ⇌ H₃O⁺ + OH⁻. How can H₂O act as both an acid and a base?                         (1)
+    A. By donating a proton and accepting a proton.
+    B. By donate a proton only
+    C. By accepting a proton only
+    D. By remains neutral
+
+44. A 0.20 M solution of HF has a Ka of 6.6 × 10⁻⁴. How would you determine the pH of this solution?                (1)
+    A. Solve [H₃O⁺] then use pH = -log[H₃O⁺]                    B. Assume [H₃O⁺] = [OH⁻] and solve pH
+    C. Use Ka = [HA]/[H₃O⁺] to find pH                          D. Assume pH = 7 because HF is a weak acid
+
+45. A solution of NaOH has initial concentration of 0.01 M. Calculate the [OH⁻] and determines the pOH.             (1)
+    A. [OH⁻] = 0.01 M, pOH = 2                                  B. [OH⁻] = 0.01 M, pOH = 3
+    C. [OH⁻] = 0.001 M, pOH = 2                                 D. [OH⁻] = 0.1 M, pOH = 1
+
+46. Two solutions A and B have pH values of 2 and 4 respectively. Which of the following is correctly described?    (1)
+
+    A. Solution A is more basic than solution B.
+    B. The concentration of H⁺ in solution B is 100 times greater than that of solution A.
+    C. The concentration of H⁺ in solution A is 1000 times greater than that of solution B.
+    D. The concentration of H⁺ in solution A is 100 times greater than that of solution B.
+
+47. Which of the following statements best evaluates the impact of increasing temperature on the ionization         (1)
+    constant of water?
+    A. The value of Kw remains unchanged, and the pH of pure water stays constant.
+    B. The value of Kw increases, leading to an increase in both [H₃O⁺] and [OH⁻].
+    C. The value of Kw decreases, reducing the ionization of water and increasing the pH.
+    D. The value of Kw is unaffected by temperature, but [H₃O⁺] and [OH⁻] change independently.
+
+48. If the pH of a buffer solution is lower than the pKa of its component, which of the following is TRUE?          (1)
+    A. The concentration of acid is greater than the conjugate base.
+    B. The concentration of acid is less than the conjugate base.
+    C. The buffer has lost its buffering capacity
+    D. The solution is neutral
+
+49. Which of the following is NOT a component of a buffer system?                                                   (1)
+
+    A. A weak acid/strong conjugate base                        B. A weak base/strong conjugated acid
+    C. A strong acid/weak conjugated base                       D. A weak base/its salt
+
+50. A buffer solution is prepared by mixing an acid (HA) and its salt (NaA). If the concentration of A⁻ increases   (1)
+    relative to HA, which of the following expressions should be used to determine the resulting pH?
+    A. pH = log[H⁺]                                             B. pH = pKa + log([A⁻]/[HA])
+    C. pOH = pKa + log([HA]/[A⁻])                               D. pH = [H⁺] × [OH⁻]
+51. A buffer solution is made by mixing NH₄Cl and NH₃. Which species will react with added H⁺ ions?                  (1)
+    A. NH₄⁺                                                     B. NH₃
+    C. Cl⁻                                                      D. H₂O
+
+52. What is the pH of a buffer solution containing equimolar of acetic acid and sodium acetate having pKa = 4.76?    (1)
+
+    A. 4.46                                                     B. 4.76
+    C. 5.06                                                     D. 7.00
+
+53. A compound having molecular formula C₇H₈ that does not decolorize in Br₂ in CCl₄ or KMnO₄ solution most          (1)
+    likely belongs to which class of hydrocarbons?
+    A. Alkynes                                                  B. Aromatic hydrocarbons
+    C. Alkanes                                                  D. Alkenes
+
+54. Which of the following salts undergoes anionic hydrolysis, resulting in a basic solution?                        (1)
+    A. Sodium formate (HCOONa)                                  B. Potassium chloride (KCl)
+    C. Sodium sulfate (Na₂SO₄)                                  D. Ammonium nitrate (NH₄NO₃)
+
+55. A student prepares a 2.0 M HCl solution by dissolving hydrochloric acid in water. If they were to prepare the    (1)
+    same molarity solution using sulfuric acid (H₂SO₄), what would be its normality?
+    A. 1.0 N                                                    B. 2.0 N
+    C. 4.0 N                                                    D. 3.0 N
+
+56. What is the sum of coefficients of reactants and products after the following ionic equation gets balanced in    (1)
+    acidic media? MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺
+    A. 19                                                       B. 23
+    C. 24                                                       D. 10
+
+57. What is the difference between electrolytic cell and galvanic cell?                                              (1)
+    A. In a galvanic cell, non-spontaneous chemical reactions take place.
+    B. In an electrolytic cell, non-spontaneous chemical reactions take place.
+    C. In a galvanic cell, the anode is positive and the cathode is negative.
+    D. Galvanic cells convert electrical energy into chemical energy.
+
+58. What is the half-reaction at the anode during the electrolysis of copper sulfate (CuSO₄) solution using copper   (1)
+    electrode?
+    A. Cu²⁺ + 2e⁻ → Cu                                          B. Cu → Cu²⁺ + 2e⁻
+    C. 4OH⁻ → O₂ + 2H₂O + 4e⁻                                   D. 2Cl⁻ → Cl₂ + 2e⁻
+
+59. Which of the following is the correct increasing order of the atomic size of: Mg⁺, Na, Si³⁺, and Al²⁺?           (1)
+    A. Na < Mg⁺ < Al²⁺ < Si³⁺                                   B. Al²⁺ < Mg⁺ < Na < Si³⁺
+    C. Si³⁺ < Al²⁺ < Mg⁺ < Na                                   D. Si³⁺ > Al²⁺ > Na > Mg⁺
+
+60. What gases are produced at the cathode and anode respectively if concentrated hydrochloric acid is               (1)
+    electrolyzed?
+    A. Hydrogen gas and Oxygen gas                              B. Chlorine gas and oxygen gas
+    C. Hydrogen and chlorine                                    D. Hydrogen and water
+61. Which of the following best describes a line spectrum?                                                              (1)
+    A. Continuous range of colors without any gap.
+    B. A spectrum that shows only specific wavelengths of light.
+    C. A spectrum emitted only by solids at high temperature.
+    D. A black and white representation of visible light.
+
+62. What are the volume of H₂ and O₂ gases at 25°C and 1.00 atm that will be collected at the cathode and anode,        (1)
+    respectively if Na₂SO₄(aq) solution is electrolyzed for 2 hours with 10 amperes current?
+    A. 9 L of oxygen and 4.5 L of hydrogen
+    B. 6 L of oxygen and 12 L of hydrogen
+    C. 9 L of hydrogen and 4.5 L of oxygen
+    D. Equal volume of oxygen and hydrogen gases are produced
+
+63. A student is tasked with calculating the mass of copper deposited when a current is passed through a copper(II)     (1)
+    sulfate solution for 3 hours using 5 amperes of current. Using Faraday's second law of electrolysis, how would
+    they derive the formula for mass of copper deposited in terms of current, time, and the equivalent mass of
+    copper?
+    A. m = V i t                                                B. m = M I t / n F
+    C. m = z Q                                                  D. m = n F
+
+64. What is the primary function of a sacrificial anode in corrosion protection?                                        (1)
+    A. To increase the rate of corrosion in metal structures.
+    B. To facilitate the oxidation reaction of other metal keeping itself at cathode.
+    C. To sacrifice itself to protect another metal from corrosion.
+    D. To enhance the electrical conductivity of the protected metal
+
+65. When a piece of metal A is placed in a solution containing ions of B, metal B plates out on the piece of A. Which   (1)
+    metal is being oxidized and reduced respectively?
+    A. Metal A and metal B
+    B. Metal B and metal A
+    C. Both metal A and metal B are equally reduced
+    D. Both metal A and metal B are equally oxidized
+
+66. Given the reaction: Mg(s) + Zn²⁺(aq) → Mg²⁺(aq) + Zn(s). Which of the following is the correct cell notation?       (1)
+    A. Zn²⁺(aq)/Zn(s) // Mg(s)/Mg²⁺(aq)                         B. Zn²⁺(aq)/Zn(s) // Mg²⁺(aq)/Mg(s)
+    C. Mg(s)/Mg²⁺(aq) // Zn(s)/Zn²⁺(aq)                         D. Mg(s)/Mg²⁺(aq) // Zn²⁺(aq)/Zn(s)
+
+67. Which of the following is TRUE about the reaction given below? 2Au(s) + 3Ca²⁺(0.1M) → 2Au³⁺(0.1M) + 3Ca(s)          (1)
+
+    A. There are a total of 2 electron transfer in overall reaction
+    B. The value of ΔG° is large positive value making the reaction spontaneous
+    C. The forward reaction is non-spontaneous
+    D. Gold can reduce calcium spontaneously
+
+68. How does industrial chemistry contribute to environmental sustainability?                                           (1)
+    A. By promoting the excessive use of fossil fuel.
+    B. By developing eco-friendly materials and sustainable production processes.
+    C. By increasing chemical waste production.
+    D. By reducing the use of recycling methods in manufacturing.
+69. Which one of the following best describes the formation of pi (π) bond?                                          (1)
+    A. They are formed by sideways overlap of p orbitals.
+    B. They are formed by the axial overlaps of s or d orbitals.
+    C. They are formed by the sideways overlaps of an s and p orbitals.
+    D. They are formed by the parallel overlaps of either s or p orbitals.
+
+70. Which of the following are the correct steps in sulfuric acid (98%) manufacturing process?                       (1)
+    A. S → SO₂ → H₂S₂O₂ → H₂SO₄                                       B. S → SO₂ → SO₃ → H₂S₂O₂ → H₂SO₄
+    C. S → SO₂ → SO₃ → H₂S₂O₇ → H₂SO₄                                 D. S → SO₂ → SO₃ → H₂S₂O₇ → H₂SO₃
+
+71. In which of the following aqueous solution provides the same electrolysis with water, when O₂ and H₂ are         (1)
+    formed at anode and cathode respectively?
+    A. Concentrated HCl solution                                      B. AgNO₃ solution
+    C. CuSO₄ solution                                                 D. Diluted H₂SO₄ solution
+
+72. Thermoplastic polymers are those which melt when heated and re-solidify when cooled. Which of the following      (1)
+    polymers is NOT a thermoplastic polymer?
+    A. Dacron                                                         B. Bakelite
+    C. Polyethylene                                                   D. Teflon
+
+73. What is the molar mass of a polyethylene sample, [-CH₂-CH₂-]ₙ, when n = 4600? (Atomic mass H=1, C=12).           (1)
+    A. 1.288×10³ g/mol                                                B. 1.288×10⁵ g/mol
+    C. 1.196×10³ g/mol                                                D. 1.196×10⁴ g/mol
+
+74. Given the monomers: i. HO-CH₂CH₂-OH; ii. HOOC-CH₂CH₂-COOH. Which of the following polymer can be                 (1)
+    synthesized from these monomers?
+    A. [-O-CH₂CH₂-OOC-CH₂-CH₂-CO-]n                                   B. [-OC-C₆H₄-COO-(CH₂)₂O-]
+    C. [-NH₂CH(R)(COOH)-]                                             D. [-NH-CH₂-CO-NH-CH₂CO-]
+
+75. An unknown salt when heated with a Bunsen flame produced a bright-yellow flame. An aqueous solution of this      (1)
+    salt when reacted with dilute HCl released a gas that turns limewater milky. Upon addition of calcium chloride
+    solution to an aqueous solution of this salt, a white precipitate is formed. What is the unknown salt?
+    A. Na₂CO₃                                                         B. NH₄NO₃
+    C. Al₂(SO₄)₃                                                      D. CH₃COOH
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

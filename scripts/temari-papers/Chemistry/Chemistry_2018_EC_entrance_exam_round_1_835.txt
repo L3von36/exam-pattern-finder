@@ -1,0 +1,114 @@
+                                                          Temari.et
+                            Chemistry, 2018 EC, entrance exam, round 1
+                                                Grade 12 · Chemistry · 2018 E.C.
+
+Time allowed: 120 minutes                                      Questions: 17                                     Total marks: 17
+
+Name                                              Grade                        ID No.                   Date
+
+1.   The masses of different substances, liberated or deposited by the same amount of electricity, are proportional to        (1)
+     their equivalent masses. This statement is _______.
+     A. Faraday's first law of electrolysis
+     B. the law of definite proportion
+     C. Faraday's second law of electrolysis
+     D. the law of multiple proportion
+
+2.   Which of the following reaction represents the chemical equation for the reaction that takes place between               (1)
+     aluminum metal and solution of hydrochloric acid?
+     A. 2AlCl₃(aq) + 3H₂(g) ---> 2Al(s) + 6HCl(aq)
+     B. 2Al(s) + 6HCl(aq) ---> 2AlCl₃(aq) + 3H₂(g)
+     C. 2Al + 6HCl(aq) ---> 2AlCl₃(aq)
+     D. Al + HCl ---> AlCl₃
+
+3.   A cell containing AlCl₃ as an electrolyte, is placed in series with another cell containing AgNO₃ as an electrolyte.     (1)
+     What mass of Ag is deposited, when 18 g of Al is deposited at the cathode electrode? (MAg = 108 g/mol and MAl
+     = 27 g/mol)
+     A. 36 g                                                      B. 24 g
+     C. 216 g                                                     D. 72 g
+
+4.   Nitric acid is a colorless fuming liquid with a boiling point of 83 °C. However, it turns yellow as it stays for long    (1)
+     time. Which of the following accounts for the observed property of nitric acid?
+     A. NO₂                                                       B. NO
+     C. NO₂⁻                                                      D. NO₃⁻
+
+5.   Which of the following tells the exact number of atoms of different elements present in a molecule?                      (1)
+     A. Molecular mass                                            B. Empirical formula
+     C. Formula mass                                              D. Molecular formula
+
+6.   What is the concentration of hydrogen ion in a solution of 0.1 M nicotinic acid, HC6H4NO2, at 25 °C? (Ka = 1.4 ×         (1)
+     10⁻⁵)
+     A. 1.2 × 10⁻⁵ M                                              B. 1.2 × 10⁻³ M
+     C. 1.4 × 10⁻⁵ M                                              D. 1.4 × 10⁻⁶ M
+
+7.   Chlorine has two naturally occurring isotopes. In a sample of chlorine, 25% of the atoms are Cl-37 and 75% of            (1)
+     the atoms are Cl-35. What is the average atomic mass of chlorine?
+     A. 26.25                                                     B. 25.75
+     C. 35.5                                                      D. 36.0
+8.   A student performs an experiment to distinguish different oxides by doing the following experiment. He/she put         (1)
+     100 mL KI solution in to four different test tubes. He/she acidified each of these solutions with 10 drops of dilute
+     H₂SO₄ solution. He/she added a spatula full of CaO in the first, Al₂O₃ in the second, Na₂O₂ in the third and P₄O₁₀
+     in the fourth test tubes. Finally, he/she added 10 mL starch solution to each of the four test tubes. In which test
+     tube will he/she observe a color change? In the test tube that contains _______.
+     A. Test tube 2                                             B. Test tube 3
+     C. Test tube 4                                             D. Test tube 1
+
+9.   Combustion of acetylene at about 3000 °C with oxygen produces an intense hot flame. In which group of                  (1)
+     hydrocarbons is this compound classified?
+     A. Alkanes                                                 B. Aromatics
+     C. Alkenes                                                 D. Alkynes
+
+10. Phosphorus pentafluoride, PF₅ is one example of exception to the octet rule. Why does PF₅ is considered to be           (1)
+    exceptional to the octate rule? This is because the _______.
+     A. central atom has more than eight valence electrons.
+     B. atoms attached to P have more than eight valence electrons.
+     C. central atom has less than eight valence electrons.
+     D. central atom has eight valence electrons.
+
+11. You are supposed to test the conductivity of the substances using a conductivity apparatus as shown in the          (1)
+    figure below: Which of the following aqueous solutions does NOT cause the bulb to glow when the switch turns
+    on?
+    [Figure: A schematic diagram of a conductivity apparatus. It shows a rectangular container filled with a light blue
+    liquid labeled "Aqueous solution". Two vertical black electrodes are partially submerged in the solution. Above
+    the container, a yellow electric bulb is connected to the system, with a label "Bulb" pointing to it. Below the
+    container, there is a green battery icon labeled "DC source or Battery".]
+     A. Sodium hydroxide solution                               B. Copper sulphate solution
+     C. Table salt solution                                     D. Sugar solution
+
+12. Copper metal reacts with sulfuric acid to produce copper sulphate, sulfur dioxide and water. Which of the               (1)
+    following is the coefficient of H2SO4 after balancing this chemical reaction?
+     A. 6                                                       B. 1
+     C. 2                                                       D. 3
+
+13. What is the amount of energy emitted when an electron moves from the n = 4 to n = 2 energy level? (RH = 2.18 ×          (1)
+    10⁻¹⁸ J)
+     A. −6.54 × 10⁻¹⁸ J                                         B. −4.09 × 10⁻¹⁹ J
+     C. 4.09 × 10⁻¹⁹ J                                          D. 6.54 × 10⁻¹⁸ J
+
+14. Consider the following diagram used for the electrolytic refining of copper What is the name of species              (1)
+    indicated by letter 'C'?
+    [Figure: A diagram of an electrolytic refining cell with a switch connected to two electrodes suspended in a tank
+    containing an electrolyte solution labeled A. The left electrode is a yellow vertical bar labeled Cathode. The right
+    electrode is a brown vertical bar labeled Anode. At the bottom of the tank beneath the anode, there is a dark
+    deposit labeled C (Settled Impurities) with a letter B pointing to a small rectangular block resting on it near the
+    bottom.]
+     A. Copper sulphate solution                                B. Strip of pure copper
+     C. Cathode mud                                             D. Anode mud
+15. Consider the reaction given below: AB₂C + C ---> AB₂ + C₂ Which of the following successful collisions are         (1)
+    effective in the formation of the products?
+     A. The collision that results in the A and C atoms are directly facing each other.
+     B. The collision that results in the C atoms are directly facing each other.
+     C. The collision that results in the B and C atoms are directly facing each other.
+     D. The collision that results in the A and B atoms are directly facing each other
+
+16. At 0 °C and 1.0 atm, the solubility of gas in water is 48.4 mole per liter. What is the molar solubility of in a   (1)
+    saturated water solution at a partial pressure of 0.20 atm?
+     A. 1.20 × 10⁻³ M                                                   B. 9.68 M
+     C. 4.10 × 10⁻³ M                                                   D. 2.44 M
+
+17. Which one of the following does NOT explain the chemical properties of acidic oxides? Acidic oxides react with:    (1)
+     A. acids to form salt and water.                                   B. basic oxides to form salts.
+     C. water to form acids.                                            D. base to form salt and water.
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+
