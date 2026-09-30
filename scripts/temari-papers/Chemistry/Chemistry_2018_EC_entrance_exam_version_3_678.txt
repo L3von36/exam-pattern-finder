@@ -1,0 +1,442 @@
+                                                        Temari.et
+                            Chemistry, 2018 EC, entrance exam, version 3
+                                              Grade 12 · Chemistry · 2018 E.C.
+
+Time allowed: 120 minutes                                   Questions: 75                                 Total marks: 75
+
+Name                                            Grade                       ID No.                 Date
+
+1.   Which of the following sub atomic particle is used to determine chemical properties of elements?                  (1)
+     A. proton                                                  B. electron
+     C. Nucleus                                                 D. Neutron
+
+2.   An element has two isotopes with masses of 62.93 amu (69.17%) and 64.93 amu (30.83%). What is the average         (1)
+     atomic mass?
+     A. 64.54 amu                                               B. 63.54 amu
+     C. 63.93 amu                                               D. 64.93 amu
+
+3.   What is the effect of increasing atomic size on electronegativity down a group of periodic table?                 (1)
+     A. The electronegativity increases because the atomic energy level increases.
+     B. The electronegativity increases because the atomic number increases.
+     C. The electronegativity decreases because the atomic size increases.
+     D. The electronegativity decreases because the atomic size decreases.
+
+4.   The periodic table contains two separate rows of inner transition elements located below the main table. These    (1)
+     rows contain 14 elements each and belong to the 6th and 7th periods. Based on their position and electron
+     configurations, which pair of element series correctly corresponds to 6th and 7th periods?
+     A. Halogenes, Nobel gas                                    B. lanthanoids, actinoids
+     C. chalcogens, halogens                                    D. actinoids, halogens
+
+5.   Aluminum reacts with a certain nonmetallic element, X to form a compound with the general formula AlX.            (1)
+     Element X is a diatomic gas at room temperature. Element X must be
+     A. sulfur                                                  B. fluorine
+     C. Bromine                                                 D. Nitrogen
+
+6.   Ammonium ion (NH₄⁺) is formed when ammonia (NH₃) reacts with a hydrogen ion (H⁺). Which statement correctly (1)
+     analyzes the bond formed in the ammonium ion (NH₄⁺)?
+     A. All N–H bonds are ionic because the ion carries an overall positive charge.
+     B. N–H bond is formed when nitrogen donates a lone pair of electrons to a hydrogen ion.
+     C. N–H bonds are formed by transfer of electrons from hydrogen to nitrogen atom
+     D. The positive charge causes all bonds in the ion to become nonpolar covalent bonds.
+
+7.   A student misunderstood that London dispersion forces are insignificant and can be ignored when predicting        (1)
+     physical properties. Which of the following is the best to evaluate this claim?
+     A. London forces exist only in gaseous molecules and not in liquids or solids.
+     B. London forces are the strongest type of interaction found in all substances.
+     C. London forces exist in all molecules and become significant in large atoms.
+     D. London forces only occur in ionic compounds and have no effect on molecules.
+8.   Someone conducts an experiment by using a test tube with unknown compounds. If he/she touches the outer           (1)
+     surface of the test tube during the reaction progress, he/she feels hot. This indicates the reaction that takes
+     place in the test tube is ______.
+     A. absorbed heat from the surroundings.
+     B. released heat energy to the surroundings.
+     C. the unknown compound evaporated to atmosphere
+     D. heat is neither absorbed nor released during the reaction.
+
+9.   If a student uses 2 grams of copper (II) oxide and obtains 1.60 grams of copper after reduction, which of the     (1)
+     following statements correctly describes its law of definite proportion?
+     A. The ratio of copper to oxygen remains constant in the compound.
+     B. The compound contains more amount of oxygen than before.
+     C. The mass of copper depends on the volume of hydrogen gas used.
+     D. The changes temperature changes the composition of the compound.
+
+10. Why does the electron configuration of chromium (Cr) deviate from the expected [Ar] 4s²3d⁴?                        (1)
+     A. Half-filled d-orbitals are more stable than incomplete filled.
+     B. d-orbital of Chromium is more stable than s-orbital
+     C. 4s orbital is in the higher energy than 3d orbital.
+     D. Electron fills the lower energy before higher energy.
+
+11. Many classic experiments have given indirect evidence about the nature of the atom. Which statement below is       (1)
+    NOT correct about the results of these experiments?
+     A. Rutherford Experiment confirmed that Plum Pudding Model of the atom was correct.
+     B. Dalton's atomic model stated that atoms are not subdivided into subatomic particles.
+     C. Oil Droplet Experiment showed that electric charge occurs in multi-electron charge.
+     D. Cathode Ray Tube Experiment demonstrated that electrons carry a negative electric charge.
+
+12. On the gold foil experiment, most alpha particles passed straight through the foil while a few were strongly       (1)
+    deflected. What conclusion can be drawn from this observation?
+     A. Atoms are completely solid spheres and destructible.
+     B. Most of the mass of an atom is evenly distributed.
+     C. Electrons are embedded in a positive sphere of an atom.
+     D. Atoms contain a small, dense, positively charged nucleus.
+
+13. Which of the following statements correctly relates wavelength, frequency, and speed of EMR in vacuum?             (1)
+     A. Wavelength increases, frequency increases, speed decreases
+     B. Wavelength decreases, frequency increases, speed constant
+     C. Wavelength increases, frequency decreases, speed decreases
+     D. Wavelength decreases, frequency decreases, speed constant
+
+14. Which combination represents all possible sets of quantum numbers for the 3d electrons?                            (1)
+
+     A. n=3, l=2, ml=-2,-1,0,1,2, ms=±1/2                        B. n=3, l=1, ml=-1,0,1, ms=±1/2
+     C. n=3, l=2, ml=-3,-2,-1,0,1,2,3, ms=+1/2                   D. n=3, l=1, ml=-2,-1,0,1,2, ms=±1/2
+
+15. Which of the following sets shows the correct first four members of the alkane series?                             (1)
+     A. Methane, Ethene, Propane, Butane                         B. Methane, Methanol, Ethanol, Butanol
+     C. Methane, Ethyne, Propane, Butene                         D. Methane, Ethane, Propane, Butane
+16. Given elements: O, Be, N, B, F: which is the correct increasing order of first ionization energy?                 (1)
+    A. Be < B < N < O < F                                       B. F < B < Be < O < N
+    C. N < B < O < Be < F                                       D. B < Be < O < N < F
+
+17. Which of the following statements is CORRECT regarding the formation of ionic compounds?                          (1)
+
+    A. Ionic compounds are formed when electrons are shared between atoms.
+    B. Ionic compounds are formed between atoms with similar electronegativity.
+    C. Ionic compounds form when electrons transferred from one atom to another.
+    D. Ionic compounds formed by delocalization of electrons in metal.
+
+18. Why is graphite a good conductor of electricity, while diamond (C) is not, even though both are forms of carbon   (1)
+    allotropes?
+    A. Graphite has delocalized electrons due to its hexagonal structure, while diamond does not
+    B. Graphite is a metal having delocalized electron while diamond is a non-metal doesn't.
+    C. Diamond has metallic bonding; while graphite forms ionic bond with each other.
+    D. Both graphite and diamond have identical structures and conductivity randomly.
+
+19. Which of the following lists correctly shows the strength of the intermolecular attractive forces in decreasing   (1)
+    order?
+    A. Hydrogen bond ⟶ dipole-dipole force ⟶ London force
+    B. Dipole-dipole force ⟶ Hydrogen bond ⟶ London force
+    C. London force ⟶ dipole-dipole force ⟶ Hydrogen bond
+    D. London force ⟶ Hydrogen bond ⟶ dipole-dipole force
+
+20. When two chlorine atoms combine to form a chlorine molecule (Cl₂), a covalent bond is formed due to the           (1)
+    overlapping of atomic orbitals. Which orbital overlap is responsible for the formation of the bond in Cl₂?
+    A. Side-by-side overlaps of two p orbitals to forms a π bond.
+    B. End-to-end overlap of two p orbitals to forms a σ bond.
+    C. End-to-end overlaps of two s orbitals to forms a σ bond.
+    D. Side-by-side overlap of s orbital and p orbital forms a π bond.
+
+21. You want to design a set of molecules whose central atoms all exhibit sp² hybridization. Using the concept of     (1)
+    molecular geometry and hybridization, which of the following groups of molecules could best satisfy this
+    requirement?
+    A. SO₂, SO₄²⁻, C₆H₆                                         B. CHCl₃, C₆H₆, C₂H₄
+    C. SO₂, C₆H₆, C₂H₄                                          D. CHCl₃, SO₂, C₆H₆
+
+22. The molecule BF₃ consists of a boron atom bonded to three fluorine atoms. Based on VSEPR theory what is the       (1)
+    shape and bond angle of BF₃?
+    A. Tetrahedral 109.5° bond angles                           B. Trigonal planar with 120° bond angles
+    C. Linear with 180° bond angles                             D. Bent with bond angles less than 120°
+
+23. Which of the following statements correctly describes Boyle's law?                                                (1)
+
+    A. The volume of a gas is directly proportional to temperature at constant pressure.
+    B. The pressure of a gas is inversely proportional to its volume at constant temperature.
+    C. The pressure of a gas is directly proportional to the number of moles at constant temperature.
+    D. The volume of a gas is directly proportional to pressure at constant temperature.
+24. Which of the following is NOT a pre-condition for a chemical reaction to occur?                                    (1)
+    A. Effective collision                                     B. Sufficient energy
+    C. proper orientation                                      D. high activation energy
+
+25. Two substances X and Y have melting points of 100 °C and 50 °C, respectively. Which substance is more              (1)
+    thermally stable as a solid?
+    A. Y, because it melts at lower temperature.
+    B. Both are equally stable at the given temperature.
+    C. X, because it requires more heat to melt
+    D. Impossible to guess.
+
+26. Which of the following changes will generally increase the rate of a reaction?                                     (1)
+    A. Decreasing temperature of the reaction.
+    B. Decreasing concentration of reactants.
+    C. Using powdered solids instead of large size.
+    D. Removing a catalyst from the reaction.
+
+27. If Kc1 and Kc2 are the equilibrium constants for the two reactions: XeF₆(g) + H₂O(g) ⇌ XeOF₄(g) + 2HF(g) … Kc1     (1)
+    and XeF₄(g) + XeF₆(g) ⇌ XeOF₄(g) + XeO₃F₂(g) … Kc2. What is the equilibrium constant for the reaction: XeF₄(g) +
+    2HF(g) ⇌ XeO₃F₂(g) + H₂O(g)?
+    A. Kc1 – Kc2                                               B. Kc2 – Kc1
+    C. Kc2/Kc1                                                 D. Kc1/Kc2
+
+28. How is the reaction quotient (Qc) related to equilibrium constant (Keq)?                                           (1)
+
+    A. Qc < Kc after equilibrium                               B. Qc = Kc before equilibrium
+    C. Qc = Kc at equilibrium                                  D. Qc and Kc are not related
+
+29. Which statement best explains why alcohols generally have higher boiling points than alkanes with similar          (1)
+    molecular mass?
+    A. Alcohols contain hydroxyl groups that form intermolecular hydrogen bonds.
+    B. Alcohols molecules contain carbon atoms that increase intermolecular attractions.
+    C. Alcohols molecules have shorter carbon chains than most similar alkane molecules.
+    D. Alcohols molecules are less polar than alkanes with similar molecular masses.
+
+30. Given the following compounds, what would be the correct decreasing order of boiling point? I.                     (1)
+    CH₃CH₂CH(CH₃)CH₂COOH II. CH₃(CH₂)₄COOH III. CH₃CH₂C(CH₃)₂COOH
+    A. I > III > II                                            B. II > III > I
+    C. III > I > II                                            D. II > I > III
+
+31. Which of the following describes a general method for synthesizing esters from carboxylic acids and alcohols,      (1)
+    emphasizing reaction conditions and equilibrium?
+    A. Mixing alcohol and carboxylic acid without catalyst.
+    B. Carboxylic acids and alcohols are reacted under basic condition
+    C. Heating of carboxylic acid and alcohol with concentrated H₂SO₄
+    D. Esters formed only by oxidation of alcohols in the presence of Cu.
+32. Which evaluation correctly describes physical and chemical properties of oils?                                       (1)
+    A. Oils are solids and remain unreactive under all conditions.
+    B. Oils are polar solid and can't decompose when exposed to air.
+    C. Oils are generally liquid undergo hydrogenation reaction
+    D. Oils are nonpolar liquids but cannot react with acids and bases
+
+33. Why do tricarboxylic acids have higher boiling points than monocarboxylic acids?                                     (1)
+    A. Monocarboxylic acids are branched, lowering the boiling point.
+    B. Tricarboxylic acids are lighter, which increases boiling points.
+    C. Monocarboxylic acids contain double bonds, reducing its boiling point
+    D. The more –COOH in tricarboxylic acid, forming stronger hydrogen bonds
+
+34. In a redox reaction: MnO₂ + 4HCl ⟶ MnCl₂ + Cl₂ + 2H₂O. Which of the following statements correctly identifies        (1)
+    the roles of the reactants?
+    A. MnO₂ is the reducing agent because the oxidation state of Mn increases.
+    B. HCl is the oxidizing agent because the oxidation state of Cl increases.
+    C. MnO₂ is the oxidizing agent because the oxidation state of Mn decreases
+    D. HCl is the reducing agent because the oxidation state of H decreases.
+
+35. When 5.0 g of magnesium reacts with 20.0 g of oxygen gas according to the reaction: Mg(s) + O₂(g) → MgO(s),          (1)
+    What is the mass of MgO that can be formed?
+    A. 8.3 g                                                    B. 10.0 g
+    C. 16.7 g                                                   D. 20.0 g
+
+36. A student crushes a large crystal of sugar into many small pieces before dissolving it in water. The sugar           (1)
+    dissolves faster than the large crystal. Which of the following correctly describes the observation?
+    A. Increase in intermolecular force
+    B. Increase the surface area of the molecule
+    C. Increase in pressure of the system
+    D. Decrease temperature
+
+37. A technician prepares a solution by dissolving 40 g of NaOH in enough water to make 500 mL of solution. What         (1)
+    is the molarity (M) of this solution?
+    A. 1.0 M                                                    B. 2.0 M
+    C. 0.5 M                                                    D. 4.0 M
+
+38. Which of the following oxides is classified as an amphoteric oxide?                                                  (1)
+    A. CaO                                                      B. SO₂
+    C. Al₂O₃                                                    D. CO₂
+
+39. Which of the following statements correctly applies to the formation and nature of salts? I. NaHSO₄ is a normal      (1)
+    salt because all ionizable H⁺ from the acid are replaced. II. NaHSO₄ is acidic salt formed when ionizable H⁺ of
+    the acid is not completely replaced by metal ions. III. Zn(OH)Cl is a basic salt because it contains one ionizable
+    OH⁻ group in its formula. IV. Na₂CO₃ is a basic salt due to the presence of CO₃²⁻ that can be hydrolysis.
+    A. Only IV                                                  B. Only II
+    C. II, III & IV                                             D. I, II & IV
+40. In a Galvanic cell consisting of Zinc and Copper electrodes, which of the following process occurs at the anode    (1)
+    electrode?
+    A. Reduction half-cell reaction takes place                B. Copper ions are reduced to Copper metal.
+    C. Electrons flow from Copper to Zinc.                     D. Zinc metal is oxidized to Zinc ions.
+
+41. In the extraction of Iron using a blast furnace, what is the primary purpose of adding Limestone (CaCO₃) to the    (1)
+    furnace?
+    A. Act as a reducing agent for the iron ore.
+    B. Provide the heat necessary for the reaction.
+    C. Remove impurities like silica (SiO₂)
+    D. Prevent the iron from re-oxidizing.
+
+42. Non-metals usually have poor electrical conductivity and are often brittle. However, they are widely used in       (1)
+    electrical insulation and chemical industries. Which evaluation best explains how these properties affect their
+    real-world uses?
+    A. Non-metals are unsuitable for all industrial applications because they are brittle.
+    B. Non-metals are useful as electrical insulators but their brittleness limits their use
+    C. Non-metals are mainly used for construction because they are strong and malleable
+    D. Non-metals are good electrical and heat conductors like metal
+
+43. Abel is a grade 10 student. He took three different test tubes and added 5.00 ml of toluene to each test tube.   (1)
+    Then he added 2 drops of Br₂ water in the first test tube, equal drops of cold KMnO₄ in the second test tube and
+    again equal drops of concentrated H₂SO₄ in the third test tube. In which test tube does a reaction occur?
+    A. The 1st and the 3rd test tube                           B. The 2nd test tube and the 3rd test tube
+    C. The 3rd test tube                                       D. The 1st, 2nd and 3rd test tube
+
+44. Which of the following is the major limitation of the Arrhenius concept of acids and bases?                        (1)
+    A. It is limited to aqueous solutions                      B. It explains proton transfer
+    C. It includes Lewis acid-base reactions                   D. It applies to non-aqueous solvents
+
+45. A grade 12 student prepares 0.20 M aqueous solution of Acetic acid in the laboratory, according to the ionization (1)
+    equation given: CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq): Ka = 1.8 × 10⁻⁵. Which of the following is the closest
+    approximation of the hydrogen ion concentration? (√3.6 = 1.9)
+    A. 1.9 × 10⁻³ M                                            B. 1.9 × 10⁻⁸ M
+    C. 1.9 × 10⁻⁵ M                                            D. 1.9 × 10⁻⁴ M
+
+46. Consider a solution that is 0.10 M acetic acid (CH₃COOH) and 0.20 M sodium acetate (NaCH₃COO). Which of the        (1)
+    following statements is correct?
+    A. Adding a small amount of NaOH causes the pH to decrease slightly.
+    B. When NaOH is added, the OH⁻ ions react with CH₃COO⁻ ions.
+    C. Adding a small amount of HCl causes the pH to decrease slightly.
+    D. When HCl is added, the H⁺ ions react with CH₃COOH molecules.
+
+47. Which of the following procedures can NOT produce a buffer solution?                                               (1)
+    A. Equal volume of 0.5M NaOH and 1M HCl solution are mixed.
+    B. Equal volume of 0.5M NaOH and 1M CH₃COOH solution are mixed.
+    C. Equal volume of 1M CH₃COONa and 1M CH₃COOH solution are mixed.
+    D. Equal volume of 1M NH₃ and 0.5 M HCl solution are mixed.
+48. A buffer solution is prepared using Acetic acid (CH₃COOH) and its conjugate base Sodium acetate (CH₃COONa).            (1)
+    Under which condition will this buffer solution have maximum buffering capacity?
+    A. pH = pKa                                                  B. [A⁻] = 10[HA]
+    C. [HA] = 10[A⁻]                                             D. pH = pOH
+
+49. Which of the following salts will produce an acidic solution when dissolved in water?                                  (1)
+    A. NH₄Cl                                                     B. CH₃COONa
+    C. NaCl                                                      D. KNO₃
+
+50. The dye bromothymol blue (HBb) is a weak acid whose ionization can be represented as follows: HBb(aq) ⇌                (1)
+    H⁺(aq) + Bb⁻(aq). Which way will the equilibrium shift when NaOH is added?
+    A. Initially to the left, finally to right                   B. Initially to the right finally to left
+    C. To the left                                               D. to the right
+
+51. During laboratory class, a student placed clean water in a beaker and added pieces of calcium metal using              (1)
+    tongs. Which of the following is observed color after the reaction has completed?
+    A. The litmus paper turns to blue.                           B. The litmus paper turns to red.
+    C. The litmus paper maintains its color.                     D. The litmus paper turns to colorless
+
+52. Which of the following statements is NOT correctly describing oxidation and reduction?                                 (1)
+
+    A. Oxidizing agent is a species being reduced and causes oxidation
+    B. Reducing agent is a species being oxidized and causes reduction.
+    C. Oxidation is gain of electron while reduction is loss of electrons
+    D. Oxidation and reduction reactions occur simultaneously
+
+53. A chemist compares electrolysis of dilute NaCl solution and concentrated NaCl solution using inert electrodes.         (1)
+    The substance produced at anode electrode of dilute NaCl solution and concentrated NaCl solution are _____
+    and _____ respectively.
+    A. Oxygen and chlorine.                                      B. chlorine and chlorine
+    C. hydrogen and chlorine                                     D. Hydrogen and sodium
+
+54. An aqueous solution contains Ag⁺(aq) and Cu²⁺(aq) ions. Electrolysis is carried out using inert platinum               (1)
+    electrodes. A constant current of 9.65 A is passed through the solution for 1000 seconds. Which metal will be
+    deposited at the cathode and what mass will be deposited?
+    A. Copper, 10.8 g                                            B. Silver, 10.8 g
+    C. Silver, 5.4 g                                             D. Copper, 21.6 g
+
+55. A Galvanic cell constructed from a strip of magnesium metal dipped in a solution of magnesium sulfate and a            (1)
+    strip of silver metal immersed in a solution of silver nitrate. Which of the following correctly represents the cell
+    notation for this galvanic cell?
+    A. Ag /Ag⁺ //Mg²⁺ / Mg                                       B. Mg /Mg²⁺// Ag⁺ /Ag
+    C. Mg /Mg²⁺/ Ag⁺ /Ag                                         D. Ag / Ag⁺// Mg / Mg²⁺
+
+56. Aluminum metal reacts spontaneously with iron (II) ions according to the reaction: Al(s) + Fe²⁺(aq) → Al³⁺(aq) +       (1)
+    Fe(s). What is the value of ΔG° for the reaction?
+    A. −1216 kJ                                                  B. −608 kJ
+    C. −706 kJ                                                   D. −203 kJ
+57. A metal pipeline buried underground is protected from corrosion by attaching a more reactive metal such as          (1)
+    magnesium. Why does magnesium protect the iron pipe?
+    A. Magnesium decreases oxygen concentration around iron.
+    B. Magnesium acts as a sacrificial anode and oxidizes first.
+    C. Magnesium increases the potential of iron.
+    D. Magnesium prevents electron movement.
+
+58. Which of the following is considered a renewable resource?                                                          (1)
+    A. Petroleum                                               B. Natural gas
+    C. Solar energy                                            D. Coal
+
+59. At which stage of industrial manufacturing process of sulphuric acid, vanadium (V) oxide specifically required to   (1)
+    ensure efficient industrial production?
+    A. During the oxidation of sulfur dioxide to sulfur trioxide
+    B. During the combustion of sulfur to produce sulfur dioxide
+    C. During the dilution of oleum with water to form sulfuric acid
+    D. During the reaction of sulfur trioxide with sulfuric acid to form oleum
+
+60. Which one of the following fertilizers supplies the highest percentage of nitrogen to plants?                       (1)
+
+    A. Urea (CO(NH₂)₂)
+    B. Urea Ammonium Nitrate (CO(NH₂)₂ + NH₄NO₃)
+    C. Diammonium Phosphate (NH₄)₂HPO₄
+    D. Monoammonium Phosphate (NH₄H₂PO₄)
+
+61. Which of the following describes the process of manufacturing valuable products in industries?                      (1)
+    A. Designing to produce a desired output from raw materials using energy
+    B. Discharging of a solid, liquid or gaseous substance into an environment
+    C. Unwanted reaction of a material those results in the dissolution of material.
+    D. Uses of only inorganic chemicals in the production of valuable products.
+
+62. Which type of glass is made by heating a mixture of silica, sodium carbonate and limestone?                         (1)
+    A. Quartz                                                  B. Pyrex
+    C. Borosilicate                                            D. Soda-lime
+
+63. Which of the following chemicals is commonly known as washing soda?                                                 (1)
+    A. NaHCO₃                                                  B. Na₂CO₃·10H₂O
+    C. NaOH                                                    D. Na₂SO₄
+
+64. Which of the following chemicals is mainly used to kill unwanted plants in agricultural fields?                     (1)
+
+    A. Pesticides                                              B. Herbicide
+    C. Insecticide                                             D. Fungicide
+
+65. Which of the following is NOT a method of reducing water pollution?                                                 (1)
+    A. Treatment of water before discharge into rivers and lakes.
+    B. Recycling and replacing of industrial and agricultural wastes.
+    C. Industries shouldn't discharge heat-ladened water into water body.
+    D. Using high amount of agricultural chemicals and organic fertilizers.
+66. Consider the following steps involved in the preparation of local alcohol (Araki). I: Fermentation of the mixture   (1)
+    which converts sugars into ethanol. II: Preparation of the raw materials by crushing cereals and mixing them
+    with water. III: Distillation of the fermented mixture to separate ethanol from water. IV: Heating the fermented
+    mixture to produce alcohol, later condenses to liquid alcohol. Which of the following shows the correct
+    sequence of steps in the preparation of local alcohol (Araki)?
+    A. II → I → IV → III                                        B. I → II → III → IV
+    C. II → IV → I → III                                        D. I → III → II → IV
+
+67. What is the molar mass of a polyethylene sample, [—CH₂—CH₂—]n, when n = 4600?                                       (1)
+
+    A. 1.288 × 10³ g/mol                                        B. 1.288 × 10⁵ g/mol
+    C. 1.196 × 10³ g/mol                                        D. 1.196 × 10⁴ g/mol
+
+68. Which one of the following polymer-monomer pairs is INCORRECTLY matched?                                            (1)
+    A. Teflon — Propylene                                       B. PVC — Chloroethene
+    C. Plexiglass — methyl methacrylate                         D. Bakelite — phenol and formaldehyde
+
+69. A student compared thermoplastic polymers and thermosetting polymers. Which of the following pairs is NOT           (1)
+    correct about their difference?
+    A. Thermoplastic: soften and reshaped when heated; Thermosetting: permanently hard after heating
+    B. Thermoplastic: consist mainly of linear chains; Thermosetting: highly cross-linked three-dimensional structures
+    C. Thermoplastic: Can't repeatedly melted and remolded; Thermosetting: soften when heated and can be reshaped
+       again
+    D. Thermoplastic: are generally recyclable; Thermosetting: Can't be recyclable
+
+70. For the electrolysis of aqueous copper (II) sulfate solution using graphite electrode, what substances are          (1)
+    produced at anode and cathode electrode respectively and their ratio?
+    A. Cu and O₂ are produced in a mol ratio of 2:1
+    B. H₂ and O₂ are produced in a mol ratio of 1:1
+    C. H₂ and O₂ are produced in a mol ratio of 2:1
+    D. O₂ and Cu are produced in a mol ratio of 1:2
+
+71. Which one of the following reactions creates energy in our bodies during respiration?                               (1)
+    A. C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(l)                  B. CO₂(g) + 6H₂O(l) → C₆H₁₂O₆(s) + 6O₂(g)
+    C. C₆H₁₂O₆(s) → 2C₂H₅OH(l) + 2CO₂(g)                        D. NH₂CONH₂(g) + H₂O(g) → 2NH₃(l) + CO₂(g)
+
+72. The following gases contribute to the greenhouse effect on Earth. Which is the correct order of their importance    (1)
+    from greatest to smallest?
+    A. CO₂, H₂O, CH₄                                            B. H₂O, CO₂, CH₄
+    C. CH₄, CO₂, H₂O                                            D. H₂O, CH₄, CO₂
+
+73. Which of the following sample routine correctly indicates the extraction of copper from its principal ore?          (1)
+    A. Concentration of ores → Roasting → Reduction → Purification
+    B. Concentration of ores → Purification → Roasting → Reduction
+    C. Purification → Roasting → Reduction → Concentration of ores
+    D. Concentration of ores → Roasting → Purification → Reduction
+74. Which of the following is TRUE about a homologous series?                                                   (1)
+    A. A group of compounds with different functional groups
+    B. A group of isomers with the same boiling point
+    C. Compounds with different molecular masses but the same formula
+    D. Hydrocarbons where each member differs from the next by a repeating unit -CH₂
+
+75. The following reaction can be used for the synthesis of CH₃CH=CHCH₃ as a desired product: CH₃CH₂CHBrCH₃ +   (1)
+    CH₃S⁻ → CH₃CH=CHCH₃ + CH₃SH + Br⁻. What is the atom economy for the above reaction?
+    A. 80%                                                          B. 48%
+    C. 56%                                                          D. 30.4%
+
+                                             — E N D O F E X A M I N AT I O N —
+                             Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,412 @@
+                                                        Temari.et
+                            Chemistry, 2018 EC, entrance exam, version 5
+                                               Grade 12 · Chemistry · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 77                               Total marks: 77
+
+Name                                            Grade                        ID No.               Date
+
+1.   During discovered nucleus by Rutherford using alpha particles and gold foil experiment, why Majority of          (1)
+     particles pass through the gold foil? Because
+     A. The atom has a positive charge
+     B. In the nucleus, is a dense central core within the atom.
+     C. In the nucleus there is heavy positively charged core
+     D. Most of the space in the atom is empty
+
+2.   A student is studying an atom with an atomic number of 31 and mass number of 70. Based on nuclear                (1)
+     composition, which of the following statements is CORRECT?
+     A. The nucleus contains 31 protons and 39 neutrons
+     B. The nucleus contains 31 neutrons and 39 protons
+     C. The nucleus contains only 31 protons
+     D. The nucleus contains 70 neutrons and 31 protons
+
+3.   Naturally occurring boron consists of two isotopes, 10B and 11B, with the isotopic masses 10.010 amu and 11.01   (1)
+     amu, respectively. The observed average atomic mass of boron is 10.811 amu. What is the percentage abundance
+     of 10B and 11B isotope respectively?
+     A. 11.1% and 88.90%                                           B. 19.90% and 80.10%
+     C. 10.10% and 89.90%                                          D. 22.2% and 77.80%
+
+4.   Which of the following atomic models is expressed CORRECTLY?                                                     (1)
+     A. Dalton's atomic model — billiard ball model
+     B. Bohr model of atom — Plum pudding model
+     C. Thomson's model of atom — Planetary model
+     D. Rutherford atomic model — Ice cream model
+
+5.   Suppose an unknown element does NOT deflect cathode rays in an electric field but has significant mass. Based (1)
+     on atomic models, which subatomic particle could it be composed of, and how would this impact the element's
+     atomic structure?
+     A. Protons; making the nucleus positively charged
+     B. Electrons; moving freely in orbitals
+     C. Neutrons; contributing to atomic mass without charge
+     D. Positrons; leading to an unstable atom
+
+6.   When elements are arranged in the order of increasing atomic masses every eight elements exhibits similar        (1)
+     properties, much like the musical octave. This statement was stated by?
+     A. Dobernier                                                  B. Mosley
+     C. Mendeleev                                                  D. Newland
+7.   Which of the following is NOT the key role of periodicity in the context of the periodic table?            (1)
+     A. to predicting element properties                        B. to classifying elements
+     C. to predicting electromagnetic radiation                 D. to provides the reactivity of elements
+
+8.   An element having the valence electron configuration 1s²2s²2p⁶3s²3p⁴ belongs to group?                     (1)
+
+     A. IIA                                                     B. VIA
+     C. IVA                                                     D. VIIIA
+
+9.   Which of the following is the correct order of the atomic size of Mg²⁺, C⁴⁻, Na⁺, N³⁻, and O²⁻?            (1)
+     A. Na⁺ < Mg²⁺ < C⁴⁻ < N³⁻ < O²⁻                            B. C⁴⁻ > N³⁻ > O²⁻ > Na⁺ > Mg²⁺
+     C. Mg²⁺ > Na⁺ > O²⁻ > N³⁻ > C⁴⁻                            D. N³⁻ > O²⁻ > C⁴⁻ > Na⁺ > Mg²⁺
+
+10. What types of bond is formed by sharing of electrons between atoms?                                         (1)
+     A. ionic bond                                              B. metallic bond
+     C. electrovalent bond                                      D. covalent bond
+
+11. Which one of the following is responsible for the unusual high boiling points of HF, H2O and NH3?           (1)
+     A. hydrogen bond                                           B. covalent bond
+     C. London dispersion force                                 D. ionic bond
+
+12. Which of the following compounds would most likely conduct electricity when dissolved in water but not in   (1)
+    solid?
+     A. SiO2                                                    B. Cu
+     C. NaCl                                                    D. C12H22O11
+
+13. Which of the following is CORRECT about the formation of an ionic bond? An ionic bond is formed by:         (1)
+
+     A. mobile and delocalized electrons
+     B. By sharing of electrons
+     C. between positively and negatively charged ions
+     D. between stationary electrons
+
+14. What property makes metallic elements are malleable means hammered into sheet?                              (1)
+     A. its good conductivity                                   B. its delocalized electrons
+     C. its strength                                            D. its hardness
+
+15. Which one of the following compound contains both ionic and covalent bonds?                                 (1)
+
+     A. ICl3                                                    B. CaO
+     C. Al2O3                                                   D. Na2CO3
+
+16. Which of the following intermolecular forces is generally the strongest?                                    (1)
+     A. London dispersion forces                                B. hydrogen bonding
+     C. dipole-dipole forces                                    D. ion-dipole interaction
+
+17. Consider the following chemical reaction: 2Mg(NO3)2 → 2MgO + 4NO2 + O2. The chemical reaction that takes    (1)
+    place during the conversion of Mg(NO3)2 into the product is classified as ______
+     A. Single replacement reaction                             B. Double displacement reaction
+     C. Decomposition reaction                                  D. Combination reaction
+18. What is the primary purpose of balancing chemical equation?                                                   (1)
+    A. to make equation neater and more symmetrical
+    B. to satisfy the law of conservation of mass
+    C. to indicate physical state
+    D. to show the rate of reaction
+
+19. Which one of the following is CORRECT about redox reaction?                                                   (1)
+    A. Electrons are transferred between species bonding partners
+    B. Acid and base neutralize each other
+    C. atoms or ions of two compounds exchange
+    D. two soluble ions in compounds form insoluble products
+
+20. A compounds found to contain 40g carbon, 6.7g hydrogen, 53.3g oxygen by mass. What is empirical formula of a (1)
+    compound?
+    A. CH4O                                                  B. C2H4O2
+    C. CHO                                                   D. CH2O
+
+21. When 4g of magnesium nitride is react with excess water 3.2g of magnesium oxide is produced. Mg3N2 + 3H2O (1)
+    → 2NH3 + 3MgO. What is percent yield of this reaction?
+    A. 66.67%                                                B. 94.5%
+    C. 78.6%                                                 D. 49.4%
+
+22. Given the following equation representing the reaction: 2SO2(g) + O2(g) → 2SO3(g). How many grams of SO3      (1)
+    will be produced when 6.8L oxygen is react with sulfur dioxide?
+    A. 68g                                                   B. 48.57g
+    C. 160g                                                  D. 4.76g
+
+23. What volume of oxygen at STP is required to burn 2 moles of propane (C3H8)? C3H8(g) + 5O2(g) → 3CO2(g) +      (1)
+    4H2O(g)
+    A. 44.8L                                                 B. 112L
+    C. 224L                                                  D. 22.4L
+
+24. Which of the following is NOT a characteristic of heterogeneous mixtures?                                     (1)
+    A. They are uniform in appearance and properties
+    B. They can have varying compositions in different parts
+    C. Components are easily distinguishable
+    D. They can contain solid, liquid, and gas phases simultaneously
+
+25. Which of the following statement is best describes about the heat of solution?                                (1)
+
+    A. The heat required to change a solid to a liquid
+    B. The heat generated during a chemical reaction
+    C. The heat required to vaporize a liquid
+    D. The heat absorbed or released when a solute dissolves in a solvent
+
+26. A laboratory technician prepares a solution by mixing 20 g of CaCl₂ (molar mass = 110.98 g/mol) in 300 g of   (1)
+    water. What is the molality of the resulting solution?
+    A. 0.75m                                                 B. 0.50 m
+    C. 0.60 m                                                D. 0.70 m
+27. A solution that holds more solute than it should theoretically be able to at that temperature is called          (1)
+    A. Saturated                                                B. supersaturated
+    C. unsaturated                                              D. concentrated
+
+28. Which one of the following is correct about dilution process?                                                    (1)
+
+    A. volume before and after dilution is the same
+    B. concentration will be increases
+    C. number of moles is constant
+    D. molarity is unchanged
+
+29. Which of the following is peroxide?                                                                              (1)
+    A. SrO2                                                     B. CaO
+    C. H2O                                                      D. P2O4
+
+30. A 250ml solution is formed from 24.5g of sulfuric acid (H2SO4). What is the normality of this solution? (Molar   (1)
+    mass H2SO4 = 98g/mol)
+    A. 4.00N                                                    B. 0.250N
+    C. 1.00N                                                    D. 2.00N
+
+31. The hydrogen ion concentration in certain solution at 25°C is 1×10⁻⁸ M. What is pOH of the solution?             (1)
+
+    A. 2                                                        B. 10
+    C. 6                                                        D. 8
+
+32. Which of the following is TRUE about properties of acidic solution?                                              (1)
+    A. acidic solution turns red litmus paper to blue
+    B. When react with active metals release hydrogen gas
+    C. feels slippery to touch
+    D. have pH greater than 7
+
+33. When lead react with oxygen at different ratio it produces form PbO and PbO2. The ratio of oxygen in PbO to      (1)
+    PbO2 is 1:2. Which law governs these two possible chemical combinations between atoms of lead and oxygen?
+    A. The Law of Multiple Proportions                          B. The law of constant proportion
+    C. The law of mass action                                   D. The law of definite proportion
+
+34. Which one of the following is NOT CORRECT about cathode ray properties? Cathode ray is                           (1)
+
+    A. travel on straight lines                                 B. deflected by magnetic fields
+    C. negatively charged                                       D. depends on nature of materials
+
+35. Isotopes are atoms of the same elements that have:                                                               (1)
+    A. the same number of atomic mass                           B. different number of neutrons
+    C. different number of protons                              D. the same number of proton and neutron
+
+36. The compound CuCl2 emits blue light having a wavelength of 750nm when heated at about 200°C. What is the         (1)
+    increment in energy (quantum) that is emitted at 750nm?
+    A. 5.25 × 10⁻¹⁹ J                                           B. 4.42 × 10⁻¹⁹ J
+    C. 2.65 × 10⁻¹⁹ J                                           D. 16.20 × 10⁻¹⁹ J
+37. Which one of the following electromagnetic radiations has the shortest wavelength?                                 (1)
+    A. X-rays                                                 B. gamma rays
+    C. UV rays                                                D. microwaves
+
+38. What is energy of hydrogen atom at n=1?                                                                            (1)
+
+    A. -2.18 × 10⁻¹⁸ J                                        B. 4.38 × 10⁻¹⁸ J
+    C. +2.18 × 10⁻¹⁸ J                                        D. 1.5 × 10⁻¹⁹ J
+
+39. Which of the following quantum numbers are described about the electron size, subshell and orientation of          (1)
+    electrons atom respectively?
+    A. n, l, ms                                               B. n, ml, l
+    C. n, ms, l                                               D. n, l, ml
+
+40. Which one of the following is not permissible about quantum numbers?                                               (1)
+    A. n=3, l=2, ml=0                                         B. n=5, l=3, ml=1
+    C. n=1, l=0, ml=0                                         D. n=4, l=5, ml=-3
+
+41. The principle state, 'The sequence order in which electrons are added to atoms orbitals starting from the lowest   (1)
+    energy level and progressing to higher one' is proposed by:
+    A. Hundi's rule                                           B. Pauli's exclusion principle
+    C. Aufbau principle                                       D. Bohr principle
+
+42. Which of the following is the correct electron configuration of Copper element at ground state? (Atomic number     (1)
+    of Cu = 29)
+    A. [Ar]4s²3d¹⁰                                            B. [Ar]4s¹ 3d¹⁰
+    C. [Ar]4s¹3d⁵                                             D. [Ar]4s² 3d⁹
+
+43. Which one of the following compound contains both ionic and covalent bonds?                                        (1)
+    A. Na2CO3                                                 B. CaO
+    C. Al2O3                                                  D. ICl3
+
+44. Among the following which one is NOT TRUE about ionic compounds?                                                   (1)
+    A. ionic compounds are aggregate of ions
+    B. ionic compounds are usually soluble in water
+    C. ionic compounds have high melting point
+    D. ionic compounds conduct electricity in any state
+
+45. Water molecules have two bond pairs and two lone pairs of electrons. Which of the following is correct about       (1)
+    these pairs of electrons?
+    A. The repulsion between two lone pairs is greater than the repulsion between the two bonding pairs
+    B. Lone pair's repulsion is exactly identical with bonding pair-bonding pair repulsion
+    C. The repulsion between two bonding pairs is greater than the repulsion between the two lone pairs
+    D. Bonding pair's repulsion is exactly identical with lone pair-bonding pair repulsion
+
+46. What is the hybridization of carbon atom in C2H2?                                                                  (1)
+
+    A. sp3d                                                   B. sp
+    C. sp2                                                    D. sp3
+47. Which of the following molecule does NOT obey the octet rule?                                                        (1)
+    A. CS2                                                     B. PCl3
+    C. AlF3                                                    D. HCN
+
+48. Which of the following molecules has a trigonal bipyramidal structure based on electron set arrangement?             (1)
+
+    A. IF5                                                     B. ICl4⁻
+    C. BrF5                                                    D. SF4
+
+49. Which of the following properties is associated with covalent compounds? Covalent Compounds are:                     (1)
+    A. good electrical conductivity                            B. form ions in the solution
+    C. crystalline solid at room temperature                   D. exist as solid, liquid or gas state
+
+50. Which of the following is NOT TRUE about the physical properties of metals?                                          (1)
+    A. Metals have high electrical and thermal conductivity
+    B. Metals are malleable and ductile
+    C. Metals are not durable
+    D. Metals are very cool and shiny
+
+51. Which hybridization changes when the carbon atom undergoes in the combustion of methane? CH4(g) + 2O2(g)             (1)
+    → CO2(g) + 2H2O(g)
+    A. sp³ → sp³                                               B. sp³ → sp²
+    C. sp² → sp                                                D. sp³ → sp
+
+52. Which of the following represents the correct molecular orbital electron configuration of O2?                        (1)
+    A. σ1s² σ*1s² σ2s² σ*2s² σ2px² (π2py² = π2pz²) (π*2py¹ = π*2pz¹)
+    B. σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2py²
+    C. σ1s² σ*1s² σ2s² σ*2s² π2py² = π2pz² σ2px² π*2py² = π*2pz¹
+    D. σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2pz²
+
+53. Which of the following statement is TRUE about paramagnetic substances?                                              (1)
+
+    A. they have all pair's electrons
+    B. they are attracted to magnetic fields due to unpaired electrons
+    C. they are always solid at room temperature
+    D. they have low boiling point than diamagnetic substances
+
+54. What is the bond order of diatomic molecule N2?                                                                      (1)
+    A. 2.5                                                     B. 1.5
+    C. 3                                                       D. 2
+
+55. Which of the following substances is example of molecular crystal?                                                   (1)
+
+    A. NaCl                                                    B. SiO2
+    C. Fe                                                      D. C6H12O6
+
+56. From the given assumption of kinetic molecular theory of gases which of the following is CORRECT?                    (1)
+    A. A gas is a collection of particles in constant, curved-line motion.
+    B. There is no space between gas particles compared with the size of the particles themselves
+    C. Gas particles do not attract or repel each other, they do not interact
+    D. The average kinetic energy of gas particles is inversely proportional to the temperature of the gas in kelvins.
+57. The molar volume of a gas is:                                                                                       (1)
+    A. The 1 mole of a gas occupied by 22.4 liters at standard temperature and pressure
+    B. The volume occupied by 2 mole of a gas at a given temperature
+    C. The volume of a gas having weight of 1g
+    D. The volume equivalent to 1000ml of a gas at 273K and 1atm pressure
+
+58. Which of the following is CORRECTLY describes conjugate acids and conjugate bases?                                  (1)
+    A. Conjugate base has one more hydrogen and one fewer minus charge than the corresponding base
+    B. Conjugate base is a species formed after removal of proton from an acid whereas conjugate acid is formed after
+       addition of proton to a base
+    C. Conjugate acid has one more fewer and one more minus charge than the corresponding base
+    D. Conjugate acid is a species formed after removal of proton from a base whereas conjugate base is formed after
+       addition of proton to a acid
+
+59. Which of the following molecule is act as a Lewis acid?                                                             (1)
+    A. BF3                                                      B. NH3
+    C. Cl⁻                                                      D. OH⁻
+
+60. The pH of a 0.1M solution of aqueous solution of certain acid is 5. What is the value of acid ionization constant   (1)
+    (Ka) of this acid?
+    A. 1.0 × 10⁻¹⁰                                              B. 1.0 × 10⁻⁵
+    C. 1.0 × 10⁻⁴                                               D. 1.0 × 10⁻⁹
+
+61. What happen to the degree of ionization of 0.1M solution of acetic acid (CH3COOH) if small amount of sodium         (1)
+    acetate (CH3COONa) is added?
+    A. the degree of ionization increase because the concentration of ions increases
+    B. the degree of ionization decreases because the equilibrium shift toward the reactants
+    C. the degree of ionization remains constant because Ka is constant
+    D. the pH value of the solution depends on position of equilibrium
+
+62. What is the pH of a buffer solution containing 0.15 M acetic acid (CH₃COOH) and 0.10 M sodium acetate               (1)
+    (CH₃COONa)? (Given pKa of acetic acid = 4.74)
+    A. 4.56                                                     B. 10.76
+    C. 5.06                                                     D. 5.26
+
+63. Which of the following salts would likely produce an acidic solution when dissolved in water?                       (1)
+    A. CH₃COONa                                                 B. K2CO3
+    C. NH4Cl                                                    D. CaSO4
+
+64. What is the primary difference between the endpoint and the equivalence point in a titration?                       (1)
+    A. The endpoint is where the reaction is complete, while the equivalence point is where the indicator changes
+       color.
+    B. The endpoint is where the indicator changes color, while the equivalence point is where the amount of titrant
+       equals the amount of analyte
+    C. The endpoint occurs before the equivalence point.
+    D. There is no difference; they are synonymous terms.
+65. What is oxidation number of Fe in the K4[Fe(CN)6]?                                                                 (1)
+    A. +2                                                       B. +6
+    C. -4                                                       D. +1
+
+66. In the reaction 2Na + 2H₂O → 2NaOH + H₂, which species is oxidized?                                                (1)
+
+    A. NaOH                                                     B. H₂O
+    C. Na                                                       D. H₂
+
+67. Which one of the following is TRUE in the electrolysis of dilute H2SO4 solution?                                   (1)
+    A. oxygen gas is liberated at cathode electrode
+    B. concentration of H2SO4 is increase after electrolysis
+    C. hydrogen gas is released at anode electrode
+    D. water is not undergo electrolysis
+
+68. One of the basic differences between metallic conduction and electrolytic conduction is:                           (1)
+
+    A. The charge carriers in metals are localized electrons while strongly held ions are in electrolytic conductors
+    B. The conduction of electricity is due to the movement of ions in electrolytic conduction while the flow of
+       electrons in metallic conduction
+    C. The charge carriers in metals are cations and anions while mobile electrons are in electrolytic conduction
+    D. The conduction of electricity is due to the movement of ions in metallic conduction while the flow of electrons in
+       electrolytic conduction
+
+69. Three electrolytic cells are connected in series that contain Au3+, Ag+ and Cu2+ ions. How many grams of Ag+       (1)
+    and Cu2+ metal will be deposited at cathode if 28g of Au3+ is deposited respectively?
+    A. 65.66 g and 32g                                          B. 25.33 g and 7.51g
+    C. 108g and 14g                                             D. 46.05g and 13.64g
+
+70. In the electrolysis of a concentrated solution of sodium chloride (brine), which gas is produced at the anode?     (1)
+    A. Chlorine                                                 B. Hydrogen
+    C. Oxygen                                                   D. Nitrogen
+
+71. In a galvanic cell, how can you identify the cathode when given standard reduction potentials?                     (1)
+    A. The electrode that is larger in size is the cathode
+    B. The electrode with the lower reduction potential is the used as electrolyte
+    C. The electrode with the higher reduction potential is the cathode
+    D. The electrode that is connected to the positive terminal of the battery is always the cathode
+
+72. Which of the following statements is TRUE regarding the half-reactions in a galvanic cell?                         (1)
+    A. The anode half-reaction involves loss of electrons
+    B. The cathode half-reaction involves oxidation
+    C. The cathode half-reaction produces ions
+    D. The anode half-reaction involves reduction
+
+73. Given the reaction: Al(s) + Cu2+(aq) → Al3+(aq) + Cu(s): which of the following is the correct cell notation?      (1)
+
+    A. Cu2+(aq) / Cu(s) // Al3+(aq) / Al(s)                     B. Al(s) / Al3+(aq) // Cu(s) / Cu2+(aq)
+    C. Cu2+(aq) / Cu(s) // Al(s) / Al3+(aq)                     D. Al(s) / Al3+(aq) // Cu2+(aq) / Cu(s)
+74. Which one of the following are renewable natural resources?                                            (1)
+    A. Animals                                                       B. Coal
+    C. petroleum                                                     D. crude oil
+
+75. The process of producing ammonia in the industry is by:                                                (1)
+
+    A. Contact process                                               B. Ostwald process
+    C. Solvay process                                                D. Haber process
+
+76. Which one of the following is INCORRECT about chemical industries? Chemical industry is                (1)
+    A. use safe operation methods in their manufacturing process
+    B. consume relatively large quantities of energy during production
+    C. use only naturally available raw materials
+    D. test their products before and after production
+
+77. What is one of the primary industrial uses of ammonia?                                                 (1)
+
+    A. As a food preservative                                        B. In the production of fertilizers
+    C. As a cleaning agent for glass                                 D. In the manufacturing of plastics
+
+                                              — E N D O F E X A M I N AT I O N —
+                              Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

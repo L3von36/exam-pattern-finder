@@ -1,0 +1,393 @@
+                                                         Temari.et
+                            Chemistry, 2018 EC, entrance exam, version 4
+                                               Grade 12 · Chemistry · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 75                               Total marks: 75
+
+Name                                             Grade                       ID No.               Date
+
+1.   Modern atomic theory contradicts Dalton's atomic theory in stating that:                                         (1)
+     A. When elements combine, their atoms unite in small whole number ratio to form compound.
+     B. All substances are made up of very small particles called atoms.
+     C. Atoms of different elements have different properties.
+     D. Atom can split into smaller particles.
+
+2.   The atomic nucleus was discovered with the help of an experiment called:_____.                                   (1)
+     A. The deflection of cathode ray experiment.
+     B. The Alpha particles scattering experiment.
+     C. The discharge tube experiment.
+     D. The oil drop experiment.
+
+3.   Which experiment provide evidence that atom is mostly empty space and led to the discovery of the atomic         (1)
+     nucleus?
+     A. Millikan's oil drop experiment
+     B. Bohr's hydrogen atom experiment
+     C. Rutherford's gold foil experiment
+     D. Thomson's cathode ray tube experiment
+
+4.   An element has electron configuration of [Kr]5s²4d⁴. To which group and period respectively does the element     (1)
+     belong in the Modern periodic table?
+     A. Group IVB and period 4                                   B. Group IIB and period 5
+     C. Group VB and period 6                                    D. Group VIB and period 5
+
+5.   The characteristic similarities of elements in the same period is:                                               (1)
+     A. They all have the same electron configuration
+     B. They all have the same valence electrons
+     C. They all have the same number of energy level
+     D. They all have similar chemical properties
+
+6.   Which One of the following statement is not true about Mendeleev's periodic table?                               (1)
+     A. Arranged elements in order of increasing atomic masses
+     B. It was proposed in 1869 and predicted many new elements
+     C. Wrong order of atomic masses would be observed
+     D. The position of isotopes and noble gases are available
+
+7.   According to modern periodic law, the periodic properties of elements are periodic functions of their________.   (1)
+
+     A. Atomic sizes                                             B. Atomic numbers
+     C. Atomic masses                                            D. Mass numbers
+8.   An element 'A' is found in group IIIA and an element 'B' is found in group VIA. The compound formed with these   (1)
+     two elements will have the formula:
+     A. A₂B₆                                                    B. A₆B₂
+     C. A₂B₃                                                    D. A₃B₂
+
+9.   The atomic number of elements Na, Cl, Al and K are 11, 17, 13 and 19 respectively. Which of the following        (1)
+     statement is not true?
+     A. The ionization potential of K is smaller than that of Na
+     B. The electron affinity of Cl is smaller than that of Al
+     C. Chlorine has the highest effective nuclear charge than that of K
+     D. The metallic character of K is greater than that of Na
+
+10. Out of the elements ₇N, ₁₁Na, ₁₇Cl, and ₁₅P:                                                                      (1)
+     A. N, Na and P are found in the same period
+     B. Cl and N have the same number of energy level
+     C. N and P are found in the same group
+     D. Na and Cl are found in the same group
+
+11. Which of the following is not the advantages of periodic classification of elements in studying chemistry?        (1)
+
+     A. It helps to predict physical and chemical properties, reactivities, and types of compound form.
+     B. It clearly show trends in properties of elements across a periods and down the groups.
+     C. It simplifies the study of elements by grouping those with similar chemical behavior.
+     D. It arranges isotopes of an element in different location.
+
+12. What are the real cause of chemical bonding?                                                                      (1)
+     A. Increasing the potential energy of unstable atoms
+     B. Complete the transfer of electrons from one atom to another.
+     C. Attending stable electron configurations.
+     D. Sharing electrons between atom of different elements.
+
+13. Which one of the following is the characteristics of most ionic compounds?                                        (1)
+     A. They are generally liquid or gases at ordinary temperature.
+     B. They conduct electric current when in molten or aqueous solution.
+     C. They have relatively low melting and boiling points.
+     D. They are soluble in non polar solvents
+
+14. Covalent bonds are typically formed between atoms with:                                                           (1)
+     A. High ionization energy and high electron negativity
+     B. Low ionization energy and high electron negativity
+     C. High ionization energy and low electron negativity
+     D. Low ionization energy and low electron negativity
+
+15. Which one of the following compounds represent atoms bonded covalently? 1. N₂O₂ 2. NH₃ 3. MgBr₂ 4. BaO 5.         (1)
+    SO₃
+     A. 1, 3 and 5                                              B. 1, 2 and 5
+     C. 3 and 4                                                 D. 1, 2 and 3
+16. A type of chemical bonding that results from the mutual attraction between positively charged metal nuclei and   (1)
+    the surrounding freely moving sea of electrons is named as:
+    A. Covalent                                                B. Dative
+    C. Ionic                                                   D. Metallic
+
+17. What type of intermolecular force is responsible for high boiling of water?                                      (1)
+    A. Dipole-dipole interaction                               B. Hydrogen bonding
+    C. London or dispersion forces                             D. Covalent bonding
+
+18. The correct balanced chemical equation for the reaction: Phosphorus + oxygen → phosphorus(V) oxide is:           (1)
+
+    A. P₄ + 5O₂ → P₄O₁₀                                        B. P₅ + O₂ → P₂O₅
+    C. 5P + O₂ → P₅O₂                                          D. 2P + O₂ → 2PO
+
+19. Chemical equation must be balanced to satisfy which one of the following law?                                    (1)
+    A. Conservation of energy                                  B. Definite proportion
+    C. Conservation of mass                                    D. Multiple proportion
+
+20. Which one of the following is an example of a single displacement reaction?                                      (1)
+    A. CaO(s) + SiO₂ → CaSiO₃(s)
+    B. 2NaHCO₃(aq) → Na₂CO₃(s) + CO₂(g) + 2H₂O(l)
+    C. 2KI(aq) + F₂(g) → 2KF(aq) + I₂(g)
+    D. H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l)
+
+21. Which of the following statements is correct?                                                                    (1)
+    A. The oxidizing agent is always oxidized in oxidation and reduction reaction
+    B. The reducing agent is always reduced in oxidation and reduction reaction
+    C. The oxidizing agent in oxidation and reduction reaction always loses electrons
+    D. A reducing agent in oxidation and reduction reaction always loses electrons
+
+22. Calculate the formula mass of hydrated sodium carbonate (Na₂CO₃·10H₂O) (atomic mass of Na=23, C=12, O=16,        (1)
+    H=1)
+    A. 326                                                     B. 286
+    C. 274                                                     D. 142
+
+23. Which solute particles dispersed in water are increasing in size in a mixture?                                   (1)
+
+    A. Suspension, Colloid, Solution                           B. Solution, Suspension, Colloid
+    C. Colloid, Solution, Suspension                           D. Solution, Colloid, Suspension
+
+24. How can you best increase the solubility of a gas in liquid?                                                     (1)
+    A. Increasing both the temperature and the pressure
+    B. Decreasing both the temperature and the pressure
+    C. Increasing the temperature and decreasing the pressure
+    D. Decreasing the temperature and increasing the pressure
+
+25. In which of the following case will the dissolution of sugar be the most rapid?                                  (1)
+
+    A. Powdered sugar in cold water                            B. Sugar crystal in hot water
+    C. Powdered sugar in hot water                             D. Sugar crystal in cold water
+26. The solubility of NaCl in water at 20°C is 40g in 100g of water. A solution that contains 20g of NaCl in 50g of   (1)
+    water at 20°C is ____________.
+     A. Unsaturated                                             B. Saturated
+     C. Super saturated                                         D. Diluted
+
+27. How many grams of glucose (C₆H₁₂O₆) must be dissolved in 660g of ethanol (C₂H₅OH) to prepare a 4.40 × 10⁻⁴        (1)
+    molality of solution?
+     A. 0.560g                                                  B. 0.0522g
+     C. 2.430g                                                  D. 3.661g
+
+28. A solution is said to be in equilibrium if and only if:                                                           (1)
+     A. It forms suspension
+     B. It dissolves more solutes
+     C. Its rate of dissolution is equal to the rate of crystallization
+     D. Solute-solvent interaction is less than that of solute-solute interaction
+
+29. What is the concentration of sodium hydroxide required to react completely with equal volume of 0.5M of           (1)
+    phosphoric acid solution? If 0.25L of H₃PO₄ is used? H₃PO₄(aq) + 3KOH(aq) → K₃PO₄ + 3H₂O
+     A. 0.375M                                                  B. 0.125M
+     C. 1.5M                                                    D. 2.5M
+
+30. What is the mass percentage of methanol in a solution prepared by adding 32g of methanol to 18g of water?         (1)
+     A. 16%                                                     B. 64%
+     C. 50%                                                     D. 32%
+
+31. A compound formed when an acidic oxide react with a basic oxide is:                                               (1)
+     A. Acid                                                    B. Salt
+     C. Base                                                    D. Oxide
+
+32. Which of the following statement is true about oxide?                                                             (1)
+
+     A. All basic oxides are metallic oxides
+     B. Amphoteric oxides are basic oxides
+     C. All non-metallic oxides are acidic oxides
+     D. Oxides are ternary compounds
+
+33. What is the concentration of hydrogen ions in 0.0001 M NaOH aqueous solution?                                     (1)
+     A. 2.0 × 10⁻⁴ M                                            B. 1.0 × 10⁻¹⁰ M
+     C. 1.0 × 10⁻⁸ M                                            D. 1.0 × 10⁻¹⁴ M
+
+34. Which one of the following acid is used as electrolyte in a car battery?                                          (1)
+
+     A. Hydrochloric acid                                       B. Nitric acid
+     C. Sulphuric acid                                          D. Phosphoric acid
+
+35. The idea of atoms as the smallest particles of substances was proposed by:                                        (1)
+     A. James Chadwick                                          B. John Dalton
+     C. Ernest Rutherford                                       D. J.J Thomson
+36. A sample of water taken from ice, rain or ocean has the same ratio by mass of hydrogen and oxygen. This           (1)
+    chemical fact explain the law of:
+    A. Mass action                                            B. Conservation of mass
+    C. Definite proportion                                    D. Multiple proportion
+
+37. All cathode rays are the same regardless of the nature of material used as electrode within the discharge tube.   (1)
+    This observation indicates that:
+    A. Cathode rays are energetic
+    B. Cathode rays travel in a straight line
+    C. Cathode rays are electrically charged
+    D. Cathode rays are building block of all matter.
+
+38. Calculate RAM for naturally occurring Mg if the isotope distribution is 78.99% ²⁴Mg, 10.00% ²⁵Mg and 11.01%       (1)
+    ²⁶Mg; accurate masses are 23.99, 24.99 and 25.98 respectively.
+    A. 26.51                                                  B. 24.31
+    C. 22.41                                                  D. 25.35
+
+39. Which of the following electron transitions requires the smallest energy to be absorbed by the hydrogen atom?     (1)
+    A. from n = 1 to n = 2                                    B. from n = 2 to n = 3
+    C. from n = 3 to n = 4                                    D. from n = 4 to n = 5
+
+40. The normal human eye responds to visible light of wavelength ranging from about 390nm to 710nm. What is the       (1)
+    frequency range of the human eye?
+    A. 7.7 × 10¹⁴ Hz to 4.2 × 10¹⁴ Hz                         B. 4.2 × 10¹⁴ Hz to 7.7 × 10¹⁴ Hz
+    C. 1.3 × 10⁻¹⁵ Hz to 2.4 × 10⁻¹⁵ Hz                       D. 2.4 × 10⁻¹⁵ Hz to 1.3 × 10¹⁵ Hz
+
+41. Which of the following statements is TRUE?                                                                        (1)
+    A. Ultraviolet light has longer wavelength than visible light
+    B. The energy of radiation decreases as the wavelength decreases
+    C. The frequency of radiation increases as the wavelength decreases
+    D. Wave number of an electromagnetic radiation increases as wavelength increases
+
+42. Which of the following set of quantum numbers is permissible?                                                     (1)
+    A. n=3, l=3, ml=-2, ms=-1/2                               B. n=2, l=0, ml=-1, ms=+1/2
+    C. n=2, l=0, ml=0, ms=+1/2                                D. n=0, l=0, ml=1, ms=-1/2
+
+43. An element has electron configuration of [Kr]5s²4d¹⁰5p⁵. To which group and period respectively does the          (1)
+    element belong in the Modern periodic table?
+    A. Group IVA and period 4                                 B. Group VA and period 7
+    C. Group IIA and period 5                                 D. Group VIIA and period 5
+
+44. Which one of the following ionic compound has the highest lattice energy?                                         (1)
+    A. NaCl                                                   B. NaBr
+    C. NaF                                                    D. NaI
+
+45. Which of the following compound contain ionic, covalent and coordinate covalent bond all in one?                  (1)
+    A. KCl                                                    B. MgCO₃
+    C. NH₄Cl                                                  D. HCOOH
+46. Which of the following molecule is polar covalent molecule?                                                    (1)
+    A. CO₂                                                     B. CCl₄
+    C. PCl₅                                                    D. NH₃
+
+47. The species in the following set do not include which one of the following geometry? SiCl₄, BrF₄⁻, SF₆, NO₃⁻   (1)
+
+    A. Octahedral                                              B. Tetrahedral
+    C. Trigonal pyramidal                                      D. Square planar
+
+48. The type of hybridization of the central atom in ClF₃ and SF₆ are __ and __ respectively?                      (1)
+    A. sp³d and sp³                                            B. sp³d and sp³d²
+    C. sp³ and sp³d                                            D. sp² and sp³d²
+
+49. Which of the following statement is incorrect?                                                                 (1)
+    A. A molecule may be nonpolar, although all the bonds in it are polar
+    B. If a molecule BF₃ is nonpolar, the orbitals on B are sp³ hybridized
+    C. In a crystal ammonium bromide there are ionic and covalent bond
+    D. In ammonium ion NH₄⁺, all the bond lengths are identical
+
+50. In which of the following molecules the dispersion or London force is the most constant?                       (1)
+    A. CH₃Cl and CO                                            B. Ar and CCl₄
+    C. H₂O and NH₃                                             D. HCl and CHCl₃
+
+51. As atoms bonded to each other, they:                                                                           (1)
+    A. Decrease their potential energy, thus creating less stable arrangement of matter.
+    B. Decrease their potential energy, thus creating more stable arrangement of matter.
+    C. Increase their potential energy, thus creating less stable arrangement of matter.
+    D. Increase their potential energy, thus creating more stable arrangement of matter.
+
+52. Metallic bonding is formed between:                                                                            (1)
+    A. Elements of low electronegativities                     B. Elements of small atomic sizes
+    C. Electrons of high electronegativities                   D. Elements of high electron affinities
+
+53. Which of the following molecule or ion is least stable?                                                        (1)
+    A. CN                                                      B. CN⁻
+    C. O₂                                                      D. F₂
+
+54. According to molecular orbital theory which one of the following is paramagnetic?                              (1)
+    A. NO                                                      B. F₂
+    C. NO⁺                                                     D. Be₂
+
+55. Identify the wrong statement from the following alternatives:                                                  (1)
+
+    A. F₂ molecule is diamagnetic
+    B. The bond order of N₂ is 3
+    C. The bond energy of CN⁻ is less than that of O₂
+    D. The bond length of F₂ is greater than that of N₂
+56. Molecules are held together in a crystal by:                                                                          (1)
+    A. Hydrogen bonds                                            B. Van der Waal's attraction
+    C. Electrostatic attraction                                  D. Dipole-dipole attraction
+
+57. At high temperatures the particles of a gas:                                                                          (1)
+
+    A. Move slower and hit the walls of their container less often.
+    B. Move faster and hit the walls of their container more frequently
+    C. Move faster and hit the walls of their container less frequently
+    D. Don't move at all and don't hit the walls of their container.
+
+58. According to the kinetic-molecular theory, particles of a gas                                                         (1)
+    A. Attract each other but they do not collide
+    B. Repel each other and they collide
+    C. Neither attract nor repel each other but they collide
+    D. Neither attract nor repel each other and they do not collide
+
+59. Which one of the following statements is NOT true about acids?                                                        (1)
+    A. Brønsted-Lowry acid is a proton donor
+    B. Lewis acid is an electron pair donor
+    C. Lewis acid is an electron pair acceptor
+    D. Arrhenius acid furnishes hydronium ion in aqueous solution
+
+60. Which of the following is the conjugate acid of hydrogen phosphate ion, (HPO₄²⁻)?                                     (1)
+    A. H₃PO₄                                                     B. PO₄³⁻
+    C. H₂PO₄⁻                                                    D. HPO₄²⁻
+
+61. What is the pH of a 5 × 10⁻⁶ M solution of Ba(OH)₂?                                                                   (1)
+    A. 9                                                         B. 11
+    C. 12                                                        D. 10
+
+62. A 1.0M solution of a weak acid is found to dissociate by only 1.4%. Which of the following acid is it likely to be:   (1)
+    A. HNO₂, Ka = 6.91 × 10⁻⁴                                    B. HCOOH, Ka = 1.96 × 10⁻⁴
+    C. HF, Ka = 7.2 × 10⁻⁴                                       D. CH₃COOH, Ka = 1.82 × 10⁻⁵
+
+63. If KOCl is added to a solution of HOCl, which of the following statements is true?                                    (1)
+
+    A. The pH of the solution will increase                      B. The pH of the solution will decrease
+    C. The equilibrium will not be affected                      D. The pH will remain the same
+
+64. Buffer solution have consistent acidity and alkalinity because:                                                       (1)
+    A. They have fixed value of pH
+    B. They have excess of H⁺ or OH⁻ ions
+    C. The acids and alkalies are shielded from attack by other ions
+    D. They give unionized acids or bases on the reaction with added acid or base
+
+65. Which of the following salts will yield a basic solution on dissolution in water?                                     (1)
+
+    A. A salt of weak acid and weak base                         B. A salt of weak acid and strong base
+    C. A salt of strong acid and strong base                     D. A salt of strong acid and weak base
+66. What molarity of 50mL H₂SO₄ is required to neutralize 200mL of 0.5M NaOH?                                           (1)
+    A. 1M                                                       B. 4N
+    C. 2M                                                       D. 0.5M
+
+67. Which of the following titration will have an equivalent point of pH less than 7?                                   (1)
+
+    A. Strong acid with weak base                               B. Weak acid with weak base
+    C. Strong acid with strong base                             D. Weak acid with strong base
+
+68. For the reaction: H₂S + HNO₃ → S + NO + H₂O, what is the coefficient H₂S and NO respectively after balancing        (1)
+    redox reaction by oxidation number method?
+    A. 2 and 4                                                  B. 3 and 2
+    C. 3 and 4                                                  D. 4 and 2
+
+69. Consider the following oxidation-reduction reaction equation: 2H₂O(l) + Al(s) + MnO₄⁻(aq) → Al(OH)₄⁻(aq) +          (1)
+    MnO₂(s). What are the reducing and the oxidizing agents in this reaction?
+    A. Al(s) is the reducing agent and H₂O is the oxidizing agent
+    B. Al(s) is the oxidizing agent and H₂O is the reducing agent
+    C. Al(s) is the oxidizing agent and MnO₄⁻(aq) is the reducing agent
+    D. Al(s) is the reducing agent and MnO₄⁻(aq) is the oxidizing agent
+
+70. The anode reaction is the same in all of the following electrolysis process except:                                 (1)
+    A. Electrolysis of dilute NaCl solution                     B. Electrolysis of conc. HCl solution
+    C. Electrolysis of brine solution                           D. Electrolysis of molten MgCl₂
+
+71. Which of the following conduct electricity without undergoing any chemical change?                                  (1)
+
+    A. Potassium chloride solution                              B. Hydrochloric acid solution
+    C. Molten magnesium chloride                                D. Copper metal
+
+72. Two cells are connected in series. One cell contains Ag₂SO₄ and the other cell contains Al(NO₃)₃. If 12g of Al is   (1)
+    deposited on one cell, how many grams of Ag is deposited on the other cell? (Atomic mass of Ag = 108g/mole
+    and Al = 27g/mole)
+    A. 144g                                                     B. 24g
+    C. 12g                                                      D. 36g
+
+73. The two standard electrode potentials involved in the nickel-cadmium rechargeable cell are given below.             (1)
+    Calculate the ΔG° of the cell. (F = 96500 C) NiO₂(s) + 2H₂O(l) + 2e⁻ → Ni(OH)₂(s) + 2OH⁻ E° = +0.49V; Cd(OH)₂(s)
+    + 2e⁻ → Cd(s) + 2OH⁻(aq) E° = -0.76V
+    A. -184.6 KJ                                                B. -153.0 KJ
+    C. -241.3 KJ                                                D. -206.8 KJ
+
+74. Which of the following is not the characteristic of Chemical industries?                                            (1)
+    A. Consume large quantities of energy during manufacturing process.
+    B. Use safe operation method during manufacturing process
+    C. Test their product during and after manufacturing
+    D. Providing transport services to customers
+75. In the production of ammonia, which condition would increase the yield of ammonia according to this reaction?   (1)
+    N₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = -92.2 KJ/mol
+    A. High temperature and low pressure                             B. High temperature and high pressure
+    C. Low temperature and high pressure                             D. Low temperature and low pressure
+
+                                              — E N D O F E X A M I N AT I O N —
+                              Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+
