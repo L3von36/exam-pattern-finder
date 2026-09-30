@@ -1,0 +1,57 @@
+{
+  "cookies": [
+    {
+      "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0f488-2ca3-7d41-ad2b-e2a37ae82794%22%2C%22distinct_id%22%3A%2240461%22%2C%22%24sesid%22%3A%5B1790808962819%2C%2201a0f488-3703-7a2a-b335-dae78ef86f98%22%2C1790808962819%5D%2C%22%24epp%22%3Atrue%2C%22%24user_state%22%3A%22identified%22%7D",
+      "domain": ".temari.et",
+      "path": "/",
+      "expires": 1822344978.0,
+      "size": 325,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://temari.et",
+      "localStorage": [
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+          "value": "{\"$initialization_time\":\"2026-09-30T22:56:00.156Z\",\"$configured_session_timeout_ms\":1800000,\"distinct_id\":\"40461\",\"$device_id\":\"01a0f488-2ca3-7d41-ad2b-e2a37ae82794\",\"$user_state\":\"identified\",\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1790808961846,\"enabled\":false,\"networkPayloadCapture\":{\"capturePerformance\":{\"network_timing\":true,\"web_vitals\":true,\"web_vitals_allowed_metrics\":null}},\"canvasRecording\":{},\"sampleRate\":null,\"minimumDurationMilliseconds\":null},\"$autocapture_disabled_server_side\":false,\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":true,\"$web_vitals_allowed_metrics\":null,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$sesid\":[1790808962819,\"01a0f488-3703-7a2a-b335-dae78ef86f98\",1790808962819],\"$client_session_props\":{\"sessionId\":\"01a0f488-3703-7a2a-b335-dae78ef86f98\",\"props\":{\"r\":\"$direct\",\"u\":\"https://temari.et/signup\"}},\"$epp\":true,\"$user_id\":\"40461\",\"$stored_person_properties\":{\"name\":\"User Fourteen\",\"preferred_language\":\"en\"},\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"19fd2589-7dba-4cf9-b2bf-f067e1f33d5d\",\"$feature_flag_evaluated_at\":1790808978517,\"school_id\":null,\"branch_id\":null}"
+        },
+        {
+          "name": "temari_locale",
+          "value": "en"
+        },
+        {
+          "name": "temari_token",
+          "value": "26320|RBlHiIbY3WCMtzmMpVGvT8bjjUEgH6Qjl6du0qWb337c967a"
+        },
+        {
+          "name": "active_surface",
+          "value": "family"
+        }
+      ],
+      "sessionStorage": [
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+          "value": "{\"$sdk_debug_extensions_init_method\":\"synchronous\",\"$sdk_debug_extensions_init_time_ms\":6}"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_primary_window_exists",
+          "value": "true"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_session_registered_properties",
+          "value": "[\"$sdk_debug_extensions_init_method\",\"$sdk_debug_extensions_init_time_ms\"]"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_window_id",
+          "value": "\"01a0f488-3703-7a2a-b335-dae8f2ee82e8\""
+        }
+      ]
+    }
+  ]
+}
