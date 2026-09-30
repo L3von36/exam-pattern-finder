@@ -1,0 +1,326 @@
+                                                        Temari.et
+                              Chemistry, 2018 EC, entrance exam, version 1
+                                              Grade 12 · Chemistry · 2018 E.C.
+
+Time allowed: 120 minutes                                   Questions: 65                                  Total marks: 65
+
+Name                                            Grade                       ID No.                 Date
+
+1.   Who used the 'cathode ray tube' to discover the electron and determine its charge to mass ratio?                   (1)
+     A. Robert. A. Millikan                                     B. James Chadwick
+     C. J.J. Thomson                                            D. Ernest Rutherford
+
+2.   Among the following postulates of Dalton's atomic theory, the one that was modified in the modern atomic           (1)
+     theory is
+     A. Atoms are indivisible
+     B. Atoms are the smallest particle of all elements
+     C. Atoms of more than one element combine to form compounds
+     D. Atoms are indestructible
+
+3.   Which of the following statements can be used as an example to describe the law of definite proportion?            (1)
+     A. 48g of magnesium ribbon burns in excess oxygen to form 80g of magnesium oxide
+     B. The mass in gram of oxygen to phosphorus in P4O10 to that in P4O6 is in 3:2 ratio
+     C. White chalk consists of the elements Calcium, carbon and oxygen which are combined in the mass ratio of
+        10:3:12 regardless of its source.
+     D. Water is a colorless liquid at room temperature
+
+4.   The statement 'The properties of the elements are periodic functions of their atomic masses' is the                (1)
+     A. Law of mass action                                      B. Mendeleev's periodic law
+     C. Modern periodic law                                     D. Law of definite proportion
+
+5.   What was the main conclusion of the Rutherford Gold Foil Experiment conducted by Ernest Rutherford?                (1)
+
+     A. Electrons carry a negative charge.
+     B. A proton is a hydrogen atom without an electron.
+     C. Electrons move around the nucleus in fixed orbits.
+     D. Most of the mass and all the positive charge of an atom are concentrated in a very small nucleus
+
+6.   The number of protons, neutrons and electrons respectively in Cd2+ are _____.                                      (1)
+     A. 48, 64, 48                                              B. 48, 64, 46
+     C. 48, 64, 50                                              D. 48, 63, 46
+
+7.   To which group and periods of the periodic table does an element with atomic number 33 belong?                     (1)
+
+     A. Group IIIB and period 4                                 B. Group IIIA and period 4
+     C. Group VA and period 4                                   D. Group IV and period 4
+8.   An element X has two naturally occurring isotopes. The information about these isotopes is given in the table       (1)
+     below. Isotope X-40 (Atomic Mass 40 u, Natural Abundance 80%) and Isotope X-44 (Atomic Mass 44 u, Natural
+     Abundance 20%). What is the average atomic mass of element X?
+     A. 40.8 u                                                  B. 41.5 u
+     C. 40.0 u                                                  D. 42.0 u
+
+9.   In which of the following blocks of the periodic table does an element with atomic number 16 located?               (1)
+     A. s                                                       B. p
+     C. d                                                       D. f
+
+10. All of the following compounds contain ionic and covalent bonds except:                                              (1)
+     A. NH4Cl                                                   B. CaCO3
+     C. NH3BF3                                                  D. Na3PO4
+
+11. Which of the following molecules considered to be a polar molecule?                                                  (1)
+
+     A. NH3                                                     B. BF3
+     C. CO2                                                     D. CCl4
+
+12. Which one of the following molecules does not contain dative bond?                                                   (1)
+     A. H3O+                                                    B. NH3
+     C. NH3BF3                                                  D. NH4+
+
+13. The attraction force which is created by a temporary redistribution of electrons in neighboring atom is called?      (1)
+     A. Hydrogen bond                                           B. London dispersion
+     C. Dipole-dipole                                           D. Ionic bond
+
+14. Which one of the following does the sulphur atom have the lowest oxidation number?                                   (1)
+     A. SO3                                                     B. S2F10
+     C. H2SO3                                                   D. H2S
+
+15. The concept like dissolves like is illustrated by which of the following?                                            (1)
+
+     A. NaCl is more soluble in CCl4 than water                 B. I2 is more soluble in CCl4 than water
+     C. CuSO4 is more soluble in CCl4 than water                D. CCl4 soluble in water
+
+16. What is the mole fraction of methanol (CH3OH) in a mixture of equal mass of methanol and water?                      (1)
+     A. 0.36                                                    B. 0.64
+     C. 0.53                                                    D. 0.44
+
+17. Which of the following acid is a monoprotic acid?                                                                    (1)
+     A. H2SO4                                                   B. CH3COOH
+     C. H3PO4                                                   D. H2CO3
+
+18. Student A and Student B are grade 12 students. They carry out laboratory experiment on detection of metallic         (1)
+    ions in different salts as per their laboratory assistance intended them to do so. Student A achieved yellow color
+    after he carry out the flame tests of different salts whereas Student B obtained green color from the same tests
+    on different salts. Which ions did Student A and Student B detected respectively?
+     A. Ca2+ & K+                                               B. Na+ & Ba2+
+     C. Ca2+ & Mg2+                                             D. Ba2+ & Li+
+19. Which of the following is an example of double displacement reaction?                                         (1)
+    A. Cl2 + 2KI → 2KCl + I2                                   B. NaHCO3 → Na2CO3 + CO2 + H2O
+    C. Na2O + H2O → 2NaOH                                      D. NaCl + AgNO3 → AgCl + NaNO3
+
+20. Which of the following is correct statement about endothermic reaction?                                       (1)
+
+    A. Heat energy is written in the right side of the equation
+    B. Enthalpy change of the reaction has a negative value
+    C. Chemical reaction that releases heat energy to the surrounding.
+    D. Heat is absorbed to the system from the surrounding.
+
+21. The two gaseous elements that can be obtained from atmosphere by fractional distillation of liquid air are:   (1)
+    A. Nitrogen and hydrogen                                   B. Oxygen and hydrogen
+    C. Nitrogen and oxygen                                     D. Ammonia and carbon dioxide
+
+22. According to Markovnikov's rule, the alcohol produced from propene, CH2=CH-CH3, during the addition of water (1)
+    in the presence of acid catalyst is
+    A. 2-propanol                                              B. 1-propanol
+    C. Hexanol                                                 D. 2-hexanol
+
+23. Which of the following molecules does not exhibit geometrical isomerism?                                      (1)
+
+    A. 2-butene                                                B. 1-butene
+    C. 3-hexene                                                D. 1,2-dichloro ethene
+
+24. Among the following methods, which one can be used to prepare alkyne in the laboratory?                       (1)
+    A. Dehydration of alcohols with concentrated H2SO4
+    B. Hydrogenation of alkene with a metal catalyst.
+    C. Dehydrohalogenation of alkyl halides with a base
+    D. Dehydrohalogenation of Vicinal dihalides with a base.
+
+25. What is the wavelength of a photon emitted when a hydrogen atom undergoes a transition from n=5 to n=2?       (1)
+
+    A. 434 mm                                                  B. 434 pm
+    C. 434 nm                                                  D. 434 um
+
+26. For the four quantum numbers needed to describe an electron, which of these combinations are not possible?    (1)
+    A. (1, 0, 0, +1/2)                                         B. (2, 1, 1, -1/2)
+    C. (3, 2, -2, -1/2)                                        D. (1, 0, -1, +1/2)
+
+27. Which of the following is the most stable electronic configuration for the element 24Cr?                      (1)
+    A. 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁴                             B. 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁵
+    C. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶                                 D. 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁴ 4s²
+
+28. Which pairs of molecules is geometrically similar?                                                            (1)
+    A. CF4 and SF4                                             B. NCl3 and BF3
+    C. CO2 and OF2                                             D. NH3 and PH3
+
+29. Which of the following molecules does not obey the octet rule?                                                (1)
+
+    A. NCl3                                                    B. CCl4
+    C. CO2                                                     D. ClO2
+30. Which of the following explains why gases are highly compressible?                                                 (1)
+    A. Gas particles are tightly packed together.
+    B. Gas particles have weak intermolecular forces.
+    C. Gas particles are far apart and have large empty spaces between them.
+    D. Gas particles lose energy when compressed.
+
+31. At what temperature will the volume of a gas be double if its original temperature is 27°C at constant pressure?   (1)
+    A. 150 K                                                    B. 300 K
+    C. 600 K                                                    D. 700 K
+
+32. The rate of diffusion of methane (CH4) is twice that of an unknown gas. What is the molecular mass of the          (1)
+    unknown gas?
+    A. 32                                                       B. 64
+    C. 44                                                       D. 48
+
+33. The intermolecular force of three liquids is given as follow: Liquid A < Liquid B < Liquid C. Which statement is   (1)
+    correct?
+    A. Molar heat of vaporization: liquid A > Liquid B > liquid C
+    B. Normal boiling point: Liquid B < liquid A < liquid C
+    C. Rate of vaporization: liquid C < Liquid B < liquid A
+    D. Vapor pressure liquid C > Liquid B > liquid A
+
+34. The rate of a chemical reaction will be increased by all of the following factors EXCEPT.                          (1)
+    A. the presence of a high activation energy
+    B. increasing the surface area of a reactant
+    C. the presence of a catalyst
+    D. an increase in temperature
+
+35. What is the process that converts liquid vegetable oils to solid fats?                                             (1)
+
+    A. Hydration                                                B. Hydrogenation
+    C. Hydrolysis                                               D. Saponification
+
+36. The correct relationship between Kc and Kp for the reaction CO(g) + H2O(g) ↔ CO2(g) + H2(g) at equilibrium is      (1)
+    A. Kp = Kc(RT)²                                             B. Kp = Kc(RT)
+    C. Kp = Kc                                                  D. Kp = Kc(RT)⁴
+
+37. When propene, C3H6 undergo a complete combustion reaction, what will be the coefficient of oxygen?                 (1)
+    A. 9                                                        B. 6
+    C. 4                                                        D. 3
+
+38. The percentage ionization of a 0.01 mol/L weak acid HA solution whose pH is 4 is                                   (1)
+    A. 0.1%                                                     B. 1%
+    C. 2.5%                                                     D. 4%
+
+39. The pH from the titration of weak acid and strong base at the equivalent point is --------                         (1)
+
+    A. below 7                                                  B. equal to 7
+    C. above 7                                                  D. not determined
+40. The conjugate base and conjugate acid for hydrogen carbonate ion, HCO3- respectively is                         (1)
+    A. CO3²⁻ and HCO3⁻                                          B. H2CO3 and CO3²⁻
+    C. CO3²⁻ and H2CO3                                          D. HCO3⁻ and H2CO3
+
+41. The dissociation constant of a weak acid is 1×10⁻⁴. In order to prepare a buffer solution with a pH = 5, the    (1)
+    (acid)/(salt) ratio should be
+    A. 1:10                                                     B. 4:5
+    C. 10:1                                                     D. 5:4
+
+42. What is the product for the following reaction given below? CH3CH2CH2COOCH2CH3 with LiAlH4                      (1)
+
+    A. CH3CH2CH2COOH & CH3CH2OH                                 B. CH3CH2CH2CH2OH & CH3CH2OH
+    C. CH3CH2CH2COOH & CH3COOH                                  D. CH3CH2CH2CHO & CH3CH2OH
+
+43. Which of the following combinations does NOT form a buffer solution?                                            (1)
+    A. NH3/HCl in 2:1 mole ratio                                B. HNO3/KNO3 in 1:1 mole ratio
+    C. N2H4/N2H5Cl                                              D. HCOOH/HCOOK
+
+44. Which substance is the reducing agent in the following reaction? 4H+(aq) + 2Cl-(aq) + MnO2(s) → Cl2(g) + Mn2+   (1)
+    (aq) + 2H2O(l)
+    A. H+(aq)                                                   B. Cl-(aq)
+    C. Cl2(g)                                                   D. MnO2(s)
+
+45. Which one of the following statements is not true regarding the electrolysis of concentrated sodium chloride    (1)
+    solution?
+    A. Chlorine gas is produced at the anode.
+    B. Oxygen gas is produced at the anode.
+    C. Hydrogen gas is formed at the cathode.
+    D. After the electrolysis, the remaining solution becomes basic.
+
+46. The volume of O2 formed at STP when Na2SO4 is electrolyzed by passing 100A in 965 seconds?                      (1)
+
+    A. 9.6 L                                                    B. 22.4 L
+    C. 5.6 L                                                    D. 0.25 L
+
+47. If the reaction proceeds spontaneously, which of the following sets of conditions is satisfied?                 (1)
+    A. ΔG° < 0, K < 1, E° < 0                                   B. ΔG° > 0, K > 1, E° < 0
+    C. ΔG° < 0, K > 1, E° > 0                                   D. ΔG° > 0, K < 1, E° < 0
+
+48. Which one of the following is not true about electroplating of a tray made of iron with chromium?               (1)
+    A. Chromium metal placed in the anode
+    B. A tray made of iron placed in the cathode
+    C. Use iron salt solution as an electrolyte
+    D. Use chromium salt solution as an electrolyte
+
+49. Two cells are connected in series. One contains AgNO3 and the other contains CuSO4. If 8g of Cu is deposited    (1)
+    at one electrode, how many grams of Ag is deposited at the other electrode? (molar mass Ag=108 g/mol, Cu=64
+    g/mol)
+    A. 4                                                        B. 14
+    C. 27                                                       D. 54
+50. Which industrial chemicals mismatched with its manufacturing process?                                         (1)
+    A. NH3 - Haber-Bosch process                              B. HNO3 - Ostwald process
+    C. H2SO4 - Contact process                                D. Na2CO3 - Frasch process
+
+51. Among the following nitrogen-based fertilizers which is a high percentage nitrogen content?                   (1)
+
+    A. Anhydrous ammonia                                      B. Urea-ammonium nitrate (UAN) solutions
+    C. Urea                                                   D. DAP
+
+52. All of the following undergoes addition polymerization except                                                 (1)
+    A. Polyvinyl chloride (PVC)                               B. Teflon
+    C. Nylon                                                  D. Polystyrene
+
+53. The correct order of preparatory stages in the tanning processes of animal hide or skin?                      (1)
+    A. Soaking → scudding → flesh removal → hair removal → deliming → curing
+    B. Scudding → soaking → flesh removal → hair removal → curing → deliming
+    C. Deliming → flesh removal → hair removal → soaking → scudding → curing
+    D. Curing → soaking → flesh removal → hair removal → scudding → deliming
+
+54. What substance is used to bleach the brown syrup in the process of sugar manufacturing?                       (1)
+    A. Potassium chlorate                                     B. Sulfur dioxide
+    C. Calcium chloride                                       D. Sodium hypochlorite
+
+55. Which one of the following is a thermosetting plastic?                                                        (1)
+    A. Bakelite                                               B. Polyethylene
+    C. Dacron                                                 D. Polyvinyl chloride
+
+56. Any discharge of a solid, liquid or gaseous substance or radiation (energy) into an environment that causes   (1)
+    unwanted changes is said to be:
+    A. Pollution                                              B. Corrosion
+    C. Contaminates                                           D. Slug
+
+57. The component of the environment consisting earth's upper outermost skin and accessible to human beings is    (1)
+    known as ___________.
+    A. Atmosphere                                             B. Hydrosphere
+    C. Lithosphere                                            D. Biosphere
+
+58. Which of the following is not a greenhouse gas?                                                               (1)
+    A. Carbon dioxide (CO2)                                   B. Nitrogen dioxide (NO2)
+    C. Water vapor (H2O)                                      D. Oxygen (O2)
+
+59. Which principle of green chemistry focuses on eliminating waste rather than cleaning it up later?             (1)
+
+    A. Atom Economy                                           B. Prevention
+    C. Design for Energy Efficiency                           D. Safer Solvents and Auxiliaries
+
+60. Which principle emphasizes maximizing the desired product and minimizing by-products?                         (1)
+    A. Design for energy efficiency                           B. Use of renewable feedstock
+    C. Less hazardous chemical synthesis                      D. Atom economy
+61. Identify the correct statement about metallic conductivity and electrolytic conductivity.                          (1)
+    A. Metallic conductivity decreases while electrolytic conductivity increases with increasing temperature
+    B. Both conductivities increase with increasing temperature
+    C. Both conductivities decrease with increasing temperature
+    D. Metallic conductivity increases while electrolytic conductivity decreases with increasing temperature
+
+62. Equal energy of orbitals (degenerate orbitals) are each occupied by a single electron before the second electron   (1)
+    of opposite spin enters the orbital. This principle is
+    A. Avogadro's principle                                           B. Aufbau principle
+    C. Pauli's exclusion principle                                    D. Hund's principle
+
+63. Which of the following is true about homologous series? The Homologous series is?                                  (1)
+    A. The existence of chemical compounds that have the same molecular formula but different in structural
+       formation
+    B. A structure in which the isomers have different functional group with respect to the double bond
+    C. The property of an element to form chains with the repetition of the same atom
+    D. A group of molecules each differing from the next member by a certain group
+
+64. Which one of the following is not amphiprotic?                                                                     (1)
+
+    A. HS⁻                                                            B. NH4+
+    C. H2O                                                            D. HCO3⁻
+
+65. A solution of H2SO4 is made by dissolving 245g of the acid in enough water to produce 500ml solution. What is      (1)
+    the normality of the solution? (At. Wt. H=1, S=32, O=16)
+    A. 2                                                              B. 4
+    C. 8                                                              D. 10
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

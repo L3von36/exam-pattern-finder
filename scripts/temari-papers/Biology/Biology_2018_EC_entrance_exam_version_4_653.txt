@@ -1,0 +1,335 @@
+                                                          Temari.et
+                             Biology, 2018 EC, entrance exam, version 4
+                                                 Grade 12 · Biology · 2018 E.C.
+
+Time allowed: 120 minutes                                     Questions: 59                                Total marks: 59
+
+Name                                              Grade                       ID No.                Date
+
+1.   What is the primary function of the Archaea (methanogens) in a biogas fermenter?                                    (1)
+     A. Convert organic waste to alcohol                          B. Produce methane gas
+     C. Break down raw organic waste into acids                   D. Filter the liquid feedstock
+
+2.   Which of the following is considered as non-renewable natural resource?                                             (1)
+     A. Petroleum                                                 B. Geothermal energy
+     C. Biomass                                                   D. Timber
+
+3.   What is the primary goal of bio-fortification in agricultural biology?                                              (1)
+
+     A. To increase the shelf life of harvested vegetables.
+     B. To make plants resistant to high-temperature stress.
+     C. To produce bio-pesticides using natural soil bacteria.
+     D. To reduce hidden hunger by increasing micronutrient levels in staple crops
+
+4.   A scientist is trying to remove a fatty stain from a delicate silk garment. Which enzyme should be included in the (1)
+     detergent?
+     A. Protease                                                  B. Pectinase
+     C. Lipase                                                    D. Amylase
+
+5.   If a dairy producer wants to make yogurt, which combination of bacteria is required?                                (1)
+     A. Streptococcus thermophilus and Lactobacillus bulgaricus
+     B. Streptococcus cremoris and Lactobacillus acidophilus
+     C. Propionic bacteria and Saccharomyces
+     D. Pediococcus cerevisiae and Penicillium
+
+6.   What is the main role of Saccharomyces cerevisiae in bread making?                                                  (1)
+     A. It kills pathogenic bacteria that cause bread mold
+     B. It respires aerobically to produce CO2, which leaves the dough
+     C. It adds protein to the flour, which raises the dough
+     D. It prevents the dough from becoming elastic
+
+7.   Which statement best describes Bio-mining (Biohydrometallurgy)?                                                     (1)
+     A. Using heavy machinery to extract ores                     B. Analyzing soil for chemical pollution
+     C. Turning food waste into compost                           D. Using microbes to leach metals from ores
+
+8.   What is the relationship between Biochemical Oxygen Demand (BOD) and water pollution?                               (1)
+     A. Low BOD indicates high organic content and low oxygen, shows high pollution
+     B. High BOD indicates the water is safe for drinking
+     C. High BOD indicates high organic content and low oxygen, signaling pollution
+     D. BOD has no relationship with pollution levels
+9.   How does distillation affect the alcohol content in spirits compared to beer?                                     (1)
+     A. It lowers its alcohol content to 5%                      B. It keeps it the same as wine
+     C. It raises its alcohol content to 40%-50%                 D. It removes all ethanol from the drink
+
+10. Why is Bio-transformation considered a better alternative to traditional chemical waste disposal?                  (1)
+
+     A. It is more expensive but faster to degrade pollutant substances
+     B. It uses organisms to degrade toxic pollutants into harmless substances.
+     C. It creates more waste that can be recycled
+     D. It only works on non-biodegradable materials
+
+11. Imagine you are a conservation biologist tasked with restoring a degraded local ecosystem. Which combination       (1)
+    of strategies would best ensure long-term sustainability?
+     A. Introducing exotic species to increase variety and using chemical fertilizers.
+     B. Establishing a gene bank for local seeds and implementing habitat restoration programs
+     C. Clearing all old vegetation and replacing it with fast-growing genetically modified timber.
+     D. Building a fence around the area and preventing any human interaction or education.
+
+12. Which bacterial structure is used primarily for attachment to surfaces?                                            (1)
+     A. Flagella                                                 B. Capsule
+     C. Pili (fimbriae)                                          D. Plasmid
+
+13. Which domain consists of organisms that often live in extreme environments like volcanic vents?                    (1)
+     A. Eukarya                                                  B. Bacteria
+     C. Archaea                                                  D. Protozoa
+
+14. What type of symmetry does the Tobacco Mosaic Virus (TMV) have?                                                    (1)
+     A. Helical                                                  B. Icosahedral
+     C. Complex                                                  D. Spherical
+
+15. This item is based on the following choices of feeding habit employed by organisms. I. Synthesizing their own     (1)
+    nutrients through the process of photosynthesis. II. Absorbing nutrient dissolved in the surrounding environment.
+    III. Obtaining food living on or in other organisms like plants or animals. Which method/s do fungi use to get
+    their nutrition? They employed
+     A. I and III only.                                          B. I and II only.
+     C. II and III only.                                         D. I, II and III
+
+16. Why are viruses considered to be on the border between living and non-living?                                      (1)
+     A. They have a cell wall but no nucleus.
+     B. They are crystallizable and inert outside a host cell.
+     C. They can only reproduce asexually.
+     D. They consist of both DNA and RNA.
+
+17. How do Gram-positive bacteria differ from Gram-negative bacteria regarding their cell wall?                        (1)
+     A. Gram-positive have a thin peptidoglycan layer and an outer membrane.
+     B. Gram-negative have a thick peptidoglycan layer and an outer membrane.
+     C. Gram-positive have a thick peptidoglycan layer and lack an outer membrane.
+     D. Gram-negative have a thin peptidoglycan layer and lack an outer membrane.
+18. What is the primary role of normal microbiota in protecting the host?                                               (1)
+    A. They produce antibiotics that kill the host's cells.
+    B. They help in the replication of viruses.
+    C. They increase the host's body temperature.
+    D. They compete with pathogens for space and nutrients.
+
+19. What is the defining characteristic of Obligate anaerobes?                                                          (1)
+    A. They require high levels of oxygen to survive.
+    B. They are killed by the presence of oxygen.
+    C. They can grow with or without the presence of oxygen.
+    D. They only grow in extreme acidic conditions.
+
+20. What is the function of reverse transcriptase enzyme in retrovirus? It converts:                                    (1)
+    A. RNA to DNA                                                B. DNA to RNA
+    C. DNA to another DNA                                        D. DNA to nucleotides
+
+21. A thermophilic Archaean like Thermus aquaticus is commercially valuable because it is a source of:                  (1)
+    A. Antibiotics resistant to high temperatures.
+    B. Enzymes stable at high temperatures for use in PCR.
+    C. Detergents that function in acidic conditions.
+    D. Methane gas for alternative energy.
+
+22. If you apply 5% bleach to a table to kill microbes, you are performing:                                             (1)
+    A. Disinfection                                              B. Sanitization
+    C. Antiseptics                                               D. Sterilization
+
+23. A patient has a 'bloody cough' and 'chest pain' after exposure to moldy hay. What is the likely fungal infection?   (1)
+    A. Thrush                                                    B. Candidiasis
+    C. Aspergillosis                                             D. Ringworm
+
+24. Bacterial conjugation is a process that involves the transfer of genetic material between two cells and is          (1)
+    significant because it:
+    A. Is the primary method of bacterial reproduction.
+    B. Leads to the formation of endospores.
+    C. Increases genetic diversity within a population.
+    D. Always results in the death of the donor cell
+
+25. A scientist injects a healthy lab mouse with a pure culture of a suspected pathogen and the mouse                   (1)
+    subsequently develops a disease. Which Koch's Postulate is directly demonstrated by this step?
+    A. Postulate I                                               B. Postulate II
+    C. Postulate III                                             D. Postulate IV
+
+26. Formulate an argument for why 'Sanitization' is different from 'Sterilization.'                                     (1)
+    A. They are exactly the same.
+    B. Sterilization is only for food, Sanitization used only for tools.
+    C. Sanitization kills all life; sterilization reduces microbes to safe levels.
+    D. Sanitization reduces microbes to safe levels; sterilization kills all microbes
+27. Predict what would happen to the global carbon cycle if all decomposer fungi and bacteria were removed from   (1)
+    ecosystems.
+     A. Carbon dioxide levels in atmosphere would increase.
+     B. Carbon dioxide levels in atmosphere would decrease
+     C. Plants would grow faster due to high CO2 in atmosphere
+     D. Nothing would change on CO2 level in atmosphere.
+
+28. Which of the following is NOT a product of the Krebs cycle per turn?                                          (1)
+     A. ATP (or GTP)                                             B. CO2
+     C. Acetyl CoA                                               D. FADH2
+
+29. In the equation for aerobic respiration, C6H12O6 + 6O2 → 6CO2 + 6H2O, the glucose molecule is:                (1)
+     A. Reduced.                                                 B. Oxidized.
+     C. Phosphorylated.                                          D. Hydrolyzed.
+
+30. A coupled reaction in metabolism involves:                                                                    (1)
+     A. Two anabolic reactions occurring simultaneously.
+     B. Two catabolic reactions occurring simultaneously.
+     C. An exergonic reaction driving an endergonic reaction.
+     D. An endergonic reaction driving an exergonic reaction.
+
+31. Select the incorrect statement about glycolysis.                                                              (1)
+     A. Glycolysis occurs in the mitochondria
+     B. Glycolysis is the first step in both aerobic and anaerobic respiration
+     C. It ends up with production of 2 ATP(net), 2 NADH, and 2 pyruvate
+     D. It can occur independently of the presence of oxygen.
+
+32. Which of the following metabolic processes is an example of a catabolic pathway?                              (1)
+     A. The conversion of glucose to pyruvate during glycolysis.
+     B. The formation of starch from glucose molecules.
+     C. The synthesis of proteins from amino acids
+     D. The fixation of CO2 into organic molecules
+
+33. In the context of the Krebs cycle, why is it also called the 'Citric Acid Cycle'?                             (1)
+
+     A. Citric acid is the enzyme that starts the reaction.
+     B. Citric acid is the first stable 6-carbon compound formed.
+     C. The cycle only occurs in citrus fruits.
+     D. Citric acid is the waste product released at the end
+
+34. What is the purpose of the Link Reaction?                                                                     (1)
+     A. To produce 4 ATP molecules.
+     B. To split glucose into two 3-carbon sugars by generating ATP.
+     C. To regenerate NAD+ for continuity of glycolysis.
+     D. To convert pyruvate into Acetyl-CoA for entry into the Krebs cycle.
+35. Which of the following is the main difference between cyclic and noncyclic photophosphorylation?                     (1)
+    A. They use different electron acceptors
+    B. Noncyclic photophosphorylation occurs in the stroma
+    C. Only photosystem I is used during the cyclic process
+    D. Noncyclic photophosphorylation does not produce ATP
+
+36. What distinguishes photorespiration from cellular respiration?                                                       (1)
+    A. Photorespiration produces ATP, whereas cellular respiration consumes it.
+    B. Photorespiration occurs in the light and does not produce ATP, unlike cellular respiration.
+    C. Photorespiration consumes CO2 and releases O2, the opposite of cellular respiration.
+    D. Photorespiration occurs in the mitochondria, while cellular respiration occurs in the chloroplasts.
+
+37. What is the main function of the Electron Transport Chain (ETC) in cellular respiration?                             (1)
+    A. To break down glucose into pyruvate and synthesize ATP
+    B. To facilitate the controlled release of energy from reduced cofactors.
+    C. To produce CO2 through decarboxylation.
+    D. To synthesize glucose from CO2 and H2O
+
+38. What happens during the reduction phase of the Calvin cycle?                                                         (1)
+
+    A. CO2 is combined with RuBP.
+    B. RuBP is regenerated using ATP.
+    C. 3-PGA is converted into G3P using ATP and NADPH.
+    D. Oxygen is released as a byproduct of water splitting
+
+39. Why is the waxy cuticle important for a leaf's function?                                                             (1)
+    A. It captures light energy for the mesophyll cells of plants.
+    B. It prevents the leaf from drying out and protects against infection.
+    C. It allows for the exchange of CO2 and O2.
+    D. It houses the chlorophyll pigments that absorb light.
+
+40. What is the primary role of accessory pigments like carotenoids in photosynthesis?                                   (1)
+    A. To fix carbon dioxide into glucose.
+    B. To reflect all wavelengths of light to protect the leaf.
+    C. To absorb light energy and pass it to chlorophyll.
+    D. To absorb light energy and CO2 for starting reaction
+
+41. If a plant is kept in the dark for 24 hours, which process will stop first?                                          (1)
+    A. The Calvin Cycle                                           B. The Light-Dependent Reactions
+    C. Glycolysis                                                 D. Lactic Acid Fermentation
+
+42. If a metabolic toxin specifically binds to and inhibits the ATP Synthase in a cell, which of the following results   (1)
+    would be observed?
+    A. The Electron transport chain would stop pumping protons immediately
+    B. The cell would be unable to produce ATP via oxidative phosphorylation
+    C. The cell would be unable to produce ATP via substrate level phosphorylation
+    D. The pH of the mitochondrial matrix would decrease significantly
+43. Which plant would most likely thrive in a hot, dry desert by opening its stomata only at night?                    (1)
+    A. Wheat                                                    B. Maize
+    C. Rice                                                     D. Pineapple
+
+44. If you were to measure the pH inside the thylakoid lumen during active photosynthesis, you would expect it to      (1)
+    be:
+    A. Highly acidic (low pH) due to the accumulation of protons.
+    B. Highly alkaline (high pH) due to loss of protons.
+    C. Neutral (pH 7.0) due to equal proton concentration
+    D. Exactly the same as the stroma
+
+45. What is the metabolic consequence for the citric acid cycle if the supply of oxaloacetate is depleted within the   (1)
+    mitochondrial matrix?
+    A. The cycle will continue by using pyruvate as the primary 4-carbon acceptor
+    B. The cycle will cease because oxaloacetate is required to combine with Acetyl-CoA to form citric acid
+    C. The cycle will speed up to produce more lactic acid from pyruvate
+    D. The cycle will bypass the first step and directly produce FADH2 from Acetyl-CoA.
+
+46. How does the C4 pathway reduce photorespiration compared to the C3 pathway?                                        (1)
+
+    A. It uses Rubisco to fix carbon at night
+    B. It completely eliminates the need for the Calvin cycle.
+    C. It produces oxygen inside the bundle sheath cells than mesophyll cells.
+    D. It physically separates carbon fixation from the Calvin cycle using different cell types.
+
+47. Which of the following is the correct movement of electrons during the light reaction of photosynthesis?           (1)
+    A. NADP+ → PS-II → PS-I → H2O                               B. H2O → PS-I → PS-II → NADP+
+    C. H2O → PS-II → PS-I → NADP+                               D. H2O → NADP+ → PS-I → PS-II
+
+48. In the ETC, which complex is responsible for the final reduction of Oxygen to Water?                               (1)
+
+    A. Complex I                                                B. Complex II
+    C. Complex III                                              D. Complex IV
+
+49. Compare Alcoholic Fermentation and Lactic Acid Fermentation. What do they have in common?                          (1)
+    A. Both produce CO2.                                        B. Both regenerate oxidized NAD+ (NAD+)
+    C. Both produce 36 ATP per glucose.                         D. Both occur in the mitochondria.
+
+50. In an experiment, if O2 levels are depleted in a eukaryotic cell, what is the most likely outcome for the Krebs    (1)
+    Cycle?
+    A. It will speed up to compensate for lost energy.
+    B. It will stop because NAD+ and FAD cannot be regenerated by the ETC.
+    C. It will continue normally using CO2 instead of O2.
+    D. It will switch to producing glucose instead of breaking it down.
+
+51. Why is the inner mitochondrial membrane highly folded into 'cristae'?                                              (1)
+
+    A. To decrease the volume of the matrix.
+    B. To protect the DNA from oxygen.
+    C. To make the mitochondria look more complex.
+    D. To increase surface area for ETC and ATP production.
+52. What is the evidence that supports that Photorespiration is a wasteful process?                                       (1)
+    A. It prevents the plant from absorbing light.
+    B. It only occurs in dead plants.
+    C. It consumes ATP and releases CO2 without producing sugar
+    D. It creates too much amino acid for the plant to store.
+
+53. If you were to engineer a C3 crop (like wheat) to be more drought-resistant, which modification would be most         (1)
+    effective?
+    A. Removing all stomata from the leaves to reduce transpiration
+    B. Decreasing the rate of photorespiration to save water
+    C. Making the leaves larger to catch more rain.
+    D. Introducing the PEPCO enzyme and bundle sheath anatomy of C4 plants
+
+54. How would you modify the Z-scheme of photosynthesis if Photosystem II was disabled by a toxin?                        (1)
+
+    A. The plant would only perform cyclic photophosphorylation using PS I.
+    B. The plant would produce more CO2 without producing any ATP.
+    C. The plant would start using CO2 to split water.
+    D. The Calvin cycle would work twice as fast.
+
+55. Which of the following is an example of a homologous structure?                                                       (1)
+    A. Human arm and whale flipper                                     B. Wing of a bird and wing of a mosquito
+    C. Eye of an octopus and eye of a human                            D. Tail of a fish and tail of a scorpion
+
+56. Which theory of the origin of life suggests that life arrived on Earth from outer space in the form of spores?        (1)
+
+    A. Special Creation                                                B. Spontaneous Generation
+    C. Cosmozoan Theory (Panspermia)                                   D. Biochemical Theory
+
+57. Natural Selection leads to evolution:                                                                                 (1)
+    A. By creating new mutations on demand.
+    B. By ensuring that all individuals in a population survive and reproduce more successfully
+    C. By allowing individuals with favorable traits to survive and reproduce more successfully.
+    D. By changing the environment to fit the organisms to reproduce more successfully
+
+58. Scientists use radiometric dating to determine the age of fossils. If a fossil contains a radioactive isotope with a (1)
+    half-life of 10,000 years, and only 25% of the original isotope remains, what is the approximate age of the fossil?
+    A. 10,000 years                                                    B. 20,000 years
+    C. 30,000 years                                                    D. 40,000 years
+
+59. In Redi's experiment, why did maggots not appear in the jar covered with cloth?                                       (1)
+
+    A. The meat was poisoned                                           B. Flies could not lay eggs on the meat
+    C. The meat did not rot                                            D. Air was completely excluded
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

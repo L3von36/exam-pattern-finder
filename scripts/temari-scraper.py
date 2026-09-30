@@ -24,7 +24,7 @@ from urllib.parse import unquote
 
 ROOT = Path("/home/z/my-project")
 PAPERS_JSON = ROOT / "scripts" / "temari-papers.json"
-SESSION_JSON = ROOT / "scripts" / "temari-session.json"
+SESSION_JSON = ROOT / "scripts" / "temari-session2.json"  # new account session
 OUT_DIR = ROOT / "scripts" / "temari-papers"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
