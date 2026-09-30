@@ -1,0 +1,324 @@
+                                                           Temari.et
+                         Mathematics, 2017 EC, entrance exam, version 2
+                                               Grade 12 · Mathematics · 2017 E.C.
+
+Time allowed: 120 minutes                                              Questions: 54                          Total marks: 54
+
+Name                                               Grade                                 ID No.        Date
+
+1.   If x < 0 , then, the simplest form of f (x) = 4x+10∣x∣
+                                                     2x     is equal to:
+                                                                   ​                                                       (1)
+     A. 3                                                                  B. 7
+     C. -3                                                                 D. -7
+
+2.   For the greatest integer function f (x) = ∣x∣ , if ∣x∣2 + 5∣x∣ + 6 = 0 , what is the value of x?                      (1)
+
+     A. [-3,0)                                                             B. [0,2)
+     C. [-3,-1)                                                            D. [-1,0)
+
+3.   Which of the following intervals is the solution set of the inequality ∣2 − x∣ < 8?                                   (1)
+     A. (-10,6)                                                            B. (-6,10)
+     C. (-8,8)                                                             D. (-6,12)
+
+4.   Which one of the following is false about the relation R = {(x, y)∣x, y ∈ ℜ, y ≤ −x2 + 4 and y ≥ 2x − 4?              (1)
+     A. Domain of R is [-4,2]                                              B. Range of R is [-12,4]
+     C. p(2,1) is a point on the graph of R^{-1}                           D. Range of R^{-1}[-4,4]
+
+5.   Which of the following is equal to f (x) =      (x − 1)2 , for every x ∈ R ?
+                                                                       ​                                                   (1)
+     A. g(x) = x + 1                                                       B. g(x) = x - 1
+     C. g(x) = |x - 1|                                                     D. g(x) = |x| + 1
+                                                           2
+6.   The domain and range of the function f (x) = 2x 3 are respectively
+                                                               ​
+
+
+
+
+                                                                                                                           (1)
+     A. ℝ and ℝ                                                            B. [0,∞) and ℝ
+     C. ℝ and [0,∞)                                                        D. [0,∞) and [0,∞)
+
+7.   If the point (a, b) is on the graph of y = f (x) , which point is on the graph of y = f −1 (x)?                       (1)
+     A. (1/a, b)                                                           B. (b, a)
+     C. (-a, -b)                                                           D. (a, 1/b)
+
+8.   What is the equation of the tangent line to the graph of f (x) = x2 − x + 2 at (1, 2)?                                (1)
+
+     A. x - y - 3 = 0                                                      B. x - y + 3 = 0
+     C. x - y + 1 = 0                                                      D. x + y + 1 = 0
+
+9.   If f (x) = x2 − ax + b and g(x) = x3 + c have the same tangent line at p(1, 3) , then the value of b is equal         (1)
+     to:
+     A. 1                                                                  B. -2
+     C. 0                                                                  D. 3
+10. If f (x) = x2 + x + 1 , then, which one of the following is the equation of the normal line to the graph of f at         (1)
+    x = 1?
+     A. x + 3y + 10 = 0                                                    B. 3x + y + 10 = 0
+     C. x - 3y + 10 = 0                                                    D. x + 3y - 10 = 0
+
+11. Let f (x) = x4 − 4x + 6 . For what value of x does the graph of f have a horizontal tangent line?                        (1)
+     A. 0                                                                  B. 1
+     C. -1                                                                 D. 2
+
+12. Let l be a line that passes through the points P (−1, 2) and Q(5, −10) and it is tangent to the graph of y =             (1)
+    f (x) at x = −1 , then, f ′ (−1) =
+     A. -2                                                                 B. -4
+     C. -5                                                                 D. 2
+
+13. If f (x) = 4x + 5 and (f og)(x) = x2 + 2x + 5 , then, what is the value of g(4)?                                         (1)
+
+     A. 6                                                                  B. 4
+     C. 29                                                                 D. 21
+
+14. Given f (x) =                 4 − x2 and g(x) =
+                                          ​
+                                                          2x , which one of the following is the domain of f og?
+                                                            ​
+                                                                                                                             (1)
+     A. {x∈ℝ: -1≤x≤2}                                                      B. {x∈ℝ: 0≤x≤2}
+     C. {x∈ℝ: x≤0}                                                         D. {x∈ℝ: x≥0}
+
+15. If f (x) = 3 + e1x , then, f −1 (e2 + 3) =
+                                      ​                                                                                      (1)
+     A. 1/e                                                                B. 2
+     C. -2                                                                 D. 1
+
+16. Let f (x) = 1−3x
+                x−2 . Then, what is the range of f (x) ?
+                                  ​                                                                                          (1)
+
+     A. ℝ\{2}                                                              B. ℝ
+     C. ℝ\{-3}                                                             D. ℝ\{1/3}
+
+17. If f is the greatest integer function and g is an absolute value function, then, what is the value of (f og ) ( 72 ) +
+                                                                                                                     ​
+                                                                                                                             (1)
+    (gof ) (− 10 3
+                  ​)?
+     A. 6                                                                  B. 7
+     C. 0                                                                  D. 8
+                      1                       1
+18. Let f (x) = x m and g(x) = x n be power functions where m and n are even natural numbers and m > n .
+                          ​                       ​
+
+
+
+
+                                                                                                                             (1)
+    Which one of the following is true about f and g ?
+     A. If 0≤x≤1, f(x)≤g(x)                                                B. If x≥1, f(x)≥g(x)
+     C. If 0≤x≤1, f(x)≥g(x)                                                D. The domain of f and g is ℝ
+
+19. Let f (x) = x−1
+                x+1 and g(x) =​    3 − 2x be two functions. Which one of the following is false about the
+                                                      ​                                                                      (1)
+    combination values of f and g at x = −3 ?
+     A. (f g)(-3) = 6                                                      B. (f/g)(-3) = 2/3
+     C. (f + g)(-3) = 5                                                    D. (f - g)(-3) = -5
+
+20. If x < 0 and f (x) = ∣x∣ , then, x − f (f (x)) is equal to                                                               (1)
+
+     A. 0                                                                  B. 2x
+     C. -2x                                                                D. x + x^2
+21. Which one of the following is the sum of the series ∑∞
+                                                                                     n   n
+                                                              3 +4
+                                                         n=1 ( 6n ) ?       ​                ​                       (1)
+     A. 0                                                                       B. 5/4
+     C. 3                                                                       D. ∞
+                         2               3
+22. If 2k × 2k × 2k × … × 2k × … = 18 , then, k =
+                                                 n
+                                                                   ​                                                 (1)
+     A. 2/3                                                                     B. 1
+     C. -3/4                                                                    D. 3/2
+
+23. If ∑kn=1 ( n−13 ) = −25 , then, the value of k =                                                                 (1)
+                             2
+                     ​               ​
+
+
+
+
+     A. 3                                                                       B. 4
+     C. 7                                                                       D. 20
+
+24. Let Gn = rn be a geometric progression with a common ratio r. which one of the following is false about the
+                 ​
+                                                                                                                     (1)
+    sequence Gn ?                ​
+
+
+
+
+     A. If |r|<1, as n→∞ G_n converges to 1                                     B. If r≤-1 as n→∞ G_n is vibrant
+     C. If r=1 as n→∞ G_n→1                                                     D. If r>1 as n→∞ G_n→∞
+                                                     −4   −4
+25. What is the simplified form of aa−2 −b
+                                        +b−2                   ​                                                     (1)
+
+     A. (b^2 - a^2)/(ab)^2                                                      B. (ab/(b-a))^2
+     C. ((b-a)/(ab))^2                                                          D. (ab)^2/(b^2 - a^2)
+                                                                                         3
+26. Which one of the following is true about the function f (x) = xx2 −x
+                                                                      −x ?                           ​               (1)
+
+     A. f has a vertical asymptote                                              B. x=-1 is zero of f
+     C. f has a horizontal asymptote                                            D. x=1 is zero of f
+
+27. If p(x) = 3x2 and q(x) = x2 + x , then, what is the solution set of 3q(x)
+                                                                        p(x)
+                                                                              = x1 − q(x)
+                                                                                      1
+                                                                                                         ​   ​   ​   (1)
+
+     A. {-1,0}                                                                  B. {1}
+     C. {0,1}                                                                   D. {}
+                                                                        3
+28. The value(s) of x where the graph of the function y = x4 −1 crosses its horizontal asymptote is(are):            (1)
+                                                                       x +1
+                                                                                 ​
+
+
+
+
+     A. x=1                                                                     B. x=-1 and x=1
+     C. x=0                                                                     D. x=-1
+
+29. If x1−x
+         3 +x = x + x2 +1 then, A + B + C =
+             ​
+                A   Bx+C
+                             ​               ​                                                                       (1)
+
+     A. -1                                                                      B. 0
+     C. 1                                                                       D. -2
+
+30. Which one of the following functions has no vertical asymptote?                                                  (1)
+     A. f(x)=(x^2-1)/(x^2-x)                                                    B. f(x)=x/(x^3+x)
+     C. f(x)=4/(3x+1)                                                           D. f(x)=x^{-3}
+                                                                                     2
+31. Which of the following is false about the graph of f (x) = x −5x+6
+                                                                  2    ?                                             (1)
+                                                                                     x −4
+                                                                                                 ​
+
+
+
+
+     A. The graph has a hole at x=2
+     B. The vertical asymptotes of the graph are x=2 and x=-2
+     C. The horizontal asymptote of the graph is y=1
+     D. The graph has y-intercept at (0, -3/2)
+32. Let A and B be 3×3 matrices such that A = [[2,0,0],[1,5,0],[0,-1,1/2]] and |B| = 1/2. Which of the following is equal   (1)
+    to |AB^{-1}| ?
+     A. 1                                                           B. 4
+     C. 10                                                          D. 5/2
+
+33. If A is 3×3 matrix with |A| = 1/2, then, |2 adj A| =                                                                    (1)
+     A. 1                                                           B. 2
+     C. 4                                                           D. 8
+
+34. Let A and B be 3×3 matrices with |A| = m, and |B| = 1/n, m≠0, n≠0. What is the value of det(A^T B^{-1})?                (1)
+
+     A. m/n                                                         B. mn
+     C. n/m                                                         D. 2mn
+
+35. If A = [[3,1],[5,2]] then, A^{-1} is equal to                                                                           (1)
+     A. [[2,-1],[-5,3]]                                             B. [[-2,1],[5,-3]]
+     C. [[2,1],[5,3]]                                               D. [[-2,-1],[-5,-3]]
+
+36. Let A = [[2, x+y],[6,4]] and B = [[2,8],[6, x-y]]. If A = B, then x^2 - y^2 =                                           (1)
+     A. 32                                                          B. 36
+     C. 4                                                           D. 48
+
+37. What is the sum of the series ∑101     n 1     1
+                                   n=3 (−1) ( n + n+1 ) ?
+                                             ​         ​       ​                                                            (1)
+
+     A. 35/101                                                      B. 35/101
+     C. 35/101                                                      D. 35/102
+
+38. If the fourth term of an arithmetic sequence is -1 and the tenth term is 35, what is the sum of the first 20 terms?     (1)
+     A. 1520                                                        B. 1420
+     C. 860                                                         D. 760
+
+39. If the sum of the first n-terms of an arithmetic progression is S_n = n + 2n^2, which of the following is the 21th      (1)
+    term (a_21) of the sequence?
+     A. 903                                                         B. 820
+     C. 83                                                          D. 63
+
+40. If x, x+2, and x+6 are consecutive terms of a geometric progression, then the value of x is equal to                    (1)
+
+     A. 1                                                           B. 2
+     C. 3                                                           D. 4
+
+41. Which one of the following is a false statement?                                                                        (1)
+     A. Σ(a_i - b_i)= Σa_i - Σb_i                                   B. Σ(a_i × b_i)= Σa_i × Σb_i
+     C. Σ(c a_i)= c Σa_i                                            D. Σ(i=1 to n) c = n c
+
+42. If a, b, c, d are the four geometric means between 1/3 and 81, what is the common ratio of the geometric                (1)
+    progression 1/3, a, b, c, d, 81?
+     A. √3                                                          B. 1/3
+     C. 3                                                           D. 9
+43. If {a_n} is an arithmetic sequence whose third term and the tenth term are 3 and 24 respectively, then, the 50th     (1)
+    term of the sequence, a_50, is equal to
+     A. 156                                                              B. 150
+     C. 144                                                              D. 141
+
+44. A single square is made from 4 matchsticks. To make two squares in a row takes 7 Matchsticks, while three            (1)
+    squares in a row takes 10 matchsticks. How many matchsticks are in a row of 90 squares?
+     A. 211                                                              B. 271
+     C. 291                                                              D. 298
+
+45. ∑80      i+1
+     i=1 (log3 ) =
+             ​       ​                                                                                                   (1)
+
+     A. 1/81                                                             B. 4
+     C. -4                                                               D. 3
+
+46. The fifth and tenth terms of a geometric sequence are 640 and 20 respectively, then, the common ratio of the         (1)
+    sequence is equal to:
+     A. 2                                                                B. 1/2
+     C. -1/2                                                             D. -2
+
+47. Which one of the following is the fractional form of the recurring decimal 0.23?                                     (1)
+     A. 23/100                                                           B. 23/90
+     C. 23/99                                                            D. 23/900
+
+48. If Σ_{n=1}^∞ a_n is a convergent series such that Σ_{n=1}^∞ (a_n - 3/4^n) = 12, then Σ_{n=1}^∞ a_n is equal to:      (1)
+     A. 11                                                               B. 112
+     C. 13                                                               D. 14
+
+49. A certain meeting hall has n rows of seats and 120 total numbers of seats. There are 3 seats in the first row, 5    (1)
+    seats in the second row, 7 seats in the third row, and so on. How many seats are there in the last row (nth row) of
+    the hall?
+     A. 21                                                               B. 23
+     C. 32                                                               D. 41
+
+50. If f(x) = √π, then f'(4) is equal to:                                                                                (1)
+     A. 1/4                                                              B. 1/2
+     C. 0                                                                D. 1/(2√π)
+
+51. Let f(x) = 6x/(x+a). For what value of a is f'(2a)=2?                                                                (1)
+     A. 1/3                                                              B. 2/3
+     C. 3/2                                                              D. 3
+
+52. If h(x) = f(x)/g(x) + f(x)g(x), f(1)=3, f'(1)=-2, g'(1)=4, g(1)=2, then h'(1) is equal to:                           (1)
+
+     A. 4                                                                B. -10.4
+     C. 5                                                                D. 16
+
+53. If g(x) = f(x^2+4x), f(-3)=6, f'(-3)=-5, then g'(-1) =                                                               (1)
+     A. -2                                                               B. -10
+     C. -30                                                              D. -5
+54. If f(x) = 4 + |x+6| for all x, then what is the value of f'(x) at x = -6?                                 (1)
+     A. -1                                                               B. 4
+     C. 1                                                                D. does not exist
+
+                                                  — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

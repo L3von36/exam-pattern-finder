@@ -1,0 +1,605 @@
+                                                                Temari.et
+                                  Mathematics, 2017 EC, entrance pilot test, booklet 070
+                                                  Grade 12 · Mathematics · 2017 E.C.
+
+Time allowed: 120 minutes                                               Questions: 38                                           Total marks: 38
+
+Name                                                    Grade                                       ID No.               Date
+
+1.   Which one of the following fractions correctly expresses 2.343434... ?                                                                  (1)
+     A. 20
+        9     ​
+                                                                           B. 23
+                                                                              9     ​
+
+
+
+
+     C.   232                                                              D.   234
+          99      ​
+
+
+
+
+                                                                                100     ​
+
+
+
+
+                                                                2
+2.   Which of the following radical forms is equal to 7( 3 ) ?      ​
+
+
+
+
+                                                                                                                                             (1)
+
+     A.       343             ​                                            B. 343
+                                                                                3
+                                                                                                ​
+
+
+
+
+     C.       49          ​
+                                                                           D. 3 49          ​
+
+
+
+
+3.                                1
+     What is the standard form of 50 ?        ​
+                                                                                                                                             (1)
+     A. 0.02 × 10                 2                                        B. 2.0 × 10                      −2
+
+     C. 0.02 × 10                                                          D. 2.0 × 101
+
+4.   Which one of the following simultaneous equations has a unique solution?                                                                (1)
+     A.                                                                    B.
+          {                                                                     {
+              y = 2x + 3                                                            y = 2x + 3
+              −2y = −4x + 6                                                         2y = 4x + 6
+                                          ​                                                                      ​
+
+
+
+
+     C.                                                                    D.
+          {                                                                     {
+              y = 2x + 3                                                            y = 2x + 3
+              2y = −4x + 6                                                          −2y = −4x − 6
+                                      ​                                                                              ​
+
+
+
+
+5.   Which of the following sets contains solutions of a2 = a + 2?                                                                           (1)
+
+     A. {−1, 2}                                                            B. {−2, 1}
+     C. { −1 , 1}                                                          D. {−1, 1 }
+                  2                                                                                 2
+                      ​                                                                                 ​
+
+
+
+
+                      ​                                                                                 ​
+
+
+
+
+6.   How many subsets can be formed from a set with four elements?                                                                           (1)
+     A. 8                                                                  B. 15
+     C. 16                                                                 D. 24
+
+7.   For two sets C and V if C = {m, t, h, s} and V = {a}, what is their symmetric difference?                                               (1)
+
+     A. {m, a, t, h, s}                                                    B. {m, t, h, s}
+     C. {}                                                                 D. {a}
+
+8.   Which one of the following statements defines a regular polygon?                                                                        (1)
+     A. It is a concave polygon in which all of its sides are equal and all of its angles are equal.
+     B. It is a convex polygon in which all of its sides are similar and all of its angles are congruent.
+     C. It is a convex polygon in which all of its sides are equal and all of its angles are equal.
+     D. It is a concave polygon in which all of its sides are similar and all of its angles are congruent.
+
+9.   The degree measurement of an angle of 56 π radian equals to:
+                                                    ​                                                                                        (1)
+
+     A. 120                                                                B. 130
+     C. 160                                                                D. 150
+10. Which of the following is a symmetrical property of a circle?                                                            (1)
+     A. The circle is symmetrical about any of its diameters.
+     B. The circle is symmetrical about any of its radii.
+     C. The circle is symmetrical about any of its chords.
+     D. The circle is symmetrical about any of its arcs.
+
+11. A circular bread of radius 20cm is chopped into eight equal slices. What is the area of one slice of bread?              (1)
+     A. 2.5π cm2                                                                 B. 5π cm2
+     C. 45π cm2                                                                  D. 50π cm2
+
+12. Which of the following is NOT a purpose of statistical mode?                                                             (1)
+     A. To identify the top customer in a shop.
+     B. To identify the highest mark in an examination.
+     C. To recognize the frequent visiting tourists in a park.
+     D. To recognize the redundancy of car accidents in a city.
+
+13. If a die is rolled twice, then what is the probability of the sum of the numbers appearing is 5?                         (1)
+     A.   1                                                                      B.    1
+          36     ​
+
+
+
+                                                                                      18     ​
+
+
+
+
+     C.    5                                                                     D.   1
+          36     ​
+
+
+
+                                                                                      9  ​
+
+
+
+
+14. Given a triangle with coordinates (2, 0), (0, 3), and (4, 5). Which of the following is a position vector of a side of   (1)
+    the triangle?
+     A. 2                                                                        B.   4
+       ( )                                                                          ( )
+        5                                                                            −2
+                         ​                                                                                   ​
+
+
+
+
+     C. 2                                                                        D.  4
+       ( )                                                                          ( )
+        3                                                                            −3
+                         ​                                                                                   ​
+
+
+
+
+15. Which one of the following intervals contains a zero of f (x) = 1 − x2 ?                                                 (1)
+     A. (−3, −3 2
+                  )                          ​
+                                                                                 B. ( 12 , 2)    ​
+
+
+
+
+         −1   1
+     C. ( 2 , 2 )                                                                D. (2, 3)
+                                 ​       ​
+
+
+
+
+16. Given a function f (x) = 8x3 − 27. Which one is a zero of f (x)?                                                         (1)
+
+     A. 32   ​                                                                   B. 15   ​
+
+
+
+
+     C. 23   ​
+                                                                                 D. 27   ​
+
+
+
+
+17. Let a and b are non-zero real numbers. Let m and n are integers. Then, which one is the correct law of                   (1)
+    exponents?
+     A. am × an = am×n                                                           B. amn = a( mn )                ​
+
+
+
+
+                                                                                      a
+                                                                                                     ​
+
+
+
+
+                                     n           n
+     C. ( ab ) = abn ​                               ​
+                                                                                 D. (ab)m = am + bm
+
+18. The simplified form of log9 3 54 − log9 3 2 equals to:
+                                                         ​   ​   ​   ​                                                       (1)
+
+     A. − 13             ​                                                       B. 13   ​
+
+
+
+
+     C. − 12                 ​
+                                                                                 D. 12   ​
+
+
+
+
+                                                                             x                               x
+19. Which one is true about graphs of f (x) = ( 35 ) and g(x) = ( 53 ) ? ​                               ​
+                                                                                                                             (1)
+     A. They have the same x-intercept.                                          B. They have the same y-intercept.
+     C. They are decreasing over (−∞, 0).                                        D. They are increasing over (0, ∞).
+20. What is the solution set for the equation ( 125 )x+1 = ( 9 )3x−1 ?                                                                           (1)
+                                                                  27   ​
+
+
+
+
+                                                                           25   ​
+
+
+
+
+    A. {− 19 }  ​
+                                                                                    B. { 53 }  ​
+
+
+
+
+    C. {−2}                                                                         D. {2}
+
+21. Which one of the following is the longest side of a quadrilateral with vertices P (−3, −3), Q(3, −1), R(1, 2)                                (1)
+    and S(−5, 1)?
+    A. PQ                                                                           B. QR
+    C. RS                                                                           D. SP
+
+22. If a point R divides PQ internally where P (1, −3) and Q(2, 5) in 1:2 ratio, what are the coordinates of R?
+                                                          ​                                                                                      (1)
+    A. ( 53 , 73 )
+            ​       ​
+                                                                                    B. ( 43 , 11
+                                                                                           ​
+
+
+
+
+                                                                                              3
+                                                                                                 )     ​
+
+
+
+
+    C. ( 43 , − 13 )
+            ​           ​
+                                                                                    D. (2, 14
+                                                                                           3 )     ​
+
+
+
+
+23. Which of the following pairs of lines is perpendicular to one another?                                                                       (1)
+
+    A. x − y = 33; x − y = 44                                                       B. y = 345; y = −345
+    C. 2x − y = 0; x + 3y = 0                                                       D. x = 567; y = −567
+
+24. Which one of the following trigonometric values is correct?                                                                                  (1)
+    A. tan(330∘ ) = −1                                                              B. tan(150∘ ) = 1
+                                          3                                                                              3
+                                                  ​                                                                                  ​
+
+
+
+
+                                                  ​                                                                                  ​
+
+
+
+
+    C. tan(210∘ ) = − 3                                       ​
+                                                                                    D. tan(30∘ ) =                    3      ​
+
+
+
+
+25. Which one of the following is true about trigonometric values?                                                                               (1)
+
+    A. sin(−150∘ ) = 12                       ​                                     B. sin(−210∘ ) = 12                          ​
+
+
+
+
+    C. cos(−150∘ ) = 3                                ​
+
+                                                                                    D. cos(−210∘ ) = 3                                   ​
+
+
+
+
+                                              2       ​
+
+
+
+                                                                                                                                 2       ​
+
+
+
+
+26. If θ is an angle in standard position and P (x, y) is a point on the terminal side of θ, what is the cosecant value                          (1)
+    of θ?
+    A. csc θ =                  x2 +y 2   ​
+                                                                                    B. csc θ =                 x2 +y 2   ​
+
+
+
+
+                                 y                                                                              x
+                                          ​                                                                              ​
+
+
+
+
+    C. csc θ =                   y
+                                          ​                                         D. csc θ =                  x        ​
+
+
+
+
+                                x2 +y 2   ​                                                                    x2 +y 2   ​
+
+
+
+
+27. If two chords intersect at the center of a circle and create four congruent arcs, what is the degree measure of                              (1)
+    each angle formed by the chords?
+    A. 45∘                                                                          B. 90∘
+    C. 180∘                                                                         D. 360∘
+
+28. What is the volume of a ball with diameter 30 cm?                                                                                            (1)
+    A. 4, 500π cm                3                                                  B. 36, 000π cm                3
+
+    C. 9, 000π cm3                                                                  D. 900π cm3
+
+29. If a regular frustum of pyramid with 6 m by 6 m and 2 m by 2 m square bases has slant height of 2 65 m,                                  ​   (1)
+    what is its lateral surface area?
+    A. 72 65 m2         ​
+                                                                                    B. 64 65 m2            ​
+
+
+
+
+    C. 12 65 m2             ​
+                                                                                    D. 32 65 m2            ​
+30. A frustum of right circular cone is 4 cm high and has bases of radii 5 cm and 3 cm, what is its volume?                  (1)
+      A. 136
+          3 π cm
+             ​
+                3                                               B. 196
+                                                                    3 π cm
+                                                                          3  ​
+
+
+
+
+      C.   100    3                                             D.   86    3
+            3 π cm
+             ​
+
+
+
+
+                                                                     3 π cm
+                                                                         ​
+
+
+
+
+31. Which of the following sentences defines a power function?                                                               (1)
+
+      A. f (x) = a ⋅ xr where a and r are constant real numbers and a =
+                                                                       0.
+      B. f (x) = a ⋅ x where a and x are constant real numbers and r =
+                      r                                                0.
+      C. f (x) = a ⋅ xr where x and r are constant real numbers and r > 0.
+      D. f (x) = a ⋅ xr where a, x and r are constant real numbers and x > 0.
+
+32. If a signum function is given by f (x) = 3 − 3sgn x, then which of the following is true?                                (1)
+      A. The domain of f is {−1, 0, 1}.                         B. The domain of f is {0, 3, 6}.
+      C. The range of f is {−1, 0, 1}.                          D. The range of f is {0, 3, 6}.
+
+33. Which of the following is true about the graph of f (x) = x+2
+                                                              x−2 ?  ​                                                       (1)
+
+      A. y = 1 is the horizontal asymptote.                     B. y = −2 is the horizontal asymptote.
+      C. x = 1 is the vertical asymptote.                       D. x = −2 is the vertical asymptote.
+
+34. Below is the graph of a rational function f of x.                                                                     (1)
+    If it does not cross y = x, which of the following is true?
+    [Figure: A Cartesian coordinate grid showing the horizontal 'x - axis' and vertical 'y - axis'. The line y = x passes
+    through the origin into quadrants I and III. A continuous curve labeled 'graph of function f' lies entirely above the
+    line y = x, opening upwards in a U-shape. Its minimum is on the positive y-axis, and as x increases into the first
+    quadrant, it rises alongside and above the line y = x.]
+      A. If x → −∞, f (x) → y = x                               B. If x → +∞, f (x) → y = x
+      C. f (−300) < −300                                        D. f (300) < 300
+
+35.                           3           0
+      What type of matrix is (               )?                                                                              (1)
+                              0           −3
+                                  ​           ​
+
+
+
+
+      A. Identity matrix                                        B. Scalar matrix
+      C. Skew-symmetric matrix                                  D. Symmetric matrix
+
+36. Given points A(2, 3), B(1, −2) and C(0, 4), what is the value of AB + 2BC − AC ?                                         (1)
+
+      A. −4                                                     B.   4
+        ( )                                                        ( )
+         2                                                          −5
+                 ​                                                                   ​
+
+
+
+
+      C. −1                                                     D.  1
+        ( )                                                        ( )
+          6                                                         −6
+                 ​                                                                   ​
+
+
+
+
+37. Which of the following is a correct property on vector dot products?                                                     (1)
+      A.      1    −1      1      −1                            B.      1     −1     1      −1
+         3 [( ) ⋅ ( )] = ( ) ⋅ 3 ( )                               3 [( ) + ( )] = ( ) + 3 ( )
+              0     0      0       0                                    0      0     0      0
+                     ​       ​            ​           ​                                  ​               ​       ​       ​
+
+
+
+
+      C.    0      1    −1        0  1                          D.    1     −1    0       1
+         ( ) ⋅ [( ) + ( )] = ( ) ⋅ ( ) +                           [( ) + ( )] ⋅ ( ) = ( ) +
+           −1      0    0         −1 0                                0      0    −1      0
+                 ​       ​            ​           ​       ​                      ​               ​           ​       ​
+
+
+
+
+           −1                                                         −1      0
+         ( )                                                       [( ) ⋅ ( )]
+            0                                                          0    −1
+                 ​                                                                           ​       ​
+38. If a triangle of vertices P (1, 2), Q(3, 4) and R(0, 2) is rotated about the origin by 30∘ counterclockwise, the                               (1)
+    vertices of the image triangle are:
+    A. P ′ = (         , 2 ) ; Q′ =
+                   3−2 1+2 3​                   ​
+                                                                                           B. P ′ = (        3−2
+                                                                                                              ​
+
+
+
+
+                                                                                                                 ,1 +      3) ; Q′ =
+                    2                                                                                        2
+                                ​               ​                                                                 ​         ​
+
+
+
+
+        ( 3 23−4 , 3+42 3 ) ; R′ = (−1,
+                ​
+
+
+
+
+                        ​
+                                    ​
+
+
+
+
+                                    ​
+                                                                 3)
+                                                                  ​
+                                                                                               (   3−2
+                                                                                                   2 ,1 +
+                                                                                                     ​
+
+
+
+
+                                                                                                         ​
+                                                                                                                      3) ; R′ = (1, − 3)
+                                                                                                                       ​                   ​
+
+
+
+
+    C. P ′ = (
+                  2 , 2 ) Q
+                                                                                           D. P ′ = (
+                                                                                                        2 , 2 ) Q
+                 3−2 1+ 3                                                                              3−2 1+ 3
+                            ​
+
+
+
+
+                             ; ′=
+                                ​
+                                            ​
+
+
+
+
+                                            ​
+                                                                                                             ​
+
+
+
+
+                                                                                                                  ; ′=
+                                                                                                                  ​
+
+
+
+
+        (   2 , 1 + 2 ) ; R = ( 2 − 2,
+            3−1
+            ​
+
+
+
+
+                    ​
+                     3     ′    3 3    3+2 3
+                                        ​
+
+
+
+
+                                        ​
+
+
+
+
+                                         2 )
+                                                             ​
+
+
+
+
+                                                             ​
+                                                                             ​
+
+
+
+
+                                                                             ​                 (   3−2
+                                                                                                   2 ,1 +
+                                                                                                     ​
+
+
+
+
+                                                                                                         ​ 3) ; R′ = ( 3 23−4 , 3+22 3 )
+                                                                                                                       ​
+                                                                                                                                   ​
+
+
+
+
+                                                                                                                                       ​
+                                                                                                                                               ​
+
+
+
+
+                                                                                                                                               ​
+
+
+
+
+                                                                      — E N D O F E X A M I N AT I O N —
+                                                    Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

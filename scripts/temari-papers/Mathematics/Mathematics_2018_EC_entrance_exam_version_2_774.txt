@@ -1,0 +1,266 @@
+                                                            Temari.et
+                         Mathematics, 2018 EC, entrance exam, version 2
+                                                 Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                         Questions: 56                                 Total marks: 56
+
+Name                                                Grade                         ID No.                 Date
+
+1.   What is the 10th term of Prof. Mulatu's sequence ?                                                                      (1)
+     A. 309                                                          B. 118
+     C. 191                                                          D. 89
+
+2.   What is the area (in square unit) of the region bounded by y=0 and the graph of f(x)=4-x² on the interval [-2,2]?       (1)
+     A. 2/3                                                          B. 22/3
+     C. 8                                                            D. 32/3
+
+3.   Let f be defined on [a, b]. Then which of the following is NOT true?                                                    (1)
+
+     A. ∫ₐᵇ f(x)dx = ∫ₐᶜ f(x)dx - ∫ᶜᵇ f(x)dx for any c in (a,b)
+     B. ∫ᶜᶜ f(x)dx = 0 for any c in (a,b)
+     C. ∫ₐᵇ f(x)dx = -∫ᵇₐ f(x)dx
+     D. ∫ₐᵇ k f(x)dx = k ∫ₐᵇ f(x)dx for any constant k
+
+4.   The sides of an equilateral triangle are increasing at the rate of 2 cm/sec. The rate at which the area increases       (1)
+     when side is 10 cm is:
+     A. 10 cm²/sec                                                   B. √3 cm²/sec
+     C. 10√3 cm²/sec                                                 D. 10/3 cm²/sec
+
+5.   A balloon which always remains spherical is being inflated by pumping in 10 cm³ of gas per second. What is the          (1)
+     rate at which the radius is increasing when the radius is 15 cm?
+     A. 1/(30π) cm/sec                                               B. 1/(90π) cm/sec
+     C. 1/π cm/sec                                                   D. 1/(9π) cm/sec
+
+6.   Suppose Target Population N = 54000 vouchers and sample size n = 6000; following the systematic sampling                (1)
+     approach if 4th unit is selected as the first unit in the sample then the next unit selected in the sample would
+     be:
+     A. 8th                                                          B. 10th
+     C. 12th                                                         D. 13th
+
+7.   The standard deviation and arithmetic mean of aggregate marks obtained by three groups of students X, Y, Z are          (1)
+     as follows: X: mean=53, sd=211; Y: mean=83, sd=19; Z: mean=50, sd=10. The more variable group is:
+     A. X                                                            B. Y
+     C. Z                                                            D. X&Z
+
+8.   When the variability of two series is to be compared, which of the following should be used?                            (1)
+     A. Absolute measure of average                                  B. Absolute measure of dispersion
+     C. Relative measure of dispersion                               D. Relative measure of average
+9.   A rectangular page contains 24 square inches of print. The margins: top and bottom 1.5 inch, left and right 1 inch. (1)
+     What dimensions of the page produce the smallest area?
+     A. 6 by 4                                                   B. 8 by 6
+     C. 6 by 9                                                   D. 10 by 8
+
+10. If there are many extreme scores in all examinations, the dispersion is                                               (1)
+     A. Large                                                    B. Small
+     C. Normal                                                   D. Symmetric
+
+11. If the values of variable x are -4, -20, -30, -44 and -36, then the value of range will be                            (1)
+
+     A. -48                                                      B. 40
+     C. -40                                                      D. 48
+
+12. A particle moves along the x-axis with acceleration a(t)=12t²+6t for t≥0. If v(1)=5 and s(0)=2, then what is          (1)
+    position at t=2 sec?
+     A. 26 m                                                     B. 12 m
+     C. 24 m                                                     D. 22 m
+
+13. If pth term of an arithmetic progression is q and its (p+q)th term is 0, then qth term is equal to:                   (1)
+     A. -p                                                       B. p+q
+     C. p                                                        D. p-q
+
+14. Which one of the following sequence is both arithmetic and geometric?                                                 (1)
+     A. -1,1,-1,1,...                                            B. 1/3,1/3,1/3,1/3,...
+     C. 0,2,2,2,...                                              D. 25,5,1/5,1/25,...
+
+15. A ball is dropped from a height of 64 meters. Each time it bounces, it reaches half the previous height. Total        (1)
+    distance traveled before coming to rest?
+     A. 128 m                                                    B. 192 m
+     C. 256 m                                                    D. 320 m
+
+16. If 7th and 21st terms of arithmetic sequence are 24 and 52 respectively, then sum of first 5 terms is:                (1)
+     A. 65                                                       B. 80
+     C. 82                                                       D. 90
+
+17. If the sequence defined recursively by a₁=1, a₂=-1 and a_n = a_{n-1}+2a_{n-2}+n for n≥3, then seventh term is:        (1)
+
+     A. 82                                                       B. 75
+     C. 120                                                      D. 37
+
+18. If the sum of first n terms of arithmetic progression is 2n+3n², then a_n is equal to                                 (1)
+     A. 4n+3                                                     B. 6n+5
+     C. 6n-1                                                     D. 4n-1
+
+19. What is equation of normal line to the graph of f(x)=(1-x³)√(x+5) at (-1,4)?                                          (1)
+     A. 2y+11x=-3                                                B. 2y-11x=19
+     C. 11y-2x=46                                                D. 11y+2x=42
+20. If f(x)=x³+ax²+bx-2 has relative minimum value of 6 at x=1, then equation of tangent line at x=-1 is:              (1)
+    A. y-40x=10                                                   B. y=40x-10
+    C. y-40x=70                                                   D. y=40x-70
+
+21. In which case is the interquartile range preferred over the range?                                                 (1)
+
+    A. When data is binary
+    B. When focusing on extreme values
+    C. When analyzing the middle 50% of the data
+    D. For data set with identical values
+
+22. In case of positively skewed distribution, the extreme values lie in the:                                          (1)
+    A. Middle                                                     B. Left tail
+    C. Right tail                                                 D. Anywhere
+
+23. The output of 20 workers: 55,65,62,60,74,75,70,70,72,67,78,79,80,68,54,56,63,69,63,71. Then coefficient of range   (1)
+    is:
+    A. 0.29                                                       B. 0.19
+    C. 0.49                                                       D. 0.39
+
+24. The following data: 50,69,20,33,53,39,40,65,59. The mean deviation about the median is:                            (1)
+
+    A. 9                                                          B. 10.5
+    C. 12.67                                                      D. 14.76
+
+25. A smaller value of coefficient of variation indicates:                                                             (1)
+    A. Higher variability                                         B. More skewness
+    C. Higher consistency                                         D. More central tendency
+
+26. Bowley's coefficient of skewness lies between:                                                                     (1)
+    A. 0 and 1                                                    B. -1 and 1
+    C. -1 and 0                                                   D. -2 and 2
+
+27. The lower and upper quartiles are 80 and 120, median 100. The shape of distribution is:                            (1)
+    A. Positively skewed                                          B. Negatively skewed
+    C. Symmetrical                                                D. Elongated to the right
+
+28. The sum of the deviations of all data points from the mean is always:                                              (1)
+
+    A. Positive                                                   B. Zero
+    C. Negative                                                   D. Equal to range
+
+29. What is the sum of all integers between 20 and 201 that are divisible by 2 or 5?                                   (1)
+    A. 16,110                                                     B. 12,970
+    C. 16,150                                                     D. 11,970
+
+30. Which one of the following is true about f(x)=x⁴ - (4/3)x³?                                                        (1)
+    A. f is decreasing on [1,∞)
+    B. The function has no relative extreme at x=0
+    C. f is increasing on (-∞,1]
+    D. f(1) is local maximum
+31. A particle position s(t)=t⁴-3t+5. Which one is true?                                                             (1)
+     A. v(t)= t⁵/5 - 3t²/2 +5t                                         B. v(2)=4.4 m/s
+     C. Particle at rest at t=3/4 sec                                  D. a(1)=12 m/s²
+
+32. If f(2)=-3, f'(2)=4, g(1)=-5, g'(1)=1, and F(x)=f(2x+2)·g(1-x²), then F'(0) is:                                  (1)
+
+     A. -40                                                            B. 0
+     C. -20                                                            D. 19
+
+33. If f(x)=2x²+5x+8, then [f(2+h)-f(2)]/h as h→0 is equal to                                                        (1)
+     A. 9                                                              B. 15
+     C. 13                                                             D. 26
+
+34. In a geometric sequence of even number of terms, the sum of all terms is 5 times the sum of the odd terms. The   (1)
+    common ratio is
+     A. 4                                                              B. 5
+     C. 3/5                                                            D. 1/5
+
+35. Let F be the anti-derivative of f. Which of the following is NOT true?                                           (1)
+     A. ∫ d/dx f(x) dx = f(x)+c                                        B. ∫ F(x) dx = f(x)+c
+     C. F'(x)=f(x)                                                     D. d/dx ∫ F(x) dx = F(x)
+
+36. Suppose f(x) defined on [0,3] such that ∫₀³ f(x)dx=0. Which must be true?                                        (1)
+     A. f(x) is identically zero                                       B. f(x) is non-negative
+     C. f(x) must change sign                                          D. f(x) has the same sign
+
+37. If f'(x)=x²+5 and f(0)=-1, then f(x) is:                                                                         (1)
+
+     A. x³+5x+1                                                        B. x³+5x-1
+     C. 1/3 x³+5x-1                                                    D. 1/3 x³+5x+1
+
+38. If f(x) = { x for x<1, x-1 for x≥1 }, then ∫₀² x² f(x) dx is:                                                    (1)
+     A. 1                                                              B. 4/3
+     C. 5/3                                                            D. 5/2
+
+39. Which one defines arithmetic sequence?                                                                           (1)
+     A. Ratio between consecutive terms is non-zero constant
+     B. Difference between consecutive terms is positive constant
+     C. Difference between consecutive terms is constant
+     D. Ratio between consecutive terms is positive constant
+
+40. Average rate of change of f(x)=x√x - x² + 4x - 2 between x=1 and x=4 is:                                         (1)
+     A. -10/6                                                          B. 4/3
+     C. 3                                                              D. B?
+
+41. Which best describes instantaneous rate of change?                                                               (1)
+     A. Slope of secant line                                           B. Slope of tangent line at a point
+     C. Rate over entire period                                        D. Same as derivative over interval
+42. For a survey, a village is divided into 5 lanes then each lane is sampled randomly. This is an example of:       (1)
+     A. Simple Random Sampling                                       B. Stratified Random Sampling
+     C. Systematic Random Sampling                                   D. Multi stage Sampling
+
+43. Which is true about Simple Random Sampling?                                                                      (1)
+
+     A. Provides least number of possible samples
+     B. Every fixed unit is taken
+     C. All units have equal chance to be selected
+     D. Only selected units have right
+
+44. The third term of geometric progression is 3. What is the product of the first five terms?                       (1)
+     A. 216                                                          B. 226
+     C. 243                                                          D. 729
+
+45. The sum of first n terms of the sequence 1/(2·5), 1/(5·8), 1/(8·11), ... is:                                     (1)
+
+     A. n/(6n+4)                                                     B. 3n/(6n+4)
+     C. (3n+1)/(18n+12)                                              D. n/(4n+6)
+
+46. Which is true about cluster sampling?                                                                            (1)
+     A. Every nth case is chosen
+     B. A natural group is taken as sampling unit
+     C. Involves random numbers
+     D. Stratification of population
+
+47. A business gets net profit of Birr 3000 at the end of each month. Just after the 5th year, its amount was Birr   (1)
+    230,000. What was the starting amount?
+     A. Birr 47,000                                                  B. Birr 53,000
+     C. Birr 50,000                                                  D. Birr 56,000
+
+48. The sequence {a_n} with a₁=2 and a_{n+1}=a_n+4, then ∑_{n=3}^{35} a_n equals:                                    (1)
+
+     A. 2460                                                         B. 2458
+     C. 2450                                                         D. 2442
+
+49. Find natural number a such that ∑_{k=1}^{n} f(a+k) = 16(2^n -1) where f satisfies f(x+y)=f(x)f(y) and f(1)=2.    (1)
+     A. 3                                                            B. 4
+     C. 6                                                            D. 5
+
+50. The sum of absolute deviations is minimum if these deviations are taken from                                     (1)
+     A. Mean                                                         B. Mode
+     C. Median                                                       D. Q₃
+
+51. Which of the following is unit free quantity?                                                                    (1)
+     A. Range                                                        B. Coefficient of variation
+     C. Standard Deviation                                           D. Arithmetic mean
+
+52. The sum of ∑_{n=1}∞ 5(2/3)^n is:                                                                                 (1)
+
+     A. 10/3                                                         B. 15
+     C. 5                                                            D. 10
+53. Which one is anti-derivative of f(x)=3/(x√x)?                                                           (1)
+    A. -6/√x + c                                                       B. -6√x + c
+    C. 6/√x + c                                                        D. -3/(2√x) + c
+
+54. Suppose ∫₈⁶ f(x)dx = 21 and ∫₁⁶ f(x)dx = -12, then ∫₁⁸ f(x)dx is:                                       (1)
+
+    A. 9                                                               B. -9
+    C. 33                                                              D. -33
+
+55. If f and g are defined on R and a,b∈R, which is necessary true?                                         (1)
+    A. If ∫ f = ∫ g, then f=g                                          B. If f'=g', then ∫ f = ∫ g
+    C. If f(x)≥3 on [-2,2], then ∫_{-2}^2 f ≥12                        D. ∫ f = ∫ f
+
+56. Mean deviation computed from a set of data is always:                                                   (1)
+    A. Negative                                                        B. Equal to standard deviation
+    C. More than standard deviation                                    D. Less than standard deviation
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

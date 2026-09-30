@@ -1,0 +1,351 @@
+                                                               Temari.et
+                                       Physics, 2016 EC, entrance exam
+                                                   Grade 12 · Physics · 2016 E.C.
+
+Time allowed: 120 minutes                                         Questions: 42                                            Total marks: 42
+
+Name                                               Grade                               ID No.                       Date
+
+1.   Lenz's law states that the direction of the induced current in a loop is in such a way that the current                            (1)
+     A. is in opposite direction to that of the applied magnetic field that is causing it.
+     B. creates a magnetic field that reinforces the change in magnetic flux through the loop.
+     C. is in the same direction as that of the applied magnetic field that is causing it.
+     D. creates a magnetic field that opposes the change in magnetic flux through the loop.
+
+2.   Which one of the following statements is correct about the resistance of a conducting wire? The resistance of                      (1)
+     the wire is
+     A. directly proportional to the square of its length.
+     B. directly proportional to the square of its cross-sectional area.
+     C. inversely proportional to its cross-sectional area.
+     D. inversely proportional to its length.
+
+3.   Consider an ideal transformer having Np and Ns turns, and voltages Vp and Vs in its primary and secondary
+                                               ​           ​                               ​                ​                           (1)
+     coils, respectively. Which one of the following is the correct ideal transformer equation?
+     A. Vp = (Np /Ns )2 Vs
+          ​        ​       ​       ​
+                                                                     B. Ns /Np = (Vs /Vp )2
+                                                                               ​       ​            ​           ​
+
+
+
+
+     C. Vs /Vp = Np /Ns
+          ​    ​       ​       ​
+                                                                     D. Vs /Vp = Ns /Np
+                                                                           ​       ​            ​       ​
+
+
+
+
+4.   Which one of the following statements is correct about the electrical conductivity of materials? Materials in                      (1)
+     which all the
+     A. outer most shell electrons are tightly bound to its parent atom are conductors.
+     B. outer most shell electrons are free to move within the material are semiconductors.
+     C. inner and outer most shell electrons are free to move within the material are conductors.
+     D. inner and outer most shell electrons are tightly bound to its parent atom are insulators.
+
+5.   Which one of the following statements distinguishes precision from accuracy?                                                       (1)
+     A. Precision indicates how close a measured value is to the true value, whereas accuracy refers to the closeness of
+        repeatedly measured values to each other.
+     B. Accuracy measures how exact a value is whereas precision indicates how close a measured value is to the true
+        value.
+     C. Precision is a measure of the closeness of repeatedly measured values to each other, whereas accuracy is
+        related to the number of significant figures.
+     D. Precision is a measure of the closeness of repeatedly measured values to each other, whereas accuracy refers
+        to the closeness of measured values to the true value.
+6.   Which of the following statements about the nature electromagnetic waves is correct? Electromagnetic waves          (1)
+     are transverse waves produced when
+     A. electric and magnetic fields are oscillating perpendicular to each other.
+     B. charges are placed at rest in an electric and magnetic fields that are perpendicular to each other.
+     C. electric and magnetic fields are oscillating parallel to each other.
+     D. charges are placed at rest in an electric and magnetic fields that are parallel to each other.
+
+7.   A concave mirror has a radius of curvature of 30.0 cm. It is positioned so that the upright image of an object is   (1)
+     2.0 times the size of the object. How far is the object from the mirror?
+     A. 10.0 cm                                                 B. 15.0 cm
+     C. 22.5 cm                                                 D. 7.5 cm
+
+8.   Which one of the following is correct about the four basic forces in nature?                                        (1)
+     A. Electromagnetic force is the weakest of all the forces in nature.
+     B. Gravitational force is attractive force that acts on the scale of the atomic nucleus.
+     C. Strong nuclear force is short-range force that holds protons and neutrons together inside a nucleus.
+     D. Weak nuclear force keeps the electrons in their orbit around a nucleus.
+
+9.   Which of the following is correct about impulse?                                                                    (1)
+
+     A. The direction of the impulse is in the same direction to change in the momentum of the object.
+     B. During momentum change final momentum of an object is along the impulse on the object.
+     C. Impulse due to a force exerted for a short time is equal to impulse due to the same force exerted for a long time.
+     D. The impulse is smaller than change of momentum which caused by the applied force.
+
+10. Which of the following pair of vectors is collinear?                                                                 (1)
+     A. C = i + j and D = i - j                                 B. A = 2i + 3j and B = -4i + 6j
+     C. E = -i + j and F = 3i - 3j                              D. G = 2i + 3j and F = 3i + 2j
+
+11. A ball is thrown vertically upward with 12 m/s from the ground. Its speed when the ball is 4.0 m above the           (1)
+    ground is
+     A. 8 m/s.                                                  B. 15 m/s.
+     C. 10 m/s                                                  D. 12 m/s
+
+12. An object is projected at angle θ from the horizontal with initial velocity v0 . Which one of the following
+                                                                                       ​                                 (1)
+    expressions represents the relationship between maximum height, hmax , and range of the projectile, R?
+                                                                               ​
+
+
+
+
+     A. R = hmax ((tanθ)/2)
+                     ​
+                                                                B. R = 4hmax (tanθ)​
+
+
+
+
+     C. R = (2hmax )/(tanθ)
+                         ​
+                                                                D. R = (4hmax )/(tanθ)     ​
+
+
+
+
+13. A 0.5 kg block moving with an initial speed of 5.0 m/s slides 2.5 m on a rough horizontal surface before coming      (1)
+    to rest. The coefficient of kinetic friction is
+     A. 0.5                                                     B. 0.3
+     C. 0.1                                                     D. 0.4
+
+14. A 0.2 kg ball is kicked from the ground at 16 m/s in a direction making an angle θ above the horizontal.             (1)
+    Neglecting air resistance, the magnitude of velocity of the ball when it is 3.0 m from the ground is
+     A. 7 m/s.                                                  B. 2 m/s.
+     C. 14 m/s.                                                 D. 16 m/s.
+15. The angular speed of a disk rotating about its axis increases by 2000 rad/s in a time interval of 3.0 s. If the       (1)
+    moment of inertia of the disk is 0.6 kg·m², what is the average torque on the disk?
+    A. 670 Nm                                                   B. 1200 Nm
+    C. 6000 Nm                                                  D. 400 Nm
+
+16. What do you call the sound wave that is heard after reflection from a hard surface?                                   (1)
+    A. Loudness                                                 B. Timber
+    C. Echo                                                     D. pitch
+
+17. The angular momentum of a rotating object is defined as the product of its                                            (1)
+
+    A. mass and the angular velocity.
+    B. moment of inertia and the square of the angular velocity.
+    C. moment of inertia and angular velocity.
+    D. mass and one-half of the square of the angular velocity.
+
+18. Which one of the following waves is identified as longitudinal wave?                                                  (1)
+    A. Deep water wave                                          B. Wave on a vibrating string
+    C. Sound wave                                               D. S-wave of Earthquake
+
+19. Which of the following statements is correct about the components of the velocity of a ball projected up at an        (1)
+    angle of θ with the horizontal? Neglecting the air resistance,
+    A. the vertical component of the velocity remains constant throughout its journey.
+    B. the vertical component of velocity increases while the horizontal component of velocity decreases.
+    C. the horizontal component of the velocity remains constant throughout its journey.
+    D. the horizontal velocity of the ball is equal to zero at the maximum
+
+20. Which one of the following statements is correct about the electric field due to a charged spherical solid            (1)
+    conductor?
+    A. It is zero inside the sphere.
+    B. It is non-zero constant outside the sphere.
+    C. It is non-zero constant inside the sphere.
+    D. It is parallel to the surface of the sphere.
+
+21. A metal wire made of coefficient of linear expansion α is heated so that its temperature is changed by ΔT. If the     (1)
+    length of the wire before heating is L0 , which one of the following expressions is correct for the final length of
+                                            ​
+
+
+
+
+    the wire after heating?
+    A. L0 ∝ ΔT
+           ​
+                                                                B. 1+αΔT
+                                                                     L0 ​
+
+
+
+
+                                                                            ​
+
+
+
+
+    C. L0 (1 + αΔT )
+           ​
+                                                                D. 1−αΔT
+                                                                     L0 ​
+
+
+
+
+                                                                            ​
+
+
+
+
+22. What amount of heat energy is required to completely melt 200g of ice at 0°C? (Take specific latent heat of           (1)
+    melting for ice, Lf = 3.3 × 105 J/kg )
+                       ​
+
+
+
+
+    A. 1.65 × 10⁷ J                                             B. Zero
+    C. 6.60 × 10⁴ J                                             D. 1.65 × 10³ J
+
+23. The orbital speed of a satellite at a height of 780 km from the surface of the earth is 7,465 m/s. What is the        (1)
+    period of the satellite?
+    A. 6.04 × 10² s                                             B. 6.04 × 10³ s
+    C. 6.60 × 10³ s                                             D. 6.60 × 10² s
+24. The charge of 20.0 µC is stored on the capacitor when a potential difference between its two parallel plates is           (1)
+    200.0 V. What is the capacitance of the capacitor?
+     A. 1.0 × 10⁻⁶ F                                             B. 10.0 × 10⁻⁶ F
+     C. 0.1 × 10⁻⁶ F                                             D. 4.0 × 10⁻⁶ F
+
+25. An air filled parallel plate capacitor is connected to a potential difference 'v' to store electric charge. If the area   (1)
+    of the plates is 'A' and the separation between the plates is 'd', then the electrical energy stored on the capacitor
+    is
+                           2                                                       2
+     A. 1 ϵ0 dv    ​
+
+
+                                                                 B. ϵ0 Av  ​
+
+
+
+
+          2 A                                                           d
+           ​                   ​                                                       ​
+
+
+
+
+     C.   ϵ0 dv 2
+               ​
+
+
+                                                                 D.   1 ϵ0 Av 2​
+
+
+
+
+            A          ​
+
+
+
+
+                                                                      2 d
+                                                                       ​                   ​
+
+
+
+
+26. When a force F is applied to a wire of length 'L' fixed at one end, the wire extends by x. The tensile strain of the      (1)
+    wire is
+     A. the extension divided by the length L.
+     B. the length L divided by the extension x
+     C. the applied force F divided by the extension.
+     D. the product of the force F and the extension x.
+
+27. Which one of the following factors does NOT affect the moment of inertia of an object?                                    (1)
+     A. The axis about which the object is rotating
+     B. The size of the object
+     C. The angular speed of the object
+     D. The mass of the object
+
+28. Which of the following describes the difference between static and dynamic equilibrium? In static equilibrium,            (1)
+
+     A. an object is at rest, whereas in dynamic equilibrium, the object moves with constant velocity.
+     B. an object moves with constant acceleration, whereas in dynamic equilibrium, the object is at rest.
+     C. acceleration is zero, whereas in dynamic equilibrium the acceleration increases uniformly.
+     D. an object moves with constant velocity, whereas in dynamic equilibrium an object is at rest.
+
+29. About an axis of rotation perpendicular to a plane of a couple, the forces in a couple produce                            (1)
+     A. no torque.                                               B. non-zero resultant force.
+     C. torques in opposite direction.                           D. torques in the same direction.
+
+30. Which one of the following statements describes the difference between heat and temperature?                              (1)
+
+     A. Heat is a transfer of energy due to temperature difference, whereas temperature is a measure of the average
+        kinetic energy.
+     B. Heat is measured with a thermometer in Kelvin, whereas temperature is measured with a Calorimeter in Joule.
+     C. Heat is a measure of the average kinetic energy, whereas temperature is a flow of energy from hotter to colder
+        object.
+     D. Heat is an energy that flows spontaneously from colder to hotter object, whereas temperature is the degree of
+        hotness and coldness.
+
+31. Which one of the following statements does NOT describe the relationship of physics with biology?                         (1)
+
+     A. Physics and biology are interrelated to each other in the study of vision and color detection.
+     B. Physics and biology used to study how air vibrates in vocal cords.
+     C. Both physics and biology are mainly concerned in the interaction of large number of particles.
+     D. Newtonian mechanics and biology are used to explain why cheetah is fastest animal.
+32. Which one of the following is a correct relation of physics with medicine?                                           (1)
+    A. Modern medical imaging instrument are developed with knowledge of medicine and later used by physics.
+    B. Medicine is a branch of physics dealing with nuclear reaction.
+    C. Physics is a branch of medicine that sets standards during medical diagnosis.
+    D. A discipline called medical physics deals with principles of physics in medical diagnosis.
+
+33. A glass tube of radius 30 mm is inserted in a bowl which contains methyl iodide of density 2.28 kg/m³. If the   (1)
+    contact angle of the methyl iodide in the tube is 30° and the surface tension is 0.26 N/m, how much height does
+    the methyl iodide rises through the tube?
+    A. 0.52 m                                                   B. 6.6 m
+    C. 0.66 m                                                   D. 0.066 m
+
+34. A substance with a mass of 2 kg has a volume of 2.5 × 10⁻³ m³. What is the relative density of the substance?        (1)
+    A. 80                                                       B. 0.8
+    C. 8.0                                                      D. 1.25
+
+35. The gauge pressure at a point in a fluid at rest is defined as                                                       (1)
+    A. the actual pressure at a given point relative to absolute vacuum.
+    B. the sum of absolute pressure and atmospheric pressure.
+    C. the pressure difference between the absolute pressure and the atmospheric pressure.
+    D. the atmospheric pressure difference between sea level and the local area at which the fluid exists.
+
+36. How do we use manometer to measure pressure of a given gas? We use in such a way that                                (1)
+    A. the principle of the hydrostatic equilibrium is considered to measure the pressure of unknown gas.
+    B. the pressure at the surface of open end manometer is the same as the gas pressure in closed tube.
+    C. the gauge pressure equals the atmospheric pressure.
+    D. the gauge pressure in a fluid in the open end equals the gas pressure in closed tube.
+
+37. Consider two balls A and B are projected with the same velocity, v₀ at angle θ₁ and θ₂, respectively, 0 < θ₁ < 45°   (1)
+    and 45° < θ₂ < 90°. Which one of the following statements is correct about the motion of the balls?
+    A. The range of ball A is smaller than its maximum height.
+    B. Ball A takes longer time than ball B to reach its maximum height.
+    C. Both balls have equal speed at their respective maximum height.
+    D. The two balls cover equal ranges when θ₁ + θ₂ = 90°
+
+38. A car initially traveling at speed of 20 m/s undergoes a constant deceleration of magnitude 1.5 m/s². If the      (1)
+    radius of each tire is 0.3 m, how many revolutions does each tire make, without slipping, before the car comes to
+    rest?
+    A. 444.4 rev                                                B. 44.44 rev
+    C. 70.77 rev                                                D. 133.33 rev
+
+39. A constant tangential force is applied on a rim of uniform solid disk of mass 50 kg and radius r = 0.5 m. If the     (1)
+    angular speed of the disk changes by 1 rev/s within 2.0 s, what is the magnitude of the torque produced by the
+    force? (moment of inertia of disk I = mr²/2)
+    A. 19.6 Nm                                                  B. 3.125 Nm
+    C. 39.3 Nm                                                  D. 8.25 Nm
+40. A loop of 0.1 m wide in diameter is placed in xy-plane in uniform magnetic field of 0.6 T that is perpendicular to   (1)
+    the plane of the loop. What is the net magnetic flux through the coil?
+    A. 1.9 × 10^{-2} Wb                                                B. 4.7 × 10^{-3} Wb
+    C. 5.6 × 10^{-2} Wb                                                D. 9.4 × 10^{-2} Wb
+
+41. A 12 V voltage source is connected across the primary coil of a transformer having 600 turns. If the secondary       (1)
+    coil of a transformer has 1000 turns, what voltage appears across the secondary coil?
+    A. 72.0 V                                                          B. 12.0 V
+    C. 7.2 V                                                           D. 20.0 V
+
+42. Which one of the following statements differentiates emitter, collector and base of a transistor?                    (1)
+    A. The collector region is heavily doped as compared with emitter and base.
+    B. The emitter region is heavily doped as comparsd with base and collector.
+    C. The three parts; emitter, base and coliector are equally doped.
+    D. The base regrion is heavily doped as compared with base and collector.
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

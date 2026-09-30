@@ -1,0 +1,617 @@
+                                                                 Temari.et
+                                      Mathematics, 2016 EC, entrance pilot test, booklet 010
+                                                      Grade 12 · Mathematics · 2016 E.C.
+
+Time allowed: 120 minutes                                            Questions: 57                                                      Total marks: 57
+
+Name                                                     Grade                            ID No.                            Date
+
+1.   Which one of the following numbers is a natural number?                                                                                             (1)
+     A. -5                                                               B. 0
+     C. 10
+         2    ​
+                                                                         D. 35​
+
+
+
+
+2.   Which one of the following set of numbers has a one to one correspondence relation with the set of points on a                                      (1)
+     number line?
+     A. The set of natural numbers                                       B. The set of rational numbers
+     C. The set of real numbers                                          D. The set of integers
+
+3.
+     For non-zero real numbers x, y and t, what is the simplified form of the expression ( (4x)t2 y ) ( x9y2−2t ) ÷ (2t)
+                                                                                                           1       −2              1 5           3
+                                                                                                           2
+                                                                                                               ​
+                                                                                                                                    ​
+
+
+
+
+                                                                                                                     9xy​                ​           ​   (1)
+
+     ?
+     A. 2x2 y                                                            B. 14 x2 y
+                                                                              ​
+
+
+
+
+     C. 4xy15 t6              ​
+                                                                         D. 2xy 5 t6
+
+4.   In dividing a = 54 by b = 4, then what are the quotient and remainder, respectively?                                                                (1)
+     A. 4 and 13                                                         B. 13 and 4
+     C. 2 and 13                                                         D. 13 and 2
+
+5.   Which one of the following systems of linear equations has unique solution?                                                                         (1)
+
+     A.                                                                  B.
+          {                                                                   {
+              x − 2y = 4                                                          x + 2y = 3
+              −2x + 4y = −8                                                       x − y = 10
+                                             ​                                                     ​
+
+
+
+
+     C.                                                                  D.
+          {                                                                   {
+              2x = y                                                              3x + 4y = 5
+              4x − 2y = 0                                                         6x + 8y = 7
+                                         ​                                                             ​
+
+
+
+
+6.   What is the solution set of the equation ∣x + 2∣ + ∣x∣ = 5?                                                                                         (1)
+     A. {− 72 , 32 }  ​           ​
+                                                                         B. { 72 , − 32 }
+                                                                                  ​       ​
+
+
+
+
+     C. { 72 , 32 }
+                  ​       ​
+                                                                         D. {− 72 , − 32 }
+                                                                                      ​       ​
+
+
+
+
+7.   Let U be the set of natural numbers, and let A = {x ∈ U : 2x + 6 = 0}. Then what is the absolute                                                    (1)
+     complement of A?
+     A. ϕ                                                                B. {−3}
+     C. U                                                                D. U ∪ {−3}
+8.   Consider the relation R whose graph is given by the shaded region below.                                           (1)
+     [Figure: A Cartesian coordinate system showing a shaded region labeled R. The horizontal x-axis ranges from
+     negative 4 to positive 4, and the vertical y-axis ranges from negative 4 to positive 2. The boundary of the shaded
+     region is the parabola defined by the equation y equals negative x squared, which opens downwards with its
+     vertex at the origin (0,0). The region strictly below and including this parabola is shaded with vertical lines,
+     covering all x values from negative infinity to positive infinity, and y values extending downwards from the
+     parabola to negative infinity. The letter R is placed inside the shaded region in the fourth quadrant.]
+     A. Domain of R is (−∞, ∞)                                  B. Range of R is [0, ∞)
+     C. Domain of R is (−∞, 0]                                  D. Range of R is (−∞, ∞)
+
+9.                                                 3
+     If f (x) = 2x2 + 1, g(x) = x3 − 4 and h(x) = x−1 , then what is the value of ( f g+h
+                                                           ​
+
+
+
+
+                                                                                       h ) (2)?      ​                           (1)
+
+     A. 39                                                      B. 3
+     C. 12                                                      D. 13
+
+10. What is the measure of each interior angle of a regular 18 sided polygon?                                                    (1)
+
+     A. 2880       ∘                                            B. 160               ∘
+
+     C. 170∘                                                    D. 180∘
+
+11. Which one of the following is true about two similar figures in a plane?                                                     (1)
+     A. Corresponding sides are congruent.
+     B. They have the same area.
+     C. One is enlargement of the other.
+     D. Corresponding angles have the same ratio.
+
+12. In △DEF , if m(∠E) = 90∘ , m(∠F ) = 2m(∠D), and length of DF =                           3, then the length of EF is equal
+                                                                                              ​                                  (1)
+    to
+     A.   1                                                     B. 32
+           3
+               ​                                                        ​
+
+
+
+
+               ​
+
+
+
+
+     C.    3   ​
+
+
+                                                                D.          10   ​
+
+
+
+
+          2                                                                 2
+               ​                                                                 ​
+
+
+
+
+13. If an equilateral triangle DEF is inscribed in a circle of radius 6cm, then what is the area of the minor segment            (1)
+    cut off by the chord DE ?
+     A. (12π − 9) cm2                                           B. (12π − 9 3) cm2       ​
+
+
+
+
+     C. (6π − 3 3) cm2 ​
+                                                                D. (6π − 3) cm2
+
+14. The scores of 20 students in their Mathematics Examination (out of 20) is given in the table below:                          (1)
+    Which one of the following is true?
+    [Figure: A table with two rows. The top row is labeled Score with values 8, 10, 15, 17, and 20. The bottom row is
+    labeled Frequency with values 3, 6, 4, 5, and 2, respectively.]
+     A. 10 students scored 6 out of 20.
+     B. 18 students scored below 15.
+     C. There are two students who scored 20 out of 20
+     D. 7 students scored above the average.
+
+15. A teacher asked his students the number of hours they studied last week and recorded their response as                       (1)
+    follows; 10, 12, 27, 11, 8, 15, 19, 21, 17, 10, 9, 17, 15 and 24.
+    What is the median of this data?
+     A. 13                                                      B. 14
+     C. 15                                                      D. 20
+16. A box contains three different bags containing marbles. The first bag contains 2 red and 3 white marbles. The    (1)
+    second bag contains 3 red and 2 white marbles, and the third bag contains 1 red and 4 white marbles. If a bag is
+    drawn at random from the box and a marble is drawn at random from the selected bag, what is the probability of
+    getting a red marble?
+    A. 15   ​                                                    B. 45   ​
+
+
+
+
+    C. 35   ​
+                                                                 D. 25   ​
+
+
+
+
+17. The diagram below is formed by the vectors AB, AC and BC.                                                               (1)
+    If we use the notation AB = u, AC = v, then what is BC in terms of u and v?
+    [Figure: A triangle with vertices labeled A, B, and C. Vertex A is on the lower left, vertex C is on the lower right,
+    and vertex B is at the top. An arrow points from A towards B along the side AB. An arrow points from A towards
+    C along the horizontal side AC. An arrow points from B towards C along the vertical side BC.]
+    A. v − u                                                     B. v + u
+    C. u − v                                                     D. u − 2v
+
+18. If f (x) = 2x3 + x and (f .g)(x) = 18x5 + 14x4 + 17x3 + 7x2 + 4x, then what is g(x)?                                    (1)
+    A. 9x3 + 7x2 + 4                                             B. 7x2 + 9x + 4
+    C. 9x2 + 7x + 4                                              D. 9x3 + 4
+
+19. What are the zeros of f (x) = x3 + 4x2 + x − 6?                                                                         (1)
+    A. -3, -2 and 1                                              B. -3, 2 and -1
+    C. 3, -2 and -1                                              D. 3, 2 and 1
+
+20. What is the mantissa of the common logarithm log 4.39?                                                                  (1)
+
+    A. 4                                                         B. -1
+    C. log 4.39                                                  D. log 0.439
+
+21. Which one of the following defines an exponential function f?                                                           (1)
+    A. f : R → R defined by f (x) = ax , a ∈ R ∖ {1}.            B. f : R → (0, ∞) defined by f (x) = xa , a ∈ R ∖
+                                                                    {1}.
+    C. f : (0, ∞) → R defined by f (x) = ax , a ∈                D. f : R → (0, ∞) defined by f (x) = ax , a ∈
+       (0, ∞) ∖ {1}.                                                (0, ∞) ∖ {1}.
+
+22. Let f (x) = ( 1 )x+4 and g(x) = log 1 (x + 4) be given. Then which one of the following is true about the two           (1)
+                     3   ​
+
+
+
+
+                                           3
+                                               ​
+                                                   ​
+
+
+
+
+    functions?
+    A. f and g have the same domain.                             B. f and g have the same range.
+    C. Domain of f is contained in domain of g.                  D. Domain of f is equal to range of g.
+
+23. What is the solution set of the inequality 5x + 2 ≤ 2x − 7?                                                             (1)
+    A. [3, ∞)                                                    B. (−∞, −3]
+    C. (−∞, 3]                                                   D. (−∞, −3)
+
+24. What is the solution set of the quadratic inequality 3x2 + 10x < 13?                                                    (1)
+    A. (−1, 13
+            3
+               ) ​
+                                                                 B. (− 13
+                                                                       3
+                                                                          , 1)
+                                                                             ​
+
+
+
+
+    C. (−∞, −1) ∪ ( 13
+                    3 , ∞)   ​
+                                                                 D. (−∞, − 13
+                                                                           3 ) ∪ (1, ∞)
+                                                                                   ​
+25. If two non-adjacent vertices of a square with diagonal of length 5 2 units are at (3, 2) and (x, −3), then which (1)
+                                                                                        ​
+
+
+
+
+    one of the following is possible value of x?
+     A. 2                                                         B. 3
+     C. -3                                                        D. 8
+
+26. What is the equation of the line passing through the point (2, −3) and having the same slope as the line 2x −             (1)
+    3y + 3 = 0?
+     A. 2x + 3y + 13 = 0                                          B. 2x − 3y − 13 = 0
+     C. −2x + 3y − 13 = 0                                         D. 2x − 3y + 13 = 0
+
+27. If cos θ = −1, where 0 ≤ θ ≤ 2π , then what is the value of sin( 32 θ) + tan(2θ)?
+                                                                                    ​                                         (1)
+     A. -1                                                        B. 0
+     C. 1                                                         D. -2
+
+28. What is the value of tan(930∘ )?                                                                                          (1)
+
+     A. − 3          ​                                            B. − 13       ​
+
+
+
+
+                                                                                ​
+
+
+
+
+     C.                                                           D.   1
+             3   ​
+
+
+
+
+                                                                        3
+                                                                            ​
+
+
+
+
+                                                                            ​
+
+
+
+
+29. What are the domain (D), range(R) and period (P) of f (x) = 3 + 2 cos x?                                                  (1)
+
+     A. D = (−∞, ∞) R = [−5, −1] and p = 2π .                     B. D = [0, ∞), R = [1, 5] and p = π .
+     C. D = (−∞, ∞), R = [1, 5] and p = 2π .                      D. D = (−∞, ∞), R = [−1, 1] and p = 2π .
+
+30. A quadrilateral ABCD is inscribed in a circle as shown below.                                                             (1)
+    What is the value of x?
+    [Figure: A circle with center labeled O contains an inscribed quadrilateral with vertices A, B, C, and D placed
+    sequentially in clockwise order. Vertex A is on the far left, B is at the top right, C is on the far right, and D is at
+    the bottom right. Line segments connect consecutive vertices AB, BC, CD, and DA. Inside the circle, an angle at
+    vertex A is labeled x degrees, and an angle at vertex C is labeled 2x degrees.]
+     A. 120                                                       B. 90
+     C. 60                                                        D. 45
+
+31. A right circular cylinder of radius 7cm and height 10cm contains some amount of water. When a solid metal cube (1)
+    of side length 5 cm is completely submerged the cylinder becomes full. What is the amount of water in the
+    cylinder in cm3 ?
+     A. 250π − 343                                                B. 700π − 125
+     C. 490π − 125                                                D. 250π + 343
+
+32. What is the total surface area of a right circular cone with radius 6cm and height 8cm?                                   (1)
+
+     A. 132π cm2                                                  B. 36π cm2
+     C. 60π cm2                                                   D. 96π cm2
+
+33. Which one of the following is true about a frustum of a regular pyramid?                                                  (1)
+     A. The lateral faces are squares.
+     B. The lateral faces are congruent isosceles triangles.
+     C. The slant height is the altitude of any one of the lateral faces.
+     D. The lateral surface area is half of the lateral surface area of the pyramid.
+34. Which one of the following is true about the following functions involving the modulus function?                    (1)
+      A. The domain of f (x) = ∣x∣ − x is [0, ∞).                         B. The range of f (x) = ∣x∣ − x is (−∞, ∞).
+      C. The range of f (x) = ∣x∣ + 3 is [−3, ∞).                         D. The range of f (x) = ∣x∣ + x is [0, ∞).
+
+35. Which one of the following functions is a one-to-one correspondence from R into R, where R is the set of real       (1)
+    numbers?
+      A. f (x) = x3                                                       B. f (x) = ∣x∣
+      C. f (x) = [x]                                                      D. f (x) =          x   ​
+
+
+
+
+                                                              2
+36. What is the range of the function f (x) = x −16 ?                                                                   (1)
+                                                              x−4
+                                                                    ​
+
+
+
+
+      A. R ∖ {4}                                                          B. [4, ∞)
+      C. R ∖ {8}                                                          D. [8, ∞)
+
+37. Which one of the following is true about quantitative and qualitative data?                                         (1)
+      A. A model of a car is a quantitative data.
+      B. The eye color of a person is a quantitative data.
+      C. The life time of a shoe is a qualitative data.
+      D. The width of a football field is a quantitative data.
+
+38. The following table gives the hourly income of 25 persons (in Birr).                                         (1)
+    What is the modal income (in Birr)?
+    [Figure: A table with two column headers: Income and Frequency. The rows contain the following income ranges
+    and frequencies: 20-24 with frequency 5, 25-29 with frequency 6, 30-34 with frequency 4, 35-39 with
+    frequency 8, and 40-44 with frequency 2.]
+      A. 35.5                                                             B. 36.5
+      C. 37.5                                                             D. 38
+
+39. In a class of 40 students, 21 students are taking Physics and 33 students are taking Chemistry. If there are 18     (1)
+    students taking both Physics and Chemistry, then what is the probability that a student is taking Physics or
+    Chemistry?
+      A. 40
+         54   ​
+                                                                          B. 18
+                                                                             54   ​
+
+
+
+
+         9
+      C. 20                                                                  9
+                                                                          D. 10
+              ​                                                                   ​
+
+
+
+
+40.           −2                  3
+      If A = (                      ), then what is the transpose of A?                                                 (1)
+               1                  1
+                              ​    ​
+
+
+
+
+      A. 1 3                                                              B.   −2 3
+        (     )                                                              (      )
+         1 −2                                                                  1 1
+                  ​       ​                                                           ​   ​
+
+
+
+
+      C. −2 1                                                             D.   2 −1
+        (     )                                                              (        )
+          3 1                                                                 −3 −1
+                      ​   ​                                                           ​       ​
+
+
+
+
+41.
+      Which one of the following is the solution set of the system {
+                                                                               x + 2y = 8
+                                                                                          ?                             (1)
+                                                                               x+y =5
+                                                                                                      ​
+
+
+
+
+      A. (−7, 2)                                                          B. (3, 2)
+      C. (1, 4)                                                           D. (2, 3)
+42. The 3 × 3 system of linear equations AX = B has a solution (1, b, 3). If det(A) = 16 and the determinant of         (1)
+    the matrix obtained by replacing the second column of A by B is −32, then what is the value of b?
+    A. -2                                                                      B. -\frac{1}{2}
+    C. 2                                                                       D. \frac{1}{2}
+
+43. Which one of the following defines an arithmetic progression?                                                       (1)
+    A. It is a sequence whose nth term is given by An = A1 dn−1 ,  ​       ​
+
+
+
+
+       Where d is a constant.
+    B. It is a sequence where each term is obtained by multiplying the preceding two terms.
+    C. It is a sequence where each term is obtained by adding the preceding two terms.
+    D. It is a sequence where the difference of any two consecutive terms is a constant.
+
+44. What is the sigma notation representation of 13 + 12
+                                                      1    1
+                                                         + 27   1
+                                                              + 48
+                                                               ​
+                                                                   + ⋯?​       ​       ​
+                                                                                                                        (1)
+    A. \sum_{\text{k}=1}^{\infty} \frac{1}{\text{k}^3}
+    B. \sum_{\text{k}=1}^{\infty} \frac{1}{3\text{k}}
+    C. \sum_{\text{k}=1}^{\infty} \frac{1}{3\text{k}^2}
+    D. \sum_{\text{k}=1}^{\infty} \frac{1}{(3\text{k})^2}
+
+45. Which one of the following is convergent geometric series?                                                          (1)
+
+    A. ∑∞   4(−1)n
+        n=1 2n/2
+              ​           ​
+                                                                               B. ∑∞
+                                                                                   n=1 5(− ​
+                                                                                                 5) n
+                                                                                                  ​
+
+
+
+
+                                                                                                          n
+    C. ∑∞    4 4n−1
+        n=1 ( 3 26)n
+              ​               ​
+                                                                               D. ∑∞ 3n ⋅ ( 1 )
+                      ​                                                            n=1     ​
+
+
+
+
+                                                                                             3
+                                                                                                      ​
+
+
+
+
+                                                                                                      ​
+
+
+
+
+46. Due to tax reduction, a person has Birr 600 extra spendable money. If we assume that the person spends 70%          (1)
+    of this on consumer goods, that the producers of these goods spend 70% of what they receive on consumer
+    goods, and that this process continue indefinitely, then what is the total amount of money spent on consumer
+    goods?
+    A. Birr 2000                                                               B. Birr 294
+    C. Birr 1400                                                               D. Birr 224
+
+47. Each of the following sentences is related to calculation of gradient of the cubic function f (x) = x3 . Which one (1)
+    of the following is NOT true?
+                                                  3    3
+    A. If a is a real number and a =           −a
+                                    x, then xx−a = x2 + ax + a2 .
+                                                           ​
+
+
+
+
+    B. As x approaches a, the expression x2 + ax + a2 approaches 3a2 .
+    C. The gradient of f (x) = x3 at the point (2, 8) is 12.
+    D. The gradient of f (x) = x3 at the point (−2, −8) is −12.
+
+48. Which one of the following is NOT always true when the gradient of the function f at c is zero?                     (1)
+    A. c is a critical number of f.
+    B. f(c) is local extreme value of f.
+    C. f has a horizontal tangent line at (c, f(c)).
+    D. The derivative of f at c is zero.
+
+49. What is the area of the region enclosed between the graph of f (x) = 4 − x2 , and the x - axis in the interval      (1)
+    [1, 3]?
+    A. 53 sq. units
+         ​                                                                     B. 73 sq. units
+                                                                                   ​
+
+
+
+
+    C. 4 sq. units                                                             D. 3 sq. units
+50. Which one of the following is true about interquartile range and range of data?                                         (1)
+     A. If the range of a data set is zero, then its interquartile range is zero.
+     B. If the interquartile range of a data set is zero, then its range is zero.
+     C. If the range of a data set is nonzero, then its interquartile range is nonzero.
+     D. The range of a data set is equal to twice its interquartile range.
+
+51. What is the coefficient of quartile deviation for the data set: 13, 12, 10, 15, 18, 21, 8, 32, 27.                      (1)
+     A.   13                                                        B.   24
+          2    ​
+
+
+
+
+                                                                         35   ​
+
+
+
+
+     C.   13                                                        D.   11
+          35   ​
+
+
+
+
+                                                                         35   ​
+
+
+
+
+52. Which one of the following is NOT true about random sampling technique                                                  (1)
+     A. It gives every member of the population equal chance of being selected.
+     B. It gives us a sample that best represents the population.
+     C. It gives us a sample in a short period of time and with less cost.
+     D. It gives us a sample which is free of bias.
+
+53. What is the maximum value of Z = 2x + 3y subject to the constraints:                                                    (1)
+
+                                                         ⎧4x − 3y ≥ −4
+                                                         ⎨y ≤ −2x + 8
+                                                         ⎩
+                                                           ​                      ​
+
+
+
+
+                                                          x ≥ 0, y ≥ 0
+
+     A. 8                                                           B. 24
+     C. 4                                                           D. 16
+
+54. A factory manufactures tables and chairs. A table and a chair requires 4 hours and 2 hours, respectively, for           (1)
+    assembling and 2 hours and 1 hour ,respectively, for finishing. The maximum labor hour available per day for
+    assembling and finishing are 20 and 15 respectively. If x and y represent the number of tables and chairs
+    produced per day, respectively, then which one of the following systems of inequalities indicate the limitations
+    on x and y?
+     A. ⎧4x + 2y < 15                                               B. ⎧4x + 2y < 20
+          ⎨2x + y < 20                                                   ⎨2x + y < 15
+          ⎩                                                              ⎩
+               ​           ​                                                  ​            ​
+
+
+
+
+           x ≥ 0, y ≥ 0                                                   x ≥ 0, y ≥ 0
+     C. ⎧2x + 4y < 15                                               D. ⎧2x + 4y < 20
+          ⎨x + 2y < 20                                                   ⎨2x + y < 15
+          ⎩                                                              ⎩
+               ​           ​                                                  ​            ​
+
+
+
+
+           x ≥ 0, y ≥ 0                                                   x ≥ 0, y ≥ 0
+
+55. If a person drives his car at a speed of 25 km/hr, then he will spend Birr 2 per kilometer for fuel and if he drives    (1)
+    faster at a speed of 40 km/hr, then he will spend Birr 5 per kilometer for fuel. If the person has Birr 100 for fuel,
+    then what is the maximum distance he can travel in 1 hour?
+     A. 20 km                                                       B. 30 km
+     C. 40 km                                                       D. 45 km
+
+56. Enrollment for the Ethiopian Mathematics Olympiad is increased by 70% this year. If there are 3570 students             (1)
+    enrolled for the competition this year, then how many students did participate in the competition last year?
+     A. 2100                                                        B. 1470
+     C. 2499                                                        D. 530
+57. If you deposit Birr 3000 at 10% interest rate compounded annually, then what is the interest you will earn after 3 (1)
+    years?
+    A. Birr 900                                                       B. Birr 993
+    C. Birr 3900                                                      D. Birr 3993
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

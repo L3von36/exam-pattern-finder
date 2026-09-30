@@ -1,0 +1,660 @@
+                                                                  Temari.et
+       Mathematics, 2016 EC, natural science, entrance exam, round 1, Tigray
+                                                     Grade 12 · Mathematics · 2016 E.C.
+
+Time allowed: 120 minutes                                            Questions: 52                                       Total marks: 52
+
+Name                                                      Grade                           ID No.              Date
+
+1.   Let p and q be propositions. Which one of the following propositions is equivalent to the proposition ¬p ∨ (p ∧                  (1)
+     q)?
+     A. ¬p ∨ ¬q                                                         B. p ⇒ q
+     C. ¬p ∧ q                                                          D. ¬p ⇒ q
+
+2.   Which one of the following is NOT true about the function f (x) = tan−1 x?                                                       (1)
+     A. The line x = − π2 is a vertical asymptote to the graph of f .
+                             ​
+
+
+
+
+     B. The graph of f is the image of the graph of y = tan x after it is reflected with respect to the line y = x.
+     C. The graph of f intersects the x-axis at (0, 0).
+     D. The line y = π2 is a horizontal asymptote to the graph of f .
+                         ​
+
+
+
+
+3.   Which one of the following statements is true?                                                                                   (1)
+     A. If x and y are integers and x divides y , then y divides x.
+     B. If x is an even integer and y is an odd integer, then x2 + y 2 is odd.
+     C. If x and y are even integers, then x + y is an odd integer.
+     D. If x and y are positive integers, then xy is a positive integer.
+                                                      ​
+
+
+
+
+4.   Let p, q , and r be propositions. If p is True , q is False , and r is False , which one of the following propositions           (1)
+     has truth value True ?
+     A. (p ∧ ¬q) ⇔ (p ∨ r)                                              B. (q ∧ r) ⇔ (p ∧ ¬r)
+     C. p ⇒ (q ∨ r)                                                     D. (p ∨ q) ⇒ r
+
+5.   Which one of the following is the equation of the tangent line to the graph of f (x) = 2x3 − 4x2 + 5x + 3 at                     (1)
+     the point (0, 3)?
+     A. 3x + 5y − 3 = 0                                                 B. 3x − 5y − 3 = 0
+     C. 5x − y + 3 = 0                                                  D. 5x + y + 3 = 0
+
+6.   Let v = AB and w = CD be vectors in the plane, where A(1, −1), B(2, −2), C(−1, 3), and D(4, −3).                                 (1)
+     Which one of the following is equal to v − w?
+     A. 5i − 6j                                                         B. i − 15j
+     C. −4i + 5j                                                        D. 4i − 5j
+
+7.   Which one of the following is true about the graph of the function f (x) = 4 sin ( 23 x)?     ​                                  (1)
+
+     A. The amplitude of the graph of f is 8.                           B. The maximum value of the function is 4.
+     C. The range of the function is [− 23 , 23 ].
+                                             ​   ​
+                                                                        D. The period of the graph of f is 23 .
+                                                                                                          ​
+
+
+
+
+8.   Let z1 = 1 + 2i and z2 = 2 − 2i be complex numbers. Which one of the following is equal to zz12 ?
+              ​                  ​
+                                                                                                                 ​
+
+
+
+
+                                                                                                                 ​
+                                                                                                                     ​
+                                                                                                                                      (1)
+
+     A. 14 − 34 i
+          ​       ​
+                                                                        B. − 14 + 34 i
+                                                                                  ​        ​
+
+
+
+
+     C.   1   1                                                         D.   1   1
+          8 + 4i                                                             8 − 4i
+          ​       ​                                                           ​       ​
+9.   Let z1 = 3 − 4i and z2 = −4 + 3i be complex numbers. Which one of the following is equal to z1 − z2 ?
+                      ​       ​                                                                                 ​   ​        (1)
+     A. 7 − 7i                                                     B. −7 + 7i
+     C. 1 − i                                                      D. −1 + i
+
+10. Let f (x) = x2 + 2x − 5. What is the meaning of the value f (3)−f (1) ? It is the slope of the tangent line to the       (1)
+                                                                                3−1
+                                                                                         ​
+
+
+
+
+     graph of f at:
+     A. (2.5, f (2.5))                                             B. (3, f (3))
+     C. (1, f (1))                                                 D. (2, f (2))
+
+11. If θ is the principal argument of the complex number z = 4 + 3i, which one of the following is equal to tan θ?           (1)
+     A.   3                                                        B.   4
+          5   ​
+
+
+
+                                                                        5   ​
+
+
+
+
+     C.   3                                                        D.   4
+          4   ​
+
+
+
+                                                                        3   ​
+
+
+
+
+12. Let p, q , r, and s be propositions. Which one of the following defines that the argument form p, q , r ⊢ s is a valid   (1)
+    argument?
+     A. If p ∧ (q ∧ r) is true, then s is true.                    B. If p ∧ (q ∨ r) is true, then s is true.
+     C. If p ∨ (q ∧ r) is true, then s is true.                    D. If p ∨ (q ∨ r) is true, then s is true.
+
+13. Let A and B be two nonempty sets. Which one of the following is true about an onto function f : A → B ?                  (1)
+     A. For any x ∈ A, there exists y ∈ B such that                B. For x, y ∈ A, if f (x) = f (y), then x − y = 2.
+        f (y) = x.
+     C. The range of f is a proper subset of B .                   D. For any y ∈ B , there exists x ∈ A such that
+                                                                      f (x) = y .
+
+14. Which one of the following is the standard form of the equation of a parabola with vertex V (1, −4) and focus            (1)
+    F (1, 4)?
+     A. (x − 1)2 = 16(y + 4)                                       B. (x − 1)2 = 16(y − 4)
+     C. (x − 1)2 = 32(y + 4)                                       D. (x − 1)2 = 32(y − 4)
+
+15. Which of the following is the value of the tangent of the angle between the lines ℓ1 : 3x + 2y = 3 and ℓ2 :
+                                                                                                 ​                      ​    (1)
+    2x + 3y = 1 measured counterclockwise from ℓ1 to ℓ2 ?​     ​
+
+
+
+
+        5
+     A. 12                                                              5
+                                                                   B. − 12
+                  ​                                                                  ​
+
+
+
+
+     C.   5                                                        D. − 56
+          6
+              ​                                                                  ​
+
+
+
+
+16. Let p(n): For any natural number n, n2 + 3n + 33 is divisible by 3. We can show that p(1) is false. What kind            (1)
+    of proof have we used?
+     A. Proof by contrapositive                                    B. Proof by counterexample
+     C. Proof by contradiction                                     D. Proof by direct proof
+
+17. Which one of the following is true about a right-angled triangle △ABC with a right angle at B ?                          (1)
+     A. cot(∠ACB) = AB
+                    BC
+                              ​
+                                                                   B. sin(∠BAC) = BC
+                                                                                  AC
+                                                                                             ​
+
+
+
+
+     C. csc(∠BAC) = AB
+                    AC            ​
+                                                                   D. csc(∠BCA) = BC
+                                                                                  AC         ​
+18. Which one of the following is true about a rigid motion?                                                                     (1)
+    A. Reflection is an example of a rigid motion.
+    B. A rotation by 180 degrees is the identity rotation.
+    C. A rigid motion carries an isosceles triangle to a scalene triangle.
+    D. Every rigid motion preserves the orientation of plane figures.
+
+19. Consider the sequence defined by a1 = a2 = 1 and an = an−1 + an−2 for n ≥ 3. Which one of the following
+                                             ​   ​              ​                    ​                           ​               (1)
+    is equal to a15 ?            ​
+
+
+
+
+    A. 377                                                          B. 233
+    C. 987                                                          D. 610
+
+20. A radioactive substance of 1024 grams loses half of its weight per year. What is the weight of the substance that (1)
+    will be left at the end of the ninth year?
+    A. 2 grams                                                      B. 12 grams
+                                                                             ​
+
+
+
+
+    C. 4 grams                                                      D.       1
+                                                                             4 grams
+                                                                             ​
+
+
+
+
+21. What is the value of                                                                                                         (1)
+
+                                                               4−x−2
+                                                     lim              ?
+                                                                         ​
+
+
+
+
+                                                               x2 − x
+                                                           ​                                 ​
+
+
+
+
+                                                     x→0
+
+
+    A. 14    ​
+                                                                    B. − 14              ​
+
+
+
+
+    C.   1                                                          D. − 18
+         8   ​                                                                           ​
+
+
+
+
+22. Which one of the following is the distance between the points P (1, −1, 2) and Q(3, 1, −1) in space?                         (1)
+    A. 7 units                                                      B. 17 units
+    C. 7 units   ​
+                                                                    D. 17 units                  ​
+
+
+
+
+23. Which one of the following numbers satisfies Rolle's Theorem for the function f (x) = 14 x4 − 2x2 on the closed (1)  ​
+
+
+
+
+    interval [−3, 3]?
+    A. 3                                                            B. 4
+    C. 1                                                            D. 2
+
+24. Let f (x) = x3 + 2x2 − 3. Which one of the following is true about f ?                                                       (1)
+    A. f is increasing on (0, ∞).                                   B. f is decreasing on ( 43 , ∞).                 ​
+
+
+
+
+    C. f is increasing on (− 43 , 0).    ​
+                                                                    D. f is decreasing on (−∞, − 43 ).                       ​
+
+
+
+
+25. Which one of the following is equal to ∫ cos(3x + 5) dx?                                                                     (1)
+
+    A. sin(3x+5)
+            3    +c          ​
+                                                                    B. sin(3x+5)
+                                                                            5    +c                          ​
+
+
+
+
+    C. 5 sin(3x + 5) + c                                            D. 3 sin(3x + 5) + c
+
+26. Which one of the following is equal to ∫ 3x2 (x3 + 2)4 dx?                                                                   (1)
+             3       3   5                                                       3                   5
+    A. x (x +2) + c                                                 B. (x +2) + c
+                 15                                                                  5                   ​
+
+
+
+
+                  3
+    C. 15x (x + 2) + c   3           5                              D. 5x (x + 2)5 + c
+                                                                                     3               3
+27. Let f and g be continuous functions on an interval I . If ∫ f (x) dx = F (x) and ∫ g(x) dx = G(x) on I , which           (1)
+    one of the following expressions is true?
+      A. ∫ (f + g)(x) dx = (F + G)(x)                                                B. ∫ (f g)(x) dx = (FG)(x)
+      C. ∫ ( f ) (x) dx = F (x)                                                      D. ∫ (2f )(x) dx = F (x)
+                                                                                                          2              ​
+
+
+
+
+                     g   ​
+
+
+
+                                                  G(x)   ​
+
+
+
+
+28. What is the sum of the first 7 terms of a sequence defined by Gn = 10n−4 for n = 1, 2, 3, …?     ​                       (1)
+
+      A. 1111.001                                                                    B. 1111.111
+      C. 1110.111                                                                    D. 1110.111
+
+29. Which one of the following is the greatest lower bound of the sequence { 2n−3
+                                                                             3n+2 }?                                 ​       (1)
+      A. − 35    ​
+                                                                                     B. − 12     ​
+
+
+
+
+      C. − 32    ​
+                                                                                     D. − 15     ​
+
+
+
+
+30. Let v = AB and w = CD be vectors in the plane where A(−1, 2), B(2, 1), C(3, 1), and D(4, −3). Which                      (1)
+    one of the following is equal to the scalar (or dot) product of v and w?
+      A. 7                                                                           B. 8
+      C. 5                                                                           D. 3
+
+31.                              1           2        1
+      Let M =                    3
+                                 ​       ​   3    ​   4 . Which one of the following is the det(M )?
+                                                             ​   ​                                                           (1)
+                                 −1          −1       2
+      A. -10                                                                         B. 0
+      C. 30                                                                          D. 10
+
+32. Let A, B , and C be three exhaustive and mutually exclusive events of a random experiment, and S be the                  (1)
+    sample space of the given experiment. Which one of the following is true?
+      A. A ∩ B ∩ C = S                                                               B. A ∩ B = S ∪ C
+      C. A ∪ B ∪ C = S                                                               D. A ∪ B = S ∪ C
+
+33. Which one of the following is the contrapositive of the statement "If x is an even natural number, then x is             (1)
+    divisible by 2"?
+      A. If x is a natural number that is not divisible by 2, then x is not even.
+      B. If x is an even natural number, x is NOT divisible by 2.
+      C. If x is a natural number divisible by 2, then x is even.
+      D. If x is not an even natural number, then x is not divisible by 2.
+
+34. Let P (n, r) be the number of permutations of n objects taking r at a time, and C(n, r) be the number of ways            (1)
+    of selecting r objects from a set of n objects without considering the order of selection. Which of the following
+    is true?
+      A. C(10, 4) = P (10, 4) ⋅ 4!                                                   B. P (10, 4) = P (10, 4) ⋅ 4!
+      C. C(10, 5) = P (10, 5) ⋅ 5!                                                   D. P (10, 5) = C(10, 5) ⋅ 5!
+
+35. Let f (x) = 2 sin ( 12 x). Which one of the following is equal to f (5) (x)?
+                                              ​                                                                              (1)
+            1
+      A. − 16 sin ( 12 x)
+                     ​               ​
+                                                                                           1
+                                                                                     B. − 16 cos ( 12 x) ​       ​
+
+
+
+
+         1
+      C. 16 sin ( 12 x)
+             ​               ​
+                                                                                        1
+                                                                                     D. 16 cos ( 12 x)
+                                                                                             ​               ​
+                                                                                             2 x
+36. Which one of the following is the derivative of the function f (x) = x e ?                                            (1)
+                                                                                             x+1
+                                                                                                   ​
+
+
+
+
+    A.                                                                  B.
+         (2x + 2x2 + x3 )ex                                                  (2x + 2x2 + x3 )ex
+              (x + 1)2                                                            x2 + 1
+                              ​                                                                             ​
+
+
+
+
+    C.                                                                  D.
+         (2x + x2 )ex                                                        (2x + x2 )ex
+           (x + 1)2                                                            x2 + 1
+                        ​                                                                              ​
+
+
+
+
+37. What is the derivative of the function f (x) = ln( x2 + 1)?          ​                                                (1)
+    A.      2x                                                             2x+1
+                                                                        B. 2x 2 +1
+         2 x2 +1
+                   ​                                                                 ​
+
+
+
+
+                   ​
+
+
+
+
+    C.     x
+         x2 +1
+                                                                        D.     x
+                                                                              x2 +1
+               ​                                                                         ​
+
+
+
+
+                                                                                         ​
+
+
+
+
+38. Let a and b be real numbers and a < b. Let f be a continuous function on [a, b] and F be an antiderivative of f .     (1)
+    Which one of the following is true?
+    A. ∫ b f (x) dx = F (a) − F (b)                                     B. ∫ b f (x) dx = F (b) − F (a)
+        a  ​
+
+
+
+                                                                            a  ​
+
+
+
+
+    C. ∫ b F (x) dx = f (b) − f (a)                                     D. ∫ b F (x) dx = f (a) − f (b)
+        a                                                                   a
+           ​                                                                   ​
+
+
+
+
+39. Which one of the following is true in a standard coordinate space?                                                    (1)
+
+    A. The intersection of the x-axis and the x-axis is the yz -plane.
+    B. The intersection of the xz -plane and the xy -plane is the xz -plane.
+    C. The x-axis and the y -axis determine the xy -plane.
+    D. The y -axis and the z -axis determine the xz -plane.
+
+40. Suppose S and T can complete a job in two hours if they work together. T needs 3 more hours than S to                 (1)
+    complete the job. If T works alone, in how many hours can he complete the job?
+    A. 3 hours                                                          B. 6 hours
+    C. 9 hours                                                          D. 12 hours
+
+41. Which one of the following points is the intersection point of the line l : 3x − 2y + 4 = 0 and the circle c :        (1)
+    x2 + y 2 − 2x − 4y − 5 = 0?
+    A. (−4, −4)                                                         B. (2, 5)
+    C. (4, 8)                                                           D. (−2, −1)
+
+42. Which one of the following is NOT true about the graph of the function f (x) =                            x2 −4
+                                                                                                           x4 +5x2 +6
+                                                                                                                     ​?   (1)
+    A. The graph of f is symmetric with respect to the y -axis.
+    B. The graph of f is symmetric with respect to the origin.
+    C. The x-intercepts of the graph of f are (−2, 0) and (2, 0).
+    D. The y -intercepts of the graph of f are (0, − 23 ).  ​
+
+
+
+
+                                                    2           2
+43. Consider the ellipse defined by the equation x2 + y = 1. Which one of the following is true about the ellipse?        (1)
+                                                 a    16​           ​
+
+
+
+
+    A. The eccentricity of the ellipse is 35 .
+                                             ​
+
+
+
+
+    B. The length of the latus rectum of the ellipse is 9 units.
+    C. The length of its major axis is 50 units.
+    D. The length of its minor axis is 32 units.
+44. Which one of the following is the limit of the sequence { 2n2 −3n+42 }?                                                                                                           (1)
+                                                                                                                  2−5n−6n
+                                                                                                                                      ​
+
+
+
+
+      A. 13
+          ​
+                                                                                                                  B. 23
+                                                                                                                      ​
+
+
+
+
+      C. − 13     ​
+                                                                                                                  D. − 23         ​
+
+
+
+
+45. Let C = 3i − 2j and P = 6i + 2j be the position vectors of the center C of a circle and a point P on the                                                                          (1)
+    circle respectively. Which one of the following is an equation of the circle?
+      A. x2 + y 2 + 6x − 4y − 12 = 0                                                                              B. x2 + y 2 + 6x − 4y + 12 = 0
+      C. x2 + y 2 − 6x + 4y − 12 = 0                                                                              D. x2 + y 2 − 6x + 4y + 12 = 0
+
+46. Let P be a point in the coordinate space. If P is located 3 units in the direction of the negative x-axis from the                                                                (1)
+    origin, 1 unit in the direction of the positive y -axis from the origin, and 2 units in the direction of the positive z -
+    axis from the origin, which one of the following ordered triple of numbers represents point P ?
+      A. (3, −1, 2)                                                                                               B. (3, 1, −2)
+      C. (3, −1, −2)                                                                                              D. (−3, 1, 2)
+
+47. Let A and B be two nonempty sets and f : A → B be a function. Which one of the following is a sufficient                                                                          (1)
+    condition so that f has an inverse function?
+      A. f has to be a 1-1 correspondence.                                                                        B. The range of f is B .
+      C. f is a one-to-one function.                                                                              D. f is an onto function.
+
+48. Let f be a function defined by:                                                                                                                                                   (1)
+
+                                                                                                  ⎧3 − bx2 ,      for x ≥ 1
+                                                                                          f (x) = ⎨ax,            for − 1 < x < 1
+                                                                                                  ⎩
+                                                                                                     ​        ​                                                                   ​
+
+
+
+
+                                                                                                   2x + b,        for x ≤ −1
+
+      What are the values of a and b so that f is continuous on the whole real line?
+      A. a = −3 and b = 6                                                                                         B. a = 3 and b = −6
+      C. a = 3 and b = 6                                                                                          D. a = −3 and b = −6
+
+49.                            1                           2               3
+      Let A =                  4
+                               ​               ​           5   ​           6 . Which one of the following is true about minors and cofactors of entries of A?
+                                                                            ​   ​                                                                                                     (1)
+                               7                           8               9
+      A. The minor of the entry 5 is 12.                                                                          B. The cofactor of the entry 7 is 3.
+      C. The minor of the element 9 is 3.                                                                         D. The cofactor of the element 6 is 6.
+
+50. Consider the following system of linear equations:                                                                                                                                (1)
+
+                                                                                                         ⎧x + y = 0
+                                                                                                         ⎨y + z = 1
+                                                                                                         ⎩
+                                                                                                          ​               ​
+
+
+
+
+                                                                                                          x+z =0
+
+      Which one of the following is the solution set of the given system of linear equations?
+      A. ⎧                1
+                                                           ⎫                                                      B. ⎧                    − 12                            ⎫
+         ⎨                                                 ⎬                                                         ⎨                                                    ⎬
+                          2
+                              ​                                                                                                                       ​
+
+
+
+
+         ⎩                                                 ⎭                                                         ⎩                                                    ⎭
+              ​       − 12
+                      ​            ​       ​           ​               ​                                                      ​           ​
+                                                                                                                                              1
+                                                                                                                                              2   ​           ​       ​       ​
+
+
+
+
+                       1                                                                                                                      1
+                       2                                                                                                                      2
+      C. ⎧                                                 ⎫                                                      D. ⎧                                                    ⎫
+                              ​                                                                                                                   ​
+
+
+
+
+                      1                                                                                                                   −1
+         ⎨                                                 ⎬                                                         ⎨                                                    ⎬
+         ⎩                                                 ⎭                                                         ⎩                                                    ⎭
+              ​       −1
+                      ​                ​           ​               ​                                                          ​           1
+                                                                                                                                          ​               ​       ​       ​
+
+
+
+
+                      2                                                                                                                   0
+51. The angle of elevation from the top of a building of height 15 meters to the top of building A is 30∘ . If the           (1)
+    distance between the two buildings is 60 meters, what is the height of building A?
+    A. 20 3 meters
+               ​
+                                                                            B. (20 3 + 15) meters
+                                                                                         ​
+
+
+
+
+    C. 60 3 meters
+               ​
+                                                                            D. (60 3 + 15) meters
+                                                                                         ​
+
+
+
+
+52. Let f and g be two continuous functions on the closed interval [a, b], k be a constant, and c be a real number           (1)
+    between a and b. Which one of the following is NOT true about the functions f and g ?
+    A. ∫ b f (x) dx = − ∫ a f (x) dx                                        B. ∫ b f (x) dx = ∫ b f (x) dx − ∫ c f (x) dx
+        a  ​
+
+
+
+                       b     ​
+
+
+
+                                                                                a  ​
+
+
+
+                                                                                             c         ​
+
+
+
+                                                                                                          a          ​
+
+
+
+
+    C. ∫ (kf )(x) dx = k ∫ b f (x) dx
+         b
+                                                                            D. ∫ (f + g)(x) dx = ∫ f (x) dx + ∫ b g (x) dx
+                                                                                 b                 b
+        a                 a                                                     a                 a            a
+           ​                     ​                                                 ​                             ​       ​
+
+
+
+
+                                                     — E N D O F E X A M I N AT I O N —
+                                     Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

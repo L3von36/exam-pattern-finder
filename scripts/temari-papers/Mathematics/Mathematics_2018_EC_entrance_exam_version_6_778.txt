@@ -1,0 +1,230 @@
+                                                            Temari.et
+                          Mathematics, 2018 EC, entrance exam, version 6
+                                                 Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                       Questions: 51                                   Total marks: 51
+
+Name                                                Grade                       ID No.                 Date
+
+1.   Which of the following is true about the relation between the set of integers (Z), positive rational numbers (Q⁺)       (1)
+     and rational numbers (Q)?
+     A. Z ⊆ Q⁺                                                      B. Z ∩ Q⁺ = Q⁺
+     C. Q⁺ ∪ Z ⊆ Q                                                  D. Z = Q⁺
+
+2.   Which of the following is true?                                                                                         (1)
+     A. the set of irrational numbers are closed under multiplication
+     B. the sum of two irrational numbers is always irrational
+     C. the product of two irrational numbers is rational
+     D. the set of rational numbers is closed under addition and multiplication
+
+3.   If the system { x + by = 10, ax + 2y = 20 } has infinite solutions, then values of a and b respectively?                (1)
+     A. 2 and 1                                                     B. -1 and 2
+     C. 1 and 2                                                     D. 1 and 1
+
+4.   The sum of two numbers is 75, two-third of larger number is 10 more than the smaller. What are the numbers?             (1)
+     A. 30 and 45                                                   B. 35 and 40
+     C. 24 and 51                                                   D. 25 and 50
+
+5.   Which of the following is the solution set of 1 - 2|x+2| = 6?                                                           (1)
+     A. {}                                                          B. {1/2,9/2}
+     C. {5,9}                                                       D. {-4}
+
+6.   The solution set of |5 - 3x| + 9 > 17 is:                                                                               (1)
+
+     A. (-∞, -1] ∪ [13/3, ∞)                                        B. (-∞, 13/3) ∪ (-1, ∞)
+     C. (-1, ∞)                                                     D. (-∞, -1) ∪ (13/3, ∞)
+
+7.   If (5ˣ)³·8ˣ = 10√10, then x is:                                                                                         (1)
+     A. 1/4                                                         B. 1/2
+     C. √6/6                                                        D. 1/6
+
+8.   The solution set of the equation (3ˣ)²·4ˣ = 6√6 is:                                                                     (1)
+     A. x=1                                                         B. x=0.75
+     C. x=2                                                         D. x=√2
+
+9.   If (16)ˣ = 1/8, then x is:                                                                                              (1)
+     A. -4/3                                                        B. 4/3
+     C. 3/4                                                         D. -3/4
+10. Which of the following interval may not contain a zero of f(x)=x⁴-7x²+10?                         (1)
+     A. (-2,-1)                                                         B. (1,2)
+     C. (-1,0)                                                          D. (2,3)
+
+11. The solution set of the equation (3)(2^{4x})(5^{2x}) = 1200 is:                                   (1)
+
+     A. 2                                                               B. 4
+     C. 1                                                               D. 10
+
+12. The solution set of the inequality 2x² - 5x - 7 > 0 is:                                           (1)
+     A. (1, 7/2)                                                        B. (-∞,7) ∪ (2,∞)
+     C. (-∞, -1) ∪ (7/2, ∞)                                             D. (-7,2)
+
+13. The solution set of the inequality -x² + 7x - 12 ≤ 0 is:                                          (1)
+     A. (-∞,∞)                                                          B. [3,4]
+     C. (-∞,3] ∪ [4,∞)                                                  D. ∅
+
+14. The solution set of the inequality x² - 9 ≤ 0 is:                                                 (1)
+     A. (-∞,-3] ∪ [3,∞)                                                 B. [-3,3]
+     C. (-∞,-9] ∪ [9,∞)                                                 D. [-9,9]
+
+15. In the quadratic equation (k-1)x² - 4x + 2k = 0, if the sum of its roots is 2, then k = ?         (1)
+
+     A. -4                                                              B. 3
+     C. -3                                                              D. 4
+
+16. If 'a' and 'b' are the roots of x² + 3x + 2 = 0, then a² + b² = ?                                 (1)
+     A. 13                                                              B. 10
+     C. 5                                                               D. -13
+
+17. What is the range of the inverse of R = {(x,y): y = √(1 - |x+2|)}?                                (1)
+     A. {y: y ≥ -2}                                                     B. {y: -3 ≤ y ≤ -1}
+     C. {y: y ≤ -2}                                                     D. {y: 1 ≤ y ≤ 3}
+
+18. Which one of the following is true about Signum, absolute value and greatest integer functions?   (1)
+     A. sgn(x) = ±|x|, ∀x∈R                                             B. sgn(x) ≤ |x|, ∀x≥0
+     C. sgn(x) ≤ |x|, ∀x∈R                                              D. |x| = x·sgn(x), ∀x∈R
+
+19. Let f(x)=3x-4 and g(x)=mx+b. For what m,b is (f∘g)(x)=x=(g∘f)(x)?                                 (1)
+
+     A. m=1/3, b=4/3                                                    B. m=-3, b=4
+     C. m=1/3, b=4                                                      D. m=1/3, b=3/4
+
+20. What is the partial fraction form of (3x²-2x-4)/(x³+2x)?                                          (1)
+     A. 2/x + (5x+2)/(x²+2)                                             B. -2/x + (5x+3)/(x²+2)
+     C. -2/x + (5x-2)/(x²+2)                                            D. 2/x + (5x-2)/(x²+2)
+21. Which one of the following is not true about f(x)=(x-x³)/[x³(x-1)]?                                                   (1)
+     A. Vertical asymptotes: x=0
+     B. Horizontal asymptote: y=0
+     C. Graph intersects horizontal asymptote at (-1,0)
+     D. Graph intersects vertical line x=0
+
+22. Equation of line through intersection of x-2y+1=0 and 2x+y-3=0 and parallel to 3x-4y+2=0?                             (1)
+     A. 4x-3y-1=0                                                      B. 3x-4y+1=0
+     C. 3x+4y+1=0                                                      D. 3x-4y-1=0
+
+23. A circle radius 1 is internally tangent to circle x²+y²-2y=8 at (3,1). Equation of smaller circle?                    (1)
+     A. x²+(y-1)²=1                                                    B. (x-1)²+(y-2)²=1
+     C. (x-2)²+(y-1)²=1                                                D. (x-4)²+(y-1)²=1
+
+24. Class groups: A:15 students avg16; B:14 students avg17; C:11 students avg14. Overall average?                         (1)
+
+     A. 15.3                                                           B. 16.2
+     C. 15.8                                                           D. 15.4
+
+25. A box contains 4 red, 3 white, 5 blue balls. Three balls drawn without replacement. Probability all three are blue?   (1)
+     A. 1/22                                                           B. 1/55
+     C. 1/27                                                           D. 5/12
+
+26. Variance of 20 observations is 16. If each observation is multiplied by 3/2, then standard deviation of resulting     (1)
+    observations?
+     A. 36                                                             B. 24
+     C. 9                                                              D. 6
+
+27. In a group of 45 students, 25 play basketball, 30 play football, 19 play both. Probability that a student plays       (1)
+    neither?
+     A. 4/5                                                            B. 2/5
+     C. 1/5                                                            D. 2/3
+
+28. If A = [[0,4,1],[2,1,5],[0,3,2]] and det(2B)=40, then det(AB) = ?                                                     (1)
+     A. 200                                                            B. -200
+     C. 50                                                             D. -50
+
+29. If the inverse of A = [[-1,0,1],[0,y,0],[-1,x,1/2]] is B = [[1,0,y],[0,-1/2,x],[2,0,y]], then x and y are?            (1)
+     A. 1 and -2                                                       B. 0 and -2
+     C. 1 and 2                                                        D. -2 and 1
+
+30. Let A=[[1,2,1],[1,-1,3],[-2,2,0]], B=[[2,-1,0],[-1,2,1],[1,2,3]]. If C=3BA - 2Aᵀ, then (2,3) entry of C is?           (1)
+
+     A. 20                                                             B. 18
+     C. 11                                                             D. 14
+
+31. If A=[[1,2],[2,3]], B=[[-3,2],[2,-1]], then which is not true?                                                        (1)
+     A. AB = BA                                                        B. A+B is symmetric
+     C. B-A is a scalar matrix                                         D. A+B = A-B
+32. Which one is false about the sequence {1, -1/3, -5/3, -3, -13/3, -17/3, -7, ...}?                          (1)
+     A. It is AP with d = -4/3                                        B. nth term a_n = (7-4n)/3
+     C. a_n = (1/3)(7-4n)                                             D. It is GP
+
+33. Which one is the nth term of the sequence {0.5, 0.55, 0.555, ...}?                                         (1)
+
+     A. 5(1-1/10ⁿ)                                                    B. (1/9)(1-1/10ⁿ)
+     C. (5/9)(1-1/10ⁿ)                                                D. (5/9)(5-1/10ⁿ)
+
+34. The series 1 - 3/5 + 9/25 - 27/125 + ... is equal to:                                                      (1)
+     A. 1                                                             B. 4/25
+     C. 5/8                                                           D. 5/2
+
+35. A boat worth Birr 125,000 loses 15% of its value each year. What worth after 5 years?                      (1)
+     A. 65,250.78                                                     B. 55,463.164
+     C. 218,625.78                                                    D. 251,419.648
+
+36. Let {a_n} with a₁=-2 and a_n = 1/a_{n-1} for n≥2, then a₉₈ = ?                                             (1)
+     A. -2                                                            B. -1/2
+     C. 1/97                                                          D. -1/4
+
+37. Which one is not true about the sequence a_n = {1+3+5+...+(2n-1)}/(3n²-1)?                                 (1)
+
+     A. 1/2 < a_n < 1/3                                               B. glb = 1/2
+     C. glb = 1/3                                                     D. lim a_n = 1/3
+
+38. Let f(x) = (kx+3)/(2x-k). If f'(1) = -1, then k = ?                                                        (1)
+     A. 2                                                             B. -1/2
+     C. 1/2                                                           D. -5
+
+39. Let f(x) = (1/3)x - |x²-4|. The set of all critical numbers is:                                            (1)
+     A. {-2, 1/6, 2}                                                  B. {-2, -1/6, 0, 1/6, 2}
+     C. {-2, -1/6, 1/6, 2}                                            D. {-2, -1/6, 2}
+
+40. Which one is false about f(x)=x³-3x²+3x+1?                                                                 (1)
+     A. f concave upward on [1,∞)                                     B. f strictly increasing on (-∞,∞)
+     C. f has local extreme at x=1                                    D. (1,2) is inflection point
+
+41. Maximum possible area of an isosceles triangle with perimeter 6 m?                                         (1)
+
+     A. 2 m²                                                          B. √3 m²
+     C. 2√3 m²                                                        D. 3 m²
+
+42. A ladder 6 m long slides. Bottom moves at 3/4 m/s. Find angle between top and wall when angle changes at   (1)
+    √2/8 rad/s.
+     A. π/2                                                           B. π/3
+     C. π/6                                                           D. π/4
+
+43. Which point on graph of f(x)=2x-1 is closest to (1,2)?                                                     (1)
+     A. (8/5, -4/5)                                                   B. (7/5, 9/5)
+     C. (4/5, 3/5)                                                    D. (8/5, 4/5)
+44. Volume generated by revolving region between f(x)=x² and g(x)=4x-x² about x-axis?                         (1)
+     A. 224π/3                                                           B. 22π/3
+     C. 32π/3                                                            D. 24π/3
+
+45. Angle between vectors u = m i + m√3 j and v = m√3 i + m j?                                                (1)
+
+     A. 90°                                                              B. 60°
+     C. 30°                                                              D. 53°
+
+46. Image of line l: 3x+2y=6 after rotation of 90° about point P(2,3) is:                                     (1)
+     A. 2x-3y=6                                                          B. 3x-2y=1
+     C. 3x-2y=-6                                                         D. 2x-3y=1
+
+47. If the image of point P(-2,3) is P'(6,7) under a line reflection, then the line of reflection is:         (1)
+     A. 2y = x + 9                                                       B. y = -2x + 9
+     C. y = 2x - 9                                                       D. y = -x + 9
+
+48. In triangle ABC, AB=7, BC=8, m∠B=120°. Find AC and sin∠A?                                                 (1)
+     A. √57 and 4√3/13                                                   B. √57 and -4√3/13
+     C. 13 and 23/26                                                     D. 13 and 4√3/13
+
+49. Points P(3,3,2) and Q(2,0,4) on sphere with center on z-axis. Which point is outside?                     (1)
+
+     A. (-4,3,0)                                                         B. (2,-2,1)
+     C. (3,1,1)                                                          D. (0,0,0)
+
+50. Equation of tangent to circle x²+y²-2x-2y-23=0 at P(-3,4) is:                                             (1)
+     A. 3y+4x=24                                                         B. 3x-y=24
+     C. 4x-3y=0                                                          D. 4x-3y+24=0
+
+51. Let ℓ be line containing (1,5) with angle of inclination θ=135°. Distance from ℓ to (-1,1) is:            (1)
+     A. 2√2                                                              B. 3√2
+     C. 4√2                                                              D. 6√2
+
+                                                  — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

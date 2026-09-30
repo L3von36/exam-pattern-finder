@@ -1,0 +1,309 @@
+                                                          Temari.et
+                 Physics, 2017 EC, natural science, entrance exam, round 1
+                                                  Grade 12 · Physics · 2017 E.C.
+
+Time allowed: 120 minutes                                      Questions: 45                                    Total marks: 45
+
+Name                                              Grade                        ID No.                   Date
+
+1.   Which one of the following statements is correct about the current-voltage (I-V) characteristics of a typical             (1)
+     semiconductor diode?
+     A. The region of the I-V curve that rises very rapidly after the voltage exceeds the cut-in voltage is the forward bias
+        region.
+     B. The region of the I-V curve that increases very rapidly after the bias voltage exceeds the breakdown voltage is in
+        the forward bias region.
+     C. The current due to the minority charge carriers is represented in the forward bias region of the I-V curve.
+     D. The current due to the majority charge carriers is represented in the reverse bias region of the I-V curve.
+
+2.   A force is used to push a box of mass, m along the slope of an inclined plane with constant velocity. If the              (1)
+     coefficient of friction between the box and the inclined plane be μ, the actual mechanical advantage (AMA) of
+     the inclined plane is
+     A. 1/(cos θ + μ sin θ)                                        B. 1/(sin θ + μ cos θ)
+     C. (cos θ + μ sin θ)                                          D. (sin θ + μ cos θ)
+
+3.   A circular coil is located in a uniform magnetic field of magnitude 0.50 T directed perpendicular to the plane of         (1)
+     the coil. If the area of the coil changes at a uniform rate, in such a way that it increases by 4.0 × 10 -3 m 2 in 2 s,
+     what is the magnitude of the induced electromotive force (emf) in the coil?
+     A. 1.0 × 10 3 V                                               B. 2.5 × 10 2 V
+     C. 1.0 × 10 -3 V                                              D. 4.0 × 10 -3 V
+
+4.   Vector quantities are represented by                                                                                      (1)
+
+     A. direction only.                                            B. magnitude and direction.
+     C. dimensionless values.                                      D. magnitude only.
+
+5.   According to Newton's first law, an object that is in motion continues its state of motion with                           (1)
+     A. constant velocity if the resultant force exerted on it is not zero.
+     B. a decreasing speed if the resultant force exerted on it is zero.
+     C. constant velocity if the resultant force exerted on it is zero.
+     D. an increasing speed if the resultant force exerted on it is not zero.
+
+6.   Which of the following correctly describes the difference between distance and displacement?                              (1)
+
+     A. Distance depends on the initial and final points, while displacement depends on the path followed by a moving
+        body.
+     B. Distance can be described both in magnitude and direction, while displacement is described only by magnitude.
+     C. Distance has either positive or negative values, while displacement has only positive value.
+     D. Distance is always greater than or equal to the magnitude of displacement, while the magnitude of the
+        displacement is always less than or equal to distance.
+7.   Which of the following statements is correct about uniformly accelerated motion?                                    (1)
+     A. The acceleration is constant.
+     B. The velocity is constant.
+     C. The displacement increases at a uniform rate.
+     D. The speed is constant but the direction is changing.
+
+8.   Two displacement vectors have magnitudes 4 m and 3 m. Which one of the following is NOT the possible value          (1)
+     of the magnitude of their resultant vector?
+     A. 7 m                                                     B. 1 m
+     C. 12 m                                                    D. 5 m
+
+9.   A train is moving along a straight line with a constant acceleration of 5 m/s 2 when it passes by a traffic light   (1)
+     point. From there on, if the time taken by the train to reach a velocity of 30 m/s is 4 seconds, then what is the
+     distance of the train from the traffic point after 8 seconds?
+     A. 160 m                                                   B. 80 m
+     C. 320 m                                                   D. 240 m
+
+10. Which one of the following statements is a necessary condition for an object to be in linear equilibrium?            (1)
+     A. The linear acceleration of the object is non-zero constant.
+     B. The linear speed of the object is constant.
+     C. The linear acceleration of the object is zero.
+     D. The net force acting on the object is non-zero constant.
+
+11. When an object tends to slide over the surface of another object, tiny bumps at the surface of the two objects       (1)
+    knocking and locking together. This causes
+     A. frictional force.                                       B. normal force.
+     C. electrostatic force.                                    D. gravitational force.
+
+12. Suppose a ball is thrown vertically upward and after reaching a maximum height, it returns back to its initial       (1)
+    position. Which of the following statement is correct about energy changes and work done on the ball?
+     A. On its way down, change in its potential energy is positive.
+     B. On its way down, work done by gravity is positive.
+     C. On its way up, change in its kinetic energy is positive.
+     D. On its way up, work done by gravity is positive.
+
+13. The mechanical energy of an oscillating object at any point through its path is equal to                             (1)
+     A. the difference between its kinetic and potential energies.
+     B. the sum of its potential and internal energies.
+     C. the sum of its kinetic and internal energies.
+     D. the sum of its kinetic and potential energies.
+
+14. A tennis ball of mass 0.10 kg traveling horizontally at 40.0 m/s is struck back by a racket. If the ball returns     (1)
+    back with a speed of 30.0 m/s in the opposite direction, what is the magnitude of the impulse delivered to the
+    ball by the racket?
+     A. 1.0 kg m/s                                              B. 7.0 kg m/s
+     C. 4.0 kg m/s                                              D. 3.0 kg m/s
+15. The flow rate of a fluid is defined as                                                                                    (1)
+     A. the volume of the fluid crossing an area per unit time taken.
+     B. the speed with which the fluid is flowing through a pipe.
+     C. the mass of the fluid crossing an area per unit time taken.
+     D. the rate of change of the speed with which fluid is flowing through a pipe.
+
+16. At normal condition, solids are almost incompressible compared to liquids and gases. The reason is that                   (1)
+     A. their atoms are free to slide about and interact with neighbors.
+     B. their atoms are relatively fixed distance apart and held together.
+     C. their atoms vibrate and are free to move.
+     D. there is much space and little force between atoms.
+
+17. Which of the following statements is correct about magnets?                                                               (1)
+     A. The north pole of one magnet repels the south pole of another magnet.
+     B. Like electric charges, magnetic poles exist in a single isolated form.
+     C. Unlike permanent magnets, electromagnets are magnets without poles.
+     D. If you cut a bar magnet into two, each piece has both north and south poles.
+
+18. A wheel of radius r = 50 cm rotates about a fixed perpendicular axis that passes through its center. If the angular (1)
+    speed is ω = 200 rad/s, how much is the tangential speed of a point on the rim of the wheel?
+     A. 10,000 m/s                                               B. 800 m/s
+     C. 80,000 m/s                                               D. 100 m/s
+
+19. Suppose your mass is measured to be 50 kg. If your friend having a mass of 55 kg is at a distance of 2 m apart            (1)
+    from you, what is the magnitude of gravitational force between you and your friend?
+     A. 9.2 × 10⁻⁸ N                                             B. 9.2 × 10⁻¹¹ N
+     C. 4.6 × 10⁻⁸ N                                             D. 4.6 × 10⁻¹¹ N
+
+20. A 10 N force is applied to the smaller circular piston of a hydraulic lift of radius 0.1 m to lift a 2500 N load placed   (1)
+    on the larger piston. What is the area of the larger piston?
+     A. 2.50 m²                                                  B. 0.25 m²
+     C. 3.14 m²                                                  D. 7.85 m²
+
+21. An electric field is defined as a region where                                                                            (1)
+
+     A. a charged particle loses its charge when it is placed in that region.
+     B. a charged particle experiences no electric force when it is placed in that region.
+     C. a neutral particle experiences electric force when it is placed in that region.
+     D. a charged particle experiences an electric force if it is placed in that region.
+
+22. Which one of the following statements is correct about the speed of sound in different mediums? The speed of              (1)
+    sound
+     A. in a colder and less dense medium is faster than in hotter and denser material.
+     B. in solid is less than its speed in liquid.
+     C. increases as the temperature and density of a material increases.
+     D. in liquid is less than its speed in gas.
+23. What is the magnitude of electric field strength at a distance of 2.0 m from a point charge, Q = 4.0 C?                 (1)
+    A. 9.0 × 109 N/C                                            B. 72.0 × 109 N/C
+    C. 54.0 × 109 N/C                                           D. 18.0 × 109 N/C
+
+24. A wire that has a resistance of 6 Ω is drawn out to make it into a new wire two times as long as the original and       (1)
+    half the cross-sectional area of the original. What will be the resistance of the new wire?
+    A. 12 Ω                                                     B. 6 Ω
+    C. 3 Ω                                                      D. 24 Ω
+
+25. A long straight wire carries a current of 5.0 A. What is the magnetic field strength produced by the current at a       (1)
+    distance of 2.0 cm from the wire?
+    A. 5π × 10−5 T                                              B. 20π × 10−5 T
+    C. 20 × 10−5 T                                              D. 5 × 10−5 T
+
+26. If two vectors a and b, with respective magnitudes of a and b, form an angle α between them when they are               (1)
+    connected tail to tail, then the expression ab cos α defines the value of
+    A. vector product of a and b.                               B. projection of a on b.
+    C. resultant of a and b.                                    D. scalar product of a and b.
+
+27. Which one of the following statements is correct about real and virtual images?                                         (1)
+
+    A. Real images can be displayed on a screen unlike the virtual ones.
+    B. Virtual images can be displayed on a screen unlike the real ones.
+    C. Virtual images can be magnified but real images cannot.
+    D. Real images can be magnified but virtual images cannot.
+
+28. If the critical angle for an optically denser medium to air boundary is 53°, what will be the refractive index of the   (1)
+    medium?
+    A. 1.67                                                     B. 1.33
+    C. 1.00                                                     D. 1.25
+
+29. Given the displacement vector A = (3i − 4j) m, what is the unit vector in the direction of A?                           (1)
+    A. −0.6i + 0.8j                                             B. 0.6i − 0.8j
+    C. 0.8i − 0.6j                                              D. 0.6i + 0.8j
+
+30. Suppose that you are given two forces with F1 = 75 N in the direction of 53∘ west of north and F2 = 100 N in
+                                                     ​                                                      ​               (1)
+    the direction of 37∘ east of north. If you add the two forces using analytical and graphical methods and
+    represent using graphical scale of 1 cm for 10 N force, what are the possible length and direction of the arrow
+    line for the resultant vector?
+    A. 12.5 cm to the North                                     B. 17.3 cm to 45∘ North of East
+    C. 1.25 cm to the North                                     D. 1.73 cm to 45∘ North of East
+
+31. Which of the following concepts of physics are the primary focus points in mechanical engineering?                      (1)
+    A. Geometric optics, Electrostatics, Thermodynamics, and Stress
+    B. Dynamics, Thermodynamics, Force, and Stress
+    C. Nuclear physics, Geometric optics, Dynamics, and Force
+    D. Molecular physics, Dynamics, Nuclear physics, and Force
+32. Which one of the following defense technologies is correctly matched with its working principle?                     (1)
+    A. Missiles radiate electromagnetic signals and examine the echo received to identify the location of the target.
+    B. A radar is a rocket-propelled weapon designed to deliver an explosive weapon with great accuracy at high
+       speed.
+    C. Infrared devices use heat emission to identify objects that cannot be detected using available light sources.
+    D. Drones radiate electromagnetic signals and examine the echo received to identify the location of the target.
+
+33. Which one of the following phenomena occurs during the change of phases of matter? During a phase change             (1)
+    from
+    A. gas to liquid, heat energy is absorbed by a substance while its temperature remains constant.
+    B. solid to liquid, heat energy is released from a substance while its temperature remains constant.
+    C. liquid to solid, heat energy is released from a substance while its temperature changes uniformly.
+    D. liquid to gas, heat energy is absorbed by a substance while its temperature remains constant.
+
+34. Assume that a ball is thrown horizontally from a building of height h above the ground with initial speed v0 .
+                                                                                                                 ​       (1)
+    Which one of the following statements is correct about the motion of the object?
+    A. Its horizontal component acceleration is zero.
+    B. Its vertical component velocity remains constant.
+    C. Its vertical component acceleration is zero.
+    D. Its horizontal component velocity uniformly increases.
+
+35. A projectile is thrown from level ground with an initial velocity v0 making an angle of θ above the horizontal. If
+                                                                      ​
+                                                                                                                         (1)
+    the maximum height covered by the projectile is H , what is the horizontal range of the projectile in terms of H
+    and θ?
+    A. H/ tan θ                                                 B. H tan θ/4
+    C. 4H/ tan θ                                                D. H/4 tan θ
+
+36. The amount of heat energy required to raise the temperature of a given substance by 1∘ C is                          (1)
+
+    A. quantity of heat.                                        B. specific heat capacity.
+    C. latent heat.                                             D. heat capacity.
+
+37. Which one of the following statements is correct about the properties of waves?                                      (1)
+    A. When two waves interfere destructively, the amplitude of the resultant wave is greater than the amplitude of
+       each wave.
+    B. Diffraction of a wave through a narrow gap is more observable than through a wider gap.
+    C. When a wave is reflected, its speed and wavelength are changed.
+    D. When a wave is refracted, its speed and wavelength remain the same.
+
+38. A square metal plate of coefficient of linear expansion α has a surface area A0 at a temperature T0 . If the
+                                                                                     ​                    ​              (1)
+    temperature is raised by an amount ΔT , then the plate surface area is changed to A which is expressed as
+    A. A = A0 (1 + 2αΔT )
+                ​
+                                                                B. A = 2A0 (1 + αΔT )
+                                                                                ​
+
+
+
+
+    C. A = A0 (1 + αΔT )
+                ​
+                                                                D. A = A0 (1 + 3αΔT )
+                                                                            ​
+39. An object dropped into a sea sinks to a depth of 100 m. Which of the following is correct about the pressure the           (1)
+    object experiences?
+    A. The gauge pressure exerted on it is Pgauge =    ​
+                                                                       B. The absolute pressure exerted on it is Pabsolute =
+                                                                                                                         ​
+
+
+
+
+       1.01 × 105 Pa.                                                     9.30 × 105 Pa.
+    C. The absolute pressure exerted on it is Pabsolute =    ​         D. The gauge pressure exerted on it is Pgauge =
+                                                                                                                    ​
+
+
+
+
+       1.13 × 106 Pa.                                                     1.03 × 107 Pa.
+
+40. How much heat energy is required to change 5 kg of ice at −20∘ C to water at 10∘ C? (Specific heat capacities              (1)
+    of water in liquid and solid phases are 4.2 kJ/kg ⋅∘ C and 2.1 kJ/kg ⋅∘ C, respectively, and latent heat of
+    fusion of water, Lf = 336000 J/kg)
+                        ​
+
+
+
+
+    A. 4.20 × 105 J                                                    B. 1.68 × 106 J
+    C. 2.10 × 106 J                                                    D. 1.89 × 106 J
+
+41. Which one of the following statements is correct about the fundamental forces in nature and their applications?            (1)
+
+    A. The force that keeps the nucleus of an atom from flying apart due to the repulsive force between protons is the
+       weak nuclear force.
+    B. The gravitational force makes planets revolve around the Sun and follow their orbital path.
+    C. The force that arises in most radioactive processes and in nuclear reactions that generate the Sun's energy is
+       the strong nuclear force.
+    D. The electromagnetic force is the force that keeps protons and neutrons bound together in the nucleus of an
+       atom.
+
+42. A spring stores 120 J of elastic potential energy when it is stretched by 0.5 m. What is the potential energy              (1)
+    stored by the spring when it is stretched by 1.5 m?
+    A. 480 J                                                           B. 960 J
+    C. 1080 J                                                          D. 540 J
+
+43. A crane at port is used to lift a 10,000 kg object to a height of 20 m. If the power developed by the crane is             (1)
+    50,000 W, how long does it take to lift the object?
+    A. 400 s                                                           B. 40 s
+    C. 4 s                                                             D. 2 s
+
+44. A system of four masses m₁ = 4 kg, m₂ = 4 kg, m₃ = 5 kg, and m₄ = 3 kg are located in the xy-plane at the                  (1)
+    coordinates of (0, 0), (30 cm, 0), (-40 cm, 0), and (0, 20 cm), respectively. What is the coordinate of the center of
+    mass of the system?
+    A. (20 cm, 3.75 cm)                                                B. (-6.7 cm, 5 cm)
+    C. (-5 cm, 10 cm)                                                  D. (-5 cm, 3.75 cm)
+
+45. Suppose a particle of mass m is tied to a string and then whirled around in a horizontal circle of radius r about   (1)
+    the center O. If the string makes an angle θ to the vertical while rotating, the component of the force responsible
+    for the circular motion of the mass providing the centripetal force is
+    A. T sin θ                                                         B. T cos θ
+    C. mg sin θ                                                        D. mg cos θ
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

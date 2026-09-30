@@ -1,0 +1,221 @@
+                                                           Temari.et
+                                Physics, 2017 EC, entrance exam, version 1
+                                                  Grade 12 · Physics · 2017 E.C.
+
+Time allowed: 120 minutes                                      Questions: 42                                      Total marks: 42
+
+Name                                               Grade                       ID No.                     Date
+
+1.   If the tail of vector B is placed at the tip of A and the tail of C is placed at the tip of B, the sum of the three       (1)
+     vectors is drawn from the:
+     A. Tail of A to tip of B                                      B. Tail of B to tip of C
+     C. Tail of A to tip of C                                      D. Tip of C to tail of B
+
+2.   Which one of the following is not correct about the difference between distance and displacement?                         (1)
+     A. Distance is the total length of path travelled by an object in a given time
+     B. Displacement is the shortest path between the initial and final positions.
+     C. Distance depends on the path followed by the object it moves.
+     D. Displacement can be more than or equal to the magnitude of distance
+
+3.   A 25.0 kg block is initially at rest on a horizontal surface. A horizontal force of 75.0 N is required to set the block   (1)
+     in motion. After it is in motion, a horizontal force of 60.0 N is required to keep the block moving with constant
+     speed. Find the coefficients of static and kinetic friction respectively (g = 10 m/s²).
+     A. 0.1 & 0.2                                                  B. 0.3 & 0.2
+     C. 0.2 & 0.3                                                  D. 0.2 & 0.1
+
+4.   Which one is not true about action and reaction forces?                                                                   (1)
+
+     A. They cancel out each other                                 B. They act on two different bodies
+     C. They are same type                                         D. They exist in pairs
+
+5.   A net force F₁ acting on a mass m causes an acceleration 'a'. When the force is tripled, the acceleration                 (1)
+     increased by 6. What will be the new acceleration acting on the same mass?
+     A. 6 m/s²                                                     B. 18 m/s²
+     C. 12 m/s²                                                    D. 9 m/s²
+
+6.   The magnitude of vector A is half of the magnitude of vector B. When they act parallel to each other, they yield a (1)
+     resultant of 90 units. The magnitudes of A and B respectively are:
+     A. A=60, B=30                                                 B. A=37, B=53
+     C. A=30, B=60                                                 D. A=53, B=37
+
+7.   Which one of the following is not necessarily true?                                                                       (1)
+     A. All equal vectors are equivalent vectors.
+     B. All negative vectors are anti-parallel vectors.
+     C. Collinear vectors can be parallel or anti parallel to each other.
+     D. All coplanar vectors are collinear vectors
+
+8.   What is the work done by a force F = 20 N (0.6i + 0.8j) in moving an object through displacement S = 4 m (2i + j)? (1)
+     A. 45(2.6i+1.8j) J                                            B. 160 J
+     C. 400 J                                                      D. 200(1.4i+3j) J
+9.   The length of the train is 50 m and its front is 200 m from a pole. The train accelerates at 4 m/s². At what speed   (1)
+     does its front and rear pass the pole if it starts from rest?
+     A. 80 m/s and 20√5 m/s                                     B. 10 m/s and 20√5 m/s
+     C. 40 m/s and 20√5 m/s                                     D. 20 m/s and 20√3 m/s
+
+10. A cosmic body of extremely intensive gravity from which nothing, not even light can escape is                         (1)
+     A. Gravitational wave                                      B. Higgs boson
+     C. Black hole                                              D. Photons
+
+11. The system we can apply for security lock in banking system to keep information secret from hackers and               (1)
+    cyber-attacks is
+     A. Quantum computing                                       B. Quantum entanglement
+     C. Quantum cryptography                                    D. Quantum teleportation
+
+12. From the given graph, the body accelerated by 3 m/s² in the first 10 seconds and moves with constant velocity         (1)
+    from 10 to 50 seconds and then decelerated by 5 m/s² from 50 to t seconds. What will be the acceleration
+    between 10 to 50 seconds?
+     A. 0 m/s²                                                  B. 3 m/s²
+     C. 5 m/s²                                                  D. 8 m/s²
+
+13. Based on question no. 15 above, what is the total distance of the graph?                                              (1)
+     A. 1200 m                                                  B. 1440 m
+     C. 2500 m                                                  D. 1080 m
+
+14. Which of the following cannot be possible for the graphs of uniformly accelerated motion?                             (1)
+
+     A. The area under S-t graph                                B. The slope under V-t graph
+     C. The area under V-t graph                                D. The area under a-t graph
+
+15. A man is weighing a fish of mass m using a spring balance attached to a ceiling of an elevator. Which one of the      (1)
+    following statements is wrong about the reading of the balance?
+     A. When the elevator is stationary its reading is mg
+     B. When the elevator is descending with acceleration a, its reading is m(a+g)
+     C. When the elevator acceleration a is equal to g, weightlessness happens
+     D. When the elevator is ascending up with acceleration a, reading is m(a+g)
+
+16. A rectangular block weighs 600 N and has sides 3m, 2m and 4m. What is the minimum pressure the box exerts             (1)
+    on the surface?
+     A. 50 Pa                                                   B. 75 Pa
+     C. 100 Pa                                                  D. 150 Pa
+
+17. What is the total pressure on a diver in a sea at a depth of 30 m below the surface? Density of sea water = 1020      (1)
+    kg/m³, Patm = 100,000 Pa, g=10 m/s².
+     A. 507 kPa                                                 B. 304 kPa
+     C. 205 kPa                                                 D. 406 kPa
+
+18. The smaller piston of a hydraulic press has area 100 cm² while the larger piston has area 400 cm². What force is      (1)
+    exerted on the smaller piston to support a load of 100 N on the larger piston?
+     A. 25 N                                                    B. 40 N
+     C. 250 N                                                   D. 400 N
+19. All are among the relationship of physics with biology except:                                                        (1)
+    A. The fluid dynamics of blood flow through vessels
+    B. The mechanics of human motion
+    C. Atomic and molecular structure of minerals
+    D. The mechanisms for speaking and hearing
+
+20. Which of the following is false?                                                                                      (1)
+    A. Air force demands concepts of physics about fluid mechanics, optics, navigation and fluid flow.
+    B. Defense technologies like Radar and Infrared night vision use physics electromagnetic waves.
+    C. Infrared imaging systems create an electronic image based on temperature difference.
+    D. Night vision image is blue to enhance natural night vision in humans.
+
+21. Sharper knives are effective in cutting. This is due to:                                                              (1)
+    A. Higher pressure over a wider area                         B. Higher pressure for a less area
+    C. Less force over a wider area                              D. More force over a wider area
+
+22. Two balls are thrown with the same speed but at complementary angles. If one angle is 30° and its maximum             (1)
+    height is h, then the maximum height of the other is: (sin30=0.5, cos30=√3/2)
+    A. h/3                                                       B. 3h
+    C. h                                                         D. 2h
+
+23. What is the final angular velocity when initial angular velocity is 5 rad/s, angular acceleration 2 rad/s², time 10   (1)
+    s?
+    A. 10 rad/s                                                  B. 25 rad/s
+    C. 16 rad/s                                                  D. 15 rad/s
+
+24. The gravitational force between two objects is 8×10⁻⁹ N when they are 3 cm apart. For what separation would           (1)
+    the force be 6×10⁻⁹ N (same masses)?
+    A. 5√2 cm                                                    B. 5 cm
+    C. 2√3 cm                                                    D. 4 cm
+
+25. Which of the following is true about Kepler's law of planetary motion?                                                (1)
+    A. The line from sun to planet sweeps out different areas in equal times.
+    B. The square of the period is proportional to its average distance from the sun.
+    C. The period is proportional to its average distance from the sun.
+    D. The path is an ellipse with the sun at one focus.
+
+26. Which of the following is false?                                                                                      (1)
+    A. Centripetal acceleration is towards the center.
+    B. Centripetal acceleration is perpendicular to tangential velocity.
+    C. Angular acceleration for uniform circular motion is tangent to the circle.
+    D. Radial acceleration arises from change in direction of velocity.
+
+27. What kind of systems do mechanical engineers create using concepts like dynamics and forces?                          (1)
+
+    A. Medical devices                                           B. Chemical reactors
+    C. Robotics devices                                          D. Electrical circuits
+28. Which of the following statements is correct?                                                                       (1)
+    A. An elastic collision: both kinetic energy and linear momentum are conserved.
+    B. An elastic collision: only kinetic energy is conserved.
+    C. Inelastic collision: both kinetic energy and linear momentum are conserved.
+    D. Inelastic collision: only kinetic energy is conserved.
+
+29. An engineer wants to put a speed limit at the entrance to a train 300 m away as it comes to rest at the platform.   (1)
+    He gives exactly 1.5 minutes for the train to decelerate uniformly within 300 m. What must be the maximum
+    speed at the entrance?
+    A. 40 km/hr                                                  B. 24 km/hr
+    C. 60 km/hr                                                  D. 120 km/hr
+
+30. A ball of mass 2 kg rolling at 10 m/s collides with another ball of mass 3 kg at rest and locks together. Common    (1)
+    velocity after collision?
+    A. 2 m/s                                                     B. 3 m/s
+    C. 4 m/s                                                     D. 5 m/s
+
+31. Two cars A and B moving same direction. Relative velocity of B wrt A is 10 m/s. If velocity of B is 60 km/h with    (1)
+    respect to ground, what is velocity of A?
+    A. 35 km/h                                                   B. 25 km/h
+    C. 55 km/h                                                   D. 24 km/h
+
+32. In which case is work done in physics?                                                                              (1)
+    A. A man carrying a load moving along a straight road
+    B. A man pushing a concrete wall
+    C. A man lifting a weight up onto a shelf
+    D. A man standing holding his bag
+
+33. Which one cannot be the resultant when 10 N and 30 N are added by vector addition?                                  (1)
+
+    A. 15 N                                                      B. 37 N
+    C. 20 N                                                      D. 40 N
+
+34. A body accelerates from 10 m/s to 20 m/s having mass 40 kg. Magnitude of work done? (ignore friction)               (1)
+    A. 60 J                                                      B. 6000 J
+    C. 1200 J                                                    D. 8000 J
+
+35. A girl and boy are given similar work. If girl completes in half the time than the boy, which is true?              (1)
+    A. Boy is more powerful                                      B. Girl is more powerful
+    C. Equally powerful                                          D. Cannot determine
+
+36. Which is correct about the four basic forces in nature?                                                             (1)
+    A. Strong nuclear force is short-range and holds protons/neutrons together.
+    B. Weak nuclear force keeps electrons in orbit.
+    C. Electromagnetic force is the weakest.
+    D. Gravitational force acts at nuclear scale.
+37. The unit vector in the direction of A = 3i+4j is                                                            (1)
+    A. (3/2)i+2j                                                       B. i+j
+    C. (3/5)i+(4/5)j                                                   D. 2i-j
+
+38. A driver moving at 20 m/s hits brakes, decelerates at 5 m/s². How far to stop?                              (1)
+
+    A. 120 m                                                           B. 100 m
+    C. 20 m                                                            D. 40 m
+
+39. Projectile fired at 53° with initial speed 10 m/s. Maximum height? (sin53=0.8, cos53=0.6)                   (1)
+    A. 3.2 m                                                           B. 6.4 m
+    C. 5.6 m                                                           D. 7.2 m
+
+40. A body thrown vertically upward at maximum height:                                                          (1)
+    A. Velocity zero, acceleration constant                            B. Velocity zero, acceleration zero
+    C. Velocity zero, acceleration maximum                             D. Velocity zero, acceleration minimum
+
+41. Two balls X and Y have masses Mx=3My, dropped from same height at same time. Which reaches ground first?    (1)
+    A. X first                                                         B. Y first
+    C. Both same time                                                  D. Undetermined
+
+42. If dot product of two vectors is zero, what do we know?                                                     (1)
+
+    A. Both zero vectors                                               B. They are unit vectors
+    C. They are parallel                                               D. They are perpendicular
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

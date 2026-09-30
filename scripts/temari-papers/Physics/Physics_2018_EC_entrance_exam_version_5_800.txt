@@ -1,0 +1,334 @@
+                                                           Temari.et
+                             Physics, 2018 EC, entrance exam, version 5
+                                                  Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                         Questions: 54                                Total marks: 54
+
+Name                                               Grade                          ID No.                Date
+
+1.   A scientist conducts an experiment to record the boiling point of water at various altitudes. Which of the             (1)
+     following statements best justifies the type of knowledge gained from this experiment?
+     A. It is memory-based knowledge because the scientist recalls past experiences
+     B. It is testimonial knowledge because the scientist relies on previous published data
+     C. It is experiential knowledge because the scientist directly observes the phenomena
+     D. It is introspective knowledge because the scientist reflects on their own observations
+
+2.   Which of the following best explains why physics is important for chemistry?                                           (1)
+
+     A. Physics replaces chemical experiments with mathematical models only
+     B. Physics and chemistry study unrelated aspects of matter without overlap
+     C. Physics provides laws governing matter and energy for chemical reactions
+     D. Physics focuses solely on elements and ignores molecules in chemical systems
+
+3.   How does Pascal's principle assist soft-bodied animals like earthworms?                                                (1)
+     A. Pressure gradients create electrical signals in neurons
+     B. Pressure in fluid transmits evenly to produce movement
+     C. Pressure difference remove excess water from the body
+     D. Pressure in muscles generates heat for energy production
+
+4.   During a military air-defense mission, a RADAR station scans the sky to detect an approaching aircraft. How            (1)
+     does it identify the distant target?
+     A. It analyzes sound waves emitted from moving targets
+     B. It measures temperature changes produced by the target
+     C. It sends electromagnetic waves and receives reflected echoes
+     D. It detects gravitational attraction from far away objects remotely
+
+5.   A vector has magnitude V. When the angle with the horizontal increases from 30° to 60°, what happens to the            (1)
+     horizontal component?
+     A. It becomes half                                              B. It remains the same
+     C. It becomes √3 times original value                           D. It becomes 1/√3 times original value
+
+6.   Two vectors are added using both the triangle and parallelogram methods. Which conclusion is correct?                  (1)
+
+     A. Only the triangle method can be applied to vectors at an angle
+     B. Both methods give the same resultant in magnitude and direction
+     C. The parallelogram method ignores the direction of the vectors completely
+     D. The triangle method always gives a larger resultant magnitude than the other
+
+7.   The unit vector in the direction of vector A = 5i − 12j is                                                             (1)
+     A. (i − j)/√13                                                  B. 13(î + ĵ)/13
+     C. (5i + 12j)/13                                                D. (5i − 12j)/13
+8.   Work done by a constant force F for displacement d is given by W = F·d. A particle moves along a displacement           (1)
+     (5i + 5√3k) m under a force (10j − √3k) N. What is the work done by the force?
+     A. 35 J                                                       B. −15 J
+     C. 5√3 J                                                      D. −50 J
+
+9.   A train accelerates from rest to 30 m/s in 60 seconds. Four students make statements about the motion:           (1)
+     Student P: 'The average velocity is 15 m/s, and the instantaneous velocity at 60 s is 30 m/s.' Student Q: 'The
+     average velocity is 30 m/s, and the instantaneous velocity at 60 s is 15 m/s.' Student R: 'Both the average and
+     instantaneous velocity are 15 m/s.' Student S: 'Both the average and instantaneous velocities are 30 m/s.' Which
+     student's statement is correct?
+     A. Student R                                                  B. Student S
+     C. Student P                                                  D. Student Q
+
+10. Two particles start from the same point at the same time. Particle A starts from rest and accelerates uniformly at (1)
+    2 m/s², while particle B moves with a constant velocity of 10 m/s. After how many seconds the two particles will
+    be at the same position again, other than t = 0?
+     A. 10 s                                                       B. 12 s
+     C. 5 s                                                        D. 8 s
+
+11. A vehicle accelerates uniformly from time t1 to t2, moves with constant velocity from time t2 to t3, and                 (1)
+    decelerates uniformly from t3 to t4. In which time interval are instantaneous and average acceleration both
+    zero?
+     A. Between t1 to t2                                           B. Between t2 to t3
+     C. Between t3 to t4                                           D. Between t1 to t4
+
+12. A ball is thrown vertically upward from the top of a 15 m high tower with an initial speed of 10 m/s. Neglecting         (1)
+    air resistance, how long does it take for the ball to reach the ground?
+     A. 3 s                                                        B. 4 s
+     C. 5 s                                                        D. 2 s
+
+13. Two projectiles are launched with equal speeds at complementary angles (θ and 90°−θ), where the two launch               (1)
+    angles are not equal. A student concludes that their maximum heights must be equal. How should this
+    conclusion be judged?
+     A. Incorrect, because acceleration at the peaks differs
+     B. Correct, because both projectiles have equal ranges
+     C. Correct, because horizontal velocity components are equal
+     D. Incorrect, because maximum height depends on vertical velocity
+
+14. A ball is projected at certain angle with initial velocity u, covers horizontal range R. With what initial velocity it   (1)
+    should be projected keeping the angle of projection the same so that its horizontal range becomes 2.25R?
+     A. 2.5u                                                       B. 1.5u
+     C. 2.25u                                                      D. 0.25u
+15. A rigid disc rotates about its center. If one particle on the rim sweeps an angular displacement of θ radians, what (1)
+    can be concluded about a particle located halfway between the center and the rim during the same time
+    interval?
+     A. It sweeps a smaller angular displacement and travels a longer arc length
+     B. It sweeps the same angular displacement but travels a shorter arc length
+     C. It sweeps a smaller angular displacement but travels the same arc length
+     D. It sweeps the same angular displacement and travels the same arc length
+
+16. A wheel initially at rest increases its angular velocity to 80 rad/s after 5 seconds. The total angular                     (1)
+    displacement is
+     A. 400 rad                                                    B. 800 rad
+     C. 100 rad                                                    D. 200 rad
+
+17. A satellite orbits Earth in a circular path with a period of 8 hours. If the orbital radius is increased to four times its (1)
+    original value, what will be the new orbital period?
+     A. 16 hours                                                   B. 24 hours
+     C. 64 hours                                                   D. 32 hours
+
+18. A spacecraft hovers near a planet whose mass is twice that of Earth and radius 1.5 times larger than Earth's. The (1)
+    gravitational force experienced by the spacecraft compared to that near Earth is:
+     A. 8/9 of the gravitational force on Earth                    B. 3/2 of the gravitational force on Earth
+     C. 4/9 of the gravitational force on Earth                    D. Twice the gravitational force on Earth
+
+19. Students are asked to create a working model that applies Newton's third law in transportation. Which design                (1)
+    BEST represents the principle clearly?
+     A. Create a solar-powered fan car that moves using a rotating blade
+     B. Design a gravity-powered cart that rolls down an inclined surface
+     C. Construct a rubber-band powered car that pulls itself forward mechanically
+     D. Build a balloon-powered vehicle that moves forward as air escapes backward
+
+20. According to Newton's second law in momentum form, if the net force on a body is zero, the momentum of the                  (1)
+    body:
+     A. Remains constant                                           B. Increases steadily
+     C. Decreases gradually                                        D. Changes direction
+
+21. Two blocks, A and B, each with mass of 10 kg, are connected by a light, inextensible string over a frictionless             (1)
+    pulley. Block A rests on a 37° incline with coefficient of kinetic friction (μk = 0.2) as shown in figure below. What
+    is the acceleration of the system?
+     A. 1.20 m/s²                                                  B. 4.13 m/s²
+     C. 2.52 m/s²                                                  D. 4.51 m/s²
+
+22. Two systems oscillate with negligible friction: a simple pendulum and a spring-mass system. Considering their               (1)
+    energy transformations, which statement most accurately represents their energy behavior?
+     A. Energy remains entirely kinetic in both systems except at extreme positions
+     B. The spring system loses mechanical energy faster than the pendulum system
+     C. Only the pendulum exchanges kinetic energy while the spring stores constant energy
+     D. Both systems continuously exchange kinetic energy with potential energy during motion
+23. A person leans against a wall and pushes hard, but the wall does not move. Later, the same person pushes a              (1)
+    cart forward and it moves straight ahead. In which case is work done by the person?
+     A. Work is done in both cases because both involve a horizontal force
+     B. Work is done only when pushing the wall because more effort is used
+     C. No work is done in both cases because force is normal to displacement
+     D. Work is done only when pushing the cart because displacement occurs
+
+24. A 0.2 kg tennis ball moving at v = 40 m/s is hit a wall and bounces back reversing its direction at v = 40 m/s.         (1)
+    What is the magnitude of the impulse imparted to the ball?
+     A. 12 Ns                                                     B. 16 Ns
+     C. 4 Ns                                                      D. 0 Ns
+
+25. A wedge of length 30 cm and thickness 6 cm is used to lift a load of 900 N with an effort of 300 N. What is its         (1)
+    efficiency?
+     A. 50%                                                       B. 60%
+     C. 75%                                                       D. 90%
+
+26. Which statement best distinguishes true weight from apparent weight?                                                    (1)
+     A. True weight is measured in a fluid while apparent weight is measured in air
+     B. True weight changes with depth while apparent weight remains constant everywhere
+     C. True weight depends on liquid density while apparent weight does not depend on density
+     D. True weight is the gravitational force while apparent weight is the reduced weight in a fluid
+
+27. Gauge pressure is best described as:                                                                                    (1)
+
+     A. The total pressure acting on submerged surface
+     B. The pressure due to the density of a liquid only
+     C. The pressure measured relative to atmospheric pressure
+     D. The pressure measured relative to perfect vacuum condition
+
+28. You are asked to design an experiment to demonstrate that pressure in a fluid increases with depth. Which               (1)
+    setup would best illustrate this principle?
+     A. A vertical tube filled with water, having holes at different depths to compare leakage rates
+     B. A tilted glass partially filled with water, observing which side spills first as the water moves
+     C. A horizontal tube filled with water, open at one end, used to measure the flow speed of water
+     D. A u-shaped tube partially filled with water, with pressure measured only at the top using a gauge
+
+29. A hydraulic lift is used to lift a car. The small piston has a radius of 5 cm and large piston has radius 50 cm. If a   (1)
+    driver applies a force of 88 N to the small piston, what is the weight of the car the larger piston can support?
+     A. 880 N                                                     B. 88 N
+     C. 88000 N                                                   D. 8800 N
+
+30. A solid sphere floats fully submerged in a liquid. According to Archimedes' principle, which statement about the        (1)
+    sphere's density is correct?
+     A. Sphere density = liquid density                           B. Sphere density > liquid density
+     C. Sphere density < liquid density                           D. Sphere density ≥ liquid density
+31. A hose with diameter 4 cm delivers water at a speed of 2 m/s. The hose is connected to a nozzle of diameter 2         (1)
+    cm. What is the speed of water in the nozzle?
+     A. 16 m/s                                                      B. 12 m/s
+     C. 4 m/s                                                       D. 8 m/s
+
+32. The process of using high pressure to kill or stop bacteria in food and increase its shelf life is called:            (1)
+     A. Sterilization                                               B. Pascalization
+     C. Fermentation                                                D. Pasteurization
+
+33. Two substances, X and Y, each of mass 1 kg, undergo a temperature increase of 10 K. Substance X has specific          (1)
+    heat 500 J/(kg·K) and substance Y has specific heat 800 J/(kg·K). Which statement correctly evaluates the heat
+    required?
+     A. Neither substance requires any heat to raise its temperature
+     B. Substance Y requires more heat because its specific heat is larger than X
+     C. Substance X requires more heat because its specific heat is smaller than Y
+     D. Both require the same heat since their masses and temperature changes are equal
+
+34. A steel bridge is 100 m long at 20°C. The linear expansion coefficient of steel is 1.2×10⁻⁵K⁻¹. What length will it   (1)
+    reach at 40°C?
+     A. 100.024 m                                                   B. 100.04 m
+     C. 0.04 m                                                      D. 0.024 m
+
+35. During phase change, a substance is at temperature and pressure above its critical point. Which statement             (1)
+    correctly describes its properties?
+     A. It exhibits both liquid-like and gas-like fluidity
+     B. It behaves as a liquid only, with a constant density
+     C. It solidifies immediately due to very high pressure
+     D. It behaves as a gas only, expanding to fill its container
+
+36. You are tasked with redesigning the calorimetry experiment to minimize systematic heat loss. Which redesigned         (1)
+    procedure best integrates multiple heat-loss prevention strategies?
+     A. Heat metal longer, transfer slowly, use less water, stir uncovered
+     B. Preheat calorimeter, transfer slowly, use more water, leave lid off
+     C. Insulate calorimeter, dry and transfer metal quickly, cover immediately, stir gently
+     D. Calibrate with known metal first, keep calorimeter open, transfer slowly, stir uncovered
+
+37. Which statement correctly defines latent heat of fusion?                                                              (1)
+     A. Energy required to change temperature of solid by one kelvin
+     B. Energy released when a solid is heated above its melting point
+     C. Heat required to change a liquid into gas at constant temperature
+     D. Total heat absorbed when a solid melts at constant temperature
+
+38. A traffic light weighing 100 N hangs from vertical cables that are fastened to support. The upper cables make         (1)
+    angles of 37° and 53° with the horizontal. What is the tension in T1 and T2 of cables respectively?
+     A. 60 N, 80 N                                                  B. 80 N, 60 N
+     C. 35 N, 100 N                                                 D. 100 N, 35 N
+39. A copper wire has a resistance of 15 Ω and is connected to a 120 V supply. Due to heating, its resistance            (1)
+    increases to 20 Ω while the voltage remains constant. What is the change in current?
+    A. 8 A                                                       B. 6 A
+    C. 3 A                                                       D. 2 A
+
+40. When identical resistors are connected in series and then reconnected in parallel to the same battery, how does      (1)
+    the total current supplied by the battery compare?
+    A. The total current becomes zero in parallel
+    B. The total current is the same in both arrangements
+    C. The total current is greater in parallel than in series
+    D. The total current is smaller in parallel than in series
+
+41. Three charges Q1 = q, Q2 = 3q, and Q3 = −q are placed in a horizontal line. The charges are spaced equally by a      (1)
+    distance d. What is the net force on the charge Q2?
+    A. 4kq²/d² to the right                                      B. 6kq²/d² to the right
+    C. 6kq²/d² to the left                                       D. Zero
+
+42. An object 10 cm tall is placed 30 cm from a concave mirror of focal length 20 cm. The size of the image is           (1)
+    A. 15 cm                                                     B. 20 cm
+    C. 30 cm                                                     D. 25 cm
+
+43. The intensity of sound at 2 m from a point source is 8×10⁻⁴ W/m². What would be the intensity at 4 m from the        (1)
+    same source, assuming no energy loss?
+    A. 2×10⁻⁴ W/m²                                               B. 4×10⁻⁴ W/m²
+    C. 1×10⁻³ W/m²                                               D. 8×10⁻³ W/m²
+
+44. A long straight wire carries a current of 10 A. What is the magnetic field strength at a point 2 cm from the wire?   (1)
+    A. 1.0×10⁻⁴ T                                                B. 2.0×10⁻⁵ T
+    C. 5.0×10⁻⁴ T                                                D. 1.0×10⁻⁵ T
+
+45. A student reverses the direction of current in a straight conductor and observes the compass near the wire.          (1)
+    Which evaluation best explains the new observation?
+    A. Compass shows no deflection because reversing current removes magnetic field
+    B. Compass rotates randomly because reversing current destroys circular magnetic field
+    C. Compass deflects opposite because reversing current reverses magnetic field direction
+    D. Compass deflects same because reversing current does not change magnetic field direction
+
+46. A coil of 100 turns and area 0.01 m² rotates in a uniform magnetic field of 0.5 T. The angle between the coil's      (1)
+    normal and the magnetic field changes from 30° to 60° in 0.1 s. What is the magnitude of induced electromotive
+    force (EMF)?
+    A. 1.33 V                                                    B. 1.83 V
+    C. 2.00 V                                                    D. 2.55 V
+
+47. Which reason explains why transformers are commonly used in household power supply units?                            (1)
+
+    A. To directly convert alternating current into direct current
+    B. To efficiently change voltage levels for many appliances
+    C. To generate electricity using mechanical motion of devices
+    D. To safely store large amount of electrical energy for later use
+48. Magnetic induction in graphics tablets allows the device to:                                                        (1)
+    A. Track the pen's position without generating a signal
+    B. Store electrical energy to operate without being plugged in
+    C. Detect the pen's movement and convert it into digital lines
+    D. Produce heat on the screen to improve visibility for drawing
+
+49. Scientists attempt to date a 100,000-year-old rock sample using carbon-14. The measured amount of the               (1)
+    isotope is extremely small and the result is unreliable. Which evaluation best explains why this dating method is
+    inappropriate?
+    A. The isotope stops decaying after many years
+    B. The decay rate of the isotope changes in different rocks
+    C. The half-life of carbon-14 is too short for such old samples
+    D. The rock contains too many minerals that prevent measurement
+
+50. A scientist compares two nuclear processes that release energy: Process I: Two light nuclei combine to form a       (1)
+    heavier nucleus. Process II: A heavy nucleus splits into two medium-mass nuclei. Which explanation best
+    analyzes why energy is released in both processes?
+    A. In both processes, the products have greater binding energy per nucleon, and the resulting mass defect appears
+       as released energy
+    B. In both processes, neutrons are transferred or redistributed between nuclei, and this exchange directly produces
+       the released energy
+    C. In both processes, extreme temperature or nuclear instability causes nuclei to change structure, and that
+       condition itself produces the released energy
+    D. In both processes, unstable nuclei rearrange internally into more stable forms, and energy appears because
+       nuclear forces are distributed during interaction
+
+51. The main practical difference between forward and reverse bias is:                                                  (1)
+
+    A. Both forward and reverse bias completely stop current
+    B. Forward bias blocks current, reverse bias allows current
+    C. Forward bias allows current, reverse bias blocks most current
+    D. Both forward and reverse bias allow the same amount of current
+
+52. Two students compare ripple reduction in half-wave and full-wave rectifiers with identical capacitor filters.       (1)
+    Which evaluation is correct?
+    A. Both rectifiers produce equally smooth DC when the capacitor is properly used
+    B. Half-wave rectifiers always produce smoother DC regardless of the capacitor values
+    C. Full-wave rectifiers cannot produce smoother DC without increasing the number of diodes
+    D. Full-wave rectifiers produce smoother DC because the capacitor charges twice in each cycle
+
+53. A student is asked to design a two-input digital system that outputs 0 only when both inputs are 1 and outputs 1    (1)
+    for all other input combinations. Which of the following gates should the student select to correctly implement
+    the design?
+    A. AND gate                                                B. OR gate
+    C. NOR gate                                                D. NAND gate
+54. Robotic check-ups, needle-free devices, and electronic aspirin are electronic applications in:         (1)
+    A. The aerospace and satellite control field
+    B. The agricultural and crop monitoring field
+    C. The medical and healthcare technology field
+    D. The automobile and transport engineering field
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

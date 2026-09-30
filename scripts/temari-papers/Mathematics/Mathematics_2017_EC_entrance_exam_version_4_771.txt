@@ -1,0 +1,265 @@
+                                                         Temari.et
+                        Mathematics, 2017 EC, entrance exam, version 4
+                                              Grade 12 · Mathematics · 2017 E.C.
+
+Time allowed: 120 minutes                                    Questions: 59                                    Total marks: 59
+
+Name                                             Grade                       ID No.                   Date
+
+1.   After rationalizing the denominator of 5/(3√3 - 2√2), the denominator is equal to ______.                             (1)
+     A. 35                                                       B. 5(3√3-2√2)/19
+     C. 19                                                       D. 5(3√3+2√2)/19
+
+2.   The solution set of the equation 5|2x-1| - 3|4x+5| = 2 is equal to:                                                   (1)
+     A. {6/11}                                                   B. {-11, -9, -6/11}
+     C. {}                                                       D. {-9, -6/11}
+
+3.   In a survey of 600 students, 250 drink tea, 225 drink coffee, 75 drink both. How many drink neither?                  (1)
+
+     A. 400                                                      B. 550
+     C. 200                                                      D. 125
+
+4.   Given relation R = {(x,y): y > x-2, y > -x-2, y ≤ 4}. Which is the domain and range of R respectively?                (1)
+     A. (-6,6) and (-2,4]                                        B. (-2,4] and (-6,6)
+     C. [-6,6] and (-2,4)                                        D. (-2,4) and (-6,6)
+
+5.   ΔABC and ΔDEF are similar. Area of ΔABC = 12 m². DE is twice AB. Area of ΔDEF?                                        (1)
+     A. 6 m²                                                     B. 48 m²
+     C. 36 m²                                                    D. 24 m²
+
+6.   Vector AB has initial A(2,-1) and terminal B(-4,7). Which is a unit vector in same direction?                         (1)
+     A. -(3/5)i + (4/5)j                                         B. (3/5)i - (4/5)j
+     C. -(3/50)i - (4/50)j                                       D. (3/50)i + (4/50)j
+
+7.   Range of f(x) = (x+2)/(x-2) ?                                                                                         (1)
+
+     A. ℝ\{2}                                                    B. ℝ\{-2}
+     C. ℝ\{-1}                                                   D. ℝ\{1}
+
+8.   Firm A offers starting salary 5000 Birr with raise of 600 per year. Total earned over first 20 years?                 (1)
+     A. 214,000                                                  B. 16,400
+     C. 264,000                                                  D. 216,000
+
+9.   Arithmetic sequence: first term 10, tenth term -26. Find a101.                                                        (1)
+     A. 420                                                      B. 380
+     C. -410                                                     D. -390
+
+10. Area enclosed by f(x)=1-x² and x-axis from x=0 to x=2.                                                                 (1)
+     A. 3                                                        B. 2
+     C. 2/3                                                      D. 4/3
+11. Constant term in expansion of (x - 2/x²)^6.                                                      (1)
+     A. -160                                                    B. -60
+     C. 60                                                      D. 240
+
+12. Square ABCD inscribed in circle radius 4 cm. Area of segment cut off by chords AB, BC, CD, AD?   (1)
+
+     A. 16(π+2)                                                 B. 16(π-2)
+     C. 16(π+1)                                                 D. 16(π+1)
+
+13. Which statement is NOT true?                                                                     (1)
+     A. x+2 is factor of x³-3x²-4x+12
+     B. f(x)=x⁴-6x³+x²+12x-6 has real root between -1 and 0
+     C. Dividing x⁴+6x³-10x+3 by x²-1 gives remainder -4x+4
+     D. Graph of degree n has at most n-1 turning points
+
+14. P(-2,5) and Q(8,-1). Q is midpoint of PR. Find R.                                                (1)
+
+     A. (-7,18)                                                 B. (14,3)
+     C. (18,-7)                                                 D. (3,2)
+
+15. Mr. Soresa divided 40,000 for three workers in ratio 1/2 : 3/10 : 1/5. Find C's share.           (1)
+     A. 20,000                                                  B. 8,000
+     C. 12,000                                                  D. 13,333.33
+
+16. Solution set of log₂(x+2)+log₂(x-1)=2.                                                           (1)
+     A. {-3}                                                    B. {-3,2}
+     C. {}                                                      D. {2}
+
+17. If cos θ = -3/5 and tan θ < 0, which is true?                                                    (1)
+     A. sin θ = -4/5                                            B. cot θ = -4/3
+     C. csc θ = 5/4                                             D. tan θ = 4/3
+
+18. Volume of frustum of pyramid with base areas 81 cm² and 121 cm², altitude 6 cm.                  (1)
+
+     A. 602π                                                    B. 602
+     C. 301                                                     D. 903π
+
+19. Simplify (x²-4)/(x²+3x-10) ÷ (x²+5x+6)/(x²+8x+15).                                               (1)
+     A. (x+2)/(x+5)                                             B. ((x+2)/(x+5))²
+     C. (x-2)/(x+3)                                             D. none
+
+20. If f(x) = (π²+1)⁴, then f'(x) = ?                                                                (1)
+     A. 0                                                       B. 8π(π²+1)³
+     C. 4(π²+1)³                                                D. 8(π²+1)³
+
+21. Which is a geometric sequence?                                                                   (1)
+     A. 1, 1.5, 2.25, 3.375, ...                                B. 1, 1/8, 1/32, 1/64, ...
+     C. 27, 21, 15, 9, ...                                      D. 1, 4, 8, 12, 15, ...
+22. For matrix A = [[1,2,3],[2,4,-5],[3,-5,6]], which is NOT true?                             (1)
+     A. A is symmetric                                               B. det(A) = -71
+     C. A is invertible                                              D. Cofactor of a32 = 11
+
+23. Equation of tangent to circle x²+y²-8x-10y-128=0 at (-8,10).                               (1)
+
+     A. 5x-12y+136=0                                                 B. 12x-5y+146=0
+     C. 12x+5y+146=0                                                 D. 5x+12y+136=0
+
+24. Image of circle x²+y²-4x+6y+12=0 rotated by π/2 about origin.                              (1)
+     A. (x-3)²+(y-2)²=1                                              B. (x+3)²+(y+2)²=0
+     C. (x-3)²+(y+2)²=1                                              D. (x+3)²+(y-2)²=1
+
+25. Which vector is orthogonal to u = (-4,6)?                                                  (1)
+     A. (-3,2)                                                       B. (-1,-1)
+     C. (3,-2)                                                       D. (-3,-2)
+
+26. Which is NOT true about transformation?                                                    (1)
+     A. Reflection is onto mapping
+     B. Translation moves rectangles to congruent rectangles
+     C. Rotation moves circles to congruent circles
+     D. Reflection is non-rigid motion
+
+27. Balloon inflated at 900 cm³/s. Rate of radius increase when radius=15 cm.                  (1)
+     A. π cm/s                                                       B. 1 cm/s
+     C. 1/π cm/s                                                     D. 1/4 cm/s
+
+28. Marginal revenue when x=20 for R(x)=3x²+36x+5.                                             (1)
+     A. 156                                                          B. 120
+     C. 1925                                                         D. 1236
+
+29. Vectors a=2i-3j+2k, b=2i+3j+k. Area of triangle OAB.                                       (1)
+
+     A. 229/2                                                        B. √85
+     C. √229/2                                                       D. 2√229
+
+30. Vector with initial (2,5,0) and terminal (-3,7,4).                                         (1)
+     A. -5i+2j-4k                                                    B. -5i+2j+4k
+     C. 5i-2j-4k                                                     D. -i+12j+4k
+
+31. GCF of 65 and 117 expressed as 65m - 117. Find m.                                          (1)
+     A. 1                                                            B. 2
+     C. 3                                                            D. 4
+
+32. Greatest ratio among 3:2, 8:5, 121:75, 5:3.                                                (1)
+     A. 5:3                                                          B. 8:5
+     C. 121:75                                                       D. 3:2
+33. Benti earns 18,000, Derartu 20,000. Ratio of Derartu's earnings to total?                                      (1)
+     A. 9:10                                                      B. 10:19
+     C. 9:19                                                      D. 10:18
+
+34. Maximize Z=4x+y subject to x+y≤50, 3x+y≤90, x,y≥0.                                                             (1)
+
+     A. 120                                                       B. 110
+     C. 200                                                       D. 50
+
+35. Linear programming constraints for screws A and B: 4 min automatic, 6 min hand for A; 6 min automatic, 3 min   (1)
+    hand for B; each machine available 4 hours (240 min).
+     A. 4x+6y≤240, 6x+3y≤240, x≥0,y≥0                             B. 4x+6y≥240, 6x+3y≤240
+     C. 4x+6y≥240, 6x+3y≥240                                      D. 3x+6y≥240, ...
+
+36. Corner points (0,0),(5,0),(3,4),(0,5). Z=px+qy, p,q>0. Max occurs at (3,4) and (0,5). Find relation.           (1)
+     A. q=3p                                                      B. p=3q
+     C. p=q                                                       D. p> (1/3)q
+
+37. What percent of 15 is equal to 600?                                                                            (1)
+     A. 400                                                       B. 90
+     C. 690                                                       D. 4000
+
+38. Shop sells 30 articles for 6600. Plans to sell each for 200. Approximate discount percent?                     (1)
+     A. 9.091%                                                    B. 10%
+     C. 90.091%                                                   D. 8%
+
+39. 12% tax on shoes amounts to 45 Birr. What is 8% tax?                                                           (1)
+
+     A. 30                                                        B. 37.5
+     C. 40                                                        D. 35
+
+40. Corner points (0,2),(3,0),(6,0),(6,8),(0,5). Minimize Z=4x+6y. Minimum occurs at:                              (1)
+     A. (0,2) only
+     B. (3,0) only
+     C. any point on line segment joining (0,2) and (3,0)
+     D. midpoint of that segment only
+
+41. Corner points (0,0),(0,40),(20,40),(60,20),(60,0). Objective Z=5x+6y. Compare max Z (Column A) with 421        (1)
+    (Column B).
+     A. Column A greater                                          B. Column B greater
+     C. Equal                                                     D. Cannot determine
+
+42. Box of 15 oranges, 12 good, 3 bad. Select 3 without replacement. Probability box approved (all three good).    (1)
+
+     A. 12/15                                                     B. 1/5
+     C. 44/91                                                     D. 88/225
+
+43. Profit 20% on selling price of 960 Birr. Find cost.                                                            (1)
+     A. 600                                                       B. 800
+     C. 900                                                       D. 840
+44. Infected 230,000, died 10,000, remaining 43% cured. Number still infected as percent of total?   (1)
+     A. 57%                                                         B. 54.5%
+     C. 56.5%                                                       D. 65%
+
+45. Meti sold shoe for 10,000 with 60% markup on selling price. Find cost price.                     (1)
+
+     A. 4,000                                                       B. 6,000
+     C. 16,000                                                      D. 5,000
+
+46. A = [[-2,3,-1],[0,1,2],[0,0,3]], |B|=1/3. Find det(2AᵀB).                                        (1)
+     A. 16                                                          B. -4
+     C. -16                                                         D. 48
+
+47. A,B non-zero square matrices same order, (A+B)² = A²+B². Then which is true?                     (1)
+     A. AB=0                                                        B. BA=0
+     C. AB=BA                                                       D. AB=-BA
+
+48. P=(1,a,a), Q=(a-1,1,1). Distance PQ=3. Find set containing a.                                    (1)
+     A. {-9,1}                                                      B. {-1/3,3}
+     C. {-3,1/3}                                                    D. {-1,9}
+
+49. Probability of occurrence = 2/3. Probability of non-occurrence?                                  (1)
+
+     A. 4/3                                                         B. 2/3
+     C. 3/4                                                         D. 1/3
+
+50. Red ball and 4 white balls. Draw two without replacement. Probability both white?                (1)
+     A. 1/5                                                         B. 4/5
+     C. 16/25                                                       D. 3/5
+
+51. Which is necessarily true for vectors A and B?                                                   (1)
+     A. If |A|=|B| then A=B
+     B. |kA| = k|A| for k∈ℝ
+     C. If u is unit vector in direction of A, then A·u = |A|
+     D. If A parallel to B, then A·B=0
+
+52. Frequency table: x:3,4,5,6,7; f:2,4,8,4,2. Which is NOT true?                                    (1)
+     A. Mode = 5                                                    B. Middle quartile = 5
+     C. Standard deviation = √1.2                                   D. 75th percentile = 6.5
+
+53. Length 10m, breadth 2.4cm. Ratio length:breadth?                                                 (1)
+     A. 5:1.2                                                       B. 25:6
+     C. 1250:3                                                      D. 625:6
+
+54. Farmer bought bull 44,000, cow 18,000. Sold bull at 5% loss, cow at 10% profit. Net result?      (1)
+     A. loss 200                                                    B. profit 400
+     C. loss 400                                                    D. profit 200
+55. Solution set of system: x+y-z=1, x+2y-3z=1, 2x+3y-4z=2.                                                 (1)
+    A. {(1,1,0)}                                                     B. {(1-k, 2k, k): k∈ℝ}
+    C. {}                                                            D. {(2k, 1-k, k): k∈ℝ}
+
+56. Which pair of lines are perpendicular?                                                                  (1)
+
+    A. y=2x-1 and y=2x+1                                             B. y+2x=1 and 2y-x=-1
+    C. y-2x=-2 and y - (1/2)x=1                                      D. y=3x+1 and y=(1/3)x+1
+
+57. Weight data: 60,67,63,64,61,49,52,68,55,61. Which is NOT true about mean deviation?                     (1)
+    A. Mean deviation about mean = 4.8                               B. Mean deviation about median = 4.6
+    C. Mean deviation about mode = 4.6                               D. Mean deviation about mean = 4.6
+
+58. Tent: cylinder height 5m, diameter 6m, conical top slant height 8m. Area of canvas?                     (1)
+    A. 54π                                                           B. 39π
+    C. 78π                                                           D. 63π
+
+59. In circle, chords AC and BD intersect at P. ∠DAC=35°, ∠APB=65°. Find ∠ACB.                              (1)
+    A. 130°                                                          B. 60°
+    C. 70°                                                           D. 30°
+
+                                              — E N D O F E X A M I N AT I O N —
+                              Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

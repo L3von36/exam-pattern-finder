@@ -1,0 +1,254 @@
+                                                             Temari.et
+                        Mathematics, 2018 EC, entrance exam, version 4
+                                                  Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                        Questions: 56                            Total marks: 56
+
+Name                                                 Grade                       ID No.           Date
+
+1.   Which one of the following statement is true about the set of integers?                                           (1)
+     A. Integers only include positive numbers and Zero.
+     B. Every integer is rational number
+     C. The set of integers included irrational numbers
+     D. Every integer is also a whole number
+
+2.   Which of the following number is an irrational number?                                                            (1)
+     A. π                                                            B. -7
+     C. 0.222...                                                     D. √25
+
+3.   A gardener wants to build a square flower bed with an area of 45 square feet. Between which two whole             (1)
+     numbers on a tape measure will side length fall?
+     A. 8 and 9                                                      B. 5 and 6
+     C. 6 and 7                                                      D. 7 and 8
+
+4.   Which of the following square roots represent a rational number?                                                  (1)
+     A. √0.25                                                        B. √10
+     C. √0.1                                                         D. √2
+
+5.   A student solves a system of linear equations in two variables and finds x = 4. Then he concludes that the        (1)
+     solution to the system is 4. Which evaluation is correct?
+     A. The conclusion is correct only if the system has no solution
+     B. The conclusion is correct because x is independent variable
+     C. The conclusion is correct if the student used substitution method.
+     D. The conclusion is incorrect because the solution must be in ordered pair form.
+
+6.   What is the solution set for |x² - 5| = 4?                                                                        (1)
+     A. {-3,-1,1,3}                                                  B. {-3,-2,1,3}
+     C. {-1,1}                                                       D. {-1,1}
+
+7.   A toy rocket is launched. The path is modeled by h(t) = -16t² + 64t. At what time does it reach maximum height?   (1)
+     A. 2 seconds                                                    B. 4 seconds
+     C. 10 seconds                                                   D. 64 seconds
+
+8.   In survey of 100 students, 60 like mathematics, 50 like English and 30 like both. How many like neither?          (1)
+     A. 10                                                           B. 30
+     C. 20                                                           D. 40
+9.   If set A is proper subset of set B, then their intersection is equal to:                                  (1)
+     A. ∅                                                          B. A
+     C. U                                                          D. B
+
+10. If a relation R satisfies: whenever (a,b)∈R and (b,a)∈R, then the relation is said to be:                  (1)
+
+     A. Transitive                                                 B. symmetric
+     C. reflexive                                                  D. asymmetric
+
+11. A taxi service charges a flat fee of Birr 25 and Birr 20 per kilometer. How much does a 10 km ride cost?   (1)
+     A. 45 birr                                                    B. 270 birr
+     C. 55 birr                                                    D. 225 birr
+
+12. Based on a graph of a linear function, what does the y-intercept represent?                                (1)
+     A. The value of x when y=0
+     B. The point where the line crosses the vertical axis (x=0)
+     C. The steepness of the line
+     D. The total length of the line segment
+
+13. If a relation R = {(x,y): y ≤ x and x ≤ 4}, then which is true?                                            (1)
+     A. Domain = {x: x<4}                                          B. Range = {y: y≤4}
+     C. Range = {y: y≥4}                                           D. Domain = {x: x≥4}
+
+14. Which of the following sets of ordered pairs is a function?                                                (1)
+     A. {(1,2),(3,4),(3,-1),(-1,2)}                                B. {(0,2),(6,3),(7,1),(0,-2)}
+     C. {(1,3),(4,6),(2,3),(-2,6)}                                 D. {(1,3),(2,6),(2,7),(-2,3)}
+
+15. If the expression (x²-5x+6) represents the area of a rectangle, what is the perimeter when x=6?            (1)
+     A. 12                                                         B. 16
+     C. 18                                                         D. 14
+
+16. Which of the following is the vertex of y = x² + 4x + 11?                                                  (1)
+
+     A. (-2,7)                                                     B. (-3,4)
+     C. (3,-4)                                                     D. (2,-7)
+
+17. If f(x)=x³+2x²+x-5 and g(x)=-2x²+5x-3, then degree and constant term of f(x)·g(x) respectively?            (1)
+     A. 6 and -15                                                  B. 5 and 15
+     C. 2 and -8                                                   D. 3 and 9
+
+18. If f(x)=x¹⁶+8x³+77x+99 and d(x)=x+1, remainder when f(x) divided by d(x) is:                               (1)
+     A. 31                                                         B. 99
+     C. 15                                                         D. 108
+
+19. Which of the following is a factor of f(x)=x³+4x²+x-6?                                                     (1)
+     A. x-2                                                        B. x-3
+     C. x+1                                                        D. x+2
+20. Which graph of polynomial function represents negative leading coefficient and odd degree?           (1)
+     A. It falls to left and right                              B. It rises to left and right
+     C. It rises to left and falls to right                     D. It falls to left and rises to right
+
+21. What is the simplest form of log 24 - 2 log 6 + log 15?                                              (1)
+
+     A. 1                                                       B. 2
+     C. 3                                                       D. 4
+
+22. Which one of the following is not true?                                                              (1)
+     A. √(3√64) = 2                                             B. (3√2)^{√2} = 9
+     C. (2/3)^{-2} = 9/4                                        D. (1/2)^{-3} = 1/8
+
+23. Which one of the following is false about f(x)=3ˣ?                                                   (1)
+     A. Domain is the set of real numbers
+     B. Range is the set of positive real numbers
+     C. has no x-intercept
+     D. it is decreasing function
+
+24. What is the value of ln(eˣ/eʸ)?                                                                      (1)
+     A. x-y                                                     B. x+y
+     C. xy                                                      D. x/y
+
+25. The solution set of logₓ(5x-6)=2 is:                                                                 (1)
+     A. {2,3}                                                   B. {3}
+     C. {2}                                                     D. {1,4}
+
+26. Which of the following function is not a power function?                                             (1)
+     A. f(x)=3x²                                                B. f(x)=2⁻ˣ
+     C. f(x)=x^{4/3}                                            D. f(x)=-4x⁻³
+
+27. Given R={(x,y): y=x²-2, x∈{0,1,2,3}}, then range of R is:                                            (1)
+
+     A. {0,1,2,-7}                                              B. {-2,-1,2,7}
+     C. {0,1,2,3}                                               D. {0,1,2,4}
+
+28. If x<0, then what is the value of (4x - |x|)/x?                                                      (1)
+     A. 3                                                       B. 5
+     C. 4                                                       D. 6
+
+29. Which one is the inverse of f(x)=-3x+2?                                                              (1)
+     A. f⁻¹(x)=(x+2)/3                                          B. f⁻¹(x)=-(x+2)/3
+     C. f⁻¹(x)=(x-2)/3                                          D. f⁻¹(x)=(2-x)/3
+
+30. What is the range of f(x)=3 - sgn x?                                                                 (1)
+     A. {2,3,4}                                                 B. {2,7,8}
+     C. {-2,6,7}                                                D. {-1,0,1}
+31. The simplest form of ((2x²+10x+12)/(x²-9)) ÷ ((x+2)/(x-3)), x≠±3 is:                                                 (1)
+     A. 1                                                          B. 2
+     C. 3                                                          D. 4
+
+32. Solution set of (2x² - x - 21)/(2x-7)=0, x≠7/2 is:                                                                   (1)
+
+     A. {-3}                                                       B. {3}
+     C. {-4}                                                       D. {2}
+
+33. Which one of the following is not a rational function?                                                               (1)
+     A. f(x)=(3x+2)/√(x²)                                          B. g(x)=2x²+6x-7
+     C. n(x)=x³/(2x+1)                                             D. k(x)=(x⁴+1)/(x+3)
+
+34. Which is true about f(x)=(3x²+1)/(x²+4x+4)?                                                                          (1)
+     A. x=2 is vertical asymptote                                  B. f(x) has a hole at x=-2
+     C. y=0 is horizontal asymptote                                D. The line y=3 is horizontal asymptote
+
+35. The perimeter of a triangle is 30 cm. The shortest side is 4 cm shorter than the longest side. The longest side is   (1)
+    6 cm less than the sum of the other two. Find the sides.
+     A. 6,7,8                                                      B. 10,11,12
+     C. 8,10,12                                                    D. 9,13,14
+
+36. What is the area of the triangle with vertices A(1,1), B(1,3), C(4,5)?                                               (1)
+     A. 4                                                          B. 3
+     C. 2                                                          D. 6
+
+37. Let A and B be 3×3 matrices with det(A)=2, det(B)=3. Then det(3ABᵀ) is:                                              (1)
+
+     A. 160                                                        B. 48
+     C. 54                                                         D. 162
+
+38. Let A and B be 2×2 matrices with det(A)=2, det(B)=16. Then det(2A⁻¹B) is:                                            (1)
+     A. 32                                                         B. 64
+     C. 128                                                        D. 108
+
+39. An amphitheater has 30 seats in first row, 35 in second, 40 in third, etc. If there are 30 rows, how many seats in   (1)
+    30th row?
+     A. 1775                                                       B. 3075
+     C. 175                                                        D. 275
+
+40. If sum of first three consecutive terms of an AP (all positive) is 15 and sum of their squares is 83, then sum of    (1)
+    first five terms?
+     A. 35                                                         B. 45
+     C. 47                                                         D. 53
+
+41. What is eighth term of an arithmetic sequence whose third term is -4 and common difference is 5?                     (1)
+     A. 21                                                         B. 15
+     C. 19                                                         D. 18
+42. Consider geometric series 1 + 2/3 + 4/9 + 8/27 + ... What is sum as n→∞?                                   (1)
+     A. 2                                                         B. 1.5
+     C. 5                                                         D. 3
+
+43. What is the value of x such that terms (3+x), (11+x), (18+x) form a geometric progression?                 (1)
+
+     A. 22                                                        B. -67
+     C. 67                                                        D. 54
+
+44. Which condition must be met for infinite geometric series a + ar + ar²+... to converge?                    (1)
+     A. |r|>0                                                     B. r>0
+     C. r=1                                                       D. |r|<1
+
+45. A man saves Birr 160 first month and increases by Birr 20 each subsequent month. Which sequence models     (1)
+    total savings?
+     A. Harmonic                                                  B. Geometric
+     C. Arithmetic                                                D. Fibonacci
+
+46. What does the derivative of a function represent?                                                          (1)
+     A. Average values                                            B. Value of y-intercepts
+     C. Total area under the curve                                D. Slope of the tangent line
+
+47. Find derivative of f(x)=5x³-2x+7                                                                           (1)
+     A. 5x²-2                                                     B. 15x²-2
+     C. 15x²-2x                                                   D. 15x³-2
+
+48. Find equation of normal line to f(x)=x² at (1,1).                                                          (1)
+
+     A. y-1 = -2(x-1)                                             B. y-1 = -½(x-1)
+     C. y=x                                                       D. y-1 = -2(x-1)
+
+49. If graph of f'(x) is a horizontal line above x-axis, what about f(x)?                                      (1)
+     A. Constant function                                         B. Increasing at increasing rate
+     C. Parabola opening upwards                                  D. Linear function with positive slope
+
+50. Slope of tangent to f(x)=x²-5x+6 at x=3?                                                                   (1)
+     A. 4                                                         B. -2
+     C. 1                                                         D. 6
+
+51. Find area bounded by f(x)=x², x-axis, x=0 and x=3.                                                         (1)
+     A. 6                                                         B. 9
+     C. 3                                                         D. 27
+
+52. A company's marginal revenue MR(x)=-2x+100. Change in total revenue when production increases from 10 to   (1)
+    20 units?
+     A. 1000                                                      B. 700
+     C. 800                                                       D. 600
+53. Find the range of the grouped data: x:10-14,15-19,20-24,25-29,30-34; f:2,5,8,4,1                       (1)
+    A. 20                                                             B. 24
+    C. 25                                                             D. 15
+
+54. Find the mode of the grouped data (to two decimal places).                                             (1)
+
+    A. 23.66                                                          B. 20.91
+    C. 21.64                                                          D. 24.34
+
+55. Find the median of the grouped data.                                                                   (1)
+    A. 18.685                                                         B. 19.875
+    C. 20.865                                                         D. 21.375
+
+56. Find the mean of the grouped data.                                                                     (1)
+    A. 21.25                                                          B. 19.45
+    C. 18.15                                                          D. 16.95
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

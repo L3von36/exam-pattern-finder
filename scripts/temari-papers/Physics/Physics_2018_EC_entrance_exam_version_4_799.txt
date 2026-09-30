@@ -1,0 +1,276 @@
+                                                         Temari.et
+                            Physics, 2018 EC, entrance exam, version 4
+                                                Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 50                                   Total marks: 50
+
+Name                                             Grade                       ID No.                  Date
+
+1.   Which of the following statements is FALSE about vector physical quantities?                                          (1)
+     A. Multiplying a vector by a negative number changes both the magnitude and direction of the vector.
+     B. The dot product of two vectors becomes maximum when the two vectors are the same in direction.
+     C. The magnitude of the sum of two vectors is equal to the magnitude of their difference when the two vectors are
+        perpendicular to each other.
+     D. The resultant of two vectors is minimum when the vectors make 45° between them.
+
+2.   If two vectors are given as: A = 3i + 3j and B = 2i + 4j, which of the following is NOT true about the two vectors?   (1)
+
+     A. The dot product of the two vectors is 18
+     B. The scalar projection of vector A in the direction of vector B is 9/√5
+     C. The unit vector in the direction of A + B is (5i+7j)/√74
+     D. The angle between the two vectors is sin⁻¹(3/√10)
+
+3.   A force of 80 N is applied on an object at an angle of 37° east of north. What are the east and north components      (1)
+     of the force?
+     A. F_east = 48N and F_north = 64N                           B. F_east = 64N and F_north = 48N
+     C. F_east = F_north = 48N                                   D. F_east = F_north = 64N
+
+4.   Two vectors A and B are perpendicular to each other. The magnitude of the resultant is √1000 units and A = 3B.        (1)
+     What are the magnitudes of A and B?
+     A. A = 10 units and B = 30 units                            B. A = 30 units and B = 10 units
+     C. A = 40 units and B = 30 units                            D. A = 30 units and B = 40 units
+
+5.   The magnitudes of two vectors A and B are 12 units and 5 units, respectively. Which one of the following is NOT       (1)
+     the possible value for the magnitude of the resultant vector?
+     A. 20 units                                                 B. 17 units
+     C. 13 units                                                 D. 7 units
+
+6.   A ball is thrown downward from the top of a building with an initial speed of 40 m/s. It strikes the ground after     (1)
+     4s. How high is the building, assuming negligible air resistance?
+     A. 180 m                                                    B. 480 m
+     C. 170 m                                                    D. 240 m
+
+7.   A car moves at a speed of 20 m/s on a banked road with a radius of 40√3 m. What is the banking angle of the           (1)
+     road?
+     A. 45°                                                      B. 30°
+     C. 60°                                                      D. 25°
+8.   If the displacement of a particle is expressed as x(t) = 2t² + 10t - 4, where x is in meter and t is in second, what   (1)
+     are the instantaneous velocity and instantaneous acceleration at t = 2 sec?
+     A. v_ins = 18m/s and a_ins = 18m/s²                          B. v_ins = 18m/s and a_ins = 4m/s²
+     C. v_ins = 4m/s and a_ins = 18m/s²                           D. v_ins = 4m/s and a_ins = 4m/s²
+
+9.   Which of the following is FALSE statement in projectile motion?                                                        (1)
+     A. The vertical component of the velocity changes with time due to the action of gravity
+     B. The horizontal component of the velocity is constant due to the absence of net force in that direction
+     C. The direction of acceleration is always downward throughout the projectile's motion
+     D. The vertical and the horizontal components of projectile's motion are dependent on each other
+
+10. A football player kicks a ball with a velocity of u = 10√10 m/s at an angle of θ = 37° above the horizontal. What       (1)
+    are the range and the maximum height of the ball, respectively?
+     A. 24m and 36m                                               B. 96m and 18m
+     C. 36m and 48m                                               D. 18m and 48m
+
+11. If the value of the gravitational acceleration on the surface of the earth is g, then what will be its value at a       (1)
+    distance of h = RE above the surface of the Earth?
+     A. 4g                                                        B. g/2
+     C. g/4                                                       D. g/8
+
+12. A horizontally mounted wheel of radius R is initially at rest, and then begins to accelerate constantly until it has    (1)
+    reached an angular velocity ω after 5 complete revolutions. What was the angular acceleration of the wheel?
+     A. ω²/(20π)                                                  B. ω²/(10πR)
+     C. ω²/(5πR)                                                  D. ω²/(10π)
+
+13. What happens to the gravitational force between two masses if each mass is doubled and the separation                   (1)
+    distance between them is halved?
+     A. Increases by a factor of 16                               B. Decreases by a factor of 16
+     C. Increases by a factor of 8                                D. Decreases by a factor of 8
+
+14. If 20% of an unknown object is above the surface of water, what is the density of the unknown object?                   (1)
+     A. 800 kg/m³                                                 B. 200 kg/m³
+     C. 400 kg/m³                                                 D. 600 kg/m³
+
+15. A U-tube manometer is used to measure the pressure of a gas. One end of the tube is connected to the gas, and (1)
+    the other is open to the atmosphere. If the liquid level is higher on the gas side, what does this indicate about
+    the gas pressure?
+     A. The gas pressure is equal to atmospheric pressure.
+     B. The gas pressure is greater than atmospheric pressure.
+     C. The gas pressure is less than atmospheric pressure.
+     D. Additional information is needed to draw a conclusion.
+16. A skater spins with her arms extended. When she pulls her arms closer to her body, which of the following               (1)
+    occurs?
+     A. Her angular velocity decreases and her angular momentum remains constant.
+     B. Her angular velocity increases and her angular momentum increases.
+     C. Her angular velocity increases and her angular momentum remains constant.
+     D. Both angular velocity and angular momentum remain constant.
+
+17. Suppose that water flows from a pipe with a diameter of 2cm into another pipe of diameter 4cm. If the speed of          (1)
+    water in the first pipe is 20 m/s, what is the speed of water in the second pipe?
+     A. 10 m/s                                                     B. 40 m/s
+     C. 80 m/s                                                     D. 5 m/s
+
+18. The Center of curvature of a concave mirror is 40 cm. If an object is placed 10 cm in front of it, the image will be:   (1)
+     A. Virtual, upright, and magnified                            B. Real, upright, and diminished
+     C. Real, inverted, and magnified                              D. Virtual, inverted, and diminished
+
+19. What is the main difference between primary and secondary waves in seismic waves?                                       (1)
+     A. Primary waves are transverse waves whereas secondary waves are longitudinal waves.
+     B. Secondary waves are transverse waves whereas primary waves are longitudinal waves.
+     C. Both transverse waves and primary waves are longitudinal waves
+     D. Both transverse waves and primary waves are transverse waves
+
+20. A 60 years-old patient presents with a persistent headaches and a suspected brain tumor. Which imaging                  (1)
+    modality is most appropriate for providing a detailed image of the brain?
+     A. X-ray                                                      B. CT-scan
+     C. MRI                                                        D. Ultrasound
+
+21. Several containers of different sizes and shapes are all filled with the same liquid to the same depth. Then:           (1)
+     A. The force of the liquid on the bottom of each container is the same
+     B. The least pressure is at the bottom of the container with the largest bottom area
+     C. The greatest pressure is at the bottom of the container with the largest bottom area
+     D. The pressure on the bottom of each container is the same
+
+22. A 500 kg car moving at 13 km/hr collides and couples with an 800 kg car which is initially at rest. The                 (1)
+    approximate common final speed of these two cars is
+     A. 13 km/h                                                    B. 5 km/h
+     C. 2.5 km/h                                                   D. 10 km/h
+
+23. Two charges are located on the line shown in the figure below, in which the charge at point I is +3q and the            (1)
+    charge at point III is +2q. Point II is halfway between points I and III. Other than at infinity, the electric field
+    strength is zero at point on the line in which of the following ranges?
+     A. To the left of I                                           B. Between I and II
+     C. Between II and III                                         D. To the right of III
+
+24. Which of the following formulas correctly expresses the resistivity of a resistor that has resistance R, length L,      (1)
+    and cross-sectional area A?
+     A. ρ = AL/R                                                   B. ρ = RL/A
+     C. ρ = RA/L                                                   D. ρ = RLA
+25. A battery with an e.m.f of 12 V delivers 10 V to an external circuit when the current in the circuit is 1 A. What is   (1)
+    the internal resistance of the battery?
+     A. 0.5 Ω                                                     B. 1 Ω
+     C. 2 Ω                                                       D. 0
+
+26. A parallel plate capacitor stores 100 µJ of energy when charged to an electric potential difference of 20 V. If the    (1)
+    same capacitor is charged again to a potential difference of only 10 V, what will be the energy stored in the
+    capacitor?
+     A. 200 µJ                                                    B. 100 µJ
+     C. 50 µJ                                                     D. 25 µJ
+
+27. What is the electric field at a distance of 2 cm from the center of an object with a charge of 2nC?                    (1)
+     A. 4,500 N/C                                                 B. 9,000 N/C
+     C. 45,000 N/C                                                D. 90,000 N/C
+
+28. A metal sphere with a charge of +2Q comes into contact with a metal sphere of identical size that has a charge         (1)
+    of −4Q. The spheres are then separated. What are the charges on the spheres after they are separated?
+     A. Both spheres have zero net charge.                        B. Each sphere has a charge of −Q.
+     C. Each sphere has a charge of −2Q.                          D. Each sphere retains its original charge.
+
+29. A 2,000 kg automobile accelerates from rest to a speed of 40 m/s in 20 s. What is the average power, in                (1)
+    kilowatts, produced by the automobile during this time interval?
+     A. 10 kW                                                     B. 20 kW
+     C. 40 kW                                                     D. 80 kW
+
+30. Which one of the following is the CORRECT relationship in measuring the distance of astronomical object by             (1)
+    using its brightness?
+     A. Apparent brightness ∝ true brightness/distance
+     B. Apparent brightness ∝ true brightness/distance²
+     C. Apparent brightness ∝ (true brightness)(distance²)
+     D. Apparent brightness ∝ distance²/true brightness
+
+31. A bar magnet is divided in two pieces. Which of the following statements is true about the force between the           (1)
+    broken pieces if they face each other with a small separation?
+     A. There is an electric repulsive force between the broken pieces
+     B. There is an electric attractive force between the broken pieces
+     C. There is a magnetic repulsive force between the broken pieces
+     D. There is a magnetic attractive force between the broken pieces
+
+32. A magnetic field with a flux density of 2×10⁻² T is directed at an angle of 30° to a surface area of 1×10⁻¹ m². What (1)
+    is the magnetic flux through the surface?
+     A. 2×10⁻³ Wb                                                 B. 3×10⁻³ Wb
+     C. 4×10⁻³ Wb                                                 D. 1×10⁻³ Wb
+
+33. A transformer has 200 turns in its primary coil and 800 turns in its secondary coil. If the input voltage is 120V,     (1)
+    what is the output voltage?
+     A. 30V                                                       B. 120V
+     C. 480V                                                      D. 960V
+34. Which one of the following is FALSE about waves?                                                                        (1)
+    A. Mechanical waves require material medium for their propagation
+    B. Electromagnetic waves can travel through vacuum
+    C. In transverse waves, vibration of particles/fields is parallel to wave motion
+    D. Sound wave and seismic waves are examples of mechanical waves.
+
+35. An object sinks in the liquid when                                                                                      (1)
+    A. The weight of the object is less than the buoyant force of the liquid
+    B. The weight of the object is equal to the buoyant force of the liquid
+    C. The weight of the object is greater than the buoyant force of the liquid
+    D. The buoyant force is equal to the weight of the displaced liquid
+
+36. Two small hollow metal spheres hung on insulating threads attract one another as shown. If a positively charged         (1)
+    rod attracts metal sphere A, which one of the following is TRUE about the charge on the metal spheres?
+    A. Metal sphere A has positive charge                        B. Metal sphere B has positive charge
+    C. Both metal spheres have positive charge                   D. Both metal spheres have negative charge
+
+37. How does specific heat capacity affect the rate at which a substance heats up or cools down?                            (1)
+    A. A substance with high specific heat capacity heats up or cools down quickly.
+    B. A substance with low specific heat capacity heats up or cools down slowly.
+    C. A substance with high specific heat capacity heats up or cools down slowly.
+    D. Additional information is needed to draw a conclusion.
+
+38. A rectangular iron sheet has dimensions of 4m by 2m. If the temperature increases from 10°C to 60°C, what is            (1)
+    the new area of the sheet? (α_iron = 1.5×10⁻⁵/°C)
+    A. 8.012 m²                                                  B. 7.988 m²
+    C. 1.2×10⁻² m²                                               D. 4.006 m²
+
+39. Three masses, 3 kg, 2 kg, and 5kg, are placed at (1, 2) m, (2, 1) m and (-3, -4) m, respectively. Where is the center   (1)
+    of mass of the system?
+    A. (0.8, 1.2) m                                              B. (-0.8, -1.2) m
+    C. (-0.8, 1.2) m                                             D. (0.8, -1.2) m
+
+40. Which one of the following is TRUE about semiconductors?                                                                (1)
+
+    A. Pure semiconductors act like insulators at high temperature.
+    B. P-type semiconductors are produced by adding pentavalent elements to pure semiconductors.
+    C. Adding impurities increases the electrical conductivity of semiconductor materials.
+    D. The conductivity of pure semiconductors is inversely proportional to temperature.
+
+41. What is the value of the emitter current for a common emitter transistor with a base current of 40 µA and a             (1)
+    current gain of 150?
+    A. 6 mA                                                      B. 8 mA
+    C. 5.96 mA                                                   D. 6.04 mA
+42. One of the following is FALSE in the conservation of mechanical energy:                                                (1)
+    A. Energy is neither created nor destroyed but it can be transformed from one type to another
+    B. When kinetic energy increases, potential energy decreases
+    C. When kinetic energy decreases, potential energy increases
+    D. Both kinetic energy and potential energy can increase at the same time
+
+43. A mass of 1kg moving with a speed of 2 m/s on a horizontal smooth surface, collides with a nearly weightless           (1)
+    spring of force constant k = 100 N/m. The maximum compression of the spring would be
+    A. 20cm                                                             B. 40cm
+    C. 10cm                                                             D. 30cm
+
+44. A ball of mass m with speed v strikes a wall at an angle θ with the normal, as shown in the diagram below. It          (1)
+    then rebounds with the same speed and at the same angle. The impulse delivered by the ball to the wall is
+    A. mv sinθ                                                          B. mv cosθ
+    C. 2mv sinθ                                                         D. 2mv cosθ
+
+45. A car of mass m is driving around a circular track of radius r at a constant velocity of v. The centripetal force      (1)
+    acting on the car is FC. If the car's velocity is doubled, what is the new centripetal force required for the car to
+    drive on the circular track?
+    A. FC/2                                                             B. 4FC
+    C. FC/4                                                             D. 2FC
+
+46. What happens to the kinetic energy of a body if its speed increases by a factor of 3?                                  (1)
+    A. Decreases by a factor of 9                                       B. Increases by a factor of 9
+    C. Increases by a factor of 3                                       D. Decreases by a factor of 3
+
+47. Which one of the following is TRUE statement about friction force?                                                     (1)
+    A. Static friction is less than kinetic friction
+    B. Static friction is greater than kinetic friction
+    C. Static friction is equal to kinetic friction
+    D. Rolling friction is greater than sliding friction
+
+48. Which one does NOT affect the magnitude of induced electromotive force in the coil of wire?                            (1)
+    A. The rate of change of magnetic flux                              B. The number of turns in the coil
+    C. The area of the coil                                             D. The resistance of the coil
+
+49. Which electrical component generates electric current when light strikes on it?                                        (1)
+    A. Photo diode                                                      B. Light emitting diode
+    C. Resistor                                                         D. Transistor
+
+50. A coil with 100 turns is placed in a magnetic field that changes from 0.4T to 0.1T in 2 seconds. If the area of the    (1)
+    coil is 0.1 m², what is the maximum induced electromotive force in the coil?
+    A. 1.5 V                                                            B. 0.75 V
+    C. 1 V                                                              D. 0.5 V
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

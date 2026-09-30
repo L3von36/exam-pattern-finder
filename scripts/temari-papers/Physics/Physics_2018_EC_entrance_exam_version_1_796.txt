@@ -1,0 +1,265 @@
+                                                           Temari.et
+                             Physics, 2018 EC, entrance exam, version 1
+                                                  Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                      Questions: 46                                   Total marks: 46
+
+Name                                               Grade                       ID No.                   Date
+
+1.   Which of the following is not true about uniform motion?                                                               (1)
+     A. It covers equal interval of distance at equal interval of time in a fixed direction.
+     B. Its speed remains constant throughout its motion along straight line.
+     C. Its acceleration stays uniform throughout its motion on its way at a given time.
+     D. Its graph is a straight line with constant positive slope.
+
+2.   Two students walk from school to home. Student A takes a short cut in straight line, but student B follows the         (1)
+     road which curves around a hill. Which one is true?
+     A. Student A has greater distance but the same displacement
+     B. Student B has greater distance but the same displacement
+     C. Student A has greater displacement but the same distance.
+     D. Both distance and displacement are the same for both students.
+
+3.   Which statement is wrong about average velocity and instantaneous velocity?                                            (1)
+     A. Average velocity depends on total displacement, instantaneous velocity does not.
+     B. Average velocity and instantaneous velocity are equal when an object moves in straight line with constant
+        velocity.
+     C. The speed shown on a speedometer at a moment represents instantaneous velocity.
+     D. The average velocity expresses motion of an object at specific moment in time.
+
+4.   If the force of attraction between two point masses at a distance r is 250N, what will be the new force if the         (1)
+     distance between them decreases by quarter for the same masses? (G = 6.67×10⁻¹¹ Nm²/kg²)
+     A. 1600N                                                      B. 8000N
+     C. 4000N                                                      D. 1200N
+
+5.   All are dimensionless except                                                                                           (1)
+     A. Specific gravity                                           B. Young's modulus
+     C. Strain                                                     D. Index of refraction
+
+6.   Which of the following is necessarily true?                                                                            (1)
+     A. If the velocity of an object is zero, then acceleration is also zero.
+     B. If acceleration of an object is zero then its velocity is also zero.
+     C. Deceleration means that acceleration is necessarily negative.
+     D. The instantaneous acceleration has the same value as the average acceleration if the motion is uniformly
+        accelerated motion.
+
+7.   Which of the following sets of quantities remains constant in uniform circular motion?                                 (1)
+
+     A. Velocity, speed, radius                                    B. Velocity, acceleration, kinetic energy
+     C. Speed, acceleration, radius                                D. Speed, radius, kinetic energy
+8.   An earth satellite has an orbit radius which is 4 times that of a communication satellite C. What is the period of   (1)
+     revolution of the earth's satellite in terms of communication satellite C? (use period of the earth = 1 year)
+     A. T_es = 8T_c                                             B. T_es = 4T_c
+     C. T_c = 5T_es                                             D. T_c = 2T_es
+
+9.   The acceleration that a force produces on 80kg mass is larger by 6 m/s² than the acceleration it produces on         (1)
+     100kg. What will be the acceleration on 80kg mass?
+     A. 24 m/s²                                                 B. 18 m/s²
+     C. 30 m/s²                                                 D. 40 m/s²
+
+10. When a driver applies a sudden brake to save a child at the center of the road, you are moving forward from your (1)
+    seat. Which Newton's law expresses this phenomenon best?
+     A. Newton's first law                                      B. Newton's second law
+     C. Newton's third law                                      D. Newton's gravitational law
+
+11. How much work is required to accelerate a 900kg car from 10 m/s to 20 m/s? (Ignore friction)                          (1)
+     A. 7.46×10⁵ J                                              B. 2.46×10⁵ J
+     C. 1.35×10⁵ J                                              D. 4.36×10⁵ J
+
+12. A horizontal force of 80N is applied on a 10kg block which is moving on a horizontal rough surface. If the            (1)
+    coefficient of friction between the block and the surface is μ = 0.5, what is the acceleration of the block?
+     A. 8 m/s²                                                  B. 2 m/s²
+     C. 18 m/s²                                                 D. 3 m/s²
+
+13. Which one of the following is false?                                                                                  (1)
+
+     A. The slope of acceleration versus time graph is velocity
+     B. The area under velocity versus time graph is displacement
+     C. The area under acceleration versus time graph is velocity
+     D. The slope of velocity versus time graph is acceleration
+
+14. In which one of the following cases is work done in physics?                                                          (1)
+     A. Holding a 200N load without moving.
+     B. Pushing a concrete wall horizontally by applying horizontal force.
+     C. Pushing a block horizontally by applying horizontal force.
+     D. Carrying a load by shoulder and moving along straight line a distance of 2km.
+
+15. Which one of the following correctly expresses friction strength?                                                     (1)
+     A. Sliding friction > rolling friction > static friction
+     B. Sliding friction > rolling friction
+     C. Sliding friction > friction > static friction
+     D. Rolling friction < sliding friction < static friction
+
+16. An object of mass is dropped from a certain height to the ground; at what height above the ground do we               (1)
+    assume that the object has the same potential and kinetic energies if its velocity is 20 m/s?
+     A. 5 m                                                     B. 20 m
+     C. 60 m                                                    D. 40 m
+17. Which one of the following is NOT true about the three vectors?                                                        (1)
+    A. -A = B + C                                                B. B = -C - A
+    C. A + B - C = 0                                             D. A + B + C = 0
+
+18. What will be the magnitude of the resultant and direction of the given vectors below? 5N at 53° and 10N at 37°         (1)
+    (sin37° = cos53° = 0.6, cos37° = sin53° = 0.8)
+    A. 2√5 and tan⁻¹2, N of E                                    B. 5√5 and tan⁻¹2, N of E
+    C. 5 and tan⁻¹2, N of E                                      D. 15N and tan⁻¹(1/2), E of N
+
+19. A car initially at rest is uniformly accelerated along a straight road. The car passes two marks separated by 48m      (1)
+    at 4s and 8s respectively. What is the acceleration of the car?
+    A. 1 m/s²                                                    B. 3 m/s²
+    C. 2 m/s²                                                    D. 4 m/s²
+
+20. An automobile driver spotted a truck 250m ahead of him moving on a straight level road. If the truck is moving         (1)
+    uniformly at a velocity of 10 m/s, how long will it take the automobile driver to overtake the truck if he drives at
+    20 m/s?
+    A. 10 s                                                      B. 50 s
+    C. 5 s                                                       D. 25 s
+
+21. Which of the following is False?                                                                                       (1)
+    A. Materials with higher Young's modulus also possess greater bulk modulus.
+    B. Materials with higher strain are highly elastic.
+    C. Shearing stress happens when the deforming forces are tangential.
+    D. Materials with smaller strain are highly elastic.
+
+22. A 400kg load is hung on a wire having a length of 6.0m and cross-sectional area of 0.40×10⁻⁵ m² and Young's            (1)
+    modulus 8.00×10¹⁰ N/m². What is its increase in length?
+    A. 0.075 m                                                   B. 7.25 m
+    C. 0.09 m                                                    D. 0.05 m
+
+23. Two charges of +9μC and +25μC are 40cm apart. At what distance from either charge is the field zero?                   (1)
+    A. 15 cm from q₁ and 25 cm from q₂                           B. 10 cm from q₁ and 15 cm from q₂
+    C. 35 cm from q₁ and 15 cm from q₂                           D. 20 cm from q₁ and 45 cm from q₂
+
+24. Suppose a given resistor is connected to a constant voltage supply. When will the current in the resistor              (1)
+    decrease?
+    A. When the length of the resistance is reduced.
+    B. When the resistance of the resistor is decreased.
+    C. When cross-sectional area of the resistor increased.
+    D. When the length of the resistor is increased.
+
+25. From the given circuit below, the current drop in 6Ω and 12Ω resistors respectively is                                 (1)
+    A. 3A and 2A                                                 B. 4A and 3A
+    C. 1A and 0.5A                                               D. 1.2A and 3A
+26. A wheel starts rotating at 1.2 Hz to 1.8 Hz in 2 seconds. What will be the angular displacement it covers within 2     (1)
+    seconds?
+    A. 3 rad                                                    B. 6 rad
+    C. 4 rad                                                    D. 0.3 rad
+
+27. An egg is placed at the bottom of a vessel filled with water. Common salt is slowly added and dissolved in the         (1)
+    water until the egg rises and floats at the surface. From this information, what can you conclude?
+    A. The density of salt exceeds the density of the egg.
+    B. There is a tendency for calcium in the eggshell to be repelled by sodium chloride.
+    C. Salt sinks to the bottom.
+    D. There is no physical explanation.
+
+28. A substance whose density is equal to 0.4×10³ kg/m³ floats in fresh water (ρ_w = 1000 kg/m³). What fraction of         (1)
+    its volume is submerged?
+    A. 1/2                                                      B. 1/5
+    C. 2/5                                                      D. 1/4
+
+29. In the figure, the time it takes for the planet to go from A to B, C to D, and E to F is the same. Compare the areas   (1)
+    A₁, A₂, and A₃ in terms of size.
+    A. A₁ ≠ A₂ ≠ A₃                                             B. A₁ = A₂ = A₃
+    C. A₁ = A₂ > A₃                                             D. A₁ > A₂ = A₃
+
+30. Physics can be applied to everyday life except?                                                                        (1)
+    A. The development of telephone, telegraph and telex have enabled us to transmit important messages instantly.
+    B. The development of radio, television, satellites have increased the means of communication.
+    C. Rapid means of transport have increased the pace of transportation through air, water, and land.
+    D. Enhancing artistic expressions and career opportunities by ignoring real world implications.
+
+31. Which one is wrong action when a leak is suspected in high-pressure equipment?                                         (1)
+
+    A. Shut down and depressurize the system safely.
+    B. Use hands to feel for escaping fluid from the system.
+    C. Keep a safe distance from the suspected leak.
+    D. Report the issue according to safety procedures.
+
+32. Which of the following best describes the importance of career awareness in physics education?                         (1)
+    A. It is optional and has little impact on future employment.
+    B. It is irrelevant; students should only focus their theoretical knowledge.
+    C. It helps students understand the diverse career opportunities, provide hands-on experience and networking
+       system.
+    D. It primarily focuses students' interest in academia and it serves no purpose in advancing physics knowledge.
+
+33. If you feel a pressure three times that of the atmospheric pressure when you are deep under water, how high is (1)
+    the water level from your position? (atm = 10⁵ Pa, density ρ_w = 10³ kg/m³, g = 10 m/s², and assume atmospheric
+    pressure is exerted on it.)
+    A. 20 m                                                     B. 10 m
+    C. 40 m                                                     D. 30 m
+34. The vertical component of force acting at an angle of 37° to the horizontal is 12N. What will be the magnitude of   (1)
+    the force and its horizontal component respectively?
+    A. 50N, 30N                                                  B. 20N, 16N
+    C. 20N, 25N                                                  D. 5N, 25N
+
+35. For what value of C lying on the x-axis does A·(B+C) = 0 if A = 5i - 3j + 4k and B = 2i + 4j - 5k?                  (1)
+    A. 5i                                                        B. -3.2i
+    C. 1.9i                                                      D. -4.4i
+
+36. Which of the following is NOT correct about momentum?                                                               (1)
+
+    A. The total linear momentum of an isolated system remains constant.
+    B. Impulse is the change in momentum.
+    C. Impulse and momentum have the same unit.
+    D. Linear momentum is mass multiplied by impulse.
+
+37. In aerospace engineering, the stability of a satellite in orbit is ensured by                                       (1)
+    A. Air friction
+    B. Newton's law of motion and gravitational force
+    C. Electromagnetic shielding
+    D. Laser production
+
+38. What is the main focus of physics compared to chemistry?                                                            (1)
+    A. Physics studies reactions between substances but chemistry studies motion.
+    B. Physics studies fundamental laws of matter and energy, while chemistry studies composition and reaction of
+       matter.
+    C. Physics studies at macro levels about atoms while chemistry studies at micro levels.
+    D. Physics concerns transformation of physical matter but chemistry concerns the movement of physical objects.
+
+39. The principle behind optical fibers in medical imaging (endoscopy) is                                               (1)
+
+    A. Total internal reflection                                 B. Diffraction
+    C. Polarization                                              D. Scattering
+
+40. Which of the following best describes cruise missiles?                                                              (1)
+    A. They are propelled by rocket.
+    B. It follows a high space-based trajectory before descending to target.
+    C. It travels at a very high speed without guidance.
+    D. It flies at low altitudes with continuous engine power and precise guidance.
+
+41. A body is thrown vertically upward and at the instant when it reaches its maximum height;                           (1)
+
+    A. Its velocity is zero and its acceleration is constant
+    B. Its velocity is zero and its acceleration is also zero.
+    C. Its velocity is zero but its acceleration is maximum.
+    D. Its velocity is zero but its acceleration is minimum.
+
+42. A particle moves in a circular path of radius 0.1m with a constant angular speed of 10π rad/s. What is the          (1)
+    acceleration of the particle?
+    A. 10π² m/s²                                                 B. 20π² m/s²
+    C. 30π² m/s²                                                 D. 40π² m/s²
+43. Three balls A, B and C are thrown at an angle 37°, 45° and 53° respectively from the ground with the same initial   (1)
+    velocity u. Which of the following comparisons about the horizontal distance they travel is correct?
+    A. Distance of A = Distance of B < Distance of C
+    B. Distance of A = Distance of C < Distance of B
+    C. Distance of A = Distance of C > Distance of B
+    D. Distance of B < Distance of C < Distance of A
+
+44. Which one of the following is false about fluid flow?                                                               (1)
+    A. Laminar fluid flow occurs with low velocity and small diameter pipe.
+    B. Turbulent fluid flow occurs with high velocity and larger diameter pipe.
+    C. The path of different particles during laminar fluid flow crosses each other.
+    D. The velocity of the particles is tangent to streamline for laminar fluid flow.
+
+45. The V-t graph of a moving object as shown in the figure below. The maximum acceleration is                          (1)
+
+    A. 1 cm/sec²                                                      B. 2 cm/sec²
+    C. 3 cm/sec²                                                      D. 6 cm/sec²
+
+46. A solid sphere of radius R and moment of inertia about its diameter (I = 2/5 mr²) starts from rest and rolls down   (1)
+    an inclined plane of 7m high. What is the speed of the sphere at the bottom of the inclined plane? (Ignore
+    friction)
+    A. 10 m/s                                                         B. 100 m/s
+    C. 30 m/s                                                         D. 5 m/s
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

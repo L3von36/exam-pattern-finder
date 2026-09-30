@@ -1,0 +1,285 @@
+                                                         Temari.et
+                             Physics, 2017 EC, entrance exam, version 2
+                                                 Grade 12 · Physics · 2017 E.C.
+
+Time allowed: 120 minutes                                      Questions: 50                                  Total marks: 50
+
+Name                                             Grade                         ID No.                 Date
+
+1.   Two trains are traveling towards each other on parallel tracks. Train X is moving west at 80 km/h, Train Y moving (1)
+     east at 60 km/h. If you are on Train X, what is the velocity of Train Y relative to Train X?
+     A. 140 km/h towards the east                                 B. 60 km/h towards the west
+     C. 20 km/h towards the west                                  D. 140 km/h towards the west
+
+2.   Which of the following is a correct action-reaction force pair?                                                       (1)
+     A. The force of a ball hitting a wall and the force of gravity pulling the ball down.
+     B. The force of a car's tires pushing backward on the road and the road pushing the car forward.
+     C. The force of the bat hitting a ball and the force of air resistance on the ball.
+     D. The force of a swimmer's arms pushing water backward and the force of gravity pulling them down.
+
+3.   A 0.25 kg ball moving at 4 m/s collides inelastically with a stationary ball of mass 0.75 kg. After collision they    (1)
+     stick together. What is the kinetic energy lost?
+     A. 4 J                                                       B. 2 J
+     C. 3.5 J                                                     D. 1.5 J
+
+4.   A block weighing 200 N is placed on a frictionless inclined plane that rises to a height of 3 m over a distance of    (1)
+     12 m along the plane. What is the mechanical advantage (MA) of the inclined plane?
+     A. 1.67                                                      B. 3.00
+     C. 4.00                                                      D. 6.00
+
+5.   What is the main characteristic of a third-order lever?                                                               (1)
+     A. The fulcrum is at one end, with the effort on the other end.
+     B. The load is positioned between the effort and the fulcrum.
+     C. It has a mechanical advantage greater than one.
+     D. The effort is applied between the load and the fulcrum.
+
+6.   Considering the relationship between atmospheric pressure and altitude, which evaluation best explains the            (1)
+     challenges faced by climbers at high elevations?
+     A. Climbers are less affected by low atmospheric pressure because they are physically fit.
+     B. Decreased atmospheric pressure at high altitudes leads to reduced oxygen levels, which can impair physical
+        performance and increase fatigue.
+     C. Climbers do not need to acclimatize as atmospheric pressure has no significant impact on their performance.
+     D. High atmospheric pressure at altitudes enhances climbers' endurance and reduces fatigue.
+
+7.   Which of the following is correct?                                                                                    (1)
+     A. Temperature is the measure of the average molecular kinetic energy of a gas
+     B. Internal energy of the system is independent of its mass or the number of molecules in the system
+     C. Heat is energy that can be transferred from one object to another at equal temperature
+     D. Temperature is a measure of the amount of energy that flows from hot to colder region
+8.   The sound intensity at a distance of 2 m from a point source is 1 W/m². What will be the intensity at a distance of     (1)
+     4 m from the same source, assuming uniform spherical spreading?
+     A. 0.25 W/m²                                                B. 0.5 W/m²
+     C. 1.0 W/m²                                                 D. 2 W/m²
+
+9.   Which situation best shows the application of both experiential and non-experiential knowledge in solving a             (1)
+     complex problem?
+     A. A scientist uses experimental data from a lab experiment and theoretical models to refine their hypothesis.
+     B. A teacher applies established classroom management techniques without considering past experiences with
+        students.
+     C. A lawyer follows court precedents and applies personal experiences from similar cases to argue in court.
+     D. A nurse consults a medical handbook, but only follows their instinct when making decisions.
+
+10. How do physics graduates contribute to the healthcare sector?                                                            (1)
+
+     A. Designing promotional campaigns for health care products.
+     B. Working in pharmaceuticals for drug development.
+     C. Managing healthcare institutions.
+     D. Creating, reviewing and maintaining medical technologies in the field.
+
+11. Which of the following defines a parallel vector?                                                                        (1)
+     A. A vector that is parallel to the ground.
+     B. A vector that points in the same or exactly opposite direction to another vector.
+     C. A vector that has zero magnitude.
+     D. A vector that always points toward the center of the Earth.
+
+12. The velocity of a particle moving with constant acceleration at an instant t₀ is 10 m/s. After 5 seconds, velocity is (1)
+    20 m/s. The velocity at 3 seconds before t₀ is:
+     A. 8 m/s                                                    B. 4 m/s
+     C. 6 m/s                                                    D. 7 m/s
+
+13. A ball is dropped from a height of 80 m. How long will it take to hit the ground? (g=10 m/s²)                            (1)
+     A. 3.5 s                                                    B. 4.0 s
+     C. 5.0 s                                                    D. 6.0 s
+
+14. A 5 kg box is resting on an incline of 30°. Coefficient of static friction = 0.58. What is the maximum static friction   (1)
+    force before it slides?
+     A. 25 N                                                     B. 15 N
+     C. 12.5 N                                                   D. 10 N
+
+15. If the force applied to an object is perpendicular to its displacement, what is the work done?                           (1)
+     A. Maximum                                                  B. Negative
+     C. Half of the maximum                                      D. Zero
+
+16. Which of the following scenarios illustrates heat transfer by convection?                                                (1)
+
+     A. A spoon becoming hot when placed in a hot bowl of food.
+     B. The sun warming the Earth through the vacuum of space.
+     C. A blanket keeping a person warm on a cold night.
+     D. A pot of water heating up from the bottom on a stove.
+17. Body A is ten times the mass and half the specific heat capacity of body B. If they receive equal heat, how do        (1)
+    their heat capacities compare?
+    A. Heat capacity of A is 10 times greater                   B. Heat capacity of B is 10 times greater
+    C. Heat capacity of A is 5 times greater                    D. Heat capacity of B is 5 times greater
+
+18. Two rods of length L and 2L with coefficients of linear expansion α and 2α respectively are connected so total        (1)
+    length becomes 3L. The average coefficient of linear expansion of the composite rod equals:
+    A. (3/2)α                                                   B. (5/3)α
+    C. (5/2)α                                                   D. α
+
+19. When ice melts into water at 0°C, what happens to the temperature of the system until all ice has converted?          (1)
+    A. Temperature increases continuously until 100°C.
+    B. Temperature decreases until all ice has melted.
+    C. Temperature remains constant at 0°C despite heat addition.
+    D. Temperature fluctuates between 0°C and 5°C.
+
+20. Two small spheres with charges q₁=3 μC and q₂=-2 μC are placed 6 cm apart in vacuum. What is the magnitude            (1)
+    of electrostatic force between them? (k=9×10⁹ Nm²/C²)
+    A. 1.5 N                                                    B. 9 N
+    C. 3 N                                                      D. 15 N
+
+21. A chef is preparing food in a clay pot and iron pot of the same size on identical stoves. The food in clay pot takes (1)
+    longer to heat but stays warm longer. Best explanation?
+    A. The clay pot has higher specific heat capacity, requiring more heat to raise its temperature but retaining it longer.
+    B. The iron pot has a lower specific heat capacity, so it transfers heat to the food more slowly.
+    C. The clay pot reflects heat, preventing rapid heating but ensuring gradual cooling.
+    D. The iron pot traps heat inside, causing the food to heat up faster but cool down quickly.
+
+22. Designing a circuit to convert a galvanometer (full-scale 5 mA, resistance 30 Ω) into a voltmeter measuring up        (1)
+    to 50 V. What series resistor is needed?
+    A. 9,970 Ω                                                  B. 10,000 Ω
+    C. 1,000 Ω                                                  D. 2,000 Ω
+
+23. Which statement best describes why inserting a dielectric increases capacitance?                                      (1)
+
+    A. The dielectric reduces the distance between plates.
+    B. The dielectric allows higher voltage to be applied.
+    C. The dielectric polarizes and reduces the effective electric field between plates.
+    D. The dielectric increases the plate size, allowing more surface area.
+
+24. An ancient wooden artifact has only 25% of its original ¹⁴C remaining. Half-life of ¹⁴C is 5730 years. How old is     (1)
+    the artifact?
+    A. 5,730 years                                              B. 11,460 years
+    C. 17,190 years                                             D. 22,920 years
+25. What makes a body more stable according to Newtonian mechanics?                                                   (1)
+    A. A narrower base support
+    B. The higher center of gravity
+    C. A wider base of support and a lower center of gravity
+    D. The material of the body
+
+26. Which comparison accurately highlights a fundamental difference between nuclear fission and nuclear fusion?       (1)
+    A. Fission involves combining light nuclei, fusion involves splitting heavy nuclei.
+    B. Both require high temperatures, but only fission produces radioactive waste.
+    C. Fission occurs naturally in stars, fusion is used in nuclear reactors.
+    D. Fusion releases energy by combining light nuclei, whereas fission releases energy by splitting heavy nuclei.
+
+27. Which statement best explains the relationship between physics and chemistry?                                     (1)
+    A. Physics is primarily concerned with matter, while chemistry focuses solely on energy.
+    B. Chemistry relies on the principles of physics to explain how atoms and molecules interact and behave.
+    C. Physics and chemistry are completely independent fields with no overlap.
+    D. Chemistry is a branch of physics that deals exclusively with chemical reactions.
+
+28. Which scenario best illustrates the application of nuclear medicine in diagnosing a medical condition?            (1)
+
+    A. A patient undergoes an MRI scan to assess brain activity.
+    B. A physician uses a PET scan to visualize metabolic activity in a tumor.
+    C. A doctor prescribes antibiotics for a bacterial infection.
+    D. A patient receives a physical examination to check for signs of illness.
+
+29. Which best explains how electrical properties of neurons facilitate communication?                                (1)
+    A. Neurons use electrical signals only for muscle contraction, with no role in intercellular communication.
+    B. Electrical signals in neurons are uniform and do not encode different types of information.
+    C. Action potentials depend on selective permeability of neuronal membrane, allowing specific ion movements that
+       encode information.
+    D. Neurons rely solely on chemical signals for communication, not electrical properties.
+
+30. Which type of radiation, related to physics in medicine, is frequently used in cancer treatment?                  (1)
+    A. Gamma-rays                                              B. Radio waves
+    C. Alpha particles                                         D. Microwaves
+
+31. Which statement best evaluates the effectiveness of infrared wave detection compared to visible light in night    (1)
+    vision systems?
+    A. Infrared detection is less effective because it cannot penetrate fog or smoke.
+    B. Infrared detection is superior because it detects heat emitted by objects, useful in low-light conditions.
+    C. Infrared detection provides a clearer image than visible light under all conditions.
+    D. Infrared detection is only useful in military applications, not civilian.
+
+32. Which branch of physics is most crucial for understanding transmission of radio waves, microwaves, and            (1)
+    infrared waves in communication technologies?
+    A. Thermodynamics                                          B. Quantum mechanics
+    C. Classical mechanics                                     D. Electromagnetism
+33. At the peak of its trajectory, what is the vertical component of a projectile's velocity?                            (1)
+    A. Maximum                                                   B. Half of initial value
+    C. Zero                                                      D. Constant
+
+34. In projectile motion, which is the correct relation between total time of flight (T) and maximum height (H)?         (1)
+
+    A. H = (1/4)gT²                                              B. H = (1/2)gT²
+    C. H = (1/8)gT²                                              D. H = gT
+
+35. A fan blade starts from rest and reaches angular velocity 30 rad/s in 6 s with constant angular acceleration.        (1)
+    What is angular displacement during this time?
+    A. 90 rad                                                    B. 120 rad
+    C. 180 rad                                                   D. 210 rad
+
+36. A solid disk (I=½mr²) and a hollow cylinder (I=mr²) of same mass and radius roll down an incline without slipping.   (1)
+    Which statement correctly compares their final velocities?
+    A. Solid disk has greater final velocity.
+    B. Hollow cylinder has greater final velocity.
+    C. Both have same final velocity.
+    D. Cannot be determined.
+
+37. Rotating system: m₁=2kg at r₁=1m, m₂=3kg at r₂=2m, m₃=4kg at r₃=3m. What is total moment of inertia I about          (1)
+    the axis?
+    A. 34 kg·m²                                                  B. 38 kg·m²
+    C. 42 kg·m²                                                  D. 50 kg·m²
+
+38. Which statement correctly summarizes all three of Kepler's Laws?                                                     (1)
+    A. All planets have circular orbits; their speeds vary; their distances affect their speeds.
+    B. Planets orbit in straight lines, move at constant speeds, and have periods that depend on their masses.
+    C. Planets orbit in ellipses, sweep equal areas, and have periods related to their distances from the Sun.
+    D. All celestial bodies are attracted to each other; they move in random paths; and their speeds are equal.
+
+39. Two moons orbit a planet. Moon A has orbital radius R, Moon B has radius 4R. How does orbital period of B            (1)
+    compare to A?
+    A. Twice as long                                             B. 8 times as long
+    C. 4 times as long                                           D. 2 times as long
+
+40. Two masses 4 kg and 6 kg separated by 2 m. Gravitational force between them? G=6.7×10⁻¹¹ Nm²/kg²                     (1)
+    A. 4.0×10⁻¹¹ N                                               B. 8.0×10⁻¹⁰ N
+    C. 2.0×10⁻¹¹ N                                               D. 4.0×10⁻¹⁰ N
+
+41. Kepler's third law is generalized by Newton by showing that it applies to:                                           (1)
+    A. Only planets orbiting the Sun                             B. Any two orbiting bodies
+    C. Only elliptical orbits, not circular                      D. Systems where gravity is negligible
+42. What is the primary cause of pressure in a gas?                                                                    (1)
+    A. Gas particles colliding with the walls of their container
+    B. The weight of the gas
+    C. The volume of the gas
+    D. The temperature of the gas
+
+43. Which correctly expresses the relationship between absolute pressure, gauge pressure, and atmospheric              (1)
+    pressure?
+    A. Absolute pressure = gauge pressure minus atmospheric pressure.
+    B. Gauge pressure = absolute pressure plus atmospheric pressure.
+    C. Atmospheric pressure = absolute pressure plus gauge pressure.
+    D. Absolute pressure = gauge pressure plus atmospheric pressure.
+
+44. What force is needed on a hydraulic press piston of radius 2 cm to produce 7200 N on working piston of radius 6 (1)
+    cm?
+    A. 2400 N                                                      B. 800 N
+    C. 1050 N                                                      D. 667 N
+
+45. A scientist measures pressure at depth 1 m = 50 kPa. At depth 3 m in same liquid, what can she conclude?           (1)
+
+    A. Pressure increases as depth increases.                      B. Pressure decreases as depth increases.
+    C. Pressure remains constant.                                  D. No consistent relationship.
+
+46. A student uses an open-ended manometer. If mercury level is higher on gas side than open side, what is             (1)
+    concluded?
+    A. Gas pressure is greater than atmospheric                    B. Gas has no pressure
+    C. Gas pressure equals atmospheric                             D. Gas pressure is less than atmospheric
+
+47. A cube with side 0.5 m submerged in fluid density 1200 kg/m³. Buoyant force?                                       (1)
+    A. 1500 N                                                      B. 500 N
+    C. 1200 N                                                      D. 250 N
+
+48. A liquid flows through horizontal pipe where diameter decreases from 10 cm to 5 cm. Velocity at larger section =   (1)
+    4 m/s. Velocity at smaller section?
+    A. 4 m/s                                                       B. 8 m/s
+    C. 12 m/s                                                      D. 16 m/s
+
+49. Which best describes turbulent fluid flow?                                                                         (1)
+    A. Velocity is constant at every point
+    B. Motion is smooth and predictable
+    C. Fluid particles follow irregular, chaotic paths
+    D. Fluid flows with well-defined layers
+
+50. During operation of a high-pressure steam turbine, you detect unusual noises and vibrations. What is your          (1)
+    immediate response?
+    A. Increase steam flow to compensate.
+    B. Continue operation and report later.
+    C. Reduce load and initiate immediate inspection.
+    D. Temporarily shut down and wait for anomalies to resolve.
+                — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

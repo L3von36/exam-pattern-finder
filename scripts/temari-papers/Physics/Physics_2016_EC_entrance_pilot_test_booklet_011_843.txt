@@ -1,0 +1,488 @@
+                                                         Temari.et
+                        Physics, 2016 EC, entrance pilot test, booklet 011
+                                                Grade 12 · Physics · 2016 E.C.
+
+Time allowed: 120 minutes                                    Questions: 58                                   Total marks: 58
+
+Name                                             Grade                            ID No.             Date
+
+1.   A car moves 6Km North and then 8 km East, what is the resultant displacement of the car?                               (1)
+     A. 2km North                                                B. 2km East
+     C. 10 km 37∘ North of East                                  D. 10 km 53∘ North of East
+
+2.   Which one of the following types of motion represents a uniformly accelerated motion?                                  (1)
+     A. Free falling object
+     B. A mass attached on a spring oscillating on a smooth horizontal surface
+     C. A car moving along a curved path at a constant speed.
+     D. A car moving in a straight line with constantly increasing acceleration
+
+3.   Starting from rest, a car accelerated uniformly with 2.5 m/s2 . How much distance should it travel to attain a         (1)
+     speed of 180 km/h in the direction of acceleration?
+     A. 5 km                                                     B. 100 m
+     C. 10km                                                     D. 500 m
+
+4.   A teacher is teaching students about static friction by putting a box on horizontal planes as shown in the figure      (1)
+     below. The box remained at rest until the angle of inclination of the box is 30∘ to the horizontal.
+     What is the value of the coefficient of static friction of the inclined plane?
+     [Figure: An inclined plane diagram showing a wedge inclined at an angle labeled "30°" relative to a horizontal
+     baseline. A solid black rectangular box rests on the upper portion of the inclined surface.]
+     A. 0.50                                                     B. 0.58
+     C. 0.87                                                     D. 1.722
+
+5.   If object A exerts a force on object B, then B will also exert a force of equal magnitude but opposite in directions   (1)
+     on A. This is a statement of
+     A. Newton's first law of motion                             B. Newton's second law of motion
+     C. Newton's third law of motion                             D. Newton's law of gravitation
+
+6.   A 7 kg block placed on a smooth horizontal surface is acted up on by two forces of magnitude 21 N and 7 N.of           (1)
+     mass is pulled by two ropes. If the two forces act horizontally in the same direction, what is the magnitude of
+     the acceleration of the block?
+     A. 1 m /s2   ​
+                                                                 B. 2 m /s2   ​
+
+
+
+
+     C. 3 /s2
+          m
+                  ​
+                                                                 D. 4 /s2
+                                                                        m
+                                                                              ​
+
+
+
+
+7.   Two cars, A of mass 1200 kg and B of mass 3000 kg, move with a speed of 14 m/s toward West and East,                   (1)
+     respectively. If the two cars collide head on and move together after the collision, how much kinetic energy
+     losses from the system of the two cars?
+     A. 8.64 × 105 J                                             B. 3.36 × 105 J
+     C. 6.94 × 105 J                                             D. 0
+8.   What is the expression for the efficiency (η ) of a simple machine in terms of the actual mechanical advantage   (1)
+     (MA) and velocity ratio (VR) of the machine?
+     A. η = M A/V R                                            B. η = M A × V R
+     C. η = V R/M A                                            D. η = M A − V R
+
+9.   What is the magnitude of the pressure a driver submerges 9m below the surface of water would feel? (Take         (1)
+     Atmospheric Pressure to be 101 kPa and density of water is 1000 kg/m3 )
+     A. 11 kPa                                                 B. 10001 kPa
+     C. 191 kPa                                                D. 91.01 kPa
+
+10. A hydraulic machine with two pistons having circular shapes with radii of 4cm and 52cm is used to lift a mass of (1)
+    2600 kg. Assume that the mass is placed on the piston with larger cross section, what should be the magnitude
+    of the force exerted on the smaller piston to lift the mass?
+     A. 153.85π N                                              B. 15.38π N
+     C. 153.85 N                                               D. 15.38 N
+
+11. Two blocks of the same material A and B having masses m and 2m. respectively, are supplied with equal amount (1)
+    of heat. Then
+     A. The temperature of both blocks increases equally
+     B. The change of temperature in block A is twice of that of B
+     C. The change of temperature in block B is twice of that of A
+     D. No temperature change occurs on both blocks
+
+12. A circular plane of aluminum sheet has a cross-sectional area of 400cm2 at a temperature of 0∘ C ? What is the    (1)
+    area of the plate when its temperature raised to 100∘ C ( take the linear coefficient of explansion of aluminum
+    a = 2.3 x 10−5 K −1 )
+     A. 400.9 cm2                                              B. 401.4 cm2
+     C. 401.8 cm2                                              D. 398.2 cm2
+
+13. Which one of the following feature of a wave is correctly described?                                              (1)
+     A. Wave length of a wave is distance between successive crest and trough
+     B. The amplitude of a wave is the distance between crest and trough
+     C. The wave length is the maximum displacement of particles from their equilibrium position
+     D. The frequency of a wave is the number of full-waves that passes a given point per time taken
+
+14. Which one of the following statements explains the nature of longitudinal waves?                                  (1)
+     A. They are formed when electric and magnetic fields oscillate in perpendicular direction
+     B. They comprise a series of crest and troughs
+     C. They propagate parallel to the vibration of the medium
+     D. They are waves that can travel trough vacuum
+
+15. Which one of the following physical quantities is constant in uniform circular motion?                            (1)
+     A. Speed                                                  B. Velocity
+     C. Acceleration                                           D. Force
+
+16. What is the value of acceleration due to gravity at a height of 1000 km from the surface of the Earth?            (1)
+     A. 9.80 m/s2                                              B. 10.00 m/s2
+     C. 9.71m/s2                                               D. 7.31m/s2
+17. What is the rotational kinetic energy of a sphere, whose moment of inertia is 14 kg.m2 rotating at an angular           (1)
+    velocity of 6 rad/s ?
+    A. 36 J                                                      B. 252 J
+    C. 504 J                                                     D. 42 J
+
+18. The region in which an electric charge experiences force from another charge is                                         (1)
+    A. Electric potential                                        B. Electric field
+    C. Electric energy                                           D. Electric force
+
+19. The electric field lines of a positive charge are drawn as shown below in the Figure. Two circles were drawn as         (1)
+    shown below to compare the magnitude of electric field strength at point A, B, C and D
+    Which one of the following statements describes correctly the strength of electric field at the points given?
+    [Figure: A diagram showing a central circular positive charge labeled with a '+' symbol. Eight radially outward
+    electric field lines with directional arrows extend from the central charge. Two concentric dashed circles are
+    drawn centered on the charge: an inner circle and an outer circle. Four points are indicated by solid black dots:
+    Point C is on the outer dashed circle at the top (12 o'clock position) along a vertical field line; Point D is on the
+    outer dashed circle at the bottom (6 o'clock position) along the downward vertical field line; Point A is on the
+    outer dashed circle in the upper-left quadrant; Point B is on the inner dashed circle in the upper-left quadrant
+    along an outward field line.]
+    A. C and D have equal electric field strength
+    B. A and B have equal electric field strength
+    C. B and C have equal electric field strength
+    D. B and D have equal electric field strength
+
+20. Three capacitors C1 = 1μF, C2 = 4μF and C3 = 2μF, are connected to a 14V battery as shown in the figure
+                            ​             ​            ​                                                                    (1)
+    below
+    How much total charge will be stored in the capacitors ?
+    [Figure: A circuit diagram containing a 14V battery at the top. The positive and negative terminals connect to a
+    network of three capacitors: C1 and C3 are connected in parallel with each other. Their combined output is
+                                      ​           ​
+
+
+
+
+    connected in series with capacitor C2 , which then connects back to the other terminal of the 14V battery.]
+                                              ​
+
+
+
+
+    A. 22.12 μC                                                  B. 24.00 μC
+    C. 1.71 μC                                                   D. 12.00 μC
+
+21. Consider a 10 m long rubber and a 10 m long copper wire with similar cross-sectional area. Which of the                 (1)
+    following statement explains the relationship between their resistivity and conductivity?
+    A. Unlike copper, rubber does not have good conductivity due to its low resistivity
+    B. Unlike rubber, copper is highly conducting due to its high resistivity
+    C. Since both copper and the rubber have the same length and cross-sectional area, their resistivity is the same.
+    D. Even though the cross-sectional area of rubber and copper is the same, their conductivity is different.
+
+22. Three resistors of resistances 1.5 Ω, 2.5 Ω and 4.0 Ω, are connected to a 12V battery as shown in the figure            (1)
+    below
+    How much current will flow in 4.0Ω resistor?
+    [Figure: A circuit diagram with a 12V battery in the leftmost branch. Connected in parallel across the 12V battery
+    are two branches: a middle branch containing two resistors in series labeled 1.5 Ω and 2.5 Ω, and a right branch
+    containing a single resistor labeled 4 Ω.]
+    A. 2 A                                                       B. 3 A
+    C. 1 A                                                       D. 2.5 A
+23. A solenoid with 100 turns of wire has length of 2m and it carries a current of 0.5A. What is the magnitude of the     (1)
+    magnetic field at the center of the solenoid ?
+    A. 2π × 10−5 T                                              B. 2π × 10−7 T
+    C. π × 10−5 T                                               D. 4π × 10−7 T
+
+24. Consider a charge, q, moving at a speed of v perpendicular to a magnetic field of strength B. What will happen        (1)
+    to the new magnetic force, F, if the speed of the charge is doubled?
+    A. Half of the original                                     B. Double of the original
+    C. Square of the original                                   D. The same as the original
+
+25. A student wants to build a simple transformer and wrapped two wires on the top half and bottom half of an iron        (1)
+    rod. The top wire was connected to an ac voltage supply. Which of the following can occur in the transformer?
+    A. Self-inductance of the wire wrapped on top will magnetize the wire in the bottom of the rod.
+    B. The top wire will magnetize the iron rod and an alternating current will be induced in the lower wire.
+    C. Magnetic field will be induced in the lower wire that will magnetize the iron rod.
+    D. The amount of electric current in the lower wire is zero as its biasing voltage is zero.
+
+26. Which one of the following statements is true about the conductivity of a doped silicon semiconductor?                (1)
+    A. A If silicon is doped with boron, the majority carriers are free electrons.
+    B. B If silicon is doped with boron, the majority carriers are holes
+    C. C If silicon is doped with Arsenic, the majority carriers are holes.
+    D. D If silicon is doped with Arsenic, the number of free electrons and holes are equal.
+
+27. Which one of the following statements is true about a doped semiconductor?                                            (1)
+
+    A. A In an n-type semiconductor, the majority carries are electrons while the minority carriers are holes
+    B. B An n-type silicon semiconductor can be produced by doping it with group III elements.
+    C. C In n and p-type semiconductors, the concentrations of holes and electrons are the sane.
+    D. An arsenic doped silicon semiconductor is a p-type semiconductor.
+
+28. An iron bar partially submerged in water appears to be bent, what explains the reason behind this phenomenon          (1)
+    ?
+    A. When the Iron is submerged in water it gets rusted and starts to bend
+    B. The angle of reflection of light from the iron bar is different in different mediums
+    C. Since water and air have different indices of refraction, the light from the air gets refracted as it passes through
+       the water
+    D. As light scattered from the surface of the metal, it will appear that the metal in water is bent.
+
+29. Five students walking around their school wanted to check their weights on a balance placed on the side of the (1)
+    road. The reading of the balance and the true weight of students are given in the table shown below
+    What can you say about the difference between their true weights and their weights measured on the balance?
+    The errors in their weights measured by the balance are
+    [Figure: A table with 6 columns and 3 rows: - Row 1 (Header): Students | Student 1 | Student 2 | Student 3 |
+    Student 4 | Student 5 - Row 2: Measured weights (kg) | 48 | 52 | 46 | 50 | 40 - Row 3: True weights (kg) | 46 | 50 |
+    44 | 48 | 35]
+    A. Random
+    B. Both random and systematic
+    C. Systematic
+    D. Different for the first and last students
+30. Three vectors F1 , F2 and F3 are drawn on a scale as shown in the figure below
+                               ​       ​   ​
+                                                                                                                             (1)
+    Which one of the following equations describes the relationship between the three vectors?
+    [Figure: A vector triangle with three vertices: bottom-left, top, and bottom-right. Vector F1 extends from the
+                                                                                                           ​
+
+
+
+
+    bottom-left vertex to the top vertex with an arrowhead at the top vertex. Vector F3 extends from the top vertex
+                                                                                                       ​
+
+
+
+
+    to the bottom-right vertex with an arrowhead at the bottom-right vertex. Vector F2 extends along the horizontal
+                                                                                                   ​
+
+
+
+
+    base from the bottom-left vertex to the bottom-right vertex with an arrowhead at the bottom-right vertex.]
+    A. F1 + F2 + F3 = 0
+           ​           ​           ​
+                                                                 B. -F1 + F2 + F3 = 0
+                                                                           ​           ​       ​
+
+
+
+
+    C. F1 − F2 + F3 = 0
+           ​           ​           ​
+                                                                 D. F1 + F2 − F3 = 0
+                                                                       ​           ​       ​
+
+
+
+
+31. A rabbit was hopping on a big field toward a carrot pile which was placed at 20m to the positive x-direction and         (1)
+    7m to the negative y-direction from its starting point. Which of the following displacement vector, S , represents
+    her motion?
+    A. S = (20i + 7j)m                                           B. S = (7i + 20j)m
+    C. S = (−20i + 7j)m                                          D. S = (20i − 7j)m
+
+32. Which one of the following statements defines the term reference frame?                                                  (1)
+    A. A physical body on which a coordinate axis fixed to measure the motion of other body
+    B. A boundary of physical body in which a body moves freely and for bodies to get out from there
+    C. A coordinate which attached on a body whose motion is observed
+    D. A coordinate on which all moving bodies at any velocity appear to the stationary
+
+33. A race car starting from rest accelerated at a constant rate of 4m/s2 . What will be the velocity of the car after       (1)
+    travelling a distance of 20 km?
+    A. 200 m/s                                                   B. 400 m/s
+    C. -200 m/s                                                  D. -400 m/s
+
+34. A ball thrown horizontally with a speed of 5m/s from the top of a 20m high building hit the ground after a time t. (1)
+    what will be the horizontal distance from the base of the building to the point it hits the ground? (Neglect air
+    resistance)
+    A. 10 m                                                      B. 50 m
+    C. 5 m                                                       D. 100 m
+
+35. What is the difference between uniform and non-uniform circular motions?                                                 (1)
+    A. Direction of the acceleration is constant in uniform circular motion but not in non-uniform circular motion.
+    B. Speed is constant in uniform circular motion but not in non-uniform circular motion.
+    C. The velocity of a body in a uniform circular motion is constant but not in non-uniform motion.
+    D. acceleration is zero in uniform circular motion but non-zero constant in non-uniform circular motion.
+
+36. Impulse (I) of an object of mass, m is defined as the product of the net force(F) exerted on an object during            (1)
+    collision and the time of contact (Δt). Using Newton's second law, how will the change in momentum (Δp) and
+    impulse(I) of the object relate?
+    A. Δp = Δt
+            I
+                           ​
+                                                                 B. Δp = mI
+         Δp
+    C.   Δt = I​
+                                                                 D. Δp = I
+
+37. A car is turning in a circle of radius 25 m on a wet road with coefficient of static friction 0.20. What should be its   (1)
+    maximum speed to turn without sliding out of control?
+    A. 25 2 m/s    ​
+                                                                 B. 5 2 m/s
+    C. 50 m/s                                                    D. 50 2 m/s   ​
+38. A student is asked to carry a box full of 25 grade-10 physics text books each weighing 5 N up a stair of height       (1)
+    20 m. The amount of work done by the student is
+    A. Equivalent to the energy transferred to the box
+    B. Higher than the energy transferred to the box
+    C. Lower than the energy transferred to the box
+    D. The ratio of the force the student exerted to lift the weight to the height of the stairs
+
+39. A ball is dropped from a building of height h. The kinetic energy of the ball (Neglect air resistance)                (1)
+    A. is maximum at its maximum height
+    B. just before it hits the ground is equal to its potential energy when it is dropped
+    C. and the potential energy of the ball are equal when it hits the ground
+    D. and the potential energies of the ball cannot be equal any time during the flight
+
+40. An airplane propeller slows from an initial angular speed of 12.5 rev/s to a final angular speed of 5.00 rev/s at a   (1)
+    constant angular acceleration. During this process, the propeller rotates through 21.0 revolutions. What is the
+    angular acceleration of the propeller?
+    A. −6.25π rad/s2                                             B. 0.36π rad/s2
+    C. −0.36π rad/s2                                             D. −7.44π rad/s2
+
+41. A 10 kg disk of radius 1 m is accelerated by an applied torque of 40 Nm. What is the magnitude of its angular         (1)
+    acceleration ? (use I = 1 /2 M R2 for disc )
+                                 ​
+
+
+
+
+    A. 4 rad/s2                                                  B. 5 rad/s2
+    C. 8 rad/s2                                                  D. 0.25 rad/s2
+
+42. The law of conservation of angular momentum states that the angular momentum of a body remains constant               (1)
+    provided that
+    A. A constant non-zero resultant torque is applied on it
+    B. There is no frictional loss
+    C. The sum of the forces equals to zero
+    D. The resultant torque applied to it is zero
+
+43. The first condition equilibrium states that states an object is in equilibrium provided that                          (1)
+    A. the sum of all forces exerted on an object is zero
+    B. the sum of all forces exerted on an object is non-zero.
+    C. the sum of all torques exert on the object is zero.
+    D. the net torque applied on the object is non-zero constant.
+
+44. A big post weighing 50N is hanging from a vertical cable tied to two other cables that are fastened to a support (1)
+    as shown in the Figure below. The upper cables make angles of 37 and 53 with the horizontal.
+    Find the tension in each of the three cables
+    [Figure: A horizontal ceiling/support is at the top. Two cables extend downwards to meet at a single central
+    knot/junction. The left cable has tension labeled T1 and makes an angle of 37∘ with the horizontal ceiling. The
+                                                          ​
+
+
+
+
+    right cable has tension labeled T2 and makes an angle of 53∘ with the horizontal ceiling. Hanging vertically
+                                         ​
+
+
+
+
+    straight down from the junction is a third cable labeled T3 , which supports a rectangular sign labeled "Education
+                                                                 ​
+
+
+
+
+    For All!".]
+    A. T1 = 40N , T2 = 50N , T3 = 20N
+          ​            ​             ​
+                                                                 B. T1 = 30N , T2 = 40N , T3 = 50N
+                                                                       ​            ​              ​
+
+
+
+
+    C. T1 = 40N , T2 = 50N , T3 = 30N
+          ​            ​                                         D. T1 = 40N , T2 = 30N , T3 = 50N
+                                                                       ​            ​              ​
+45. A type of fluid flow where there is disruption to layer fluid in which the velocity of the fluid at any point is           (1)
+    continuously changing both in magnitude and direction is rate is changing is
+     A. Laminar flow                                              B. Stream line
+     C. turbulent flow                                            D. incompressible flow
+
+46. A brass slab of cross-sectional area 8 × 10−4 m2 and a length of 1.5 m has a temperature difference of 70∘ C               (1)
+    across its length. If the thermal conductivity of brass is 109 W /mk. What is the rate at which heat flows?
+     A. 2.16 W                                                    B. 0.406 W
+     C. 4.06 W                                                    D. 21.6 W
+
+47. Which one of the following concepts of physics is not used in mechanical engineering?                                      (1)
+     A. Aerodynamics                                              B. Molecular dynamic
+     C. Thermodynamics                                            D. Mechanics
+
+48. A student is given an assignment to do a simple survey on the birds that enter a nest on a tree far from his               (1)
+    house in a single day. Which one of the following statements is correct about his Survey?
+     A. He can count the number of red birds entering the nest at night using infra-red camera.
+     B. He can use binoculars to count the number of birds entering the nest both during the day and at night.
+     C. He can use binoculars during the day and infra-red cameras at night to determine both the number and colors of
+        the birds entering the nest.
+     D. He can use binoculars during the day and infra-red cameras at night to count the number of bird but he cannot
+        be sure about their colors.
+
+49. 51. A relief airplane drops packages of wheat to the people in need. The plane was travelling horizontally at 20           (1)
+    m/s at a height of 80 m above the ground. What will be the horizontal and vertical components of the velocity of
+    the package just before it hits the ground? (Neglect air resistance)
+     A. Vx = 0 m/s and Vy = 4 m/s
+                 ​            ​
+                                                                  B. Vx = 20 m/s and Vy = 40 m/s
+                                                                                   ​         ​
+
+
+
+
+     C. Vx = 20 m/s and Vy = 20 m/s
+                 ​                ​
+                                                                  D. Vx = 20 m/s and Vy = 80 m/s
+                                                                                   ​         ​
+
+
+
+
+50. 52. A bead rotating in a circle of radius r, covers a distance of, S while sweeping out an angle of 'θ' in time 't'. The   (1)
+    bead's angular velocity is
+     A. st   ​
+                                                                  B. θt        ​
+
+
+
+
+     C.   rθ
+           t
+                                                                  D.   r
+                                                                       t   ​
+
+
+
+
+51. 53. Three forces were acting on a particle rotating around a circle at a fixed axis. If the torque by the three forces (1)
+    is doubled, the angular acceleration will be
+     A. Halved                                                    B. Doubled
+     C. remains constant                                          D. zero
+
+52. 54. What will be the cause of pressure in fluids?                                                                          (1)
+     A. The tangential force acting on the fluid layers
+     B. The normal force acting on the fluid layers
+     C. Both the tangential and the normal forces acting on the fluid layers
+     D. Neither the tangential nor the normal forces acting on the fluid layers
+53. An athlete takes his nap on a bed of nails after a long training. How is it possible? Because                              (1)
+     A. he has strong skin.
+     B. his weight is distributed over all the nails in the bed reducing the pressure on the athlete.
+     C. his weight is distributed over all the nails in the bed increasing the pressure on the athlete.
+     D. the nails are not sharp.
+
+54. A hose is pointed straight up, with water flowing from it at a steady volume flow rate and reaching a maximum              (1)
+    height of h. Neglecting air resistance, which of the following adjustments to the nozzle will result in the water
+    reaching a height of 4h? Decrease the area of the opening by a factor of
+     A. 1/16                                                            B. 1/8
+     C. 1/4                                                             D. ½
+
+55. A student is building an electromagnet by wrapping a wire around a coil. What is true about the electromagnet?             (1)
+     A. There will be magnetic field in the electromagnet even though the current flowing through the wire is zero.
+     B. The source of the magnetic field in the electromagnet is the earth's magnetic field.
+     C. The electromagnet will have magnetic field when there is a current flowing thorough the wire.
+     D. The electromagnet will retain its magnetic property when the current is off.
+
+56. 58. A 100 tun coil is wrapped in a square frame of length, 10 cm, with each turn having the area of the frame.             (1)
+    The square frame is placed in XY plane, when a magnetic-field that decreases from 0.5 T to 0 T in 0.2s is turned
+    on perpendicular to it. If the resistance of the coil is 2.5Ω , how much electromotive force will be generated?
+     A. 0.025 V                                                         B. 2.500 V
+     C. 5.000 V                                                         D. 0.500
+
+57. 59. A student biased a pn-junction diode with a battery as shown in the Figure below.                                      (1)
+    What will happen when he reverses the terminals of the battery?
+    [Figure: A rectangular circuit diagram. The top horizontal branch contains a diode labeled 'D' pointing to the left
+    (the cathode bar is on the left and the triangular anode is on the right). The bottom horizontal branch contains a
+    DC battery labeled 'V' on the left (with its positive, longer terminal on the left) and a zigzag resistor labeled 'R' on
+    the right, forming a single closed loop connected by vertical wires on the left and right.]
+     A. The width of depletion layer of the diode increases.
+     B. The amount of current that flows through the diode is almost zero.
+     C. There will be low resistance to the flow of current.
+     D. The width of the depletion layer remains the same.
+
+58. A video stored in a CD can be played using a computer. How is the video stored?                                            (1)
+     A. The pictures are changed into a continuous signal that corresponds to each color
+     B. The pictures are changed into a series of 0s and 1s when they are stored
+     C. The pictures are represented as analog signal to represent each ...
+     D. The pictures are stored as varying sinusoidal signals
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

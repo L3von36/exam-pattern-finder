@@ -1,0 +1,225 @@
+                                                        Temari.et
+                        Physics, 2017 EC, entrance pilot test, booklet 04
+                                               Grade 12 · Physics · 2017 E.C.
+
+Time allowed: 120 minutes                                   Questions: 22                                  Total marks: 22
+
+Name                                            Grade                        ID No.                 Date
+
+1.   Two vectors of equal magnitudes of 20 units are given in x-y plane as shown in the figure below.                   (1)
+     What are the magnitude and the direction of the resultant of the two vectors?
+     [Figure: A Cartesian coordinate system with horizontal x-axis and vertical y-axis. Two vectors of magnitude 20
+     units originate from the origin: one vector is in the first quadrant labeled '20 units' at an angle of 30°
+     counterclockwise from the positive x-axis; the second vector is in the second quadrant labeled '20 units' at an
+     angle of 150° counterclockwise from the positive x-axis.]
+     A. 20. 00 units along positive y- axis                     B. 40. 00 units along positive y- axis
+     C. 34.40 units along negative x- axis                      D. 34. 40 along positive x-axis
+
+2.   A driver of an automobile, moving with 30 m/s, applies a break when he observes a stopping light 180 m ahead.      (1)
+     If the automobile decelerates uniformly and comes to stop just at the mark of the stopping light, what is the
+     magnitude of deceleration of the automobile?
+     A. 2.5 m/s2                                                B. 2.0 m/s2
+     C. 12.0 m/s2                                               D. 1.5 m/s2
+
+3.   Consider the following three phrases,                                                                              (1)
+     I. The acceleration of an object at specific time
+     II. The ratio of change in velocity to significant value of time interval Δt
+     III. The ratio of change in velocity to time interval Δt where Δt approaches to zero
+     Which one of the following statements is correct about the expressions found in the given phrases?
+     A. I and II express average acceleration whereas III expresses instantaneous acceleration.
+     B. III expresses average acceleration whereas I and II express instantaneous acceleration.
+     C. II expresses average acceleration whereas I and III express instantaneous acceleration.
+     D. I and III express average acceleration whereas II expresses instantaneous acceleration.
+
+4.   When a constant force of magnitude F is applied on an object, it produces a magnitude of acceleration, a. By       (1)
+     what factor does the acceleration change if the magnitude of the force is doubled and the mass of the object is
+     halved?
+     A. 4                                                       B. 14    ​
+
+
+
+
+     C. 2                                                       D.   1
+                                                                     2
+                                                                         ​
+5.   Assuming all the given curves are parabolic and the motion right direction is positive, which one of the following     (1)
+     graphs represent the displacement-time graph of an object moving to the left with a constant acceleration
+     towards the right?
+     [Figure: Four displacement-time graphs, each plotting displacement s(m) on the vertical axis against time t(s)
+     on the horizontal axis, starting from the origin: - Graph A: Located in the first quadrant, showing a parabolic
+     curve starting at the origin with zero initial slope and curving upward with increasing positive slope (concave
+     upward). - Graph B: Located in the fourth quadrant, showing a parabolic curve starting at the origin with zero
+     initial slope and curving downward with increasingly negative slope (concave downward). - Graph C: Located in
+     the first quadrant, showing a parabolic curve starting at the origin with a positive initial slope that flattens out
+     (decreases towards zero) over time (concave downward). - Graph D: Located in the fourth quadrant, showing a
+     parabolic curve starting at the origin with a steep negative initial slope that curves upward and flattens out
+     towards zero slope over time (concave upward).]
+     A. [Graph A]                                                B. [Graph B]
+     C. [Graph C]                                                D. [Graph D]
+
+6.   If the weight of an object on the surface of the earth is 2000 N, what is the weight of the same object on the         (1)
+     surface of another planet with gravitational acceleration of 5 m/s2 ? (Acceleration due to gravity on the Earth is,
+                  2
+     g = 10 m/s )
+     A. 2000 N                                                   B. 1000 N
+     C. 40 N                                                     D. 20 N
+
+7.   A block of mass m = 30 kg is released from rest at point A on a frictionless surface as shown in the figure            (1)
+     below.
+                                                                               2
+     What is the speed of the block when it arrives at point B? (g = 10 m/s )
+     [Figure: A curved frictionless track profile is shown above a horizontal reference ground line. At the starting
+     point A, the track is at a height of 50 m above the ground, where a block is released from rest. The track curves
+     down into a valley, rises over an intermediate hill, descends into another valley, and rises to a peak labeled point
+     B at a height of 30 m above the ground, before sloping downward again. A horizontal distance of 150 m is
+     indicated along the bottom between the vertical projection of point A and point B.]
+     A. 100 m/s                                                  B. 10 10 m/s​
+
+
+
+
+     C. 15 m/s                                                   D. 20 m/s
+
+8.   Suppose that you repeatedly observe the electric 'mitad' at your home heats up slower than that of your         (1)
+     neighbor when connected to the same source while cooking 'injera'. As compared to your neighbor's, your 'mitad'
+     is
+     A. made up of higher specific heat material.
+     B. made up of higher conductivity material.
+     C. made up of lower mass rigid material.
+     D. allowed to get lower energy than the source.
+
+9.   In determining the specific heat capacity of a solid by electrical method, which of the following process or           (1)
+     assumptions is possible?
+     A. Allowing heat flow to the environment.
+     B. Considering heat flow to the thermometer.
+     C. Assuming the electrical heater is 100 % efficient.
+     D. Assuming heat flows from the solid object to electrical heater.
+10. Two charges q1 = +2 μC and q2 = +8 μC are placed along the x-axis as shown in the figure below.
+                                        ​                                                                                         (1)
+    Where should a charge q3 be placed along the x-axis for the resultant electric force on it to be zero?
+                                ​
+
+
+
+
+    [Figure: A horizontal axis labeled 'x-axis' with an arrow pointing to the right. Two point charges are positioned on
+    the axis: the left charge is labeled q1 = +2μ C and the right charge is labeled q2 = +8μ C. A dimension line
+                                            ​                                                ​
+
+
+
+
+    indicates a distance of 6 m between q1 and q2 . A point between them along the axis is marked and labeled q3 .]
+                                                ​     ​                                                                    ​
+
+
+
+
+    A. 2 m from q1   ​
+                                                                   B. 2.5 m from q1     ​
+
+
+
+
+    C. 4 m from q1   ​
+                                                                   D. 5 m from q1   ​
+
+
+
+
+11. A measure of number of electric field lines that crosses a given area is                                                      (1)
+
+    A. electric field.                                             B. electric flux.
+    C. electric force.                                             D. electric potential.
+
+12. Which one of the following is correct about elastic and inelastic collisions?                                                 (1)
+    A. Total kinetic energy of the system is conserved in both elastic and inelastic collisions.
+    B. Total kinetic energy of the system is conserved in an elastic collision but not in an inelastic collision.
+    C. Total linear momentum of the system is conserved in an elastic collision but not in an inelastic collision.
+    D. Momentum and kinetic energy of the system are conserved if colliding objects stick together after collision.
+
+13. Two point charges are fixed on the x-axis, in such a way that 8 μC is placed at x = 0 while −10 μC at x =                     (1)
+    9.0 cm. Taking the electric potential at infinity being zero, at what point on the x-axis between the two charges
+    is the potential equal to zero?
+    A. x = 9.0 cm                                                  B. x = 5.0 cm
+    C. x = 4.5 cm                                                  D. x = 4.0 cm
+
+14. Which one of the following statements is correct about equipotential surface?                                                 (1)
+    A. The electric potentials at a different points on a line in a uniform electric field region are the same, if the line is
+       perpendicular to the electric field.
+    B. The electric potentials at different points on the line in a uniform electric field region are different, if the line is
+       perpendicular to the electric field.
+    C. The magnitudes of electric potentials on each surface of two different concentric circles centered at a point
+       charge are the same.
+    D. The magnitudes of electric potentials at different points on the same circle centered at a point charge are
+       different.
+
+15. In conversion of galvanometer to voltmeter, we connect                                                                        (1)
+    A. a low resistance resistor in parallel with the galvanometer.
+    B. a high resistance resistor in parallel with the galvanometer.
+    C. a low resistance resistor in series with the galvanometer.
+    D. a high resistance resistor in series with the galvanometer.
+
+16. One of the following is NOT correct about electric resistance of a conductor.                                                 (1)
+    A. The resistance can be due to the collision between free electrons.
+    B. The resistance can be due to the collision between free electron and
+    C. The resistance of a conductor can increase because of a large free electrons.
+    D. Different substances can have different electric current resistance.
+17. As shown in the figure three resistors are connected to a battery of emf ε = 12 V.                                 (1)
+    How much is the current in 2 Ω resistor?
+    [Figure: A circuit diagram with three parallel branches connected between a top node and a bottom wire. The
+    central branch contains a resistor labeled "2 \Omega" in series above a DC battery labeled "12 V" (with the
+    longer positive terminal on top). Connected in parallel to this central branch are two outer branches: the left
+    branch has a resistor labeled "3 \Omega" in its top segment, and the right branch has a resistor labeled "6
+    \Omega" in its top segment. Both outer branches connect back to the bottom of the central branch via a
+    common bottom wire.]
+    A. 12.0 A                                                         B. 3.0 A
+    C. 6.0 A                                                          D. 2.4 A
+
+18. When a dielectric material is inserted between an isolated charged parallel plate capacitor, which of the          (1)
+    following effect happens due to the polarization of the charge?
+    A. The potential difference between the plates remains constant.
+    B. The charge stored on the plates is increased.
+    C. The electric field between the plates decreases.
+    D. The capacitance of the capacitor decreases.
+
+19. In nuclear experiment, if the fired atomic bullet collides with a nucleus of a given element and produces a new    (1)
+    kind of particles as massive as proton which penetrates through several inches of lead, which of the following
+    sub-atomic particle is found by this experiment?
+    A. Proton                                                         B. Electron
+    C. Nucleon                                                        D. Neutron
+
+20. Which one of the following process increases the nuclear stability?                                                (1)
+    A. Moving the system to higher energy state.
+    B. Moving the system to the lower energy state.
+    C. Decreasing the binding energy of the nucleus.
+    D. Increasing the disruptive energy of the nucleus.
+
+21. The reason why carbon-14 dating is not applicable in dating of old biological materials is                         (1)
+    A. its abundance is too large to count in old biological materials.
+    B. it has different chemistry from stable carbon.
+    C. its concentration falls nearly zero in old biological materials.
+    D. it is difficult to compare the existing carbon-14 in the artifact with the normal abundance in living tissue.
+
+22. What is the expression of a half-life of a radioactive nucleus with decay constant λ subject to the decay law?     (1)
+
+    A. 0.693
+         λ
+                    ​                                                 B. 0.693
+                                                                            λ    ​
+
+
+
+
+    C. 2 ln
+         λ
+            2
+                ​
+                                                                      D. λ2 ​
+
+
+
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,145 @@
+                                                         Temari.et
+                             Mathematics, 2018 EC, entrance exam, version 1
+                                              Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 29                                    Total marks: 29
+
+Name                                             Grade                           ID No.                Date
+
+1.   After rationalizing the expression 3/(3√3 - 2√2), the denominator is equal to                                         (1)
+     A. 19                                                          B. 57
+     C. 3(3√3 - 2√2)/19                                             D. 3(3√3 + 2√2)/19
+
+2.   The solution set of the system {3x - y = 5, 3y + 15 = 9x} is                                                          (1)
+     A. {(0,-5),(1,-2),(2,-1),...}                                  B. R
+     C. ∅                                                           D. {(t,3t-5): t∈R}
+
+3.   The solution set of |2x+1| = x-7 is                                                                                   (1)
+
+     A. {-8,-2}                                                     B. {-8,2}
+     C. {8,2}                                                       D. {}
+
+4.   Suppose N is the set of natural numbers and A = {1,2,{3}}, then which of the following is true?                       (1)
+     A. {3} ⊆ A                                                     B. N ∪ A = N
+     C. A\{3} = A                                                   D. A ⊆ N
+
+5.   Let A={0,1,2,3,4} and R be a relation from A to A given by R={(x,y): y=x+2, for x,y∈A}. Which one is true about R?    (1)
+     A. (2,3) is an element of R                                    B. (3,5) is an element of R
+     C. The domain of R is {1,2,3,4}                                D. The range of R is {2,3,4}
+
+6.   The graph of f(x)=x²+6x+7 is obtained from the graph of g(x)=x² by shifting                                           (1)
+     A. 6 units to the right and 9 units upward
+     B. 3 units to the right and 2 units downward
+     C. 3 units to the left and 2 units downward
+     D. 3 units to the left and 2 units upward
+
+7.   Which one of the following points belongs to the relation R={(x,y): y ≥ 3x+1}?                                        (1)
+     A. (2,1)                                                       B. (0,1)
+     C. (1,3)                                                       D. (-2,-6)
+
+8.   For f: R→A, f(x)=-x²-6x+5 to be onto, what must A be?                                                                 (1)
+     A. (-∞,14]                                                     B. (-∞,-22]
+     C. [-22,∞)                                                     D. (-∞,0]
+
+9.   What must be added to x³+5x²-3x-8 so that x+2 is a factor?                                                            (1)
+
+     A. -10                                                         B. 10
+     C. -14                                                         D. 14
+10. Which one of the following is always true about a polynomial function of degree 3?                                      (1)
+    A. It has three zeros                                        B. Its range is R
+    C. It may not cross the x-axis                               D. It crosses the x-axis three times
+
+11. The simplified form of log_{4x}(4x^{-1}) + 4 log_{4x}(2x²) - 4 log_{4x} x is:                                           (1)
+
+    A. 3                                                         B. 4
+    C. 1/4                                                       D. √4
+
+12. What is the simplified form of (2^√5 × 2^√20) / 8^√5 ?                                                                  (1)
+    A. 1                                                         B. 2
+    C. 2^√5                                                      D. √2
+
+13. Which one of the following is true about the graph of f(x)=1+(1/2)^x?                                                   (1)
+    A. It is increasing on [0,∞)
+    B. The x-axis is its asymptote
+    C. It intersects the y-axis at (0,1)
+    D. for x>0, it lies between the lines y=1 and y=2
+
+14. Let f(x)=log_{1/9} x, then which one is true about f(x)?                                                                (1)
+    A. f is an increasing function                               B. y=0 is asymptote of f
+    C. for each x∈(0,1), f(x)>0                                  D. it has y-intercept
+
+15. If log_x 64 + log_x (1/8) = 3/5, then x is equal to:                                                                    (1)
+    A. 32                                                        B. 16
+    C. 8                                                         D. 4
+
+16. Which one of the following is a power function?                                                                         (1)
+    A. f(x)= (2/3)√x                                             B. f(x)=(2/3)^x
+    C. f(x)=2x^4-1                                               D. f(x)=
+
+17. Which one of the following statement define the greatest integer function given by f(x)=|x|? Wait, the text says (1)
+    'f(x)=|x|' but that's absolute value, not greatest integer. Probably a misprint. The options describe floor function. It
+    says: 'Which one of the following statement define the greatest integer function given by f(x)=|x|?' Actually
+    greatest integer is floor. Options: A. It is the least integer greater than or equal to x. B. It is an integer greater
+    than or equal to x. C. It is an integer less than or equal to x. D. It is the greatest integer less than or equal to x. So
+    D is definition of floor function. Answer D.
+    A. least integer ≥ x                                         B. integer ≥ x
+    C. integer ≤ x                                               D. greatest integer ≤ x
+
+18. The inverse of the function defined by f(x)= 3x/(x+2) is                                                                (1)
+
+    A. f^{-1}(x)= -2x/(x-3)                                      B. f^{-1}(x)= 2x/(x-3)
+    C. f^{-1}(x)= -2x/(x+3)                                      D. f^{-1}(x)= 2x/(x+3)
+
+19. If 20% salt solution is to be mixed with 40% salt to form a mixture of 30% salt solution of 600 liters, then how        (1)
+    much of the 40% salt solution is needed?
+    A. 100 liters                                                B. 200 liters
+    C. 300 liters                                                D. 400 liters
+20. For any n×n matrix A, which one is true?                                                                           (1)
+     A. If B is obtained by interchanging two rows of A, then det(A)=det(B)
+     B. If A is invertible, then det(A)=1/det(A^{-1})
+     C. det(A) = -det(A^t)
+     D. If k is scalar, det(kA)=k det(A)
+
+21. For what value of x is the matrix A = [[x, -3, x],[-1,0,2],[2,1,-5]] non-invertible (singular)?                    (1)
+     A. 1                                                               B. -1
+     C. 2                                                               D. -2
+
+22. The 3×3 system AX = B has solution (2,b,-4). If det(A)=-2 and the determinant of the matrix obtained by replacing (1)
+    the second column of A by B is 1/4, then what is b?
+     A. -1/8                                                            B. -8
+     C. -1/2                                                            D. -2
+
+23. Let {a_n} be arithmetic with a3=7 and common difference -4, then the nth term (general term) is:                   (1)
+     A. 13-2n                                                           B. 16-3n
+     C. 19-4n                                                           D. 22-5n
+
+24. A certain meeting hall has rows with 27,31,35,39,... seats, last row 107 seats. Total number of seats?             (1)
+
+     A. 1407                                                            B. 1427
+     C. 1307                                                            D. 1327
+
+25. What is the local minimum value of f(x)=x³-12x+1?                                                                  (1)
+     A. -24                                                             B. -20
+     C. -15                                                             D. -14
+
+26. Let f(x)=6x/(a-x). For what value of a is f'(-2a)=1/4?                                                             (1)
+     A. 3/8                                                             B. 8/3
+     C. 5/4                                                             D. 4/5
+
+27. The time rate of change of the radius of a sphere is 1/(2π) cm/sec when radius is 5 cm. What is the rate of        (1)
+    change of surface area?
+     A. 10 cm²/sec                                                      B. 20 cm²/sec
+     C. 30 cm²/sec                                                      D. 40 cm²/sec
+
+28. What is the area of the region bounded by f(x)=x²-3x+2 and the x-axis on [0,2]?                                    (1)
+     A. 1                                                               B. 3/4
+     C. 3/2                                                             D. -3/4
+
+29. The interquartile range of the data 7,3,5,1,6,1,6,8 is                                                             (1)
+
+     A. 4.5                                                             B. 4
+     C. 3.5                                                             D. 3
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

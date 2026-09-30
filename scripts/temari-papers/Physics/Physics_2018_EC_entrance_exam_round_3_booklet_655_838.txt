@@ -1,0 +1,376 @@
+                                                         Temari.et
+                    Physics, 2018 EC, entrance exam, round 3, booklet 655
+                                                 Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                     Questions: 55                                   Total marks: 55
+
+Name                                             Grade                        ID No.                  Date
+
+1.   During a charging process by induction, a positively charged rod is brought closed to a neutral metal sphere           (1)
+     mounted on an insulated stand without touching it. Then, the metal sphere:
+     A. becomes positively charged, whenever it is grounded.
+     B. loses some electrons, whenever it is grounded.
+     C. gains some electrons, whenever it is grounded.
+     D. gains some protons whenever it is grounded.
+
+2.   A positively charged rod is brought near to a neutral electroscope A and a negatively charged rod is brought           (1)
+     near to a neutral electroscope B. What will happen to the gold foils of the electroscopes? The gold foils of:
+     A. both electroscopes attract each other.
+     B. both electroscopes repel each other.
+     C. electroscope A repels and that of B attracts each other.
+     D. electroscope A attract and that of B repels each other.
+
+3.   A particle moving with a speed of v0 to the right starts accelerating uniformly with acceleration a. The total        (1)
+     distance covered by the particle during the time interval t is s. Assuming the right direction is positive, which one
+     of the following equations enables us to calculate the time t in terms of v0, a and s?
+     A. t= [ -v0+ √(v02+ 2as) ] /a                                B. t= [ -v0+ √(v02+ 2as) ] / 2a
+     C. t= [v0+ √(v02+ 2as) ] /a                                  D. t= [v0- √(v02+ 2as) ] / 2a
+
+4.   The figure shown below represents the position-time graph of uniformly accelerated ball in a straight line. The       (1)
+     instantaneous velocity of the ball at point x is equal to:
+     [Figure: A position-time graph with a vertical axis labeled Position (m) and a horizontal axis labeled Time (s). The
+     vertical axis has three marked points from bottom to top: S1, S2, and S3. The horizontal axis has three marked
+     points from left to right: t1, t2, and t3, with dashed vertical lines extending upward from each to a curve. A
+     curved line representing motion starts at position S1 at time t1 and rises to position S3 at time t3. On the curve, a
+     marked point labeled x corresponds to position S2 and time t2, with dashed lines going from point x to S2 on
+     the vertical axis and t2 on the horizontal axis.]
+     A. the average velocity during the time interval betweent1andt3.
+     B. the ratio of the position at x (s2) to the timet2.
+     C. the total distance travelled to the total time,t3-t1.
+     D. the slope of the tangent line at point x.
+
+5.   A weight of 1000 N suspended from an aluminum wire of length 2.5 m causes a 4.0 × 10-3 tensile strain on the           (1)
+     wire. What is the change in length of the aluminum wire?
+     A. 10 cm                                                     B. 0.01 cm
+     C. 0.1 cm                                                    D. 1 cm
+6.   For a coil placed in a variable magnetic field, Lenz's law states that the direction of the induced current in the   (1)
+     coil is in such a way as to:
+     A. oppose the flux change through the coil.                     B. make the flux through the coil zero.
+     C. increase the flux through the coil.                          D. decrease the flux through the coil.
+
+7.   Considering the concentration of dopants in different section of a transistors, which one of the following           (1)
+     describes a correct order from lowest to highest?
+     A. Collector, Base, Emitter                                     B. Base, Collector, Emitter
+     C. Emitter, Base, Collector                                     D. Base, Emitter, Collector
+
+8.   Which of the following circuit diagrams correctly represents a transistor configurations that is used to get both (1)
+     current and voltage gain?
+     [Figure: The image shows four circuit diagrams labeled A, B, C, and D for question 9. Diagram A shows an NPN
+     transistor with base B as input, collector C at the top, and emitter E at the bottom connected to the common
+     line, with an upward arrow for output. Diagram B shows a transistor with collector C on the left, emitter E on the
+     right, and base B at the bottom connected to the common line. Diagram C shows a transistor with base B on the
+     left as input, emitter E at the top, and collector C at the bottom connected to the common line. Diagram D shows
+     a transistor with emitter E on the left, collector C on the right, and base B at the bottom connected to the
+     common line.]
+     A. Diagram A                                                    B. Diagram B
+     C. Diagram C                                                    D. Diagram D
+
+9.   If the magnitude of magnetic field produced at a distance of 2 cm from a long straight current carrying wire is      (1)
+     1.2 T, then what is the magnitude of magnetic field at a distance of 3 cm from the wire?
+     A. 0.6 T                                                        B. 1.2 T
+     C. 0.8 T                                                        D. 1.8 T
+
+10. Suppose a 50 Hz outlet voltage of 10,000 V needs to be reduced to 220 V using a stepdown transformer. How             (1)
+    many turns does the primary coil on the transformer have if the secondary coil has 110 turns?
+     A. 550                                                          B. 5000
+     C. 110                                                          D. 1000
+
+11. The acceleration of an object is defined as the time rate of change in:                                               (1)
+
+     A. displacement of the object.                                  B. distance travelled by the object.
+     C. position of the object.                                      D. velocity of the object.
+
+12. The efficiency of a simple machine is defined as the ratio between:                                                   (1)
+     A. mechanical advantage and velocity ratio.                     B. work input and velocity ratio.
+     C. work output and mechanical advantage.                        D. work output and velocity ratio.
+
+13. Static friction force is different from kinetic friction force in that, it:                                           (1)
+     A. is a friction force between two objects that are moving relative to each other.
+     B. has higher value in smooth surfaces than in rough surfaces.
+     C. is a friction force between two objects that are at rest relative to each other.
+     D. has a maximum value which is often lower than the kinetic friction force.
+14. Which one of the following statements is correct about simple machines?                                                      (1)
+     A. A machine which is designed so that its mechanical advantage is less than 1 is called a force multiplier.
+     B. When a machine is designed so that its velocity ratio is less than 1 is called a speed multiplier.
+     C. A machine can be designed to be a force multiplier, a speed multiplier, and a direction changer at the same time.
+     D. When a machine is designed so that its velocity ratio is greater than 1, it is called a speed multiplier.
+
+15. A forklift truck applied a force of F = 30 N, East on an object and dragged it through a distance of 200 m along a (1)
+    horizontal frictionless surface in a time of 5 minutes. The average power output of the truck is:
+     A. 20 W                                                        B. 200 W
+     C. 1800 W                                                      D. 1200 W
+
+16. The velocity-time graph of a moving object along a straight line is shown in the figure below. What is the total            (1)
+    displacement of the object during the total period of motion?
+    [Figure: A velocity-time graph plotted on a grid with a vertical axis labeled Velocity (m/s) ranging from -2 to 2
+    with major grid lines at integers, and a horizontal axis labeled Time (s) ranging from 0 to 12 with major grid lines
+    every 2 units. The graph starts at the origin (0, 0), rises linearly to (2, 2), stays constant at a velocity of 2 m/s until
+    t = 6 seconds, decreases linearly to 0 m/s at t = 8 seconds, continues decreasing linearly below the time axis to
+    a minimum velocity of -2 m/s at t = 9 seconds, then increases linearly back to 0 m/s at t = 10 seconds, and
+    remains flat at 0 m/s until t = 12 seconds.]
+     A. 14 m                                                        B. 8 m
+     C. 10 m                                                        D. 12 m
+
+17. Which one of the following statements correctly defines the characteristic feature of a mechanical waves?                    (1)
+
+     A. The number of complete waves passing a given point per second is called time period.
+     B. The distance between two adjacent peaks of the wave is called amplitude.
+     C. The distance that the wave travels in one second is called frequency.
+     D. The minimum distance between two identical points on adjacent waves is called wavelength.
+
+18. The speed of sound is greatest in which one of the following materials?                                                      (1)
+     A. Water                                                       B. Copper
+     C. Oil                                                         D. Air
+
+19. Which one of the following statements is correct about graphical and algebraic representation of a vector?                   (1)
+    Vector is represented:
+     A. graphically by an arrow in which the length of the arrow represents the magnitude of the vector to the
+        appropriate chosen scale.
+     B. graphically by an arrow in which the length of the arrow is equal to the magnitude of the vector.
+     C. algebraically by a segment line in which the length of the segment line represents the magnitude of the vector.
+     D. graphically by a bold letter A or with an arrow over the letter like &vec;A.
+
+20. A simple first-class lever machine is used to lift a load of 500 N by applying an effort of 300 N, as shown in the           (1)
+    diagram below. What is the velocity ratio of the machine?
+    [Figure: The diagram shows a first-class lever machine consisting of a horizontal bar resting on a triangular
+    fulcrum in the middle. On the left side of the fulcrum, a cylindrical load labeled Load is placed, with a dashed
+    vertical line indicating the distance from the fulcrum to the load as 2 m. On the right side of the fulcrum, a
+    downward vertical arrow labeled Effort points to the end of the lever, with a dashed vertical line indicating the
+    distance from the fulcrum to the effort as 5 m. A horizontal base line runs underneath the entire lever setup.]
+     A. 0.40                                                        B. 0.60
+     C. 2.50                                                        D. 1.67
+21. A car moves at speed of 80.0 km/hr for 1.0 hour to East then back to West in which it travels at speed of 60.0            (1)
+    km/hr for 2.0 hrs. What is the average velocity of the car during its motion?
+    A. 66.7 km/hr, West                                          B. 13.3 km/hr, West
+    C. 66.7 km/hr, East                                          D. 13.3 km/hr, East
+
+22. Pascal's principle states that a pressure added at the top of a liquid at rest in a cylindrical shape container:          (1)
+    A. increases the pressure at any point in the liquid by a greater amount than that added at the top.
+    B. increases the pressure at any point in the liquid by the same amount as that added at the top.
+    C. decreases the pressure at any point in the liquid by the same amount as that added at the top.
+    D. increases the pressure at any point in the liquid by a smaller amount than that added at the top.
+
+23. A high-pressure system can be applied to:                                                                                 (1)
+    A. reduce the gas in the bicycle and car tires.
+    B. biological sample to increase micro-organism activity.
+    C. transport a fluid through a pipe.
+    D. generate cold water from steam or super-heated water.
+
+24. Which one of the following statements is correct about the characteristics of steady and turbulent fluid flow?            (1)
+    A. In steady flow, the adjacent layers of fluid do not cross each other unlike in the turbulent flow.
+    B. In each flow, the lines along which fluid particles move do not cross each other.
+    C. In each flow, fluid particles pass a given point in space with the same velocity.
+    D. In turbulent flow, the velocity of a fluid particles is the same at same point of a flow line in space unlike in the
+       steady flow.
+
+25. Our planet Earth has an orbital period of 365 days and its mean distance from the Sun is Re = 1.495 × 108 km. If (1)
+    there is another unknown planet whose mean distance from the Sun is R = 4Re, how much is an orbital period of
+    the unknown planet in terms of the days on the Earth?
+    A. 1460 days                                                 B. 730 daysn
+    C. 23360 days                                                D. 2920 days
+
+26. A unit vector is defined as:                                                                                              (1)
+    A. a small vector in the direction of a given vector.
+    B. a vector of magnitude zero, with arbitrary direction.G
+    C. a vector of magnitude one, with specified unit.
+    D. a vector of magnitude one, with no unit. tx
+
+27. Which of the following statements does NOT explain the importance of physics to society? Physics helps                    (1)
+    society by its direct contribution in:
+    A. the development of medical equipment.
+    B. the development of cleaner energy sources.
+    C. maintaining equality and justice in the society.
+    D. developing strategies to combat climate change.
+28. To form an image of a distant object, the refracting telescope uses:                                                   (1)
+    A. a convex mirror to collect light and forms an image which is magnified by the convex lens of the eyepiece.
+    B. an objective convex lens to collect light and form an image which is magnified by the convex lens of the
+       eyepiece.
+    C. a convex mirror to collect light and forms an image which is magnified by the concave lens of the eyepiece.
+    D. an objective concave lens to collect light and forms an image which is magnified by the concave lens of the
+       eyepiece.
+
+29. Two plane mirrors inclined at an angle of 72° to each other. How many images are formed when an object is              (1)
+    placed between them?
+    A. 5                                                         B. 3
+    C. 6                                                         D. 4
+
+30. Given two vectors P = -5i + 3j and Q = 2i + j, what is the dot product of the vectors?                                 (1)
+
+    A. 7                                                         B. -13
+    C. 13                                                        D. -7
+
+31. During collision between two objects, the impulse imparted on each object is equal to the:                             (1)
+    A. net force acting on the object divided by the time for collision.
+    B. change in momentum of the object.
+    C. product of change in momentum and time for collision.
+    D. change of momentum of the object divided by the time for collision.
+
+32. The displacement versus time graph of an object undergoing linear motion is shown in the figure below. For the (1)
+    motion during the time interval between:
+    [Figure: The figure is a displacement versus time graph for an object undergoing linear motion. The vertical axis
+    is labeled Displacement (m) with an arrow pointing upwards. The horizontal axis is labeled Time (s) with an arrow
+    pointing to the right, and the origin is marked as 0. The graph curve starts at the origin 0 and curves upwards
+    with an increasing slope until time t1. From t1 to t2, the curve is a horizontal straight line parallel to the time axis.
+    From t2 to t3, the curve is a straight line sloping upwards with a constant positive slope. Dashed vertical lines
+    drop from the curve to the time axis at points t1, t2, and t3.]
+    A. t2and t3, the object is moving with a non-zero constant acceleration.
+    B. t2and t3, the velocity of the object is increasing and it is accelerating.
+    C. 0 and t1, the velocity of the object is increasing and it is accelerating.
+    D. t1and t2, the object is moving with a non-zero constant velocity.
+
+33. In an automobile that contains engine and fuel, chemical energy of the fuel is partially converted to kinetic          (1)
+    energy of the automobile and partially to thermal energy. In this process, the:
+    A. energy of the automobile is not conserved because it does not exist persistently in chemical form.
+    B. kinetic energy of the automobile is considered as a created energy because it appears in a new form.
+    C. amount of energy converted to thermal energy is considered as destroyed because it decreases the efficiency of
+       the automobile.
+    D. energy of the automobile is conserved because it is not destroyed but converted to kinetic and thermal energies.
+
+34. A uniform disk of radius 10.0 cm is rotating at an angular velocity of 20.0 rad/s about an axis through its center.    (1)
+    What is the centripetal acceleration of a point at a distance of 6.0 cm from the axis?
+    A. 24.0 m/s2                                                 B. 40.0 m/s2
+    C. 2.0 m/s2                                                  D. 1.2 m/s2
+35. A block of mass 20.0 kg is placed on a horizontal surface. If the coefficient of kinetic friction between the block     (1)
+    and the surface is 0.25, what force must be applied on the block to accelerate it uniformly with 3.0 m/s2?
+    A. 50 N                                                      B. 40.0 m/s2
+    C. 110 N                                                     D. 10 N
+
+36. A 0.3 kg ball moving with a velocity of 0.9 m/s along the positive x-axis collides with a 0.2 kg ball moving with a     (1)
+    velocity of 1.2 m/s along the negative x-axis. What is the velocity of the center of mass of the two balls before
+    collision?
+    A. 1.02 m/s along the negative x-axis                        B. 0.06 m/s along the negative x-axis
+    C. 1.02 m/s along the positive x-axis                        D. 0.06 m/s along the positive x-axis
+
+37. What amount of heat energy is required to raise the temperature of 0.15 kg of silver from 20°C to 100°C?                (1)
+    (Specific heat capacity of silver is 233.0 J/kg.°C)
+    A. 699.0 J                                                   B. 3495.0 J
+    C. 2796.0 J                                                  D. 4194.0 J
+
+38. Radioactivity is defined as:                                                                                            (1)
+    A. the spontaneous emission of electromagnetic radiation from a heavy nucleus.
+    B. the disintegration of a heavy nuclei into two lighter nuclei when bombarded by a neutron.
+    C. the spontaneous disintegration of unstable nuclei to form more stable nuclei.
+    D. a phenomenon where by a single heavy nucleus is assembled from two or more lighter nuclei.
+
+39. The difference between conventional X-ray and CT-scan is that in the case of X-ray the machine that sends X-            (1)
+    rays through the patient's body is:
+    A. rotating, whereas in CT-scan a stationary X-ray machine is used.
+    B. stationary but the patient is moving, unlike in case of CT scan.
+    C. stationary, whereas in CT-scan a rotating X-ray machine is used.
+    D. rotating in the opposite direction of the detector which are stationary in the case of CT-scan.
+
+40. What is the binding energy of the nucleus of helium 42He? (Mass of 42He = 4.002603 u, mp = 1.007900 u, mn =             (1)
+    1.008665 u, 1 u = 931.1 MeV)
+    A. 30.847 MeV                                                B. 7.106 MeV
+    C. 33.271 MeV                                                D. 28.424 MeV
+
+41. A force F acts on an object of mass m and produces an angular displacement Δθ, and angular acceleration α in            (1)
+    a time interval Δt. If the moment of inertia of the object about the axis of rotation is I, the magnitude of torque τ
+    on the object is expressed as:
+    A. τ = Iα                                                    B. τ = Fa
+    C. τ = I / α                                                 D. τ = ma
+
+42. Which one of the following statements appropriately describes the application of physics knowledge in defense           (1)
+    technology?
+    A. Infrared devices are used in the military to magnify objects that can be seen with ordinary light.
+    B. Radar is used for military purposes like controlling air traffic, observation of weather, and navigation of ships.
+    C. Radar is used for military purposes to detect a distant object by using sound waves signal.
+    D. Infrared devices are used by the military for purposes like night vision, navigation, hunting, and detecting hidden-
+       objects.
+43. A horizontal distance jumper athlete jumps from the ground with initial speed v at an angle θ with the horizontal.      (1)
+    For the constant initial speed, the range R is related to the maximum height h
+    A. R = 3h if θ = 37°                                         B. R = 2.3h if θ = 30°
+    C. R = 4h if θ = 45°                                         D. R = 5.33h if θ = 53°
+
+44. Which one of the following statements is correct about the property of magnetic field lines?                            (1)
+    A. Magnetic field lines cross each other.
+    B. Outside a bar magnets, magnetic field lines emerge from the south pole and enter to the north pole.
+    C. Magnetic field lines are closer to each other in a region where the magnetic field is weaker.
+    D. Magnetic field lines form closed loops.
+
+45. Three resistors R1, R2, and R3 are connected first in series and then in parallel with identical voltage source (Vs).   (1)
+    The potential differences across the resistors are measured with voltmeters and represented by V1, V2, .... V6 as
+    shown in the figure below. Which one of the following relations is correct about the potential differences across
+    the resistors and the applied voltage source?
+    [Figure: The figure consists of two circuit diagrams enclosed in a box. The left circuit shows three resistors
+    labeled R1, R2, and R3 connected in series with a voltage source labeled Vs having negative and positive
+    terminals indicated. Across each resistor R1, R2, and R3, there is a voltmeter measuring the potential difference,
+    labeled V1, V2, and V3 respectively. The right circuit shows the same three resistors R1, R2, and R3 connected in
+    parallel with an identical voltage source labeled Vs. Across each resistor R1, R2, and R3 in the parallel circuit,
+    there is a voltmeter measuring the potential difference, labeled V4, V5, and V6 respectively.]
+    A. V4+ V5+ V6= Vs                                            B. V4= V5= V6= Vs
+    C. V1= V2= V3= Vs                                            D. V1+ V2+ V3= V4+ V5+ V6
+
+46. Two equal point charges of +3.6 × 10-6 C are placed 1.0 cm apart to each other. What is the magnitude of the            (1)
+    electrostatic force between the charges?
+    A. 117 N                                                     B. 11.7 N
+    C. 1170 N                                                    D. 1.17 N
+
+47. A light ray passing from air to glass has an angle of incidence 37° with the normal. If the refractive index of the     (1)
+    glass is 1.54, what is the angle of refraction of the light?
+    A. θ = sin-1(0.39)                                           B. θ = sin-1(1.0)
+    C. θ = sin-1(0.54)                                           D. θ = sin-1(0.92)
+
+48. Suppose the figure shown below represents some portion of the electromagnetic spectrum. Which one of the                (1)
+    following is correct about the nature of the electromagnetic waves represented by
+    [Figure: The figure is a horizontal strip divided into six adjacent rectangular boxes representing a portion of the
+    electromagnetic spectrum. Above the boxes, centered over the dividing lines and boxes, are labels from left to
+    right: an X on the far left, a lambda symbol with an arrow pointing right above the third dividing line, Infrared
+    above the fourth box, visible above the fifth box, Ultraviolet above the sixth box, and a Y on the far right. The
+    boxes are arranged sequentially to show the spectrum order.]
+    A. Waves Y have higher speed than waves X.
+    B. Waves X have longer wavelength than waves Y.
+    C. Waves X have higher frequency than waves Y.
+    D. Waves X and Y has the same frequency.
+49. An electron moving at speed of 5.0 × 107 m/s along the positive x-axis enters a uniform magnetic field of 1.5 T         (1)
+    directed along the negative y-axis as shown in the figure below. What is the magnetic force exerted on the
+    electron at the moment it enters into the uniform magnetic field?
+    [Figure: A Cartesian coordinate system with a horizontal x-axis pointing right and a vertical y-axis pointing up. A
+    red circle labeled q represents a particle at the origin, with a blue arrow pointing to the right along the positive x-
+    axis labeled with a vector v. A uniform magnetic field represented by several vertical dashed lines with green
+    downward-pointing arrows is present in the region, labeled with a green vector B pointing downwards. The green
+    arrows point along the negative y-axis.]
+     A. 1.2 × 10-11N, directed into the page                       B. 8.0 × 10-12N, directed out of the page
+     C. 8.0 × 10-12N, directed into the page                       D. 1.2 × 10-11N, directed out of the page
+
+50. A nonconducting material that is inserted between the plates of a capacitor is known as:                                 (1)
+     A. semiconductor                                              B. inductor
+     C. dielectric                                                 D. superconductor
+
+51. Which one of the following quantities is required to determine the specific heat capacity of a substance?                (1)
+     A. The density of the substance                               B. The mass of the substance
+     C. The boiling point of the substance                         D. The volume of the substance
+
+52. Which one of the following statements is correct about electric field lines?                                             (1)
+     A. The closer the electric field lines are, the stronger is the electric field.
+     B. Electric field lines are parallel to the surface of the charged body.
+     C. For a positively charged particle, the electric field lines point radially inward to the particle.
+     D. Electric field lines of a charged body cross one another.
+
+53. Which one of the following statements is correct about critical and boiling points?                                      (1)
+     A. The boiling point of a substance is constant independent of pressure, while its critical point is dependent on the
+        surrounding temperature.
+     B. At the boiling point a single gaseous phase exists, while at the critical point both the liquid and gas phases
+        coexist.
+     C. The critical point is dependent both on temperature and pressure, while boiling point is independent of the
+        surrounding pressure.
+     D. The critical point of a substance is constant, while its boiling point is dependent on the surrounding pressure.
+
+54. A 25.0 liter container made of copper is completely filled with glycerin at a temperature of 20°C. The coefficient (1)
+    of linear expansion of copper is α = 1.7 × 10-5 °C-1 and that of volume expansion of glycerin is β = 4.8 × 10-4 °C-1.
+    If the system is heated to a temperature of 80°C, what volume of glycerin will overflow from the container?
+     A. 0.651 liter                                                B. 0.804 liter
+     C. 0.868 liter                                                D. 1.085 liter
+
+55. A circuit shown below consists of three resistors and two batteries. The magnitude of current denoted by |I3| is:        (1)
+    [Figure: The figure shows a circuit diagram with a rectangular configuration containing two loops. The top
+    branch has a 9 V battery and a 5 ohm resistor connected in series. The middle horizontal branch connects the
+    left and right vertical sides and contains a 4 ohm resistor with a current I3 pointing to the right, indicated by an
+    arrow above it. The bottom branch contains a 6 V battery and a 3 ohm resistor connected in series. The left
+    vertical wire has current I2 pointing downwards with an arrow labeled next to it, and current I1 pointing upwards
+    near the bottom left corner. A junction exists on the left where the top, middle, and bottom branches meet.]
+     A. 0.38 A                                                     B. 0.83 A
+     C. 1.21 A                                                     D. 0.45 A
+                — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

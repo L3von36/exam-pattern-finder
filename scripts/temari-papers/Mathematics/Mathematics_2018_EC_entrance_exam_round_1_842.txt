@@ -1,0 +1,499 @@
+                                                         Temari.et
+                            Mathematics, 2018 EC, entrance exam, round 1
+                                              Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 58                                   Total marks: 58
+
+Name                                             Grade                         ID No.                Date
+
+1.   Consider the data: 11, 13, 15, 17, 19, 21. Which one of the following is the mean deviation from the mean?           (1)
+     A. 4                                                        B. 3.5
+     C. 4.5                                                      D. 3
+
+2.   Consider the quadrilateral ABCD where A=(0,0), B=(-1,1)), C=(0,2) and D=(2,2). Which one of the following is true?   (1)
+     A. CD is perpendicular to AB.                               B. BC is parallel to AD.
+     C. CD is perpendicular to BE.                               D. AB is parallel to CD.
+
+3.   Consider the greatest integer function defined by f (x) = [x − 1]. Which of the following sets is the domain of      (1)
+     f?
+     A. The set of rational numbers.                             B. The set of integers.
+     C. The set of real numbers.                                 D. The set of natural numbers.
+
+4.   Which one of the following relations is a function?                                                                  (1)
+
+     A. R={(x,y):x,y\in R and y 2 = x}                           B. R={(x,y):x,y\in R and |y|=x}
+     C. R={(x,y):x,y\in R and y = x2 }                           D. R = {(x, y) : x, y ∈ R and y 4 = x}
+
+5.   Which one of the following is a source of cash loan?                                                                 (1)
+     A. Non-government organization to alleviate public problems.
+     B. Investors involved in home construction for a community.
+     C. Group of investors committed to drilling out underground water.
+     D. A money line group investing in health improvement sectors.
+
+6.   What is the average rate of change of y = f (x) with respect to x on the interval [a, b]?                            (1)
+          f (b)+f (a)
+     A.        2        ​
+                                                                 B.       b−a
+                                                                      f (b)−f (a)
+                                                                                    ​
+
+
+
+
+     C.   f (b)−f (a)                                            D.   f (b)−f (a)
+               2                                                          b−a
+                        ​                                                           ​
+
+
+
+
+7.   Which one of the following sets is the solution of log3 x + log3 (x − 2) = 1?
+                                                             ​           ​                                                (1)
+     A. {-1,3}                                                   B. {3}
+     C. {2}                                                      D. {0,2}
+8.   Given the functions f (x) = ax2 and g(x) = ax2 + c, for a and c > 0. Which of the following statements is                (1)
+     true about the graph of f and g ?
+     A. The graph of f is an upward parabola, and the graph of g is obtained from that of f by shifting it downward by cc
+        units.
+     B. The graph of f is a downward parabola, and the graph of g is obtained from that of f by shifting it to the right by
+        cc units.
+     C. The graph of f is an upward parabola, and the graph of g is obtained from that of f by shifting it upward by cc
+        units.
+     D. The graph of f is a downward parabola, and the graph of g is obtained from that of f by shifting it upward by cc
+        units.
+
+9.   Consider the test results of 20 students in a given class. 13 14 14 15 19 18 13 15 16 16 13 14 14 15 19 18 13 15 16 16   (1)
+     17 18 15 13 14 16 14 18 16 16
+     Which one of the following numbers is the mode of the above data?
+     A. 16                                                        B. 15
+     C. 14                                                        D. 18
+
+10. Consider the figure given below:                                                                                          (1)
+    Which one of the following vectors is equal to AB→ + CD→ + BC→ ?
+    [Figure: The figure for Question 10 shows four points labeled A, B, C, and D forming a geometric arrangement
+    with vectors. Point A is connected to point B by a line segment with an arrow pointing towards B, representing
+    vector AB. Point C is connected to point D by a line segment with an arrow pointing towards D, representing
+    vector CD. Point C is also connected to point A by a line segment. A semi-transparent watermark text
+    addis_aptitude diagonally crosses the central background of the figure.]
+     A. CD                                                        B. AC
+     C. AD                                                        D. BD
+
+11. Which one of the following equations represents a line that passes through the points (2, -1) and (-3, 4)?                (1)
+     A. x + y − 1 = 0                                             B. x + y + 1 = 0
+     C. x − y − 1 = 0                                             D. x − y + 1 = 0
+
+12. What is the coefficient of x3 y 4 in the expansion of (x − 2y)7                                                           (1)
+
+     A. 35                                                        B. 70
+     C. 560                                                       D. -280
+
+13. Which one of the following is NOT a power function?                                                                       (1)
+     A. f(x)=x   3                                                B. f(x)=3x
+     C. f(x)=4x−6                                                 D. f(x)=7x−1/3
+
+14. Given the problem: Maximize Z=3x+y subject to:                                                                            (1)
+
+                                                        ⎧x + y ≥ 2
+                                                        ⎨y + 2x ≤ 4
+                                                        ⎩
+                                                          ​
+
+
+
+
+                                                         y ≥ 1, x ≥ 0
+
+
+     Which one of the following is the maximum value of Z?
+     A. 2                                                         B. 5.5
+     C. 4                                                         D. 5.8
+15. Let r1 and r2 be the roots of the quadratic equation 2x2 + 3x − 4 = 0. Which one of the following is equal to                (1)
+
+                                                          1     1
+                                                              + 2?
+                                                          r12
+                                                                    ​             ​
+
+
+
+
+                                                               r2
+                                                                ​             ​
+
+
+
+
+    A. 3/4                                                                  B. 25/16
+    C. 3/16                                                                 D. 1/4
+
+16. Consider the matrix                                                                                                          (1)
+
+                                                            −1               2            1
+                                                    A=      3
+                                                            ​           ​    4        ​   2   ​   ​
+
+
+
+
+                                                            1                1            5
+
+
+    Which of the following statements is true about the minor of the entries of A?
+    A. The cofactor of 3 is 9.                                              B. The cofactor of 4 is -6.
+    C. The minor of 4 is 6.                                                 D. The minor of 3 is -9.
+
+17. In the figure below, let m (∠DAC)=15° and m(arc BC)=70°. What is the measure of arc CD?                                      (1)
+    [Figure: A circle with center O is shown. Point A lies outside the circle to the right. A secant line passes through
+    point A, intersects the circle at point D, and continues to point B on the upper left of the circle. A tangent line
+    starts from point A and touches the bottom of the circle at point C. Angle DAC at vertex A is marked as 15
+    degrees. The arc between B and C contains points D along the secant line.]
+    A. 42.5°                                                                B. 55°
+    C. 30°                                                                  D. 40°
+
+18. Consider the right-angled triangle ΔABC below, where AC = 5cm and BC = 4cm.                                                  (1)
+    Which one of the following is the length of BD?
+    [Figure: A right-angled triangle labeled ΔABC with the right angle at vertex B. The vertices are labeled A at the
+    top left, B at the bottom left, and C at the bottom right. A line segment is drawn from vertex B perpendicularly to
+    the hypotenuse AC, meeting AC at a point labeled D. There is a right-angle symbol at vertex B and another right-
+    angle symbol where the line segment BD meets the hypotenuse AC at point D.]
+    A. 5.76cm                                                               B. 2.4cm
+    C. 5cm                                                                  D. 7cm
+
+19. Which one of the following is true about definite integrals?                                                                 (1)
+    A. ∫ b f (x)dx = 0, a =
+                          0                                                B. ∫ b (f (x) + g(x))dx = ∫ b f (x)dx + ∫ b g(x)dx
+        a ​
+
+
+
+
+                                                                                a         ​
+
+
+
+
+                                                                                                       a  ​
+
+
+
+
+                                                                                                                      a
+                                                                                                                      ​
+
+
+
+
+    C. ∫ b f (x)dx = ∫ b g(x)dx                                             D. ∫ b (f (x) − g(x))dx = ∫ b (g(x) − f (x))dx
+        a             a                                                         a                      a
+          ​               ​                                                               ​               ​
+
+
+
+
+20. Which of the following statements defines a circle?                                                                          (1)
+    A. It is the set of points in a plane formed by the intersection of two secants in the plane.
+    B. It is the set of points in a space formed by the intersection of two secants in the space.
+    C. It is the set of points in a space each of which is equidistant from a fixed point in the space.
+    D. It is the set of points in a plane each of which is equidistant from a fixed point in the plane.
+21. What is the transpose of the matrix                                                                            (1)
+
+                                                           1       2        1
+                                                  M=       0
+                                                           ​   ​   −1   ​   3 ? ​   ​
+
+
+
+
+                                                           2       1        5
+
+    A.    1 0 2                                                    B.       1 2 1
+          2 −1 1
+          ​   ​     ​   ​   ​                                               2 −1 3
+                                                                            ​   ​           ​   ​   ​
+
+
+
+
+          1 3 5                                                             0 1 5
+    C.    2 1 5                                                    D.       1 2 2
+          0 −1 3
+          ​   ​     ​   ​   ​                                               0 −1 1
+                                                                            ​   ​           ​   ​   ​
+
+
+
+
+          1 2 1                                                             1 3 5
+
+22. Which one of the following sets is the domain of the rational function                                         (1)
+
+                                                              x3 + x2
+                                                 f (x) =                ?
+                                                           x4 + 2x2 − 3
+                                                                                        ​
+
+
+
+
+    A. R\{1}                                                       B. R\{-1,1}
+    C. R\{-3,1}                                                    D. R\{-1,1,-3}
+
+23. Which of the following statements is true in borrowing money?                                                  (1)
+    A. The borrower only pays back the principal amount.
+    B. The lender assumes no risk when giving out a loan.
+    C. Borrowing money involves an agreement to repay the principal amount along with accrued interestz
+    D. Collateral is always required for any type of financial borrowing.
+
+24. Let f(x)=2x+1/x–1. Which of the following equations is the equation of the tangent line to the graph of f at   (1)
+    (2,f(2))?
+    A. 3x+y=11                                                     B. y–3x=–1
+    C. x+3y=17                                                     D. 3x–y=13
+
+25. What is the measure of each interior angle of a regular polygon with 15 sides?                                 (1)
+
+    A. 144∘                                                        B. 150∘
+    C. 156∘                                                        D. 162∘
+
+26. Let f (x) = x3 + 4xand g(x) = 3x3 − x2 . What is the derivative of (f+g)(x)?                                   (1)
+    A. 12x2 − 2x + 4                                               B. 4x3 − x2 + 4x
+    C. 12x2 − x + 4                                                D. 9x2 − 2x + 4
+
+27. Let A={x ∈ R : x3 − x = 0}and B={x ∈ Z : −1 ≤ x}. What is the relative complement of B with respect to A       (1)
+    (i.e., A\B)?
+    A. {2}                                                         B. {0,1}
+    C. ∅                                                           D. {–1,0,1}
+
+28. Given the set B={∅,{–2,0}}, what is the power set of B?                                                        (1)
+    A. {∅,{–2,0}}                                                  B. {∅,{∅},{{–2,0}},{∅,{–2,0}}}
+    C. {{∅},{{–2,0}}}                                              D. {∅,{–2},{0},{–2,0}}
+29. What is the simplified form of                                                                                  (1)
+
+                                         log16 (4) − log2 ( 12.5) + log0.5 (2)?
+                                              ​            ​          ​                         ​
+
+
+
+
+    A. log2 (5)
+             ​
+                                                                   B. 1-log2 (5)      ​
+
+
+
+
+    C. -log2 (5)     ​                                             D. 0
+
+30. Which statement is true about the graphs of the exponential functions f(x)=ax f and g(x)=(1/a)x where a>1?      (1)
+    A. They are reflections of each other across the x-axis.
+    B. They are reflections of each other across the y-axis.
+    C. They never intersect each other.
+    D. Both functions are monotonically increasing.
+
+31. Which of the following statements is NOT true about the mean of a given data set?                               (1)
+    A. It is highly affected by extreme values (outliers).
+    B. The sum of the deviations of the items from the mean is always zero.
+    C. It must always be one of the actual data values present in the set.
+    D. It uses every value in the data set for its calculation.
+
+32. Which one of the following numbers is an irrational number?                                                     (1)
+
+    A. 3.14159 (terminating)                                       B. 16          ​
+
+
+
+
+    C. 22/7                                                        D. π
+
+33. What is the area of the parallelogram spanned by the vectors u=i-2j+k and v =2i+2j-k                            (1)
+    A.      14   ​
+                                                                   B. 3 5         ​
+
+
+
+
+    C. 9                                                           D. 35          ​
+
+
+
+
+34. What is the fundamental period of the function f(x)=sin(x)?                                                     (1)
+    A. π/2                                                         B. π
+    C. 2π                                                          D. 4π
+
+35. What is the simplified form of the expression ( 45 + 1 )( 5 −                         20?                       (1)
+                                                          5
+                                                       ​       ​          ​                 ​
+
+
+
+
+                                                               ​
+
+
+
+
+    A. 16                                                          B. -16
+    C. 8                                                           D. -8
+
+36. In statistical sampling, if a population is divided into homogeneous groups and a random sample is drawn from   (1)
+    each group, this method is known as:
+    A. Simple random sampling                                      B. Cluster sampling
+    C. Stratified sampling                                         D. Systematic sampling
+
+37. A mathematics exam contains 10 multiple-choice questions and 3 short-answer questions. According to the         (1)
+    multiplication principle, how many ways can a student select exactly one multiple-choice question and exactly
+    one short-answer question to solve first?
+    A. 13                                                          B. 30
+    C. 103                                                         D. (13
+                                                                       2)     ​
+38. A translation vector maps the origin (0,0) to the point (-2,4). Under this same translation, what is the image of     (1)
+    the point (3,1)?
+     A. (5,-3)                                                    B. (1,5)
+     C. (-6,4)                                                    D. (-5,3)
+
+39. If the initial point of a vector is A(2,-1,4) and the terminal point is B(4,3,2), what is the position vector AB?     (1)
+     A. ⟨−2, −4, 2⟩                                               B. ⟨6, 2, 6⟩
+     C. ⟨2, 4, −2⟩                                                D. ⟨8, −3, 8⟩
+
+40. Let vector u have an initial point at (1,2)and a terminal point at (-3,6). What are the components of the vector      (1)
+    −1/2u?
+     A. ⟨2, −2⟩                                                   B. ⟨−2, 2⟩
+     C. ⟨4, −4⟩                                                   D. \langle 1,-1\rangle
+
+41. Consider the rational function f(x)=x2 -4/x-2. The domain of f is the set of all real numbers EXCEPT:                 (1)
+     A. -2                                                        B. 2
+     C. 0                                                         D. The domain is all real numbers.
+
+42. Which of the following properties of matrices and scalar multiplication r is TRUE for any two matrices A and B of     (1)
+    the same dimension?
+     A. r(AB)=(rA)(rB)                                            B. r(A+B)=rA+rB
+     C. (A + B)T = AT − B T                                       D. det(A+B)=det(A)+det(B)
+
+43. If AA is a 3×3 square matrix, which of the following is always true about its transpose AT?                           (1)
+     A. det(AT ) = −det(A)                                        B. det(AT ) = 1/det(A)
+     C. det(AT ) = det(A)                                         D. AT = A−1
+
+44. Let AA be a 3×3 invertible matrix with determinant |A|=4. What is the determinant of 2(A−1 )?                         (1)
+
+     A. 1/2                                                       B. 2
+     C. 8                                                         D. 1/4
+
+45. What is the solution set for the radical equation                                                                     (1)
+
+                                                          x2 + 3x = 2?
+                                                                    ​
+
+
+
+
+     A. {1,-4}                                                    B. {1,4}
+     C. {-1,4}                                                    D. {-1,-4}
+
+46. Given the exponential functions f (x) = 2x and g(x) = 0.5x , which statement describes their monotonicity?            (1)
+     A. Both functions are increasing.
+     B. Both functions are decreasing.
+     C. f(x) is decreasing and g(x) is increasing.
+     D. f(x)is increasing and g(x)is decreasing.
+
+47. In an arithmetic progression, the first term is 11 and the common difference is –13. What is the sum of the first 7   (1)
+    terms?
+     A. -28                                                       B. -196
+     C. -67                                                       D. 196
+48. In a geometric sequence, the first term is g1 = 2 and the fifth term is g5 = 8 (assume the common ratio is
+                                                      ​                        ​                                      (1)
+    positive). What is the value of the 13th term (g13 )? ​
+
+
+
+
+    A. 32                                                       B. 64
+    C. 128                                                      D. 256
+
+49. The infinite repeating decimal 0.373737... can be expressed as which rational fraction in lowest terms?           (1)
+    A. 37/100                                                   B. 37/99
+    C. 37/90                                                    D. 1/3
+
+50. According to the properties of integration, which of the following is equivalent to ∫ (3f (x) − g(x))dx?          (1)
+
+    A. 3 ∫ f (x)dx ⋅ ∫ g(x)dx                                   B. ∫ 3f (x)dx − ∫ g(x)dx
+    C. 3(∫ f (x)dx − ∫ g(x)dx)                                  D. ∫ f (x)dx − 3 ∫ g(x)dx
+
+51. Three vertices of a parallelogram ABCD are A(0,0), B(5,0), and C(7,4). If AD is parallel to BC, what are the      (1)
+    coordinates of vertex D?
+    A. (2,4)                                                    B. (-2,4)
+    C. (12,4)                                                   D. (2,-4)
+
+52. If α and β are complementary angles (α + β = 90∘ ), which of the following trigonometric relations is always      (1)
+    true?
+    A. sin(α) = sin(β)                                          B. tan(α) = tan(β)
+    C. sin(α) = cos(β)                                          D. sec(α) = cos(β)
+
+53. In descriptive statistics, the third decile (D3 ) corresponds to which percentile?
+                                                  ​
+                                                                                                                      (1)
+    A. 3rd percentile                                           B. 30th percentile
+    C. 33rd percentile                                          D. 70th percentile
+
+54. Which one of the following statements defines a matrix?                                                           (1)
+    A. A matrix is a rectangular array of numbers.
+    B. A matrix is a vertical array of letters.
+    C. A matrix is a horizontal array of letters.
+    D. A matrix is a circular array of numbers.
+
+55. Which one of the following is the decomposition of the rational expression 3x2 + 5x − 1/(x + 2)(x + 1)2 as        (1)
+    a sum of partial fractions?
+        2
+    A. x+2    3      1                                              3
+                                                                B. x+2     3
+           + x+1
+             ​
+                 + (x+1)
+                   ​
+
+
+                         2   ​
+                                                                       − (x+1)
+                                                                        ​
+
+
+                                                                               2   ​
+
+
+
+
+        1
+    C. x+2    2      3                                              5
+                                                                D. x+2     4
+           + x+1
+             ​   − (x+1)
+                   ​
+
+                         2   ​                                         + (x+1)
+                                                                        ​
+
+                                                                               2   ​
+
+
+
+
+56. A farmer having a total capital of Birr 400,000 bought oxen and sheep. An ox costs Birr 60,000 and a sheep        (1)
+    Birr 5,000. He sold each ox at Birr 65,000 and each sheep at Birr 6,000. Which one of the following is a
+    representation of the problem in order to maximize his profit, assuming uniform prices where x is the number of
+    oxen and y is the number of sheep?
+    A. Z(x,y)=6000x+5000y subject to x + y ≤                    B. Z(x,y)=60000x+5000y subject to x + y ≤
+       35, 12x + y ≤ 80, x ≥ 0, y ≥ 0                              35, 12x + y ≤ 80, x ≥ 0, y ≥ 0
+    C. Z(x,y)=5000x+1000ysubject to x + y ≤ 35, 12x +           D. Z(x,y)=5000x+1000ysubject to x + y ≤ 35, 12x +
+       y ≤ 800, x ≥ 0, y ≥ 0                                       y ≤ 80, x ≥ 0, y ≥ 0
+57. Which one of the following statements is true about the given numbers and points on the number line?           (1)
+    A. There is a one-to-one correspondence between the set of natural numbers and points on the number line.
+    B. There is a one-to-one correspondence between the set of rational numbers and points on the number line.
+    C. There is a one-to-one correspondence between the set of irrational numbers and points on the number line.
+    D. There is a one-to-one correspondence between the set of real numbers and points on the number line.
+
+58. A spherical ball has diameter 30cm. What is its surface area (in cm2 )?                                        (1)
+    A. 3600π                                                          B. 1000π
+    C. 900π                                                           D. 600π
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

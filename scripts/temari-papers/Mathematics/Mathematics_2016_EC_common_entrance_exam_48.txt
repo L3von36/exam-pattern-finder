@@ -1,0 +1,299 @@
+                                                         Temari.et
+                          Mathematics, 2016 EC, common, entrance exam
+                                              Grade 12 · Mathematics · 2016 E.C.
+
+Time allowed: 120 minutes                                    Questions: 38                                    Total marks: 38
+
+Name                                             Grade                        ID No.                   Date
+
+1.   In the set of natural numbers, which one of the following defines a composite number?                                 (1)
+     A. A number that has only two distinct factors
+     B. A number that is divisible by numbers from 2 to 9
+     C. A number that has two or more different factors
+     D. A number that has three or more different divisors
+
+2.   Which of the following is true about rationalizing the denominator?                                                   (1)
+     A. Only denominators can be multiplied by an irrational number
+     B. Only numerators can be rationalized when there is a radical
+     C. It is a method of changing the denominator into a rational number
+     D. It is a technique of multiplying a given number by an irrational expression
+
+3.   When dividing 142 by 13 and expressed using the division algorithm, which is correct?                                 (1)
+
+     A. 142 = 10(13) + 12                                        B. 142 = 11(13) − 1
+     C. 142 = 11(13) + 1                                         D. 142 = 10(14) + 2
+
+4.   The solution set of the system 2x − y = 5 and 3y + 15 = 6x is:                                                        (1)
+     A. The empty set                                            B. {(t, 2t − 15): t ∈ R}
+     C. {(t, 2t − 5): t ∈ R}                                     D. {(0, −5), (1, −3), (2, −2), ...}
+
+5.   Which one of the following refers to the definition of similar plane figures?                                         (1)
+     A. Figures whose corresponding angles have the same ratio
+     B. Figures where one is an enlargement of the other
+     C. Figures whose ratios of corresponding sides are different
+     D. Figures that have different shapes but same size
+
+6.   In a right triangle where angle A is 30° and side opposite it is 11 cm, what is the hypotenuse?                       (1)
+     A. 22 cm                                                    B. 22√3 cm
+     C. 11√3 cm                                                  D. 33 cm
+
+7.   A circle has diameter 16 cm and a chord 6 cm from the center. What is the chord length?                               (1)
+     A. 2√7 cm                                                   B. 8 cm
+     C. 4√7 cm                                                   D. 16 cm
+
+8.   Which of the following is the approximate surface area of the base of a regular pentagonal prism of radius 6          (1)
+     cm?
+     A. 54 sq. cm                                                B. 85.5 sq. cm
+     C. 27 sq. cm                                                D. 27.5 sq. cm
+9.   If each observation is multiplied by 0.5, what is the new mean?                                                            (1)
+     A. 1/2                                                        B. 1/2 x̄
+     C. 2 x̄                                                       D. x̄ - 0.5
+
+10. A regular triangular pyramid labeled 1, 2, and 3 is thrown twice. What is the probability that the sum of the               (1)
+    numbers facing down is less than 5?
+     A. 1/3                                                        B. 2/3
+     C. 4/9                                                        D. 5/9
+
+11. Given vectors u with initial point (-1, 0) and terminal point (2, 3), and v with initial point (5, -2) and terminal point   (1)
+    (2, 3), what is v - u?
+     A. (-6, 3)                                                    B. (2, -6)
+     C. (0, -2)                                                    D. (-6, 2)
+
+12. Which one of the following is the definition of a polynomial function?                                                      (1)
+
+     A. A function f defined by f(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is non-negative integer, a_n ≠
+        0 and a_i ∈ R
+     B. A function f defined by f(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is positive integer, a_n ≠ 0 and
+        a_i ∈ R
+     C. A function f defined by f(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is an integer, a_n ≠ 0 and a_i ∈
+        R
+     D. A function f defined by f(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0, where n is a rational number, a_n ≠ 0
+        and a_i ∈ R
+
+13. When f(x) = 4x + kx - 1 is divided by x - 1/2, the remainder is 3. What is the value of k?                                  (1)
+     A. 14                                                         B. 7
+     C. 7                                                          D. 9
+
+14. What is the solution set of log4(x + 1) - 2 log4 x = 0.5?                                                                   (1)
+
+     A. {1, -1/2}                                                  B. {1/2, -1}
+     C. {1/2}                                                      D. None
+
+15. Which of the following is the characteristic of log(20 + 1/5)?                                                              (1)
+     A. -1                                                         B. 1
+     C. 2.02                                                       D. 0.2
+
+16. Which of the following statements about trigonometric values is true?                                                       (1)
+     A. sin 270° = 0                                               B. cos(-180°) = -1
+     C. tan(-90°) = 0                                              D. tan(540°) = -1
+
+17. For 0° ≤ θ ≤ 90°, which relationship describes the co-function of θ?                                                        (1)
+
+     A. cosθ = sec(90° - θ)                                        B. cscθ = sin(180° - θ)
+     C. cotθ = tan(90° - θ)                                        D. secθ = sin(180° - θ)
+
+18. For 0° ≤ θ ≤ 90°, which of the following identities is correct?                                                             (1)
+     A. csc²(90° - θ) = 1 + tan²θ                                  B. sec²θ + tan²θ = 1
+     C. cot²(90° - θ) = 1 + csc²θ                                  D. cot²θ + csc²θ = 1
+19. Let ABCD be a rhombus and E be the midpoint of diagonal AC. Which of the following is NOT true?                  (1)
+     A. ΔABC is isosceles                                           B. AC is perpendicular to BD
+     C. ΔBEC is a right triangle                                    D. ∠DAB is acute
+
+20. A regular hexagonal park has radius 12 m. What length of fencing material is needed?                             (1)
+
+     A. 72√3                                                        B. 72
+     C. 36√3                                                        D. 36
+
+21. Given a right circular cylinder has radius 5 cm and lateral surface area 150π cm². What is its volume?           (1)
+     A. 375π                                                        B. 350π
+     C. 315.5π                                                      D. 200π
+
+22. A spherical container has diameter 3 m. What is the volume of water it holds?                                    (1)
+     A. 27/4 π                                                      B. 27/2 π
+     C. 9/2 π                                                       D. 9/4 π
+
+23. The domain and range of f(x) = 1 + [2x - 4] are:                                                                 (1)
+     A. [2, ∞) and [1, ∞)                                           B. ℝ and [2, ∞)
+     C. [2, ∞) and ℝ                                                D. ℝ and [1, ∞)
+
+24. Which of the following is the inverse of f(x) = √(x - 3)?                                                        (1)
+
+     A. f⁻¹(x) = x² + 3, x ≥ 0                                      B. f⁻¹(x) = x² + 3, x ≥ 3
+     C. f⁻¹(x) = √(x + 3)                                           D. f⁻¹(x) = 1/√(x - 3)
+
+25. Which of the following is the simplified form of [x - (x + 3)/(x - 1)]² + (x - 3)/(x² - 2x + 1)?                 (1)
+     A. (x² - 2x + 3)/(x - 1)                                       B. (x - 1)/(x - 3)
+     C. x² - 1                                                      D. x² - 2x + 1
+
+26. A data on scores of 32 students is listed as follows:                                                            (1)
+
+
+     | Score | Number |
+     |---|---|
+     | 52 | 48 |
+     | 76 | 35 |
+     | 60 | 45 |
+     | 50 | 75 |
+
+     If the data is to be grouped in 6 classes, what has to be the class interval (w)?
+     A. 6                                                           B. 7
+     C. 8                                                           D. 9
+
+27. Five English books (3 identical) and 3 different Mathematics books are arranged in a row. If one specific Math   (1)
+    book is first, how many arrangements are possible?
+     A. 240                                                         B. 840
+     C. 5040                                                        D. 6720
+28. Balls numbered 1 to 10 are placed in a box. What is the probability that a randomly selected ball is neither odd                             (1)
+    nor a multiple of 3?
+     A. 3/10                                                              B. 2/5
+     C. 3/5                                                               D. 2/5
+
+29. Let A be a 3×3 matrix and k a real number. Which statement is true?                                                                          (1)
+     A. det(kA) = 3det(A)
+     B. det(-Aᵀ) = det(A)
+     C. Interchanging rows does not change determinant
+     D. Multiplying one column by k multiplies determinant by k
+
+30. Given the linear system,                                                                                                                     (1)
+
+                                                      ⎧a1x + b1y − c1z = 3
+                                                      ⎨a2x + b2y + c2z = −1
+                                                              ​       ​            ​
+
+
+
+
+                                                      ⎩
+                                                         ​                                               ​
+                                                              ​       ​            ​
+
+
+
+
+                                                       a3x + b3y + c3z = 2
+                                                              ​       ​            ​
+
+
+
+
+     such that the determinant of the coefficient matrix is 13 . Which of the following is the value of y ?
+                                                                  ​
+
+
+
+
+     A.                                                                   B.
+          a1  ​       b1   ​       c1
+                                    ​                                          a1      ​         3               c1   ​
+
+
+
+
+          −3
+          ​       ​   1        ​   −2   ​   ​                                  a2
+                                                                               ​       ​ ​       −1          ​   c2   ​ ​   ​
+
+
+
+
+          a3  ​       b3   ​       c3
+                                    ​                                          a3      ​         2               c3   ​
+
+
+
+
+     C.                                                                   D.
+          a1  ​       b1   ​       c1
+                                    ​                                           a1           ​               −3                 c1   ​
+
+
+
+
+          −3
+          ​       ​   1        ​   −2   ​   ​                                  −3a3
+                                                                               ​
+                                                                                                 ​
+                                                                                                     ​       1    ​             c2   ​
+                                                                                                                                         ​   ​
+
+
+
+
+          a3  ​       b3   ​       c3
+                                    ​                                           a3           ​               −2                 c3   ​
+
+
+
+
+31. Given the sequence −2, 0, 4, 10, … what can be the fifth term?                                                                               (1)
+     A. 14                                                                B. 16
+     C. 18                                                                D. 20
+
+32. Which one of the following gives the definition of integration for a function?                                                               (1)
+
+     A. Reversing differentiation                                         B. Derivative at a point
+     C. Rate of change                                                    D. Derivative on an interval
+
+33. What is the mean deviation about the mean of the data: 15, 12, 10, 13, 9, 12, 11, 15, 14, 9?                                                 (1)
+     A. 1.4                                                               B. 1.5
+     C. 1.8                                                               D. 2.0
+
+34. Given the following grouped data                                                                                                             (1)
+
+
+     | x | 8 – 12 | 13 – 17 | 18 – 22 | 23 – 27 | 28 – 32 |
+     |---|---|---|---|---|---|
+     |f|3|4|5|6|2|
+
+     Which of the following is the standard deviation of the data?
+     A. 6                                                                 B. 6.5
+     C. \sqrt{37}                                                         D. \sqrt{37.5}
+35. Given two sets of data A and B with ranges 15 and 15 respectively, coefficient of range (CR) of A is 0.2 and CR of   (1)
+    B is 0.21. Then which of the following is true?
+    A. The dispersion of A is slightly greater than that of B.
+    B. The dispersion of B is slightly greater than of A.
+    C. Data A has the same dispersion as B even if CR varies.
+    D. No enough information to compare dispersion roughly.
+
+36. in a homogenious population where there is a catagorical difference items are selected randomely in each             (1)
+    category Which sampling method selects items randomly within categories?
+    A. Simple random                                                  B. Systematic
+    C. Stratified                                                     D. Cluster
+
+37. An agent planned to transport fertilizers in barrels and sacks from a port using two types of cars designated by (1)
+    A and B. Each car A can transport 30 barrels and 50 sacks charging Birr 8,000 for a trip, and each car B can
+    transport 45 barrels and 80 sacks charging Birr 12,000. If there are at least 400 barrels and at most 1,500 sacks
+    to be transported from the port, which of the following is a constraint of the linear programming problem to
+    minimize the cost of transportation given by z = 8, 000x + 12, 000y ?
+    A.                                                                B.
+         ⎧6x + 9y ≥ 80                                                     ⎧6x + 9y ≤ 80
+         ⎨5x + 8y ≤ 150                                                    ⎨5x + 8y ≥ 150
+         ⎩                                                                 ⎩
+          ​               ​                                                  ​                    ​
+
+
+
+
+          x ≥ 0, y ≥ 0                                                      x ≥ 0, y ≥ 0
+
+    C.                                                                D.
+         ⎧3x + 5y ≤ 40                                                     ⎧3x + 5y ≥ 40
+         ⎨9x + 16y ≥ 30                                                    ⎨9x + 16y ≤ 30
+         ⎩                                                                 ⎩
+          ​               ​                                                  ​                    ​
+
+
+
+
+          x ≥ 0, y ≥ 0                                                      x ≥ 0, y ≥ 0
+
+
+38. A college graduate plans to deposit Birr 2000 each year starting from the first day of the year into a saving        (1)
+    account that pays 8% interest compounded annually. How much will he/she has just after the first day of the
+    third year?
+    A. 4492.2                                                         B. 6332.8
+    C. 6492.8                                                         D. 7012.2
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

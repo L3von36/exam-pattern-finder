@@ -1,0 +1,299 @@
+                                                         Temari.et
+                             Physics, 2017 EC, entrance exam, version 3
+                                                 Grade 12 · Physics · 2017 E.C.
+
+Time allowed: 120 minutes                                     Questions: 51                                   Total marks: 51
+
+Name                                             Grade                        ID No.                  Date
+
+1.   Given the vectors A = (6, -4) and B = (-3, 8), in xy-plane both taken from the origin as the reference point. What is   (1)
+     the direction of the resultant vector R relative to the positive x-axis?
+     A. 45°                                                       B. 53°
+     C. 135°                                                      D. 315°
+
+2.   Which method involves placing two vectors tail-to-tail and drawing a diagonal to find the resultant?                    (1)
+     A. Parallelogram law                                         B. Triangle law
+     C. Polygon law                                               D. Scalar addition
+
+3.   When comparing the geometric and analytic methods of finding the resultant of two vectors, which of the                 (1)
+     following is TRUE?
+     A. Both methods always give different magnitudes but the same direction.
+     B. The geometric method gives exact values, while the analytic method gives only estimations.
+     C. Both methods yield the same resultant vector in magnitude and direction when applied correctly.
+     D. The analytical method is only valid when vectors are perpendicular.
+
+4.   A vector A = 2î + 3ĵ + 4k̂ and a vector B = 4î + 6ĵ + 8k̂ are given. Which of the following statements is TRUE about    (1)
+     the vectors?
+     A. A and B are perpendicular
+     B. A and B are parallel
+     C. The magnitude of A is equal to the magnitude of B
+     D. The dot product of A and B is zero
+
+5.   A motorcycle moves with an initial velocity of 15 m/s and accelerates uniformly at a rate of 3 m/s². Which of the       (1)
+     following is the best description of the velocity after 6 seconds?
+     A. 33 m/s                                                    B. 42 m/s
+     C. 18 m/s                                                    D. 45 m/s
+
+6.   A particle moves along a straight path with a velocity described by the equation v(t) = 4t + 3 m/s where t is the       (1)
+     time in seconds. What is the instantaneous acceleration at t = 5 seconds?
+     A. 23 m/s²                                                   B. 20 m/s²
+     C. 15 m/s²                                                   D. 4 m/s²
+
+7.   Suppose you are designing a projectile motion system that takes into account both vertical and horizontal               (1)
+     displacements. If you wish to minimize the time of flight for the projectile while maintaining a constant range,
+     what variable would you change?
+     A. Decrease the launch angle and adjust the initial velocity to maintain the range.
+     B. Increase the launch angle to achieve greater vertical displacement.
+     C. Change the horizontal velocity to shorten time of flight.
+     D. Increase the initial velocity to reduce the time of flight.
+8.   Two seconds after projection, a projectile is moving at 30° above the horizontal; after one more second it is        (1)
+     moving horizontally. The initial speed of the projectile is
+     A. 10√3 m/s                                                B. 20 m/s
+     C. 10 m/s                                                  D. 20√3 m/s
+
+9.   A flywheel rotates with a uniform angular acceleration. Its angular velocity increases from 20π rad/s to 40π         (1)
+     rad/s in 10 seconds. How many rotations did it undergo in this period?
+     A. 5                                                       B. 100
+     C. 150                                                     D. 2
+
+10. The equation θ = ω₀t + ½αt² represents angular displacement of an object with initial angular velocity ω₀,            (1)
+    undergoing uniform angular acceleration α. Which condition must be met for this equation to be valid?
+     A. The object must have a constant angular velocity throughout the motion.
+     B. The angular acceleration must remain constant during the motion.
+     C. The initial angular velocity must be zero at the start of the motion.
+     D. The motion must be linear rather than rotational.
+
+11. A wheel having moment of inertia 2 kg·m² about its vertical axis rotates at 60 rpm. The magnitude of torque           (1)
+    which can stop the wheel's rotation in one minute would be:
+     A. π/12 Nm                                                 B. π/60 Nm
+     C. π/4 Nm                                                  D. π/15 Nm
+
+12. Two spherical objects, each with mass 5.0×10⁵ kg, are placed at a separation of 100 m from each other. What is        (1)
+    the gravitational force between them? (G = 6.7×10⁻¹¹ Nm²/kg²)
+     A. 6.7×10⁻⁷ N                                              B. 3.0×10⁻⁴ N
+     C. 1.7×10⁻³ N                                              D. 2.0×10⁻¹ N
+
+13. What does Newton's second law state when it is expressed in terms of momentum?                                        (1)
+     A. Force is the time rate of change of momentum.
+     B. Force is proportional to velocity.
+     C. Force is equal to the change in acceleration.
+     D. Force equals mass times velocity.
+
+14. A block of mass 50 kg slides over a horizontal distance of 4 m. If the coefficient of friction between their surface (1)
+    is 0.2, then work done against friction is:
+     A. 100 J                                                   B. 400 J
+     C. 200 J                                                   D. 150 J
+
+15. Two objects, one with mass 4 kg and the other with mass 8 kg, are moving with the same speed in uniform               (1)
+    circular motion on the same horizontal plane, but the radius for the 8 kg object is twice that of the 4 kg object.
+    What is the ratio of centripetal force on the 8 kg object to that on the 4 kg object?
+     A. 1:2                                                     B. 2:1
+     C. 1:4                                                     D. 1:1
+16. Consider two objects: Object A mass 5 kg, Object B mass 10 kg. If both are subjected to the same applied force,    (1)
+    which statement best evaluates the relationship between their accelerations?
+    A. Object A will have half the acceleration of Object B
+    B. Object A and Object B will have the same acceleration
+    C. Object A will have double the acceleration of Object B
+    D. The accelerations cannot be compared
+
+17. Which statement accurately distinguishes conservative forces from non-conservative forces?                         (1)
+    A. Conservative forces always lead to an increase in mechanical energy.
+    B. Non-conservative forces are path-dependent and can change mechanical energy.
+    C. Conservative forces are always attractive, while non-conservative forces are always repulsive.
+    D. Non-conservative forces never perform work on an object.
+
+18. A system uses fixed pulley and movable pulley. If the load is 200 N and the effort force is 100 N and the          (1)
+    efficiency is 80%, what is the velocity ratio (VR) of the system?
+    A. 2                                                        B. 4
+    C. 3.5                                                      D. 2.5
+
+19. How would you evaluate the effect on the apparent weight of an object when it is immersed in a fluid, compared     (1)
+    to its true weight in a vacuum?
+    A. The apparent weight will be greater than the true weight due to the buoyant force exerted by the fluid.
+    B. The apparent weight will be the same as the true weight because the fluid has no impact on the force of gravity.
+    C. The apparent weight will be less than the true weight due to the upward buoyant force exerted by the fluid.
+    D. The apparent weight will fluctuate depending on the depth of the fluid.
+
+20. Two objects with different temperatures are placed in contact and, after some time, no more heat flows between (1)
+    them. What does this mean?
+    A. The cold object took all the heat
+    B. The objects have reached thermal equilibrium
+    C. The objects have different abilities to conduct heat
+    D. Heat is no longer necessary
+
+21. A student compares three substances P, Q, and R that undergo heating from solid to gas. Their heating curves       (1)
+    show: P has the steepest slope in the solid phase; Q has the longest melting horizontal line; R has the shortest
+    boiling horizontal line. Which conclusion can be drawn?
+    A. P has the lowest specific heat capacity in the solid phase.
+    B. Q has the lowest latent heat of fusion.
+    C. R has the highest latent heat of vaporization.
+    D. P has the highest specific heat capacity in the solid phase.
+
+22. A student uses 418 J of heat energy to increase the temperature of a 200 g sample of water. If the specific heat   (1)
+    capacity of water is 4.18 J/g°C, by how many degrees Celsius will the temperature increase?
+    A. 2.0°C                                                    B. 0.38°C
+    C. 1.5°C                                                    D. 0.5°C
+23. A group of students want to calculate how much energy is required to melt 100 grams of ice at 0°C without                (1)
+    changing its temperature. Which concept must they use?
+     A. Specific heat capacity of ice                             B. Thermal conductivity of water
+     C. Latent heat of fusion of ice                              D. Latent heat of vaporization of water
+
+24. Which of the following is a key difference between mechanical and electromagnetic waves?                                 (1)
+     A. Mechanical waves can travel in a vacuum, but electromagnetic waves cannot.
+     B. Electromagnetic waves require a medium to travel, whereas mechanical waves do not.
+     C. Mechanical waves require a medium to travel, while electromagnetic waves do not.
+     D. Electromagnetic waves are always longitudinal, while mechanical waves are transverse.
+
+25. An object is placed 4 cm in front of a concave mirror. The center of curvature of the mirror is located 40 cm from       (1)
+    the pole. What is the distance between the object and the image formed?
+     A. 9 cm                                                      B. 1 cm
+     C. 24 cm                                                     D. 8 cm
+
+26. A light passes from lead glass (refractive index n₁=1.65) into air (n₂=1.00). What is the critical angle for the light   (1)
+    ray at the glass-air interface?
+     A. 53°                                                       B. 30°
+     C. 37°                                                       D. 45°
+
+27. Which phenomenon occurs when two waves meet and combine to form a wave with larger amplitude?                            (1)
+     A. Diffraction                                               B. Interference
+     C. Refraction                                                D. Reflection
+
+28. A designer wants to maximize the total capacitance using three 10 μF capacitors. Which combination should                (1)
+    they choose, and why?
+     A. All in parallel, because it gives the maximum total capacitance.
+     B. All in series, because it gives the highest voltage rating.
+     C. One in series with two in parallel, because it balances both voltage and capacitance.
+     D. It doesn't matter; all combinations give the same result.
+
+29. Two wires A and B are made of the same material. Wire A has twice the length and half the diameter of wire B.            (1)
+    What is the ratio R_A / R_B of their resistances?
+     A. 1                                                         B. 8
+     C. 4                                                         D. 16
+
+30. A student says: "If the current flows upward in a vertical wire, the magnetic field lines will form clockwise circles (1)
+    around the wire." What is wrong with this statement?
+     A. Magnetic field lines do not form circles.
+     B. The direction of the field is counterclockwise, not clockwise.
+     C. Magnetic fields do not exist around straight wires.
+     D. The current direction should be downward for counterclockwise fields.
+31. You are conducting an experiment to demonstrate the force on a current-carrying conductor in a magnetic field.          (1)
+    Which new setup will most effectively demonstrate the force?
+    A. Use stronger magnetic field and lower the current.
+    B. Use a weaker magnetic field and increase the length of conductor.
+    C. Use stronger magnetic field, increase current, and keep wire perpendicular to field.
+    D. Keep current constant and place wire at 45° to the field.
+
+32. A square of side L meters lies in the xy-plane in a region where the magnetic field is given by B = B₀(2i + 3j + 4k)    (1)
+    T. The magnitude of flux passing through the square will be:
+    A. 2B₀L² Wb                                                  B. 3B₀L² Wb
+    C. 4B₀L² Wb                                                  D. 4B₀L Wb
+
+33. What happens if a permanent magnet is cut into two pieces?                                                              (1)
+    A. The two pieces lose their magnetic properties.
+    B. One piece becomes north pole, the other becomes a south pole.
+    C. Each piece becomes a new magnet with a north and a south pole.
+    D. The magnet retains only its north pole.
+
+34. A current of 3 A flows through a long straight wire. At a distance 0.2 m from the wire, the magnetic field is           (1)
+    4×10⁻⁷ T. What is the magnetic field at a distance of 0.4 m?
+    A. 2×10⁻⁷ T                                                  B. 4×10⁻⁷ T
+    C. 8×10⁻⁷ T                                                  D. 1×10⁻⁷ T
+
+35. A coil with 200 turns has an area of 0.3 m². The magnetic field strength is 0.8 T. Initially, the field makes an angle (1)
+    of 60° with respect to the normal of the coil's plane. After 5 seconds, the coil is rotated to 90°. What is the
+    induced electromotive force?
+    A. 4.8 V                                                     B. 3.0 V
+    C. 2.4 V                                                     D. 1.6 V
+
+36. An ideal transformer has a primary coil with 600 turns and a secondary coil with 150 turns. If the primary              (1)
+    voltage is 240 V and secondary current is 10 A, what is the primary current?
+    A. 1.5 A                                                     B. 4.0 A
+    C. 3.0 A                                                     D. 2.5 A
+
+37. Which of the following phenomena is best explained by Newtonian mechanics in Astronomy?                                 (1)
+    A. The Moon revolves around the Earth
+    B. The Sun's light bends when passing near another star
+    C. Galaxies are moving away from each other
+    D. A star becomes a black hole after it dies
+
+38. Which of the following is a branch of Earth science that focuses on the study of solid and liquid matter of the         (1)
+    Earth?
+    A. Astronomy                                                 B. Geology
+    C. Meteorology                                               D. Oceanography
+39. A company wants to improve the efficiency of its electrical power transmission system. Which branch of physics     (1)
+    should electrical engineers apply to reduce energy loss?
+    A. Thermodynamics                                         B. Electricals
+    C. Nuclear physics                                        D. Electromagnetism
+
+40. When holding a pencil between your fingers and applying force, why does a finger on the sharper side feel more     (1)
+    pain than the other?
+    A. The pencil is heavier on the flat side
+    B. The pressure is greater on the sharper side
+    C. The pressure on both fingers is equal
+    D. The pressure is lower on the finger that feels pain
+
+41. A diver in fresh water experiences a pressure of 600 kPa. If they move up by 10 m, what will be the new            (1)
+    pressure? (atmospheric pressure = 100 kPa, g=10 m/s², ρ=1000 kg/m³)
+    A. 500 kPa                                                B. 520 kPa
+    C. 540 kPa                                                D. 550 kPa
+
+42. Two hydraulic presses A and B have identical fluid and input forces, but press A has a larger output piston area   (1)
+    than press B. Which is true about the force they produce?
+    A. Press B produces a larger output force than press A
+    B. Both presses produce the same output
+    C. Press A produces a larger output force than press B
+    D. Output force depends only on input force, not piston area
+
+43. A team of engineers is building a cargo ship. They need to ensure the ship remains floating even when fully        (1)
+    loaded. What is the best design change they could make?
+    A. Increase the ship's height to make it more visible.
+    B. Increase the surface area of the ship's bottom to displace more water.
+    C. Use denser materials in the ship's construction to make it more stable.
+    D. Reduce the ship's total volume to make it more compact.
+
+44. A metal block weighs 50 N in air and 42 N when fully submerged in water. What is the density of the metal?         (1)
+    (g=10 m/s², ρ_water=1000 kg/m³)
+    A. 5000 kg/m³                                             B. 2000 kg/m³
+    C. 2500 kg/m³                                             D. 6250 kg/m³
+
+45. An airplane wing is designed so that air moves faster over the top surface than below. If the speed over the top   (1)
+    is 200 m/s and under the wing is 150 m/s, which is true?
+    A. Pressure above the wing is greater than below.
+    B. Pressure below the wing is greater than above.
+    C. Pressure is equal on both sides.
+    D. Bernoulli's principle does not apply here.
+
+46. Which one of the following is a safety measure when using a gas cylinder?                                          (1)
+    A. Use the gas cylinder for long hours
+    B. Store the gas cylinder in a warm area
+    C. Keep the gas cylinder in a vertical position
+    D. Keep the gas knob open all the times
+47. How does electrical conductivity of a P-type semiconductor differ from that of N-type semiconductor?        (1)
+    A. P-type conducts via electron flow, N-type via hole movement.
+    B. Both conduct through free electrons, but N-type have more.
+    C. P-type semiconductors do not conduct electricity under normal conditions.
+    D. N-type conducts via electron flow, P-type via hole movement.
+
+48. What happens to the potential barrier of a P-N junction diode under forward bias?                           (1)
+    A. It increases                                                   B. It decreases
+    C. It remains constant                                            D. It becomes infinite
+
+49. Designing a power supply for a sensitive audio amplifier requires smoothed signal in the DC output. Which   (1)
+    rectifier configuration would be most appropriate, and what additional component would you incorporate?
+    A. Half-wave rectifier with a resistor                            B. Full-wave rectifier with an ammeter
+    C. Full-wave rectifier with a capacitor                           D. Half-wave rectifier with an inductor
+
+50. A transistor with a common-emitter current gain of 100 has a collector current of 10 mA. What is the base   (1)
+    current?
+    A. 10 μA                                                          B. 0.1 μA
+    C. 1 μA                                                           D. 100 μA
+
+51. Which of the following is a typical advantage of integrated circuits?                                       (1)
+    A. Capability to withstand very high voltage
+    B. Large physical size for better handling
+    C. Ability to operate at high speed
+    D. High individual component replacement ease
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

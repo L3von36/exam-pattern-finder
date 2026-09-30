@@ -1,0 +1,307 @@
+                                                         Temari.et
+                            Physics, 2018 EC, entrance exam, version 6
+                                                Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 54                                   Total marks: 54
+
+Name                                             Grade                       ID No.                   Date
+
+1.   In modern hospitals, MRI scanners are preferred over X-ray machines for imaging soft tissues such as the brain.       (1)
+     This is because MRI technology is based on
+     A. Nuclear magnetic properties of atoms                     B. High-frequency sound waves
+     C. Ionizing electromagnetic radiation                       D. Reflection of visible light
+
+2.   Ultrasound imaging is a safe, non-invasive technique commonly used to monitor fetal development during                (1)
+     pregnancy. Unlike X-rays, it does not use ionizing radiation. This is because ultrasound technology is based on:
+     A. Nuclear magnetic resonance of hydrogen atoms
+     B. Reflection of high-frequency sound waves
+     C. Emission of gamma rays from radioactive tracers
+     D. Absorption of infrared radiation by tissues
+
+3.   Propose how principles of physics could be combined with biology to explain a complex biological process like         (1)
+     nerve signal transmission.
+     A. By using fluid dynamics models to explain blood flow in neurons.
+     B. By using thermodynamics to calculate the energy released during signal transmission.
+     C. By applying quantum mechanics to explain neurotransmitter release.
+     D. By applying electrical circuit theory and ion movement to model action potentials.
+
+4.   A radar station sends a pulse at speed c. The pulse hits a plane and returns to the station. The total time for the   (1)
+     round trip is t. Which formula correctly calculates the distance (D) to the plane?
+     A. D = ct                                                   B. D = ct/2
+     C. D = ct²                                                  D. D = 2ct
+
+5.   Radar systems used in aviation and defense can detect distant aircraft even during fog or at night. This is           (1)
+     possible because radar systems operate using
+     A. Mechanical waves that require a medium
+     B. Electromagnetic waves that travel at the speed of light
+     C. Sound waves with very high intensity
+     D. Infrared radiation only
+
+6.   Radiation therapy relies on high-energy particles to destroy cancer cells. This is an application of:                 (1)
+
+     A. Nuclear Physics                                          B. Fluid Mechanics
+     C. Classical Mechanics                                      D. Acoustics
+
+7.   Which imaging technique uses strong magnetic fields and radio waves to generate images of the organs in the           (1)
+     body?
+     A. X-Ray                                                    B. Ultrasound
+     C. CT Scan                                                  D. MRI
+8.   Physics is considered the backbone of modern science and technology because its fundamental laws are                       (1)
+     applied in chemistry, biology, engineering, medicine, and communication technologies. Which of the following
+     best explains why physics plays this central role?
+     A. Physics studies only matter and energy
+     B. Physics provides quantitative laws governing natural phenomena
+     C. Physics is older than other sciences
+     D. Physics replaces all other sciences
+
+9.   In defense technology, ballistics is used to calculate the trajectory of a missile. If a missile is fired at an angle of   (1)
+     45°, which physics principle is primarily applied?
+     A. Archimedes' Principle                                      B. Projectile Motion
+     C. Pascal's Law                                               D. Bernoulli's Principle
+
+10. At the maximum height of a projectile launched at an angle, the velocity vector is:                                         (1)
+
+     A. Zero                                                       B. Vertical
+     C. Horizontal                                                 D. Tangential to the ground
+
+11. A centrifuge in a medical lab rotates at 3000 revolutions per minute (rpm). Calculate the approximate centripetal (1)
+    acceleration experienced by a sample at a radius of 0.10 m.
+     A. 10,000 m/s²                                                B. 10,000,000 m/s²
+     C. 1,000 m/s²                                                 D. 100,000 m/s²
+
+12. You are designing a movie stunt. To make a motorcycle jump reach 4 times the previous maximum height (4H),                  (1)
+    how must you change the launch speed? (assume that the air resistance is neglected, launch angle remains
+    constant)
+     A. Increase speed by 2 times                                  B. Keep speed the same
+     C. Increase speed by 4 times                                  D. Increase speed by 16 times
+
+13. You are designing a satellite orbit. To make the satellite take 8 times longer to complete one circle, you must             (1)
+    expand the radius to:
+     A. 2 times the original radius                                B. 64 times the original radius
+     C. 8 times the original radius                                D. 4 times the original radius
+
+14. A ball is projected from the ground with an initial speed at an angle θ above the horizontal. Neglecting air                (1)
+    resistance, the horizontal and vertical motions of the ball are independent because
+     A. Gravity acts only horizontally                             B. Gravity affects only the vertical motion
+     C. No force acts on the projectile                            D. Velocity remains constant
+
+15. A projectile's range is defined as its horizontal displacement when it returns to its original launch height. For two       (1)
+    projectiles launched with the same initial speed, the ranges will be equal for these launch angles EXCEPT:
+     A. 15° and 75°                                                B. 20° and 70°
+     C. 40° and 50°                                                D. 40° and 60°
+
+16. In analyzing the parabolic trajectory of a projectile launched over level ground with no air resistance, which of           (1)
+    the following statements is categorically false?
+     A. The vertical component of velocity is zero at the maximum height.
+     B. The horizontal component of acceleration is constant and non-zero.
+     C. The time taken to reach maximum height is exactly half the total time of flight.
+     D. The speed at launch is equal to the speed just before impact.
+17. Two identical balls are launched simultaneously from the same height. Ball A is launched horizontally at speed u. (1)
+    Ball B is dropped from rest. Neglecting air resistance, which of the following is true about their motion just
+    before they hit the ground?
+    A. Ball A has a greater vertical velocity component.
+    B. Ball B has a greater acceleration.
+    C. Both have the same vertical velocity component.
+    D. Ball A hits the ground first because it has an initial velocity.
+
+18. Consider a projectile launched with speed u at angle θ. Derive an expression for its maximum height H. Which        (1)
+    derivation is correct?
+    A. Using v² = u² + 2ay, with V = 0, U = usinθ, a = −g, gives H = u²sin²θ/(2g)
+    B. The maximum height is found when X = u²sin2θ/(2g), leading to H = u²sin²θ/(2g)
+    C. Using the total energy, H = u²/(2g)
+    D. The time to max height is t = u/g, leading to H = usinθ · (u/g) = u²sinθ/g
+
+19. Which expression correctly combines the horizontal velocity (Vx) and time of flight (T) to find the Range (R)?      (1)
+    A. R = Vx · T                                                 B. R = Vx/T
+    C. R = Vx + T                                                 D. R = Vx - T
+
+20. You are designing a mission to a planet of mass M. You need the satellite to orbit with a specific time Period T.   (1)
+    Which formula derives the required orbital radius (r)?
+    A. r = (GMT²/4π²)^(1/3)                                       B. r = (GM/T²)^(1/3)
+    C. r = GMT/4π²                                                D. r = (GMT²)^(1/2)
+
+21. The physical quantity that measures a body's resistance to changes in its rotational motion, serving as the         (1)
+    rotational equivalent of mass, is called:
+    A. Torque                                                     B. Angular Momentum
+    C. Moment of Inertia                                          D. Angular Velocity
+
+22. According to Kepler's First Law of Planetary Motion, the orbits of the planets are ellipses with the Sun located    (1)
+    at:
+    A. The exact center of the ellipse                            B. The surface of the planet
+    C. Point of maximum velocity                                  D. One of the two foci
+
+23. The equation for the trajectory of a projectile launched from the origin is Y = xtanθ − gx²/(2u²cos²θ). Deriving    (1)
+    from this, what condition must be met for a projectile launched from ground level to pass through a specific
+    point (X, Y)?
+    A. The point must satisfy the inequality Y ≤ X²tan²θ/(4H)
+    B. The horizontal distance X must always be less than the maximum range Rmax
+    C. The vertical height Y must be zero for any real solution.
+    D. The launch angle must satisfy a quadratic equation in tanθ derived from plugging (X,Y) into the trajectory
+       equation.
+
+24. The gravitational force between two 1000 kg spherical masses whose centers are separated by 2.0 m is                (1)
+    A. 1.67×10⁻⁵ N                                                B. 3.34×10⁻⁵ N
+    C. 1.67×10⁻⁴ N                                                D. 3.34×10⁻⁴ N
+25. A student claims that 'A projectile launched at 45° always achieves the maximum possible range regardless of             (1)
+    air resistance.' Is this claim correct?
+     A. Yes, 45° is always optimal.
+     B. No, air resistance usually requires an angle slightly less than 45°.
+     C. No, the optimal angle is always 60°.
+     D. Yes, but only if the launch height is zero.
+
+26. A satellite revolves around the Earth in a circular orbit. The centripetal force required for this motion is provided    (1)
+    by
+     A. Atmospheric pressure                                      B. Earth's magnetic field
+     C. Gravitational force                                       D. Centrifugal force
+
+27. For an object in uniform circular motion, the centripetal acceleration vector is characterized by being:                 (1)
+     A. Constant in magnitude and direction.
+     B. Constant in magnitude, but always directed radially inward toward the center of the circle.
+     C. Increasing in magnitude as the object's speed increases.
+     D. Tangent to the path and opposite the direction of motion.
+
+28. Kepler's Second Law is a direct consequence of the conservation of which physical quantity in the planet-Sun             (1)
+    system, assuming no external torques?
+     A. Total Energy                                              B. Linear Momentum
+     C. Angular Momentum                                          D. Mass
+
+29. A ball is kicked with an initial velocity vector v = (30i + 40j) m/s. What is the velocity of the ball at the highest    (1)
+    point of its trajectory?
+     A. 0 m/s                                                     B. 30 m/s
+     C. 40 m/s                                                    D. 50 m/s
+
+30. Which of the following graphs best represents the relationship between the gravitational force (F) exerted by a          (1)
+    planet and the distance (r) from its center, for r > R_planet?
+     A. A straight line with positive slope.
+     B. A straight line with negative slope.
+     C. A hyperbola (curve dropping as 1/r).
+     D. An inverse square curve (curve dropping as 1/r²).
+
+31. A ship floats higher in saltwater than in freshwater. This is because:                                                   (1)
+     A. The buoyant force is greater in saltwater due to its higher viscosity.
+     B. Saltwater is denser, so a smaller volume needs to be displaced to equal the ship's weight.
+     C. The gravitational acceleration is lower over the ocean.
+     D. The hull of the ship is specially designed to repel salt molecules.
+
+32. In a horizontal pipe with a constriction (a venturi), the fluid velocity increases in the narrow section. According to   (1)
+    Bernoulli's principle, this increase in velocity is accompanied by:
+     A. A decrease in static pressure.
+     B. An increase in static pressure.
+     C. No change in static pressure if the flow is ideal.
+     D. An increase in the fluid's density.
+33. Why is the dam wall thicker at the bottom than at the top?                                                            (1)
+    A. Because pressure in a static fluid increases linearly with depth.
+    B. To support the weight of the wall itself.
+    C. To prevent the water from freezing at the bottom.
+    D. Because the speed of water flow is higher at the bottom.
+
+34. Two discs of the same material and thickness have radii 0.2 m and 0.6 m. Their moments of inertia about their         (1)
+    axes will be in the ratio of
+    A. 1 : 81                                                   B. 1 : 27
+    C. 1 : 9                                                    D. 1 : 3
+
+35. If the average distance from the Sun (semi-major axis) of an asteroid is 4 times that of Earth, what is its orbital   (1)
+    period according to Kepler's Third Law? (Earth's period = 1 year)
+    A. 4 years                                                  B. 8 years
+    C. 16 years                                                 D. 64 years
+
+36. At what altitude above Earth's surface would the acceleration due to gravity be half its value at the surface?        (1)
+    (Assume Earth's radius is R).
+    A. R                                                        B. R/2
+    C. R√2                                                      D. R(√2 − 1)
+
+37. The maximum height reached by a projectile depends mainly on                                                          (1)
+    A. Horizontal component of velocity                         B. Distance and angle
+    C. Vertical component of velocity                           D. Mass of projectile
+
+38. If the distance between two masses is doubled, the gravitational force between them becomes                           (1)
+    A. Twice as large                                           B. Half as large
+    C. One-fourth as large                                      D. Four times larger
+
+39. Newton's law of gravitation applies to                                                                                (1)
+
+    A. Only planets                                             B. Only celestial bodies
+    C. All masses                                               D. Charged particles only
+
+40. Three identical masses are placed at the corners of an equilateral triangle of side L. What is the magnitude of       (1)
+    the net gravitational force on any one of the masses due to the other two?
+    A. √3 × Gm²/L²                                              B. Gm²/L²
+    C. √3Gm²/4L²                                                D. 2Gm²/L²
+
+41. You are designing a fire hose nozzle. To make the water shoot out 4 times faster than it does now, how must you (1)
+    change the cross-sectional area of the opening?
+    A. Make the area 4 times larger.                            B. Make the area 2 times larger.
+    C. Make the area 1/4 of the original size.                  D. Make the area 1/2 of the original size.
+
+42. A town's water tower is an open tank located 30 m above the ground. The water in the tank is 5 m deep. What is        (1)
+    the water pressure at a neighborhood that is 20 m above the ground?
+    A. 100 kPa                                                  B. 150 kPa
+    C. 200 kPa                                                  D. 250 kPa
+43. In a hydraulic lift, a small piston has an area of 2 m² and a large piston has an area of 10 m². If a force of 20 N is   (1)
+    applied to the small piston, what force is exerted by the large piston?
+     A. 4 N                                                       B. 20 N
+     C. 40 N                                                      D. 100 N
+
+44. Gauge pressure is equal to:                                                                                              (1)
+     A. Absolute pressure + Atmospheric pressure                  B. Absolute pressure − Atmospheric pressure
+     C. Atmospheric pressure − Absolute pressure                  D. Absolute pressure × Atmospheric pressure
+
+45. In a horizontal pipe, the pressure at point A (slow water) is Pa and point B (fast water) is Pb. Which is true?          (1)
+
+     A. Pa > Pb                                                   B. Pa < Pb
+     C. Pa = Pb                                                   D. Pa = 0
+
+46. A U-tube manometer contains mercury. One end is open to the atmosphere, and the other is connected to a gas              (1)
+    tank. The mercury level in the arm connected to the gas is 15 cm lower than in the open arm. What is the gauge
+    pressure of the gas?
+     A. 20.4 kPa                                                  B. 10.2 kPa
+     C. 2040 Pa                                                   D. 1020 Pa
+
+47. A submarine is designed to withstand an absolute pressure of 8×10⁶ Pa. At what approximate depth in seawater             (1)
+    would it reach its crush depth?
+     A. 700 m                                                     B. 770 m
+     C. 800 m                                                     D. 880 m
+
+48. A solid object weighs 50 N in air and 30 N when fully immersed in water. What is the density of the object?              (1)
+
+     A. 1250 kg/m³                                                B. 2000 kg/m³
+     C. 2500 kg/m³                                                D. 5000 kg/m³
+
+49. An airplane wing is designed so that air flows faster over the top surface than the bottom. Using Bernoulli's            (1)
+    principle, the primary reason this design generates lift is that:
+     A. The higher velocity above creates a region of lower pressure relative to the higher pressure below the wing.
+     B. The air molecules are deflected downward, and by Newton's third law, the wing is pushed upward.
+     C. The stagnation point moves to the lower surface, increasing pressure there.
+     D. The difference in velocities creates a net upward drag force.
+
+50. Water flows steadily through a horizontal pipe that narrows from a diameter of 10 cm to a diameter of 5 cm. If           (1)
+    the speed in the wide section is 2 m/s, what is the speed in the narrow section?
+     A. 4 m/s                                                     B. 6 m/s
+     C. 8 m/s                                                     D. 10 m/s
+
+51. Two immiscible liquids of densities ρ₁ > ρ₂ in a U-tube. At equilibrium                                                  (1)
+     A. The heavier liquid rises higher                           B. The lighter liquid rises higher
+     C. Zero pressure difference                                  D. Same level always
+52. Derive the expression for the total pressure at a depth (h) in a fluid of density (ρ) that is open to the atmosphere   (1)
+    with pressure (Patm). Which derivation is correct?
+    A. The pressure is the sum of atmospheric pressure and the pressure from the fluid column: P = Patm + ρgh
+    B. The pressure is due to the fluid column only: P = ρgh.
+    C. The pressure decreases with depth: P = Patm − ρgh.
+    D. Pressure is constant in a static fluid, so P = Patm at all depths.
+
+53. A cylindrical water tower of height H is filled to the brim. A small leak develops at the very bottom. Derive the      (1)
+    expression for the speed of the water exiting the leak (Torricelli's theorem). The derivation uses Bernoulli's
+    equation between the free surface (point 1) and the leak (point 2), assuming both are open to the atmosphere,
+    leading to:
+    A. v = √(2gH)                                                      B. v = gH
+    C. v = √H                                                          D. v = 2gH
+
+54. Why does atmospheric pressure decrease as altitude increases?                                                          (1)
+    A. Air becomes colder.
+    B. The gravitational pull increases.
+    C. The weight of the air column above decreases and air density drops.
+    D. The wind speed increases at high altitudes.
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

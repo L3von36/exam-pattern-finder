@@ -1,0 +1,244 @@
+                                                         Temari.et
+                        Mathematics, 2018 EC, entrance exam, version 3
+                                              Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 50                                   Total marks: 50
+
+Name                                             Grade                        ID No.                  Date
+
+1.   Which of the following statement defines an arithmetic progression?                                                  (1)
+     A. It is a sequence in which the ratio between consecutive terms is a positive constant.
+     B. It is a sequence in which the difference between consecutive terms is a non-zero constant.
+     C. It is a sequence in which the difference between consecutive terms is a constant.
+     D. It is a sequence in which the ratio between consecutive terms is a non-zero constant.
+
+2.   The simplified form of the expression (√32 + √48) / (√8 + √12) is equal to:                                          (1)
+     A. √2                                                       B. 4
+     C. 1                                                        D. 2
+
+3.   Which one of the following pairs of numbers are irrational numbers between 11 and 13?                                (1)
+     A. √120 and √168                                            B. 3+√81 and 2√37
+     C. 2+√112 and 3√17                                          D. √125 and √175
+
+4.   If a polynomial function f(x)=x³+ax²+bx+3 is divided by x+2 the remainder is 15 and x-1 is a factor of f(x), then    (1)
+     what are the values of a and b respectively?
+     A. -6,2                                                     B. 6,2
+     C. 2,6                                                      D. 2,-6
+
+5.   Which of the following ordered pairs gives the coordinates of the point that divides a line segment with             (1)
+     endpoints A(-1,5) and B(5,2) in the ratio 1:2?
+     A. (3,3)                                                    B. (-3,-3)
+     C. (-4,-1)                                                  D. (1,4)
+
+6.   Given sets A = {x: x²-12x+20=0} and B = {x: x²+5x-14=0}, then relative complement of A with respect to B (B\A)       (1)
+     is:
+     A. {-7}                                                     B. {10}
+     C. {-7,10}                                                  D. {-10,7}
+
+7.   Which one of the following statements is necessarily true?                                                           (1)
+     A. If a feasible region of a linear programming problem is unbounded, then there is no optimal value.
+     B. If a feasible region of a linear programming problem is bounded, then the objective function has either maximum
+        value or minimum value.
+     C. If a feasible region of a linear programming problem is bounded, then the objective function must have optimal
+        value(s).
+     D. At corner points of a feasible region of any linear programming problem there are always optimal values.
+8.   A group of 30 men participate in a survey on language skills. The number of men who know both English and              (1)
+     Afan Oromo equals the number who know neither. The number who know English is 4 more than those who
+     know Afan Oromo. How many know Afan Oromo?
+     A. 26                                                          B. 14
+     C. 13                                                          D. 11
+
+9.   Tola purchased a TV stand for Birr 5000 and paid Birr 250 for transportation. If he sold it for Birr 5075, then        (1)
+     which statement is true?
+     A. Tola gain 3.33%                                             B. Tola gain Birr 175.
+     C. Tola gain Birr 75.                                          D. Tola loss 3.33%
+
+10. The cost of an electronic device reduces at the rate of 5% per annum. If its present cost is Birr 32490, then what      (1)
+    was its cost before two years?
+     A. 36,000                                                      B. 37,200
+     C. 35,400                                                      D. 29,469
+
+11. If three positive numbers are in the ratio 1:3:5 and the sum of their squares is 875, then which is the sum of the      (1)
+    three numbers?
+     A. 45                                                          B. 75
+     C. 90                                                          D. 99
+
+12. If a man saves Birr 135 in the first year, Birr 150 in the second year, Birr 165 in the third year and so on, then in   (1)
+    what time (in years) is his total saving Birr 5,550?
+     A. 362                                                         B. 37
+     C. 20                                                          D. 360
+
+13. If the 6th and 11th terms of an arithmetic progression are 52 and 112 respectively, then the common difference is: (1)
+     A. 12                                                          B. 15
+     C. 20                                                          D. 4
+
+14. If the first term of an arithmetic sequence is 3 and the sum of its first four terms is equal to one-fifth of the sum   (1)
+    of the next four terms, then the sum of the first 20 terms is:
+     A. -1040                                                       B. -1080
+     C. -1200                                                       D. -2160
+
+15. What is the absolute maximum of f(x)=2x³-6x²-48x+7 on [-6,8]?                                                           (1)
+     A. 353                                                         B. 263
+     C. 63                                                          D. -353
+
+16. If ∫₀ᵏ (2kx - x²) dx = 18, then which is the value of k?                                                                (1)
+
+     A. -3                                                          B. 0
+     C. 9                                                           D. 3
+
+17. If F and f are defined on [a,b] such that F'(x)=f(x) for all x, then ∫ₐᵇ f(x)dx is equal to:                            (1)
+     A. F'(a)-F'(b)                                                 B. F'(b)-F'(a)
+     C. F(a)-F(b)                                                   D. F(b)-F(a)
+18. Which is the area enclosed by f(x)=4x³ and x-axis between x=-2 and x=3?                                     (1)
+    A. 65                                                     B. 81
+    C. 97                                                     D. 107
+
+19. On interval [0,2π], which θ satisfy 2cosθ + √3 = 0?                                                         (1)
+
+    A. 4π/3,5π/3                                              B. 2π/3,4π/3
+    C. 5π/6,7π/6                                              D. 8π/6,11π/6
+
+20. The solution set of log(x+4) + log4 = log48 - log x is:                                                     (1)
+    A. {2}                                                    B. {-6,2}
+    C. {-6}                                                   D. {-2,6}
+
+21. If f(x)=sin x and g(x)=cos x, which is NOT true?                                                            (1)
+    A. Both functions have the same range.
+    B. The domain of both functions is R.
+    C. The value of both functions can be less than -1.
+    D. They have the same period.
+
+22. Let f(x)= (2x-3)/(x+1), x≠-1. Which is the inverse?                                                         (1)
+    A. f^{-1}(x)= (x+3)/(2-x), x≠2                            B. f^{-1}(x)= (x+1)/(2x-3), x≠3/2
+    C. f^{-1}(x)= (3-x)/(2x+1), x≠-1/2                        D. f^{-1}(x)= (2x+3)/(x-1), x≠1
+
+23. The domain and range respectively for the power function f(x)= (1/3) x^{-5} are:                            (1)
+    A. R\{0} and (0,∞)                                        B. R\{0} and R\{0}
+    C. (0,∞) and (0,∞)                                        D. [0,∞) and [0,∞)
+
+24. Which is the largest interval on which f(x)=-2x³-9x²-12x+1 is increasing?                                   (1)
+    A. (-∞,-2]∪[-1,∞)                                         B. [-2,-1]
+    C. (-∞,-2]∪[1,∞)                                          D. [-2,∞)
+
+25. Suppose mean=32, median=30.5, mode=29.5. Which is true?                                                     (1)
+
+    A. Distribution is positively skewed.
+    B. Bowley's coefficient of skewness β<0.
+    C. Distribution is negatively skewed.
+    D. Pearson's coefficient of skewness is zero.
+
+26. Which one is non-random sampling?                                                                           (1)
+    A. Stratified Sampling                                    B. Convenience Sampling
+    C. Systematic Sampling                                    D. Cluster Sampling
+
+27. A company manufactures sweaters type A and B. Cost: A=360, B=120. Can make at most 300 sweaters and         (1)
+    spend at most 72,000 a day. Number of type B cannot exceed type A by more than 100. Profit: A=200, B=120.
+    Which linear programming model maximizes profit?
+    A. Maximize P=200x+120y subject to: x+y≤300, 360x+120y≤72000, y≤x+100, x,y≥0
+    B. Maximize P=120x+200y subject to: ...
+    C. Maximize P=200x+120y subject to: x+y≥300, ...
+    D. Maximize P=200x+120y subject to: x+y≤300, 360x+120y≤72000, y≤x-100, x,y≥0
+28. A circular metal plate expands. Radius increases at 0.5 cm/sec. Rate of increase of area when radius=20 cm?        (1)
+     A. 80π cm²/sec                                                B. 20π cm²/sec
+     C. 10π cm²/sec                                                D. 200π cm²/sec
+
+29. On selling an article for Birr 450, a dealer lost 10%. The cost price is:                                          (1)
+
+     A. Birr 405                                                   B. Birr 500
+     C. Birr 550                                                   D. Birr 454.55
+
+30. If in increasing geometric progression, the 6th term is 32 and 8th term is 128, then common ratio is:              (1)
+     A. -2                                                         B. 4
+     C. 2                                                          D. ±1
+
+31. What is the image of point (2,-3) when reflected about the line y = -x?                                            (1)
+     A. (-3,2)                                                     B. (2,3)
+     C. (3,-2)                                                     D. (-2,-3)
+
+32. If Q₃=50 and Q₁=35, then coefficient of quartile deviation is:                                                     (1)
+     A. 3/17                                                       B. 15/2
+     C. 5/17                                                       D. 17/3
+
+33. Consider matrix A = [[1,2,3],[6,1,9],[4,0,5]]. Which is det(A) and the cofactor of entry a₃₂?                      (1)
+
+     A. 5, 0                                                       B. -19, -9
+     C. -19, 7                                                     D. 5, 9
+
+34. If u = i - j and v = 2i + j, then cosine of angle between u and v is:                                              (1)
+     A. 3√10/10                                                    B. √10
+     C. 3√10/10                                                    D. √10/10
+
+35. Bona's income Birr 180,000 per year. Pays 20% house rent, then 15% of remainder on child's education. Money        (1)
+    left?
+     A. Birr 144,000                                               B. Birr 158,000
+     C. Birr 21,000                                                D. Birr 122,400
+
+36. Areas of two similar triangles are 144 cm² and 81 cm². If one side of first triangle is 6 cm, then corresponding   (1)
+    side of second triangle is:
+     A. 81/4 cm                                                    B. 9/2 cm
+     C. 3/2 cm                                                     D. 9/4 cm
+
+37. The table shows marks of 100 students in Mathematics and Physics. Mean: Math=20, Physics=25; SD: Math=2,           (1)
+    Physics=3. Which subject shows highest variability?
+     A. Mathematics                                                B. Physics
+     C. Both equal                                                 D. Cannot determine
+
+38. A frustum of a right circular cone with base radii 3 cm and 4 cm, slant height 6 cm. Total surface area?           (1)
+     A. 67π cm²                                                    B. 74π cm²
+     C. 56π cm²                                                    D. 36π cm²
+39. Solution set of ∛(64^(x+1)) = (1/16)^(2x-3) is:                                                                     (1)
+     A. {-1}                                                      B. {-2}
+     C. {2}                                                       D. {1}
+
+40. Which is true about the graph of f(x)=(x-2)/(x²-5x+6)?                                                              (1)
+
+     A. x=2 and x=3 are vertical asymptotes                       B. The x-axis is its horizontal asymptote
+     C. y=0 is its oblique asymptote                              D. The x-intercept is (2,0)
+
+41. Let A be 3×3 matrix and k scalar. Which is true?                                                                    (1)
+     A. If B obtained by multiplying one row by k, then |B|=|A|
+     B. If B obtained by interchanging two rows, then |B|=|A|
+     C. If B = kA, then |B| = k³|A|
+     D. If B obtained by adding k times one row to another, then |B|=k|A|
+
+42. Let u = i+3j+2k, v = i-3k. Then |u × v| is:                                                                         (1)
+
+     A. 115                                                       B. √115
+     C. 125                                                       D. √125
+
+43. Equation of tangent line to circle x²+y²+2x-4y=0 at point (-2,4) is:                                                (1)
+     A. 2x - y + 8 = 0                                            B. x + 2y - 6 = 0
+     C. x - 2y - 10 = 0                                           D. x - 2y + 10 = 0
+
+44. If a translation T takes the origin to (0,4), then the image of line 2x - y = 3 under T is:                         (1)
+     A. 2x - y = -1                                               B. 2x - y = 1
+     C. 2x + y = -1                                               D. 2x + y = 1
+
+45. Image of circle (x-1)²+(y+2)²=4 when rotated by 3π/2 about origin is:                                               (1)
+     A. (x+2)²+(y-1)²=4                                           B. (x-2)²+(y+1)²=4
+     C. (x+1)²+(y+2)²=4                                           D. (x+2)²+(y+1)²=4
+
+46. Which of the following is a discrete data?                                                                          (1)
+
+     A. Volume of water in a glass                                B. Number of students in the class
+     C. Temperature in the classroom                              D. Time taken to complete a test
+
+47. The following table presents scores of students. What is the middle quartile? (Table: Score 31-40:10, 41-50:9, 51- (1)
+    60:15, 61-70:12, 71-80:10, 81-90:4, 91-100:2)
+     A. 55.5                                                      B. 50.5
+     C. 60.5                                                      D. 58.5
+
+48. What is the coefficient of x³y⁵ in the expansion of (2x - y)⁸?                                                      (1)
+     A. 448                                                       B. 8
+     C. -448                                                      D. -8
+
+49. If two dice are rolled, probability of getting sum greater than 10 or doubles?                                      (1)
+     A. 4/9                                                       B. 2/9
+     C. 1/4                                                       D. 1/9
+50. Which is the partial fraction form of (x²+3)/(x³-x²+x-1)?                                               (1)
+    A. 2/(x-1) - (x+1)/(x²+1)                                          B. 2/(x-1) + (1-x)/(x²+1)
+    C. 2/(x-1) + (1-x)/(x+1)                                           D. 2/(x-1) + (x+1)/(x²+1)
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

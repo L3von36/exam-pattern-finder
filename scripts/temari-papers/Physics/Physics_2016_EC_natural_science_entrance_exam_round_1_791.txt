@@ -1,0 +1,283 @@
+                                                         Temari.et
+                  Physics, 2016 EC, natural science, entrance exam, round 1
+                                                 Grade 12 · Physics · 2016 E.C.
+
+Time allowed: 120 minutes                                     Questions: 46                                   Total marks: 46
+
+Name                                             Grade                        ID No.                  Date
+
+1.   In the following choices, given that the symbols N, m, J, kg, stand for Newton, meter, Joule, and kilogram,            (1)
+     respectively, then which one is the correct SI unit of torque?
+     A. N                                                         B. kg m²
+     C. N m = J                                                   D. N m ≠ J
+
+2.   Which one of the following waves is an example of longitudinal waves in material medium?                               (1)
+     A. Water wave at depth                                       B. P-waves in earthquake
+     C. Wave in a string                                          D. S-waves in earthquake
+
+3.   Which one of the following statements is correct about the difference between orbital and escape velocities of a       (1)
+     satellite orbiting the Earth?
+     A. Orbital velocity depends on the radius of the Earth, whereas scape velocity depends on the radius of the
+        satellite's orbit.
+     B. Scape velocity depends on the radius of the Earth, whereas orbital velocity depends on the radius of the
+        satellite's orbit.
+     C. Orbital velocity is inversely proportional to the radius of the Earth, whereas scape velocity is directly proportional
+        to the radius of the Earth.
+     D. Orbital velocity depends on the mass of the earth, whereas scape velocity depends on the mass of the satellite.
+
+4.   Which one of the following statements is correct about actions of A.C. and D.C. generators?                            (1)
+     A. The voltage output of D.C. generators varies periodically whereas the voltage output of A.C generator is
+        constant.
+     B. The current outputs of both generator A.C. and D.C. generator have constant values.
+     C. The voltage induced by A.C. generator reverses its direction periodically whereas by the D.C. generators has a
+        constant value.
+     D. The current outputs of both A.C. and D.C. generators reverse their directions periodically.
+
+5.   An electric motor exerts a constant 10 N⋅m torque on a grindstone, which has a moment of inertia of 5.0 kg⋅m 2         (1)
+     about its axis. The system starts from rest and turns. What is the work done by the motor in 4.0 s?
+     A. 160 J                                                     B. 40 J
+     C. 2 J                                                       D. 320 J
+
+6.   Three charges Q 1 = 5 x 10 -10 C, Q 2 = 2 x 10 -10 C and Q 3 = 3 x 10 -10 C, are placed on the x axis at points x = (1)
+     0, x = 2 cm and x = 4 cm, respectively, as shown in the figure below. What is the magnitude of electrostatic force
+     exerted on Q 2 by the other two charges?
+     A. 3.6 x 10 -6 N                                             B. 9 x 10 -7 N
+     C. 9 N                                                       D. 9 x 10 -15 N
+7.   Two capacitors having capacitances C 1 and C 2 are connected in series to a voltage source of potential                 (1)
+     difference v. If the total charge stored by the capacitors is Q, the total electrical energy stored by the capacitors
+     is
+     A. 1/2(C 1 + C 2 )Q 2                                       B. C 1 C 2 Q 2 /2(C 1 + C 2 )
+     C. Q 2 /2(C 1 + C 2 )                                       D. Q 2 (C 1 + C 2 )/2C 1 C 2
+
+8.   An experimenter measures a current flowing through a resistor R 1 to be 1.3 A by connecting to a voltage source         (1)
+     of a potential difference ΔV = 6 V. Next, a second resistor of R 2 is added to the circuit with parallel connection.
+     In doing so, the current through R 1 is NOT changed but a current of I 2 = 2 A flowing through R 2 is recorded.
+     What is the value of the effective resistance (R) of the final circuit?
+     A. R = R 1 + R 2 = 1.2 Ω                                    B. R = (R 1 + R 2 )/R 1 R 2 = 1.2 Ω
+     C. R = (R 1 R 2 )/(R 1 + R 2 ) = 1.2 Ω                      D. R = R 1 + R 2 = 5
+
+9.   A long straight wire passing through the origin perpendicular to the xy plane carries a current I. A compass            (1)
+     needle is moved around in the xy plane. When it is placed at the point (0, +y), it deflects towards the negative x-
+     axis; while when it is placed at(-x, 0), it deflects towards the negative y-axis. In what direction does the needle
+     deflect when it is placed at (0, -y)?
+     A. to the positive x-axis                                   B. to the negative y-axis
+     C. to the positive y-axis                                   D. to the negative x-axis
+
+10. Which one of the following statements correctly defines a couple? Couple is a pair of equal magnitude forces             (1)
+    acting on a body
+     A. in the same directions to have net torque.
+     B. in opposite directions at the same point.
+     C. in opposite directions generating a net force.
+     D. in opposite directions generating a net torque.
+
+11. The amount of heat energy required to change 1 kg of the substance from solid to liquid at its melting point is          (1)
+
+     A. specific latent heat of fusion                           B. specific heat capacity
+     C. specific latent heat of vaporization                     D. specific heat of boiling
+
+12. Which one of the following is correct about the assumptions made in the kinetic theory of ideal gases?                   (1)
+     A. Collisions between particles of the gas are perfectly inelastic
+     B. Newton's laws cannot be applied during collisions between particles of the gas
+     C. All particles of the gas have the same value of velocities at any instant
+     D. The internal energy of the gas is equal to the kinetic energy of the gas
+
+13. Two points P 1 and P 2 on a rigid body are located at different distances, d 1 and d 2 respectively, from the pivot      (1)
+    point O as shown in the figure below. If a body is set to rotate about the pivot point O,
+     A. P 2 completes a cycle before point P 1 .                 B. P 1 and P 2 have equal linear speed.
+     C. P 1 and P 2 have equal angular velocity.                 D. P 2 has greater linear speed than P 1 .
+
+14. Which one of the following correctly describes the relationship between the factors affecting laminar flow?              (1)
+
+     A. A fast moving object in air makes air to expand more.
+     B. A fast moving object in air causes the air to become denser.
+     C. The effect of temperature would be significant at low speeds.
+     D. Viscosity has no effect in case when a fast moving object is taken.
+15. A body is observed to be moving with constant velocity in a straight line. One can surely conclude that for this    (1)
+    body,
+    A. no external force is applied on it.
+    B. no friction force is acting on it.
+    C. constant force is applied on it.
+    D. the net external force acting on it is zero.
+
+16. The speed of sound wave in one end closed organ pipe of length L is v. For which of the following harmonic          (1)
+    frequencies (f n ) standing waves through the pipe are formed?
+    A. f n = nv/4L, where n = 1,2,3,...                         B. f n = nv/2L, where n = 1,3,5,...
+    C. f n = nv/4L, where n = 1,3,5,...                         D. f n = nv/2L, where n = 1,2,3,...
+
+17. A constant torque of 80 Nm is applied to the rim of a flywheel for 2 s. If the flywheel initially has angular       (1)
+    momentum of 40 kgm 2 /s, what will be its final angular momentum?
+    A. 200 kgm 2 /s                                             B. 40 kgm 2 /s
+    C. 160 kgm 2 /s                                             D. 120 kgm 2 /
+
+18. A load of 4 kg is applied to the ends of a wire 5 m and cross sectional area 4 mm 2 to produce an extension of      (1)
+    0.40 mm. What is the Young's modulus of the wire?
+    A. 1.25×10 10 Nm -2                                         B. 1.25×10 11 Nm -2
+    C. 8.00×10 11 Nm -2                                         D. 8.00×10 10 Nm -2
+
+19. Molar heat capacity of an ideal gas at a constant pressure and constant volume are given by C P and C V             (1)
+    respectively. If R is a universal gas constant, which one of the following equation is correct about the relation
+    between C P and C V ?
+    A. C P - C V = R                                            B. C V - C P = 2R
+    C. C V - C P = R                                            D. C P - C V = 2R
+
+20. A continuous and periodic disturbance of particles of medium or fields is known as                                  (1)
+
+    A. pulse                                                    B. wave front
+    C. wave speed                                               D. wave
+
+21. Which of the following statements correctly explains the difference between distance and displacement for an        (1)
+    object that does not move in a straight line?
+    A. Distance can be zero whereas displacement is not
+    B. Displacement has larger magnitude than distance
+    C. Displacement can be zero whereas distance is not
+    D. Distance is a shortest path whereas displacement is the actual path travelled by the object
+
+22. Which one of the following types of renewable energy resources are characterized by no emission of                  (1)
+    greenhouse gases?
+    A. Hydroelectric and Wind energy                            B. Wind and Geothermal energy
+    C. Solar and Wind energy                                    D. Geothermal and Solar energy
+23. Which one of the following bodies is in linear equilibrium?                                                         (1)
+    A. A body moving with constantly changing velocity in straight line
+    B. A body moving with constant velocity
+    C. A body in uniformly accelerated motion in a straight line
+    D. A body acted upon by a single constant force
+
+24. A car travelled 4 km towards east and then 3 km towards north. What is the angle of the resultant displacement      (1)
+    from east?
+    A. tan -1 ( 4 / 3 )                                           B. tan -1 ( 3 / 4 )
+    C. tan -1 ( 4 / 5 )                                           D. tan -1 ( 3 / 5 )
+
+25. A ball is dropped off from the top of a 20 m high cliff. How long it takes to hit the ground?                       (1)
+    A. 4 s                                                        B. 10 s
+    C. 2 s                                                        D. 5 s
+
+26. A student of mass 40 kg is in a lift moving upward with an acceleration of 2.5 m/s 2 . What is the apparent         (1)
+    weight of the student?
+    A. 500 N                                                      B. 800 N
+    C. 400 N                                                      D. 300 N
+
+27. A farmer pulls out a bucket of water from a well with wheel and axle with radii of 30 cm and 6 cm respectively.     (1)
+    Assuming no energy losses, what effort should be applied on the wheel in order to lift a load of 40 N on the
+    axle?
+    A. 20 N                                                       B. 8 N
+    C. 5 N                                                        D. 40 N
+
+28. A square shaped body of side length l 0 is heated to raise its temperature by ΔT in Kelvin. If α stands for         (1)
+    coefficient of linear expansion and β being coefficient of area expansion, which one of the following expressions
+    is correct for area (A) of the body, after the temperature changed by ΔT?
+    A. A = l 0 2 (1 + 2αΔT)                                       B. A = l 0 2 (1 + α 2 ΔT)
+    C. A = l 0 2 (1 + 2βΔT)                                       D. A = l 0 2 (1 + 2βΔT)
+
+29. In order to measure atmospheric pressure in a given location, a student used a dish with mercury, a test tube of    (1)
+    4 mm radius closed at one end and a meter stick. The student inserted the open end of the tube in mercury
+    inside the dish and left the dish open to the atmosphere as shown in the figure below. If the mercury was
+    observed to be pushed up to raise in the tube by 500 mm, what is the atmospheric pressure in that location? (ρ
+    mercury = 13600 kg/m 3 )
+    A. 101 kPa                                                    B. 340 kPa
+    C. 68 kPa                                                     D. 27 kPa
+
+30. Which one of the following statements is correct about Biot-Savart law?                                             (1)
+    A. It describes the values of magnetic torque on a coil of wire
+    B. It is used to determine the values for magnetic field strength of a current carrying element
+    C. It describes the relationship between electric fields and magnetic fields
+    D. It is used to determine the magnetic force on a current carrying conductor
+31. A capacitor with a capacitance of C is connected to an AC power supply producing a sinusoidal voltage of peak           (1)
+    value v p and frequency f. The capacitive reactance (X c ) of the circuit is
+    A. X c = 2πfC                                               B. X c = 2πf/C
+    C. X c = √(R²+ω²C²)                                         D. X c = 1/2πfC
+
+32. A tangent galvanometer is set so that the plane of its coil is along the Earth's magnetic meridian. When current        (1)
+    is passed through the galvanometer, its compass needle deflects by an angle θ. If B v and B h are the vertical
+    and horizontal components of the Earth's magnetic field, the current through the coil is proportional to
+    A. B v cos θ                                                B. B h tan θ
+    C. B h cos θ                                                D. B v tan θ
+
+33. The current I through and voltage V across a purely capacitive AC circuit can be put as a sinusoidal function with (1)
+    respective peak values of I 0 and V 0 . Assuming the angular frequency of the AC source is ω, which of the
+    following sinusoidal function correctly represent I and V in the circuit as a function of time t?
+    A. I = I 0 sin(ωt + π/2) and V = V 0 sin(ωt)
+    B. I = I 0 sin(ωt + π/4) and V = V 0 sin(ωt - π/2)
+    C. I = I 0 sin(ωt) and V = V 0 sin(ωt + π/2)
+    D. I = I 0 sin(ωt) and V = V 0 sin(ωt)
+
+34. Which of the following statements is correct comparison of destructive and constructive interference of light           (1)
+    wave with wave along a string?
+    A. Constructive interference of two waves on a string causes node, while constructive interference of two light
+       waves cause brightness
+    B. Constructive interference of two waves on a string gives rise to an antinode, while constructive interference of
+       two light waves gives rise to brightness
+    C. Destructive interference of two waves on a string causes an antinode, while destructive interference of two light
+       waves causes maxima
+    D. Destructive interference of two waves on a string results in maximum amplitude, while destructive interference
+       of two light waves results in maximum intensity
+
+35. A point charge of Q = 2 × 10 -8 C is placed in xy plane at the coordinate position of (4, 2) cm. What is the value of   (1)
+    the electric potential produced by the charge at a point P which is located at coordinate position of (7, -2) cm?
+    A. 4 kV                                                     B. 6 kV
+    C. 3.6 kV                                                   D. 2.5 kV
+
+36. Two equal parallel plate capacitors are connected in parallel to a 10 V battery. When the space between the           (1)
+    plates is air, each capacitor has a capacitance of 2 x 10 -12 F. If the space between the plates is completely filled
+    with dielectric materials with dielectric constants 500 and 1000 respectively, the total electrical energy stored
+    by the capacitors is
+    A. 0.15 μJ                                                  B. 0.33 nJ
+    C. 0.15 nJ                                                  D. 0.33 μJ
+
+37. A light radiation is used to measure the position of an electron of wavelength 3 x 10 -11 m. If the uncertainty in      (1)
+    the momentum (ΔP) is 2.21 x 10 -23 kgm/s, then according to the uncertainty principle, which one of the
+    following is an acceptable value of the uncertainty in the position (Δx) of the electron?
+    A. Δx = 3.0 x 10 -13 m                                      B. Δx = 1.5 x 10 -15 m
+    C. Δx = 3.0 x 10 -11 m                                      D. Δx = 1.5 x 10 -14 m
+38. A radioactive material initially consisting of 10 8 particles decays over time according to the decay law, where λ   (1)
+    = 3 x 10 -12 s -1 is the decay constant. The half-life is (ln 2 = 0.693)
+    A. 2.04 x 10 11 s                                             B. 4.33 x 10 12 s
+    C. 3.69 x 10 12 s                                             D. 2.3 x 10 11 s
+
+39. One of the four fundamental forces of nature acting over long distances and purely attractive is                     (1)
+    A. electromagnetic force                                      B. strong nuclear force
+    C. weak nuclear force                                         D. gravitational force
+
+40. Which one of the following set contains vectors ONLY?                                                                (1)
+
+    A. {Velocity, Force, Momentum}                                B. {Time, Acceleration, Displacement}
+    C. {Momentum, Energy, Force}                                  D. {Acceleration, Mass, Velocity}
+
+41. Suppose you are going to investigate the relation between current through and voltage across a resistor by           (1)
+    measuring them five times. Which one of the following should be performed before taking the measurements?
+    A. Computing the uncertainty                                  B. Clearly describe the method
+    C. Presenting the possible results                            D. Performing the analysis
+
+42. A man looks down at a coin that lies at the bottom of a glass container of liquid of depth d = 12 cm and index of    (1)
+    refraction, n. Because of the view of eye, the coin appears to be located at a depth of 9 cm below the surface of
+    the liquid. What is the value of n?
+    A. 3/2                                                        B. 5/3
+    C. 3/4                                                        D. 4/3
+
+43. Given two vectors A = [-2] and B = [9], the scalar product of these vectors is equal to                              (1)
+
+    A. -18                                                        B. 28
+    C. 10                                                         D. 22
+
+44. Starting from rest, a particle accelerates uniformly with an acceleration of magnitude. After time interval, the     (1)
+    particles cover a distance s and attain a velocity of magnitude v. Which one of the following equations correctly
+    describes the distance moved during this time interval t?
+    A. s = 1/2 at                                                 B. s = vt²/2
+    C. s = vt                                                     D. s = v²/2a
+
+45. Consider two satellites A and B with mass m A and m B respectively, and orbiting the earth at height h A and h B (1)
+    above the earth's surface. Which one of the following statements correctly describes the motion of these
+    satellites?
+    A. If m A > m B , satellite A's period is shorter than that of B
+    B. If h A > h B , the period satellite A is longer than that of B
+    C. If h A > h B , satellite A orbits faster than that of B
+    D. If m A > m B , satellite A orbits faster than that of B
+
+46. If a ball is thrown vertically upward with an initial velocity of v 0 and reaches a maximum height h after time t,   (1)
+    then during the time interval
+    A. work done by gravity is greater than the initial kinetic energy
+    B. work done by gravity is positive since kinetic energy increases
+    C. work done by gravity equals the kinetic energy at h
+    D. work done by gravity equals the change in the kinetic energy of the ball
+                — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

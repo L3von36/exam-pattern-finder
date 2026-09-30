@@ -1,0 +1,301 @@
+                                                         Temari.et
+                            Physics, 2018 EC, entrance exam, version 3
+                                                Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 48                                     Total marks: 48
+
+Name                                             Grade                       ID No.                  Date
+
+1.   When an object moves along a curved path between two points, the distance traveled is usually greater than the (1)
+     displacement because:
+     A. A. Distance measures the shortest path.
+     B. B. Displacement measures the total path length.
+     C. C. Distance always equals displacement.
+     D. D. Distance measures the entire path traveled while displacement measures the shortest straight line.
+
+2.   During a journey, the velocity of a moving object may change continuously due to acceleration or deceleration.         (1)
+     Which of the following quantities helps describe the velocity of the object at a specific moment during such
+     motion?
+     A. A. Average velocity                                      B. B. Instantaneous velocity
+     C. C. Total displacement                                    D. D. Average speed
+
+3.   Which of the following statements correctly defines uniform motion?                                                    (1)
+     A. A. Motion in which an object covers equal distances in equal intervals of time
+     B. B. Motion in which an object changes its speed continuously
+     C. C. Motion in which the object stops after some time
+     D. D. Motion in which the object changes direction frequently
+
+4.   Which of the following examples represents a force acting without direct contact between objects?                      (1)
+     A. A. A person pushing a table                              B. B. A magnet attracting small iron pieces
+     C. C. A hammer hitting a nail                               D. D. A hand pulling a rope
+
+5.   A student applies a force to push a heavy wooden box across the floor, but the box moves very slowly compared (1)
+     to a lighter box pushed with the same force. Which of the following explanations best accounts for this
+     observation?
+     A. A. Acceleration decreases when the mass of the object increases for the same force
+     B. B. Heavier objects always move faster
+     C. C. Force has no effect on heavy objects
+     D. D. Distance traveled determines acceleration
+
+6.   A boy is rolling a 0.5 kg ball on the frictionless floor with the speed of 20 m/s. The ball gets deflected by an       (1)
+     obstacle on the way. After deflection it moves 5% of its initial kinetic energy. What is the speed of the ball now?
+     A. A. 19 m/s                                                B. B. 14.4 m/s
+     C. C. 4.47 m/s                                              D. D. 1 m/s
+7.   A ramp is used to push a heavy box into the back of a truck. Instead of lifting the box vertically, the worker           (1)
+     pushes it along the inclined surface. The ramp makes the work easier mainly because it:
+     A. A. Reduces the distance moved by the box
+     B. B. Changes the direction of motion only
+     C. C. Increases the mass of the object
+     D. D. Reduces the force needed by increasing the distance over which the force is applied
+
+8.   A simple wheel and axle is used to lift a 30 N bucket of water out of a well. The radii of the wheel and axle are        (1)
+     20 cm and 5 cm, respectively. If the effort required is 10 N, what is the efficiency of the machine?
+     A. A. 75%                                                    B. B. 60%
+     C. C. 80%                                                    D. D. 90%
+
+9.   A person uses a long lever to lift a heavy rock. The effort applied at the end of the lever moves through a              (1)
+     relatively large distance while the rock moves a much shorter distance. Which of the following best describes
+     the primary purpose of the lever in this case?
+     A. A. It acts as a speed (distance) multiplier, allowing the effort to move a large distance
+     B. B. It acts as a force multiplier, allowing a small effort to lift a heavy load
+     C. C. It reduces the work done by eliminating gravity
+     D. D. It acts as a direction changer to move the rock horizontally
+
+10. Two types of waves differ in how particles of the medium move relative to the direction of wave travel: in one            (1)
+    type, particles vibrate parallel to the direction of propagation, while in the other, they vibrate perpendicular to it.
+    Which pair correctly identifies these two wave types?
+     A. A. Transverse (parallel) and Longitudinal (perpendicular)
+     B. B. Longitudinal (parallel) and Transverse (perpendicular)
+     C. C. Both are parallel
+     D. D. Both are perpendicular
+
+11. The speed of sound in air at 0°C is approximately 331 m/s. If the temperature of air rises to 20°C, what is the           (1)
+    speed of sound at this temperature?
+     A. A. 343 m/s                                                B. B. 331 m/s
+     C. C. 341 m/s                                                D. D. 351 m/s
+
+12. A stone is thrown vertically upward from the ground with an initial velocity of u = 30 m/s. Assume the           (1)
+    acceleration due to gravity is g = 10 m/s² and neglect air resistance. What is the maximum height reached by the
+    stone?
+     A. A. 30 m                                                   B. B. 40 m
+     C. C. 45 m                                                   D. D. 60 m
+
+13. The length of a wire is increased by 1 mm on the application of a certain load. In a wire of the same material but        (1)
+    of twice the length and half the radius, the same force will produce an elongation of
+     A. A. 0.5 mm                                                 B. B. 2 mm
+     C. C. 4 mm                                                   D. D. 8 mm
+
+14. A rigid ball of weight 100 N is suspended with the help of a string. The ball is pulled by a horizontal force 'F' such    (1)
+    that the string makes an angle of 30° with the vertical. What is the magnitude of force 'F'?
+     A. A. 47.33 N                                                B. B. 50.82 N
+     C. C. 57.73 N                                                D. D. 67.82 N
+15. The electrostatic force on a small sphere of charge 0.4 μC due to another small sphere of charge –0.8 μC in air        (1)
+    is 0.2 N. What is the distance between the two spheres?
+    A. A. 0.08 m                                                 B. B. 0.12 m
+    C. C. 0.20 m                                                 D. D. 0.36 m
+
+16. The current through a 10-ohm resistor is 1.2 amperes. What is the potential difference across the resistor?            (1)
+    A. A. 12 V                                                   B. B. 14 V
+    C. C. 120 V                                                  D. D. 8.3 V
+
+17. A straight long wire carries an electric current to the right. The current is placed in a uniform magnetic field       (1)
+    directed into the page. What is the direction of the magnetic force on the current?
+    A. A. Left.                                                  B. B. Right.
+    C. C. To the bottom of the page.                             D. D. To the top of the page.
+
+18. The refractive index of a medium is 1.5. If the speed of light in vacuum is 3×10^8 m/s, what is the speed of light     (1)
+    in the medium?
+    A. A. 1×10^8 m/s                                             B. B. 2×10^8 m/s
+    C. C. 2.5×10^8 m/s                                           D. D. 4.5×10^8 m/s
+
+19. Which of the following sequences correctly arranges the electromagnetic waves in order of increasing                   (1)
+    frequency?
+    A. A. Radio → Microwaves → Infrared → Visible → Ultraviolet → Gamma rays
+    B. B. Gamma rays → Ultraviolet → Visible → Infrared → Microwaves → Radio
+    C. C. Infrared → Radio → Microwaves → Ultraviolet → Visible → Gamma rays
+    D. D. Radio → Ultraviolet → Microwaves → Infrared → Visible → Gamma rays
+
+20. When a scientist observes an unexpected result in an experiment, the next scientific step is to:                       (1)
+    A. A. revise the hypothesis or test alternative explanations.
+    B. B. conclude the theory is wrong without further testing.
+    C. C. report it as a failure.
+    D. D. ignore the result as an anomaly.
+
+21. Two people pull a cart with forces of 30 N and 40 N at a 90° angle to each other. What is the type and                 (1)
+    magnitude of the resultant vector?
+    A. A. 50 N, coplanar vector                                  B. B. 70 N, concurrent vector
+    C. C. 10 N, zero vector                                      D. D. 100 N, collinear vector
+
+22. A particle is moving in a straight line with constant acceleration 0.2 m/s². After it has moved a total of 20 m, its   (1)
+    speed is 8 m/s. What was the initial speed of the particle?
+    A. A. 5 m/s                                                  B. B. 6 m/s
+    C. C. 7.5 m/s                                                D. D. 8.5 m/s
+23. A small ball attached to the end of a string experiences a uniform circular motion on a horizontal frictionless        (1)
+    table. In order to keep the ball moving in a circle the string must apply force on the ball toward the center of the
+    circle. Which of the following refers to a reaction force?
+     A. A. The force of gravity pulling down
+     B. B. The normal force pushing up
+     C. C. The force applied by the ball on the table
+     D. D. The force applied by the ball on the string
+
+24. A 2.0 kg block is released from rest at the top of a frictionless incline that is 5.0 m above the ground. The block    (1)
+    slides down the incline and reaches the bottom. Which of the following is the correct speed of the block at the
+    bottom?
+     A. A. 7.0 m/s                                                B. B. 10 m/s
+     C. C. 12.5 m/s                                               D. D. 15.0 m/s
+
+25. A ball collides with a second ball at rest. After the collision, the first ball comes to rest and the second ball      (1)
+    moves off at the speed of the first ball. In this condition
+     A. A. both momentum and kinetic energy is conserved
+     B. B. only total kinetic energy is not conserved.
+     C. C. total momentum is conserved but total kinetic energy is not conserved.
+     D. D. total momentum is not conserved but total kinetic energy is conserved.
+
+26. A man drags a trunk up the loading ramp of a truck. The ramp makes an angle of 20° with the horizontal. The            (1)
+    man pulls with a force F that makes an angle of 30° with the ramp. The component of the force parallel to the
+    ramp is 150 N. The mass of the trunk is 25 kg, and the coefficient of kinetic friction between the trunk and the
+    ramp is 0.20. What is the magnitude of the acceleration of the trunk along the ramp?
+     A. A. 0.50 m/s²                                              B. B. 1.20 m/s²
+     C. C. 0.72 m/s²                                              D. D. 0 m/s²
+
+27. A pot of water is placed on a stove. As the water heats up, hot water rises to the top while cooler water moves        (1)
+    downward, forming a circulating motion. Which heat transfer mechanism is occurring in the water?
+     A. A. Conduction                                             B. B. Convection
+     C. C. Radiation                                              D. D. Reflection
+
+28. Two containers hold water at the same temperature. Container X holds 1 kg of water, while container Y holds 5          (1)
+    kg of water. Which statement is correct?
+     A. A. Container Y has a larger heat capacity but the same specific heat capacity
+     B. B. Container X has a larger specific heat capacity
+     C. C. Container Y has a smaller heat capacity
+     D. D. Container X and Y have the same heat capacity
+
+29. A 0.30 kg lead ball is heated to 90°C and dropped into an ideal calorimeter containing 0.50 kg of water initially      (1)
+    at 20°C. What is the final temperature of the lead ball? The specific heat capacity of lead is 128 J/(kg·K) and the
+    specific heat of water is 4186 J/(kg·K).
+     A. A. 84.8°C                                                 B. B. 20.8°C
+     C. C. 27.8°C                                                 D. D. 21.3°C
+30. Which of the following is NOT correct regarding equipotential surface?                                                 (1)
+    A. A. The potential difference between any two points on the surface is zero.
+    B. B. No work is done in moving the charge along the surface.
+    C. C. The electric field is always perpendicular.
+    D. D. Equipotential surface is always spherical.
+
+31. Which of the following describes what occurs in the fission process?                                                   (1)
+    A. A. A heavy nucleus is fragmented into lighter ones.
+    B. B. A neutron is split into a neutron and proton.
+    C. C. Two light nuclei are combined into a heavier one.
+    D. D. A particle and anti-particle appear in an area of high energy density.
+
+32. Which of the following variables can be affected if a dielectric, such as a sheet of insulating plastic material, is   (1)
+    inserted into a parallel plate capacitor (charged and disconnected from the battery) when compared to a
+    capacitor without the material? i. Capacitance ii. Electric Field between the plates iii. Electric Potential
+    A. A. I and III only                                         B. B. II only
+    C. C. I and II only                                          D. D. I, II, and III
+
+33. Which of the following statements best illustrates how physics is integral to astronomy?                               (1)
+
+    A. A. Astronomy is an observational science that does not rely on physical principles because it only describes the
+       positions of celestial objects.
+    B. B. Physics explains the motions, energy transformations, and interactions of celestial bodies, allowing
+       predictions about stellar evolution, planetary orbits, and cosmic phenomena.
+    C. C. Physics is irrelevant in astronomy since the universe cannot be experimented upon in a laboratory.
+    D. D. Astronomy and physics are unrelated; celestial phenomena are explained entirely by mathematical models
+       without physical laws.
+
+34. The moment of inertia of a rigid body depends upon                                                                     (1)
+
+    A. A. linear velocity of the rotating body.                  B. B. angular velocity of the body.
+    C. C. angular acceleration of the body.                      D. D. distribution of mass from the axis.
+
+35. Which of the following statements best explains why CT scans can detect abnormalities that may be hidden in            (1)
+    conventional X-ray images?
+    A. A. CT scans use more penetrating X-rays, which completely pass through dense tissues, revealing hidden
+       structures.
+    B. B. CT scans produce images that represent the cumulative absorption along a single beam path, making
+       overlapping structures less visible.
+    C. C. CT scans reconstruct multiple angular projections into cross-sectional slices, removing the overlap of tissues
+       along the X-ray path, and enhancing visualization of subtle differences in density.
+    D. D. CT scans rely on the radioactive decay of injected isotopes to differentiate tissues, whereas X-rays do not.
+
+36. A projectile is fired from the surface of the Earth with a speed of 200 m/s at an angle of 45° above the               (1)
+    horizontal. If the ground is level, what is the maximum height reached by the projectile?
+    A. A. 1000 m                                                 B. B. 2000 m
+    C. C. 3500 m                                                 D. D. 4000 m
+37. A uniform rod of length L = 2m and mass M = 5kg is pivoted at one end and held horizontally. A force F = 20N is           (1)
+    applied perpendicular to the rod at its free end. What is the angular acceleration of the rod? Use I = ML²/3
+     A. A. 2.4 rad/s²                                             B. B. 6.0 rad/s²
+     C. C. 10.0 rad/s²                                            D. D. 5.0 rad/s²
+
+38. According to Kepler, planets move in                                                                                      (1)
+     A. A. circular orbits around the sun.
+     B. B. straight lines with constant velocity.
+     C. C. elliptical orbits around the Sun with Sun at exact centre.
+     D. D. elliptical orbits around the Sun with Sun at one of its foci.
+
+39. The mass and radius of the moon are less than the mass and radius of the earth. If an object is taken from the            (1)
+    earth to the moon, the acceleration due to gravity it experiences on the surface of the moon is less than that
+    which it experiences on the surface of the earth. Which one of the following statements explains this
+    phenomenon?
+     A. A. The object is far from the earth.
+     B. B. There is no atmosphere on the moon.
+     C. C. The radius of the moon is less than that of the earth.
+     D. D. The mass of the moon is less than that of the earth.
+
+40. The density of a certain gas at 300 K is 1.8 kg/m³. If the molar mass of the gas is 0.029 kg/mol, what is the             (1)
+    pressure of the gas?
+     A. A. 1.55×10⁵ Pa                                            B. B. 1.20×10⁵ Pa
+     C. C. 2.00×10⁵ Pa                                            D. D. 0.90×10⁵ Pa
+
+41. A container is filled with oil and fitted on both ends with pistons. The area of the left piston is 10 cm²; that of the   (1)
+    right piston 10,000 cm². What force must be exerted on the left piston to keep the 10,000 N car on the right at
+    the same height?
+     A. A. 10 N                                                   B. B. 100 N
+     C. C. 1000 N                                                 D. D. 10,000 N
+
+42. A solid metal object of volume 2.5×10⁻³ m³ is completely submerged in water. The density of water is 1000                 (1)
+    kg/m³. What is the buoyant force acting on the object?
+     A. A. 12.25 N                                                B. B. 25 N
+     C. C. 49 N                                                   D. D. 98 N
+
+43. Which of the following statements best distinguishes steady (laminar) flow from turbulent flow?                           (1)
+     A. A. In steady flow, the velocity of fluid particles changes randomly with time, while in turbulent flow it remains
+        constant.
+     B. B. In steady flow, the fluid velocity is always zero, while turbulent flow occurs only when fluid is stationary.
+     C. C. In steady flow, pressure variations are absent, whereas turbulent flow occurs only in compressible fluids.
+     D. D. In steady flow, fluid particles move in smooth parallel layers with little mixing, whereas turbulent flow is
+        characterized by irregular motion and strong mixing between layers.
+
+44. A long straight conductor carries a steady electric current of 10 A. During a laboratory experiment, a magnetic           (1)
+    field probe measures the magnetic field strength around the wire. If the magnetic field at a certain point is
+    measured to be 4×10⁻⁵ T, what is the distance of the probe from the wire?
+     A. A. 2 cm                                                   B. B. 5 cm
+     C. C. 8 cm                                                   D. D. 10 cm
+45. A square coil of wire with a side length of 10 cm is looped around 10 times. The coil sits in an increasing          (1)
+    magnetic field. The magnetic field increases linearly from 1T to 2T within 5 seconds. If the same loop of wire has
+    a resistance of 2Ω, what is the induced current in the loop?
+    A. A. 100 A                                                       B. B. 10 A
+    C. C. 1 A                                                         D. D. 0.01 A
+
+46. Which of the following statements best explains the I–V characteristic of the diode in this forward-bias region?     (1)
+    A. A. The current increases linearly with voltage from the moment the voltage is applied.
+    B. B. The current increase slowly at first and then rises rapidly after the threshold voltage is reached.
+    C. C. The current decreases as the voltage increases.
+    D. D. The current remains zero for all applied voltages.
+
+47. Which statement best explains the working principle of a full-wave rectifier?                                        (1)
+    A. A. It allows only the positive half-cycles to pass while blocking the negative half-cycles.
+    B. B. It allows current to flow during both half-cycles by reversing the direction of the negative half-cycles,
+       producing a continuous pulsating DC output.
+    C. C. It eliminates all voltage fluctuations and produces a constant DC voltage.
+    D. D. It produces alternating voltage in the same shape as the input AC.
+
+48. Which of the following conditions are needed to properly bias an n-p-n transistor amplifier?                         (1)
+    A. A. Forward bias the base/emitter junction and reverse bias the base/collector junction.
+    B. B. Forward bias the collector/base junction and reverse bias the emitter/base junction.
+    C. C. Apply a positive voltage on the n-type material and a negative voltage on the p-type material.
+    D. D. Apply a large voltage on the base.
+
+                                               — E N D O F E X A M I N AT I O N —
+                               Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

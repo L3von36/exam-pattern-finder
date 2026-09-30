@@ -1,0 +1,195 @@
+                                                         Temari.et
+                         Mathematics, 2017 EC, entrance exam, version 1
+                                              Grade 12 · Mathematics · 2017 E.C.
+
+Time allowed: 120 minutes                                    Questions: 42                                      Total marks: 42
+
+Name                                             Grade                        ID No.                  Date
+
+1.   Which one of the following defines prime number?                                                                        (1)
+     A. It is a natural number that has an odd number of factors
+     B. It is an odd natural number that has only two factors
+     C. It is a natural number that has exactly two distinct factors
+     D. It is a natural number where one of its factors is 3
+
+2.   The GCF of two numbers is 9 and their LCM is 54. If one of the numbers is 18. What is the other number?                 (1)
+     A. 36                                                       B. 54
+     C. 27                                                       D. 72
+
+3.   If x = 0.424424442... and y = 0.242242224... then the fraction form of x + y is equal to                                (1)
+     A. 6/10                                                     B. 3/4
+     C. 2/3                                                      D. 4/5
+
+4.   For any real numbers a, b and c. Which one of the following is true?                                                    (1)
+     A. If a < b then a² < b²                                    B. If a < b then ac < bc
+     C. If a² < b² then b < a                                    D. If a < b and b < c then c > a
+
+5.   Let a and b be positive integers and p and q are real numbers. Which of the following is true?                          (1)
+
+     A. (a+b)ᵖ = aᵖ + bᵖ                                         B. (a)⁻ᵖ / (b)⁻ᵠ = bᵠ / aᵖ
+     C. (a)⁻ᵖ / (b)⁻ᵠ = bᵠ / αᵖ                                  D. aᵖ / (a)⁻ᵠ = (a)ᵖ⁻ᵠ
+
+6.   Which one of the following is the rationalizing factor to rationalize the denominator of 7/(3+√5)?                      (1)
+     A. (√3+√5)/(√3+√5)                                          B. (√3-5)/(√3-5)
+     C. (√3-√5)/(√3-√5)                                          D. (3-√5)/(3-√5)
+
+7.   According to division algorithm what should be the value of q and r respectively so that 290 = 11q + r?                 (1)
+     A. 3 and 26                                                 B. 26 and 4
+     C. 25 and 5                                                 D. 24 and 6
+
+8.   Kidest bought 2 kilogram of sugar and a can of tomato and paid 100 birr. Her sister Tigist paid 150 birr for a          (1)
+     kilogram of sugar and 3 cans of tomato. What was the price of a can of tomato?
+     A. 50 birr                                                  B. 30 birr
+     C. 15 birr                                                  D. 40 birr
+
+9.   Let { 4x - 8y = -3, 2x + ky = 16 } be system. What is the value of k so that the system has no solution?                (1)
+     A. k = -4                                                   B. k = 4
+     C. k ≠ -4                                                   D. k ≠ 4
+10. If one root of the quadratic equation x² - x + m = 0 exceeds the other by 5. What is the value of m?         (1)
+     A. -6                                                        B. 6
+     C. 5/2                                                       D. -3/2
+
+11. Let A = {1, 2, {3,4}, 5} be a set. Which of the following is not true?                                       (1)
+
+     A. {{3,4}} ⊆ A                                               B. {4} ∈ A
+     C. φ ⊆ A                                                     D. {1,2,5} ⊂ A
+
+12. Let A = {x: x² - 4 = 0} and B = {x: x is a positive factor of 4}. Which one of the following is B \ A?       (1)
+     A. {1,4}                                                     B. {2,4}
+     C. {1,2,4}                                                   D. {2}
+
+13. For any two non empty sets A and B if A ⊂ B, then which one of the following is always true?                 (1)
+     A. A ∩ B = B                                                 B. A ∪ B = A
+     C. A Δ B = A ∪ B                                             D. (A ∪ B) ∩ A = A
+
+14. In a class of 52 students 34 passed in Mathematics and 28 passed in English. If the number of students who   (1)
+    failed in both subjects is 9. What is the number of students who passed in both subjects?
+     A. 19                                                        B. 10
+     C. 9                                                         D. 6
+
+15. Which one of the following is the range of the function f(x) = (2x+3)/(x-1)?                                 (1)
+     A. R\{1}                                                     B. R\{3}
+     C. R\{2}                                                     D. R
+
+16. Which one of the following is true about the function f(x) = 3x^{4/5}?                                       (1)
+
+     A. The domain of f is R\{0}                                  B. The range of f is [0,∞)
+     C. f is increasing on (-∞,0]                                 D. f is decreasing on [0,∞)
+
+17. What is the solution set of the equation sgn(x²-1) = -1?                                                     (1)
+     A. [-1,1]                                                    B. (-1,1)
+     C. (-∞,-1] ∪ [1,∞)                                           D. (-∞,-1) ∪ (1,∞)
+
+18. Which one of the following is the solution set of the equation 1/(x-2) + 6x/(x²-4) = 3/(x+2)?                (1)
+     A. {-4,2}                                                    B. {-2}
+     C. {-1,1}                                                    D. ∅
+
+19. Which of the following is the solution of the rational inequality (x²-6x)/(x-12) > 1?                        (1)
+     A. (3,4)                                                     B. (12,∞)
+     C. (3,4] ∪ (12,∞)                                            D. (3,4) ∪ (12,∞)
+
+20. Which one of the following function does not have a vertical asymptote?                                      (1)
+
+     A. f(x)=3/(x²+1)                                             B. f(x)=(x+1)/(x²-1)
+     C. f(x)=(2x+3)/(x³+1)                                        D. f(x)=1/x²
+21. In a class there are 8 more boys than girls. If the ratio of boys to girls is 4 to 3. What is the number of girls in the   (1)
+    class?
+     A. 32                                                          B. 24
+     C. 22                                                          D. 30
+
+22. Let A = [[3, a+b],[2,4]] and B = [[8,6],[2, a-b]]. If A = B, then the value of a is:                                       (1)
+     A. 2                                                           B. 3
+     C. 4                                                           D. 5
+
+23. Which one of the following matrix has no equal number of rows and columns?                                                 (1)
+
+     A. Square matrix                                               B. Rectangular matrix
+     C. Diagonal matrix                                             D. Identity matrix
+
+24. What is the solution of the system { x+y=5, 2x-y=1 }?                                                                      (1)
+     A. (3,2)                                                       B. (1,4)
+     C. (4,1)                                                       D. (2,3)
+
+25. Let A and B be two invertible matrices of order 3. Suppose det(A)=8 and det(B)=16. What is det(A⁻¹B)?                      (1)
+     A. 2                                                           B. 1/2
+     C. 4                                                           D. 1/4
+
+26. What is the value of x, so that matrix A = [[2, -3],[x, 2]] does not have an inverse?                                      (1)
+     A. 4/3                                                         B. -3/4
+     C. -4/3                                                        D. 3/4
+
+27. Which of the following relation holds for the sequence -8, -2, 4, 10, ...?                                                 (1)
+
+     A. a_n = a_{n-1} - 6                                           B. a_n = a_{n-1} + 6
+     C. a_n = a_{n-1} - 3                                           D. a_n = a_{n-1} - 3
+
+28. Which of the following is neither arithmetic nor geometric sequence?                                                       (1)
+     A. 2,6,8,12,...                                                B. 5,2,-1,-4,...
+     C. 27,9,3,1,...                                                D. 0.1,0.01,0.001,...
+
+29. What is the general term of the sequence A_n, if the 3rd term is 11 and the common difference is 4?                        (1)
+     A. A_n = 2n-3                                                  B. A_n = 4n-1
+     C. A_n = 6n-3                                                  D. A_n = 3n+1
+
+30. The sum of integers from 1 to 100 that are divisible by 15 is:                                                             (1)
+     A. 180                                                         B. 190
+     C. 300                                                         D. 315
+
+31. The sum of series 1 - 1/2 + 1/4 - 1/8 + ... is equal to:                                                                   (1)
+
+     A. 3/2                                                         B. 1/2
+     C. 2/3                                                         D. 2
+
+32. Which one of the following is a convergent sequence?                                                                       (1)
+     A. {(5/3)^n}                                                   B. {3n/(n+1)}
+     C. {n²/(2n+1)}                                                 D. {(1/n)^{-1}}
+33. A man accepts a position with initial salary of Birr 12500 per year, increasing by Birr 250 each year. What will be   (1)
+    his salary at the beginning of 12th year?
+     A. 14,750                                                             B. 15,000
+     C. 15,250                                                             D. 14,500
+
+34. Which of the following is the average rate of change of f(x)=x³-2x on [1,3]?                                          (1)
+     A. 10                                                                 B. -10
+     C. 11                                                                 D. -11
+
+35. Let f(x)=π²-3, then f'(2) is equal to:                                                                                (1)
+
+     A. 2π                                                                 B. 4
+     C. -1                                                                 D. 0
+
+36. Let f(x)=kx²-2x+1 and f'(2)=10, then what is k?                                                                       (1)
+     A. 2                                                                  B. 3
+     C. 4                                                                  D. 5
+
+37. If f'(1)=5, f(1)=4 and g'(4)=5, then (g∘f)'(1) is:                                                                    (1)
+     A. 20                                                                 B. 25
+     C. 15                                                                 D. 30
+
+38. What is the absolute minimum value of f(x)=x²+2x on [-2,2]?                                                           (1)
+     A. -3                                                                 B. 8
+     C. 0                                                                  D. -1
+
+39. Which one of the following is the equation of tangent line to f(x)=3x²+4x-5 at (0,-5)?                                (1)
+
+     A. y=4x-5                                                             B. y=4x+5
+     C. y=-4x-5                                                            D. y=-4x+5
+
+40. The volume of spherical balloon is increasing at rate 24 cm³/sec. What is rate of change of surface area when         (1)
+    radius=8 cm?
+     A. 6 cm²/sec                                                          B. 8 cm²/sec
+     C. 4 cm²/sec                                                          D. 3 cm²/sec
+
+41. What is interquartile range (IQR) in statistics?                                                                      (1)
+     A. Difference between mean and median
+     B. Difference between 3rd quartile and 1st quartile
+     C. Difference between maximum and minimum
+     D. Half of difference between 3rd and 1st quartile
+
+42. What is the mean deviation from the mean for data: 5,3,7,8,4,9?                                                       (1)
+
+     A. 2                                                                  B. 4
+     C. 3                                                                  D. 0
+
+                                                    — E N D O F E X A M I N AT I O N —
+                                    Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

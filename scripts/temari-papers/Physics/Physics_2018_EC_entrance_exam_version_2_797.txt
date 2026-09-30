@@ -1,0 +1,284 @@
+                                                        Temari.et
+                            Physics, 2018 EC, entrance exam, version 2
+                                                Grade 12 · Physics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 55                                Total marks: 55
+
+Name                                            Grade                        ID No.               Date
+
+1.   A train moving in the east direction accelerates from rest to 36km/h in 20s. What is the average acceleration     (1)
+     during that time interval?
+     A. 1.8m/s² east                                             B. 0.5m/s² east
+     C. 18 m/s² east                                             D. 5m/s² east
+
+2.   The motion of an object at constant speed in straight line is known as________?                                   (1)
+     A. Uniformly accelerated motion                             B. Uniform motion
+     C. Accelerated motion                                       D. Decelerated motion
+
+3.   What does the slope of velocity–time graph indicates?                                                             (1)
+     A. Displacement                                             B. Acceleration
+     C. Speed                                                    D. Velocity
+
+4.   Work is defined as:                                                                                               (1)
+
+     A. Force times distance in the direction of the force
+     B. Mass times acceleration
+     C. Energy transferred over time
+     D. Power times time
+
+5.   If a machine does 200 J of work in 10 seconds, what is its power output?                                          (1)
+     A. 20 W                                                     B. 50 W
+     C. 100 W                                                    D. 200 W
+
+6.   The work-energy theorem states that:                                                                              (1)
+
+     A. Work done on an object equals its change in momentum
+     B. Work done on an object equals its change in kinetic energy
+     C. Work done on an object equals its change in potential energy
+     D. None of the above
+
+7.   An astronaut weighs 600 N on Earth. What would be their weight on a planet where gravity is 1/4 that of Earth's? (1)
+     A. 150 N                                                    B. 300 N
+     C. 600 N                                                    D. 1200 N
+
+8.   When an object rolls down an incline, what type of energy conversion occurs?                                      (1)
+
+     A. Kinetic to potential energy                              B. Potential to kinetic energy
+     C. Mechanical to electrical                                 D. Electrical to mechanical
+9.   A train is traveling on a straight track at a constant speed. In 80 seconds it covers a distance of 2400 meters.   (1)
+     What is the speed of the train?
+     A. 30m/s                                                   B. 40m/s
+     C. 60m/s                                                   D. 100m/s
+
+10. Pool balls remain at rest until an unbalanced force is applied to them. After they are in motion, they stay in      (1)
+    motion until another force opposes their motion relative to an inertial frame with constant velocity. Which laws
+    of motion describes this statement?
+     A. Newton's third law
+     B. Newton's second law
+     C. Newton's laws of universal gravitation
+     D. Newton's first law
+
+11. A kind of friction that exists between two surfaces in contact when one body tends to slide over the other          (1)
+    without moving.
+     A. Limiting friction                                       B. Kinetic friction
+     C. Static friction                                         D. Dynamic friction
+
+12. Which one of the following objects does not have gravitational potential energy?                                    (1)
+
+     A. A bottle on the surface of a table                      B. A ball on the level ground
+     C. A stone on the roof of a house                          D. A fruit on a branch of a tree
+
+13. Which one contains the set of vectors?                                                                              (1)
+     A. Velocity, force and acceleration                        B. Speed, velocity and time
+     C. Distance, displacement and speed                        D. Mass, time and speed
+
+14. Vector resolution is the process of:                                                                                (1)
+     A. Adding multiple vectors together
+     B. Finding the components of a vector along specified axes
+     C. Multiplying a vector by a scalar
+     D. Subtracting vectors
+
+15. A force of 10 N acts at an angle of 30° to the horizontal. Find the horizontal component of this force.             (1)
+     A. 5N                                                      B. 7.07 N
+     C. 8.7 N                                                   D. 14.14 N
+
+16. The instantaneous velocity of an object at any point in time can be determined from the position-time graph by      (1)
+    calculating the:
+     A. Area under the curve                                    B. Slope of the tangent at that point
+     C. Y-intercept                                             D. X-intercept
+
+17. A ball is thrown upwards with an initial velocity of 15 m/s. How high will it go? (Assume g = 10 m/s²)              (1)
+     A. 12 Meters                                               B. 11.25 meters
+     C. 225 meters                                              D. 14.18 meters
+18. A copper wire and a steel wire of the same diameter and length are connected end to end and a force is applied,       (1)
+    which stretches their combined length by 1cm. The two wires will have
+    A. Different stresses and strains                           B. The same strain but different stresses
+    C. The same stress and strain                               D. The same stress but different strains
+
+19. The area of cross section of a steel wire(Y =2.0×10^11 N/m²) is 0.1cm². What force is required to double its length? (1)
+    A. 2×10² N                                                  B. 2×10⁶ N
+    C. 2×10⁴ N                                                  D. 2×10⁹ N
+
+20. Which of the following is not correct about Properties of electric field lines?                                       (1)
+
+    A. The field lines never intersect or cross each other
+    B. The field lines are perpendicular to the surface of the charge
+    C. The magnitude of charge and the number of field lines are proportional to each other
+    D. Field lines originate at negative charge and terminate at a positive charge
+
+21. The potential difference between the terminals of an electric heater is 60V when it draws a current of 4A from        (1)
+    the source. What current will the heater draw if the potential difference is increased to 120V?
+    A. 4A                                                       B. 3A
+    C. 6A                                                       D. 8A
+
+22. What is the equivalent resistance and the current across 4Ω resistor shown in a Figure below respectively?            (1)
+    A. 3.2 Ω and 7.21A                                          B. 6.4 Ω and 2.7A
+    C. 7.21Ω and 0.83 A                                         D. 8.3Ω and 22 A
+
+23. Which of the following modern technologies is a direct application of physics in the field of medicine?               (1)
+
+    A. The production of organic fertilizers
+    B. The classification of plant species
+    C. The study of ancient languages
+    D. The development of Magnetic Resonance Imaging (MRI)
+
+24. What is the primary overall objective of the Ethiopian Physical Society (EPS)?                                        (1)
+    A. To sell physics textbooks and laboratory equipment to high schools
+    B. To replace the Ministry of Education in designing the national curriculum
+    C. To promote physics education, research, and its applications across Ethiopia
+    D. To ensure that every student in Ethiopia becomes a professional physicist
+
+25. Which of the following is the correct order of steps often used in the 'Making of Physics Knowledge'?                 (1)
+    A. Conclusion → Hypothesis → Observation → Experiment
+    B. Observation → Hypothesis → Experiment → Analysis/Conclusion
+    C. Experiment → Conclusion → Theory → Observation
+    D. Theory → Law → Observation → Guess
+
+26. Suppose A = 6i + 4j and B = 2i - cj are two vectors in xy-plane. What is the value of c that A + B = 8i + 2j?         (1)
+    A. -2                                                       B. -3
+    C. 2                                                        D. 3
+27. For what value of b the vectors A = i +2j +3k and B = i + bj - k are orthogonal?                                       (1)
+    A. 1                                                         B. 2
+    C. 3                                                         D. 4
+
+28. The types of vectors lying on the same plane are                                                                       (1)
+
+    A. Parallel vectors                                          B. Collinear vectors
+    C. Coplanar vectors                                          D. Orthogonal vectors
+
+29. Which of the following is true for an object in uniformly accelerated motion?                                          (1)
+    A. The object moves at constant speed
+    B. The object's velocity changes by the same amount in each time interval
+    C. The object's acceleration is zero
+    D. The object moves in a straight line with zero velocity
+
+30. The coordinate of a particle in meters is given by x(t) = 18t – 3t², where the time t is in seconds. At what value t   (1)
+    will the particle become momentarily at rest?
+    A. 6 sec                                                     B. 4 sec
+    C. 3 sec                                                     D. 0 sec
+
+31. A stone dropped from rest at a height h takes time t to reach the ground. If it were dropped from height 9h, the       (1)
+    time to reach the ground is:
+    A. 2t                                                        B. 4t
+    C. t                                                         D. 3t
+
+32. A string can withstand a tension of 16 N. What is the greatest speed at which a body of mass 2 kg can be               (1)
+    whirled in a horizontal circle using a string of length 2.0m?
+    A. 4m/s                                                      B. 5m/s
+    C. 16m/s                                                     D. 25m/s
+
+33. From the following fundamental forces which one is the weakest in strength?                                            (1)
+
+    A. The strong nuclear force                                  B. The gravitational force
+    C. The weak nuclear force                                    D. The electromagnetic forces
+
+34. A 5 kg block is pulled across a rough surface by a 50 N force at an angle φ = 37° above the horizontal as shown        (1)
+    in figure below. The coefficient of kinetic friction is μk = 0.4. Determine the acceleration of the block.
+    A. 6.4m/s²                                                   B. 10m/s²
+    C. 8m/s²                                                     D. 1.6m/s²
+
+35. A pendulum is released from a height of 5 m above its lowest point. At what point in the swing will the pendulum (1)
+    have its maximum kinetic energy?
+    A. At the highest point on either side                       B. Halfway down
+    C. At the lowest point                                       D. At three-quarters of the way down
+
+36. A particle moves in a complete circle, starting at Point X and ending at Point X. If the net work done on the          (1)
+    particle by a specific force field during this round trip is non-zero, this force is:
+    A. Conservative force                                        B. A non-conservative force
+    C. A restorative force                                       D. An electrostatic force
+37. A 10.0g bullet is fired into a stationary block of wood (m = 5.00kg). The bullet sticks into the block, and the       (1)
+    speed of the bullet-plus combination immediately after collision is 0.60m/s. What was the original speed of the
+    bullet?
+    A. 0.9m/s                                                   B. 0.012m/s
+    C. 300.6m/s                                                 D. 30 m/s
+
+38. When a beam of light falls on an object from the source of light then light get reflected in all direction after      (1)
+    striking the objects. The reflected light reach our eyes and our brain interprets finally we are able to see object
+    around us. Which physics branch concern this action?
+    A. Mechanics                                                B. Astrophysics
+    C. Acoustic                                                 D. Optics
+
+39. Civil engineering relies heavily on principles of mechanics to design structures like bridges and buildings.          (1)
+    Understanding which concept is crucial for ensuring the stability of a bridge?
+    A. Electromagnetism                                         B. Fluid dynamics
+    C. Statics and dynamics equilibrium                         D. Thermodynamics
+
+40. What principle does ultrasound imaging rely on to generate image?                                                     (1)
+    A. Refraction of sound wave                                 B. Reflection of sound wave
+    C. Absorption of sound wave                                 D. Diffraction of sound wave
+
+41. An Ethiopian defense force sends a signal to a target. The signal takes 0.01 seconds to return. What is the           (1)
+    distance between the radar and the target in meter?
+    A. 3 × 10⁶                                                  B. 3 × 10¹⁰
+    C. 1.5 × 10⁶                                                D. 1.5 × 10¹⁰
+
+42. Which of the following pair angles have equal range?                                                                  (1)
+    A. 15° and 60°                                              B. 30° and 80°
+    C. 20° and 60°                                              D. 25° and 65°
+
+43. A 0.2kg red ball is thrown horizontally at a speed of 4m/s from the height of 3m. A 0.4kg green ball is thrown        (1)
+    horizontally from the same height at the same time with a speed of 8m/s. Which ball hits the ground first?
+    (neglecting air resistance)
+    A. The red ball hits the ground first                       B. The green ball hits the ground first
+    C. Both strikes the ground at the same time                 D. Their time depends on their density
+
+44. The launching speed of a certain projectile is two times the speed it has at its maximum height. What is the          (1)
+    elevation angle at launching?
+    A. 30°                                                      B. 45°
+    C. 60°                                                      D. 90°
+
+45. When a wheel of radius R rotates about a fixed axis, all points on the wheel have                                     (1)
+    A. The same linear speed                                    B. The same angular speed
+    C. The same linear acceleration                             D. Different angular acceleration
+46. A motor capable of producing a constant torque 100 Nm and a maximum rotation speed of 200 rad/s is                      (1)
+    connected to a flywheel with rotational inertia 0.2 kgm². How long will the flywheel take to reach the maximum
+    speed if it starts from rest?
+    A. 0.4 sec                                                   B. 2 sec
+    C. 5 sec                                                     D. 500 sec
+
+47. If the semi-major axis of a planet orbit is 9 times the semi-major axis of Earth orbit, what is the approximate         (1)
+    orbital period in Earth years? Orbital period of Earth is 1 year.
+    A. 27 years                                                  B. 54 years
+    C. 81 years                                                  D. 9 years
+
+48. A satellite is orbiting above the surface of the earth at three times the radius of the earth. What will be the value   (1)
+    of the gravitational acceleration 'g' for mass of Earth M and radius of Earth is R?
+    A. 3GM/R²                                                    B. GM/3R²
+    C. 16GM/R²                                                   D. GM/16R²
+
+49. What happens to the gravitational force between two objects if the distance between them is halved?                     (1)
+    A. It doubles                                                B. It remains the same
+    C. It increases by four times                                D. It decreased by four times
+
+50. Why gases easily compress while solids are incompressible? Because                                                      (1)
+    A. Atoms in solids are further apart from each other
+    B. Atoms in gases are separated by a large distance
+    C. The force between gas atoms are very strong
+    D. The force between solid atoms are very weak
+
+51. A substance with specific gravity less than one will be                                                                 (1)
+    A. Float in water                                            B. Sink in water
+    C. Dissolve in water                                         D. Break water surface
+
+52. Pressure in liquid depends on                                                                                           (1)
+    A. Shape of the container                                    B. Area of the container
+    C. Density of liquid and depth                               D. Volume of the container
+
+53. At a given depth in a static fluid, the pressure acts:                                                                  (1)
+
+    A. Only downward                                             B. Only upward
+    C. Equally in all directions                                 D. Only against the walls of the container
+
+54. Pascal's principle states that pressure applied to an enclosed fluid is transmitted undiminished to every portion       (1)
+    of the fluid. This principle is the basis for:
+    A. Airplanes                                                 B. Hydraulic lifts
+    C. Steam engines                                             D. Thermometers
+
+55. A small piston of a hydraulic lift has an area of 0.002m². A car weighing 20000N sits on a rack mounted on the          (1)
+    large piston. The large piston has an area of 0.8m². How large force must be applied to the small piston to
+    support the car?
+    A. 5N                                                        B. 50N
+    C. 1.6×10⁴ N                                                 D. 8×10⁶ N
+                — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

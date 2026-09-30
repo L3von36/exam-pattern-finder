@@ -1,0 +1,394 @@
+                                                        Temari.et
+           Physics, 2016 EC, natural science, entrance exam, round 1, Tigray
+                                                Grade 12 · Physics · 2016 E.C.
+
+Time allowed: 120 minutes                                    Questions: 45                                  Total marks: 45
+
+Name                                            Grade                        ID No.                 Date
+
+1.   In physics, dynamics is understood as a branch of mechanics which describes the motion of particles                  (1)
+     A. without considering the effects of forces.
+     B. together with the effects of forces.
+     C. on which only a constant resultant force is applied.
+     D. on which no resultant force is applied.
+
+2.   After doing a background research, a researcher formulates a hypothesis. If the researcher proceeds with             (1)
+     his/her study following the scientific method, which one of the following is the correct ordering of the steps the
+     researcher should follow?
+     A. Design an experiment → Make predictions → Analyze the collected data → Draw conclusions
+     B. Design an experiment → Analyze the collected data → Make predictions → Draw conclusions
+     C. Analyze the collected data → Make predictions → Design an experiment → Draw conclusions
+     D. Make predictions → Design an experiment → Analyze the collected data → Draw conclusions
+
+3.   Among the following concepts of physics, which one of the following is commonly used in analyzing forces on          (1)
+     the bridge, motion of airplane, motion of planets and magnetic fields?
+     A. kinematics                                               B. Vectors
+     C. Thermodynamics                                           D. Optics
+
+4.   In a certain class student A measured the acceleration due to gravity, while student B measured electric current     (1)
+     in a circuit. Each student did the measurement four times. Two readings of student A are below the accepted
+     value, while the other two are above the accepted value. On the other hand, all the readings of student B are
+     below the accepted value. Which one of the following is correct about the types of errors associated with the
+     two experiments?
+     A. Systematic error to experiment done by B
+     B. Systematic error to experiment done by A
+     C. Random error to experiment done by B
+     D. Both systematic and random errors to experiments done by both A and B
+
+5.   The instantaneous acceleration of a particle is the                                                                  (1)
+     A. change of position divided by the total time taken for the change to take place.
+     B. rate change of velocity in a very short time interval that approaches zero.
+     C. average velocity in a very short time interval that approaches zero.
+     D. change of velocity divided by the total time taken for the change to take place.
+6.   Consider two objects A and B; object A undergoes a uniform circular motion while object B performs a non-               (1)
+     uniform circular motion. Which one of the following is correct about the motions of the two objects?
+     A. The velocities and accelerations of both objects are perpendicular to each other.
+     B. the velocity of object A is constant whereas the velocity of object B is not.
+     C. Both objects have constant accelerations.
+     D. the speed of object A is constant whereas the speed of object B is not.
+
+7.   The unit vector in the direction of vector A is 13 (2^i + ^j − 2k ). If A has the same magnitude as vector B =
+                                                       ​      ​                                                              (1)
+     (3^i − 4^j ), then what is vector A ?
+              ​
+
+
+
+
+     A. A = (2^i + ^j − 2k )      ​
+                                                                  B. A = (10^i + 5^j − 10k )   ​
+
+
+
+
+     C. A = 1 (10^i + 5^j − 10k )                                 D. A = 1 (3^i − 4^j )
+                  3   ​                   ​
+
+
+
+                                                                           3   ​                   ​
+
+
+
+
+8.   Vector A has a magnitude of 30 units and points in the positive x direction. When a second vector B is added            (1)
+     to A their resultant R = A + B has a magnitude of 15 units in the negative x direction. The magnitude and
+     direction of vector B must be
+     A. 45 units in the direction of negative x.                  B. 15 units in the direction of negative x.
+     C. 45 units in the direction of positive x.                  D. 15 units in the direction of positive x.
+
+9.   A car travelling in straight line decelerates uniformly from a speed of 60 m/s to zero in 12 seconds. What              (1)
+     distance does it travel during this time?
+     A. 1,080 m                                                   B. 720 m
+     C. 690 m                                                     D. 360 m
+
+10. A car is moving due east with a speed of 15 m/s and at the same time a motorcycle is moving due north at a               (1)
+    constant speed of 20 m/s. What is the velocity of the car relative to the motorcycle?
+     A. 25 m/s at 53∘ North of east                               B. 5 m/s at 37∘ North of east
+     C. 25 m/s at 53∘ south of east                               D. 5 m/s at 37∘ south of east
+
+11. A torque applied on a body is                                                                                            (1)
+     A. a vector quantity and has similar dimension with that of a force.
+     B. the vector product of an applied force and the position vector from the pivot point to the point of application of
+        the force.
+     C. the scalar product of an applied force and the position vector from the pivot point to the point of application of
+        the force.
+     D. a scalar quantity and has similar dimension with that of energy or work.
+
+12. A ball of mass m moving with a velocity v1 collides with a wall and rebounds with a velocity v2 . During the
+                                                   ​                                                     ​                (1)
+    collision, it is subjected to an average force of F over a time interval Δt. The impulse delivered to the ball during
+    the collision is
+     A. I = m(v1 + v2 )       ​       ​
+                                                                  B. I = m ( v2Δt
+                                                                               −v 1​
+
+
+
+
+                                                                                    )  ​
+
+
+
+
+                                                                                           ​
+
+
+
+
+     C. I = F                                                     D. I = F (Δt)
+            Δt            ​
+13. Which one of the following is true about energy, work and force?                                                        (1)
+     A. Work, energy and force have the same dimension.
+     B. A person carrying 100 kg object and moving horizontally is doing work without expending energy
+     C. A force is a vector quantity and different in dimension from that of both work and energy which are scalars.
+     D. The work done on an object is the product of an applied force and the displacement it produces, and is a vector
+        quantity.
+
+14. When a constant force is applied horizontally on an object of mass m placed on a horizontal frictionless surface,       (1)
+    its velocity is changed from an initial velocity v1 to a final velocity v2 . The mechanical work done by the force is
+                                                       ​                         ​
+
+
+
+
+     A. 12 m(v22 − v12 )
+          ​           ​       ​                                   B. 12 m(v2 − v1 )2
+                                                                       ​     ​       ​
+
+
+
+
+     C. lnd (v22 + v12 )
+              ​   ​       ​
+                                                                  D. 12 m(v2 + v1 )2
+                                                                       ​     ​       ​
+
+
+
+
+15. An object is thrown vertically upward and after reaching maximum height, it falls down to the point it was          (1)
+    thrown. If there is a considerable air resistance of a medium, which one of the following is correct about energies
+    associated to the object?
+     A. Mechanical energy of the object is constant throughout its path.
+     B. There is work done by gravity when the object returns back to the point it was thrown.
+     C. The kinetic energy of the object at the point of throw is equal to its potential energy at its maximum height.
+     D. Work done by air resistance is equal to the loss of kinetic energy of the object in the round trip.
+
+16. A wheel of rotational inertia I = 12 kg.m2 rotates with an angular speed of 300 rev/min about a fixed axis              (1)
+    through its center. What is the kinetic energy of the wheel?
+     A. 60 π 2 J                                                  B. 720 π J
+     C. 600 π 2 J                                                 D. 720000 J
+
+17. The moment of inertia of a uniform solid disc of radius R = 30 cm and mass M = 4 kg about an axis                       (1)
+    perpendicular to the disc area and passing through its center of mass is Ic = 12 MR2 . The moment of inertia of
+                                                                                         ​   ​
+
+
+
+
+    the disc about an axis perpendicular to the disc area and passing through a point at a distance 20 cm from its
+    center of mass is
+     A. 0.08 kg m2                                                B. 0.16 kg m2
+     C. 0.18 kg m2                                                D. 0.34 kg m2
+
+18. Suppose a point mass m tied to a string of length r is whirled in horizontal circle on a frictionless table. If it is   (1)
+    moving with a constant tangential velocity of ωr, then what is its angular momentum?
+     A. L = mr2 ω                                                 B. L = mrω/2
+     C. L = mrω                                                   D. L = mr2 ω/2
+
+19. An object is pulled horizontally at a constant velocity by a force of 20.0 N acting 300 above the horizontal. If the    (1)
+    coefficient of kinetic friction between the object and the surface is 0.4, what is the mass of the object? (g =
+    10.0 m/s2 )
+     A. 10.70 kg                                                  B. 5.35 kg
+     C. 3.35 kg                                                   D. 6.70 kg
+20. Three dogs named A, B, and C are quarreling on a bone and pulling it apart in three different directions in air.     (1)
+    Assume that the weight of the bone is negligible compared to the forces exerted on it by the dogs, and the
+    forces are lying in the xy plane. Dog A is pulling with 26 N force along a direction that makes 53° to the north of
+    positive x axis, Dog B is pulling with FB force along the negative x direction, and Dog C is pulling with FC force
+                                              ​                                                                     ​
+
+
+
+
+    along the negative y direction. If the bone is in static equilibrium, the magnitudes of the forces that Dogs B and C
+    have applied are
+    A. FB = 20.8 N and FC = 15.6 N
+           ​                   ​
+                                                                 B. FB = 15.6 N and FC = 20.8 N
+                                                                        ​                   ​
+
+
+
+
+    C. FB = 10.0 N and FC = 24.0 N
+           ​                   ​
+                                                                 D. FB = 24.0 N and FC = 10.0 N
+                                                                        ​                   ​
+
+
+
+
+21. Consider a heat engine consisting of gas as its working substance. Which of the following processes does NOT             (1)
+    occur during the operation of the engine?
+    A. absorption of heat energy by the gas from a low-temperature reservoir
+    B. the working substance doing work on its surroundings
+    C. absorption of heat energy by the gas from a high-temperature reservoir
+    D. expulsion of energy by heat engine to a lower-temperature reservoir
+
+22. Which one of the following statements is correct about the states of equilibrium of a bottle placed on a                 (1)
+    horizontal surface?
+    A. A bottle lying on its side is in a stable equilibrium because small torque acting on it will cause it to move but
+       stops when it is removed.
+    B. A bottle standing upright is in a neutral equilibrium because small torque acting on it will cause its center of
+       mass to lie inside a point vertically above its base.
+    C. A bottle standing on its neck is in unstable equilibrium because a small torque acting on it will cause its center
+       of mass to lie outside a point vertically above its neck.
+    D. A bottle lying on its side is in an unstable equilibrium because a small torque acting on it will cause it to roll over
+       the surface.
+
+23. Surface tension is defined as                                                                                            (1)
+    A. a cohesive effect at the surface of a liquid due to the forces between atoms or molecules of the liquid.
+    B. a cohesive effect at a point inside a liquid due to the forces between atoms or molecules of the liquid.
+    C. an adhesive effect at the contact surfaces between a container and a liquid due to the forces between atoms or
+       molecules of the liquid and that of the container.
+    D. a cohesive effect at the contact surfaces between a container and a liquid due to the forces between atoms or
+       molecules of the container.
+
+24. The height h with which a liquid rises in a liquid column due to capillary action is                                     (1)
+
+    A. inversely proportional to the radius of the tube.
+    B. directly proportional to the density of the liquid.
+    C. inversely proportional to the liquid-air surface tension.
+    D. directly proportional to the sine of the contact angle between the liquid and tube.
+
+25. Which one of the following statements is correct about the rate of heat flow in metallic bar through conduction?         (1)
+    A. The rate of heat flow is inversely proportional to the cross-sectional area of the bar.
+    B. The rate of heat flow is directly proportional to the temperature gradient along the bar.
+    C. The rate of heat flow is directly proportional to the square of the cross-sectional area of the bar.
+    D. The rate of heat flow is inversely proportional to the square of the length of the bar.
+26. An ideal fluid is pumped through a long inflexible pipe of uniform cross-section of 10 cm in diameter. If 3140 m3       (1)
+    of this fluid is pumped per day, what is the speed of the fluid in the pipe?
+    A. 111.11 m/s                                               B. 1.16 m/s
+    C. 0.04 m/s                                                 D. 4.63 m/s
+
+27. A wall of a house has surface area 1.2 m2 and thickness of Δx. The wall is made of an insulating material of            (1)
+    thermal conductivity 0.02 W/m ∘ C, and is used as a boundary that separates the inside and outside of the
+    house. If heat flows through the wall at the rate of 10 watt and maintains a temperature difference of 15 ∘ C
+    between the outside and inside of the house, the thickness of the wall is
+    A. 36 cm.                                                   B. 3.6 cm.
+    C. 27 cm.                                                   D. 40 m.
+
+28. An ideal gas is compressed from an initial volume of 12.0 liters to a final volume of 4.0 liters at a constant          (1)
+    pressure of 1.2 atm. What is the total work done on the gas? (1 atm = 1.013 × 105 Pa and 1 liter = 10−3 m³)
+    A. 486.2 J                                                  B. 1,945.0 J
+    C. 972.5 J                                                  D. 1,458.7 J
+
+29. Gauss's law states that                                                                                                 (1)
+    A. the electric flux through any closed surface is directly proportional to the charge contained inside the surface.
+    B. the electric flux through a closed surface is zero when a nonzero net charge is enclosed by the surface.
+    C. the electric flux through any closed surface is inversely proportional to the charge contained inside the surface.
+    D. the electric flux through a closed surface is a nonzero constant when the net charge enclosed by the surface is
+       zero.
+
+30. Which of the following is true about the electric field of a charged conductor? The electric field                      (1)
+    A. just outside a charged conductor is different from zero and parallel to the surface of the conductor.
+    B. inside an isolated conductor is different from zero if the conductor carries a charge but zero if the conductor is
+       neutral.
+    C. just outside a charged conductor is different from zero and perpendicular to the surface of the conductor.
+    D. inside an isolated conductor is different from zero whether or not the conductor carries a charge or neutral.
+
+31. A sound wave with a frequency f from a stationary source reaches a listener with a frequency                            (1)
+    A. less than f if the listener is also stationary.
+    B. less than f if the listener is moving away from the source.
+    C. greater than f if the listener is moving away from the source.
+    D. equal to f if the listener is moving away from the source.
+
+32. A dielectric placed in an external electric field                                                                       (1)
+
+    A. forms an electric field in it in the opposite direction of the external field due to induced polarization in the
+       molecules.
+    B. forms an electric field in it in the same direction of the external field due to induced polarization in the
+       molecules.
+    C. contains dipoles which are randomly oriented.
+    D. contains partially aligned dipoles with the external electric field whose alignment decreases when the external
+       electric field increases.
+33. A cord of 0.5 m long is fixed at both ends. If a standing wave is formed by a wave travelling with a speed of       (1)
+    250 ms , what is the fundamental frequency of vibrating cord?
+           ​
+
+
+
+
+    A. 500.0 Hz                                                 B. 62.5 Hz
+    C. 125.0 Hz                                                 D. 250.0 Hz
+
+34. In a Young’s double slits experiment, when an adjustable double slit is illuminated with a monochromatic light a    (1)
+    diffraction pattern is produced on a viewing screen. Which one of the following is correct about the width of the
+    pattern produced on the screen? The width of the diffraction pattern
+    A. decreases if the distance between the slits and the viewing screen is increased.
+    B. increases if the wavelength of the light source illuminating the slits is increased.
+    C. increases if the distance between the two slits is increased.
+    D. is independent of the both wavelength of the light and slit distance.
+
+35. In Young’s double slit experiment, a viewing screen is separated from a double slit by 4.5 m. The distance          (1)
+    between the two slits is 0.04 mm. If a monochromatic light of wavelength 560 nm is directed toward the double
+    slit and forms an interference pattern on the screen, the distance between adjacent dark fringes will be
+    A. 3.15 cm.                                                 B. 9.45 cm.
+    C. 6.30 cm.                                                 D. 12.6 cm.
+
+36. A galvanometer can be modified and converted into                                                                   (1)
+    A. a voltmeter by adding a large resistance in parallel with that of the galvanometer.
+    B. an ammeter by adding a low resistance in parallel to the resistance of the galvanometer.
+    C. an ammeter by adding a small resistance in series with that of the galvanometer.
+    D. a voltmeter by adding a small resistance in parallel to that of the galvanometer.
+
+37. When placed in an applied magnetic field,                                                                           (1)
+    A. both paramagnetic and diamagnetic materials show a tendency that opposes the applied magnetic field.
+    B. both paramagnetic and diamagnetic materials show a tendency that reinforces the applied magnetic field.
+    C. a paramagnetic material shows a tendency that reinforces the applied magnetic field in contrast to the
+       diamagnetic one which opposes the applied magnetic field.
+    D. a paramagnetic material shows a tendency that opposes the applied magnetic field in contrast to the
+       diamagnetic one that reinforces the applied magnetic field.
+
+38. The process in which two light nuclei combine to form a heavier nucleus is called                                   (1)
+    A. nuclear fission                                          B. nuclear fusion
+    C. nuclear reaction                                         D. binding energy
+
+39. When electrons from an electron gun are accelerated through a vacuum towards a layer of graphite a circular         (1)
+    diffraction pattern is observed. The occurrence of this phenomenon shows
+    A. wave properties of particles.                            B. particle properties of electrons.
+    C. wave properties of light.                                D. particle properties of waves.
+40. Consider a piece of copper tube of 1 m long, piece of a magnet, and a piece of nonmagnetic metal of the same          (1)
+    size as the magnet. The magnet and nonmagnetic substances are dropped simultaneously and allowed to fall
+    through the tube. Which of the following is correct about the times required by the two substances to fall
+    through the length of the tube?
+    A. Both the magnet and nonmagnetic substance take equal time to reach the bottom of the tube because the only
+       force acting on both is the gravitational force.
+    B. The magnet takes shorter time than the nonmagnetic substance because the magnet induces a magnetic field
+       in the tube that speeds up motion.
+    C. The magnet takes longer time than the nonmagnetic substance because the magnet induces a magnetic field in
+       the tube that slows its motion.
+    D. The magnet takes shorter time than the nonmagnetic substance because the drag force on the magnet is larger
+       than that on the nonmagnetic substance.
+
+41. A proton is moving perpendicular to the magnetic and electric fields in a velocity selector which is operating        (1)
+    with a magnetic field of 2.5 T and an electric field of 5.0 kV/m. What is the speed of the proton?
+    A. 5.0 × 104 m/s                                                   B. 5.0 × 103 m/s
+    C. 2.0 × 104 m/s                                                   D. 2.0 × 103 m/s
+
+42. Consider two parallel long straight conductors carrying equal current I along the positive y direction as shown       (1)
+    below. The net magnetic field due to the two current-carrying conductors is
+    A. zero at a point midway between the conductors.
+    B. in the direction of the currents in the region between the two wires (at point Q).
+    C. directed out of the page of the paper at point R.
+    D. directed into the page of the paper at point P.
+
+43. Suppose the figure shown below represents the schematic diagram of an a.c. generator depicting its main               (1)
+    components. Which one of the following is correct about the a.c. generator?
+    A. Both X and Y represents the North poles of two bar magnets.
+    B. Both X and Y represents the South poles of two bar magnets.
+    C. Z represents a rectangular coil made of insulators.
+    D. Z represents a rectangular coil made of conductors.
+
+44. Consider a series RLC circuit that consists of a resistor R = 200 Ω, an inductor L = 0.5 H , a capacitor C =          (1)
+    4 μF , and an a.c. source of frequency f = 60 Hz (with maximum voltage Vrms = 100 V ), as shown in the
+                                                                                                   ​
+
+
+
+
+    diagram. Which one of the following is correct about the parameters of the circuit?
+    A. The phase angle of the circuit is -76°.
+    B. The reactance of the capacitor is 663.5 Ω.
+    C. The resonant frequency of the circuit is 159 Hz.
+    D. The current lags behind the applied voltage.
+
+45. If the isotope carbon-14 is radioactive and has a half-life of 5775 years, the decay constant of this sample will be (1)
+    (use ln2 = 0.693)
+    A. 8.3 × 103 /year                                                 B. 1.2 × 10−4 /year
+    C. 1.2 × 10−1 /year                                                D. 4.0 × 103 /year
+
+                                                — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,241 @@
+                                                          Temari.et
+                        Mathematics, 2018 EC, entrance exam, version 5
+                                               Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                     Questions: 51                                   Total marks: 51
+
+Name                                              Grade                       ID No.                  Date
+
+1.   Which term of the following arithmetic sequence -6, 1, 8, 15, ... is 414?                                               (1)
+     A. 31                                                        B. 62
+     C. 61                                                        D. 32
+
+2.   ∑_{n=4}^{17} 1/(k²+5k+6) is equal to: (Note: the index likely n, but given as k)                                        (1)
+     A. 11/102                                                    B. 7/60
+     C. 12/85                                                     D. 10/119
+
+3.   Which of the following Geometric sequence is divergent?                                                                 (1)
+
+     A. a_n = (-1)^{2n+1}(3/7)^n                                  B. a_n = (-3/5)^{2n+1}
+     C. a_n = (1/10)(5/2)^n                                       D. a_n = 2/5^n
+
+4.   An auditorium has 30 seats in first row, 34 in second, 38 in third. If pattern continues, total seating capacity with   (1)
+     20 rows?
+     A. 106                                                       B. 3880
+     C. 580                                                       D. 1360
+
+5.   A manufacturer wants to design an open box with square base and surface area 75 square units. What height               (1)
+     gives maximum volume?
+     A. 5 units                                                   B. 2.5 units
+     C. 7.5 units                                                 D. 15 units
+
+6.   What is area of region enclosed between f(x)=x²-4 over [1,5]?                                                           (1)
+     A. 5/3                                                       B. 65/3
+     C. 16/3                                                      D. 86/3
+
+7.   For 10 observations, sum was 120 and sum of squares 1640. If one observation 10 is corrected to 20, then                (1)
+     corrected standard deviation is:
+     A. 5                                                         B. 4
+     C. 6                                                         D. 7
+
+8.   What is the coefficient of quartile range for data: 23,15,8,7,13,24,6,20,26,5?                                          (1)
+     A. 7/23                                                      B. 7/30
+     C. 30/23                                                     D. 16/30
+
+9.   The mean and standard deviation of incomes: Company A: mean=8000, σ=160; Company B: mean=5000,                          (1)
+     σ=120. Which is true?
+     A. Company A has more variable income than B.
+     B. Company B has more consistent income than A.
+     C. It is not possible to compare variability.
+     D. Company B has more variable data than A.
+10. A researcher wants proportional representation from different colleges. Which sampling technique is most             (1)
+    appropriate?
+    A. Simple random sampling                                    B. Systematic sampling
+    C. Stratified random sampling                                D. Convenience sampling
+
+11. Solution set of inequality x/(x-3) ≤ 2 is:                                                                           (1)
+    A. (3,6]                                                     B. (-∞,3) ∪ [6,∞)
+    C. (-∞,3) ∪ (6,∞)                                            D. [6,∞)
+
+12. A dairy farmer wants to minimize cost while meeting requirements. Feed A costs 14/kg, contains 0.4kg protein,        (1)
+    0.2kg fiber. Feed B costs 21/kg, contains 0.3kg protein, 0.5kg fiber. Daily requirement: at least 12kg protein, at
+    least 10kg fiber. Minimum cost?
+    A. 450                                                       B. 540
+    C. 700                                                       D. 840
+
+13. A bed sold for 45,000 Birr including 25% markup based on cost. Original cost?                                        (1)
+    A. 33,750                                                    B. 36,000
+    C. 37,500                                                    D. 40,000
+
+14. Which is true about an amortization schedule?                                                                        (1)
+
+    A. Only the total interest paid over the loan
+    B. A breakdown of each payment into principal, interest, and remaining balance.
+    C. The bank's profit from the loan
+    D. Only down payment of the principal
+
+15. Tax table provided.                                                                                                  (1)
+    A shop is rented at Birr 2,800 per month for one year. Tax rates given. What is tax payable?
+    A. Birr 3,330                                                B. Birr 5,040
+    C. Birr 0                                                    D. Birr 2,800
+
+16. What is the range of f(x)=3 + sgn(x²+1)?                                                                             (1)
+    A. The set of all integers                                   B. {2,3,4}
+    C. {4}                                                       D. {-1,0,1}
+
+17. If f(x)=ax+b and f⁻¹(2x)=x-3, then a=?                                                                               (1)
+
+    A. 3                                                         B. 1
+    C. -3                                                        D. 2
+
+18. What are values A, B, C so that (4x² - x + 2)/(x³ + x) = A/x + (Bx+C)/(x²+1)?                                        (1)
+    A. -1,1,1                                                    B. -1,1,2
+    C. -1,-2,0                                                   D. 2,2,-1
+
+19. Which is true about asymptote(s) of f(x)=(x²-5x+6)/[x(x-3)(x-1)]?                                                    (1)
+    A. It has an oblique asymptote.
+    B. The graph does not intersect its asymptotes.
+    C. As x→3⁺, f(x)→+∞
+    D. As x→0⁻, f(x)→-∞
+20. Suppose A and B are 3×3 matrices, I identity, such that AB=3I and det(A)=9. Then det(B)=?                   (1)
+     A. 1/3                                                         B. 3
+     C. 27                                                          D. 1/9
+
+21. Consider system: x+2y-z=0, 2x+5y+z=0, 3x+by-2z=1. Determinant of coefficient matrix is 8. Find x and y?     (1)
+
+     A. 7/8 and 3/8                                                 B. 5/8 and -5/8
+     C. 7/8 and -3/8                                                D. -3/8 and 1
+
+22. If vectors u=(3,-2), v=(-2,1), w=(3,-3), find a such that a + w = 2u - v.                                   (1)
+     A. (5,2)                                                       B. (5,-2)
+     C. (11,2)                                                      D. (-2,5)
+
+23. Let u=(5,2), v=(2,-2). Then |2u - v| is:                                                                    (1)
+     A. -8                                                          B. 3
+     C. 24                                                          D. 10
+
+24. What is area of parallelogram spanned by vectors i+2j+k and 2i - j + 2k?                                    (1)
+     A. 5√2                                                         B. 5
+     C. 2√5                                                         D. 2√19
+
+25. What is image of circle x²+y²-6x+4y+12=0 under translation T(2,-3)?                                         (1)
+
+     A. x²+y²-10x+10y+49=0                                          B. x²+y²+10x-6y+49=0
+     C. x²+y²-6x+8y+9=0                                             D. x²+y²-10x-10y-1=0
+
+26. What is image of line y=2x+1 after reflecting along line y=x-3?                                             (1)
+     A. x+2y+10=0                                                   B. 2x-y-10=0
+     C. x+y-10=0                                                    D. x-2y-10=0
+
+27. If modal value of data is 67.5, find m. (Table: 41-50:4, 51-60:2, 61-70:m, 71-80:6, 81-90:1, 91-100:8)      (1)
+     A. 7                                                           B. 8
+     C. 9                                                           D. 10
+
+28. In how many ways can a committee of 4 be selected from 6 boys and 4 girls if committee contains at most 2   (1)
+    boys?
+     A. 85                                                          B. 115
+     C. 24                                                          D. 125
+
+29. Which is true about events E₁={2,3,5}, E₂={1,6}, E₃={2,4,6} for rolling a die?                              (1)
+     A. They are mutually exclusive.                                B. They are exhaustive events.
+     C. P(E₁∪E₃)=1                                                  D. P(E₁∩E₃)=1/4
+
+30. A committee of 3 from 10 candidates including 4 girls. Probability that at most one girl is selected?       (1)
+
+     A. 2/3                                                         B. 3/4
+     C. 1/3                                                         D. 5/6
+
+31. Which of the following is onto function?                                                                    (1)
+     A. f:R→R, f(x)=|x|                                             B. f:R→R, f(x)=x²
+     C. f:R→[0,∞), f(x)=3ˣ                                          D. f:(0,∞)→R, f(x)=log₂x
+32. Given f={(1,0),(-1,2),(3,4),(2,1)} and g={(0,0),(-1,2),(3,4),(2,1)}. Which is correct?                 (1)
+     A. 2f(2)=2g(1)                                                    B. (f+g)(-1)=1
+     C. (f-g)(3)=0                                                     D. (f·g)(2)=-1
+
+33. Which is NOT true about f(x)=2x⁵-7x³+2x-1?                                                             (1)
+
+     A. It has at most 4 turning points and intersects x-axis at most 5 times.
+     B. As we move far from origin it rises to right and falls to left.
+     C. It is a smooth and continuous curve.
+     D. It passes through the origin.
+
+34. What is value of b such that x-1 and x+1 are factors of ax³ - bx² + 3x - 10?                           (1)
+     A. -10                                                            B. -7
+     C. 7                                                              D. 14
+
+35. Simplified form of 3^{2+log₉ 25} is:                                                                   (1)
+
+     A. 75                                                             B. 45
+     C. 9                                                              D. 5
+
+36. Which one is false about f(x)=log₃(x-3)?                                                               (1)
+     A. f(x)≥0 for x≥3                                                 B. 0<f(x)<1 for 4<x<6
+     C. Domain is real numbers greater than 3                          D. Line x=3 is vertical asymptote
+
+37. What is sec(240°)?                                                                                     (1)
+     A. -2√3/3                                                         B. 2
+     C. -2                                                             D. 2√3/3
+
+38. If θ is second quadrant angle and cscθ = 5/3, then cotθ = ?                                            (1)
+     A. 4/5                                                            B. 3/4
+     C. 4/3                                                            D. -4/3
+
+39. A regular pyramid has square base side 10 cm, lateral edge 13 cm. Total surface area?                  (1)
+
+     A. 240 cm²                                                        B. 340 cm²
+     C. 260 cm²                                                        D. 360 cm²
+
+40. What is point that divides segment P(2,3) and Q(-2,4) internally in ratio 1:2?                         (1)
+     A. (2/3, -10/3)                                                   B. (10/3, 5/3)
+     C. (2/3, 10/3)                                                    D. (-2/3, 11/3)
+
+41. Out of 135 students, 59 take Math, 99 take English, 10 take neither. How many take both?               (1)
+     A. 43                                                             B. 59
+     C. 33                                                             D. 23
+
+42. If x=2.131131113... and y=7.868868886..., find (x+y)/5?                                                (1)
+     A. 20                                                             B. 2
+     C. 1                                                              D. 1/5
+43. Which is not true about real numbers?                                                                            (1)
+     A. Difference of two irrational numbers is always irrational.
+     B. Product of nonzero rational and irrational is irrational.
+     C. Between any two irrationals there is a rational.
+     D. If a<b then a < (a+b)/2 < b
+
+44. The solution of |2x-4|+|x+5|=8 is:                                                                               (1)
+     A. {-3,1}                                                          B. {1,7/3}
+     C. {-3,1,7/3}                                                      D. {-3,7/3}
+
+45. A building casts shadow 45 m when angle of elevation of sun is 30°. Height of building?                          (1)
+     A. 45√3                                                            B. 45√3/2
+     C. 45√2/2                                                          D. 45√3/3
+
+46. If each exterior angle of a regular polygon is 40°, how many sides?                                              (1)
+
+     A. 8                                                               B. 10
+     C. 7                                                               D. 9
+
+47. Area of triangle 128 cm², one side 8 cm, corresponding side of similar triangle 12 cm. Area of other triangle?   (1)
+     A. 129                                                             B. 192
+     C. 288                                                             D. 64
+
+48. Let u=(5,3), v=(-8,1). Unit vector in direction of u+v?                                                          (1)
+     A. 3/5 i - 2/5 j                                                   B. -3/5 i + 4/5 j
+     C. 1/2 i - 2/5 j                                                   D. 4/5 i + 2/5 i
+
+49. Mean salary of 10 employees = 6450. New employee gets 7000. New mean?                                            (1)
+     A. 6650                                                            B. 6600
+     C. 6550                                                            D. 6500
+
+50. If variance of a,b,c,d is 9, then standard deviation of 2a+3, 2b+3, 2c+3, 2d+3?                                  (1)
+
+     A. 36                                                              B. 18
+     C. 9                                                               D. 6
+
+51. Two dice thrown. Probability sum multiple of 5 or greater than 9?                                                (1)
+     A. 5/18                                                            B. 1/4
+     C. 11/36                                                           D. 13/36
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

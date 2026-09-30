@@ -1,0 +1,446 @@
+                                                         Temari.et
+              Mathematics, 2016 EC, natural science, entrance exam, round 1
+                                              Grade 12 · Mathematics · 2016 E.C.
+
+Time allowed: 120 minutes                                    Questions: 51                                    Total marks: 51
+
+Name                                             Grade                        ID No.                   Date
+
+1.   Which one of the following is true about the Range and Interquartile Range of a given data?                           (1)
+     A. Both are measures of the variability of each item in the data.
+     B. Both are measures of variation of the data.
+     C. Both are affected by extreme values in the data.
+     D. Both are considering only the middle 50% of the data.
+
+2.   Which one of the following numbers is the coefficient of x6 y 4 in the expansion of (x + y)10 ?                       (1)
+     A. 240                                                      B. 1260
+     C. 210                                                      D. 4860
+
+3.   The altitude of a frustum of a regular square pyramid is 9 cm. What is the volume of the frustum if the side          (1)
+     length of the upper base is 6 cm and the side length of the lower base is 10 cm?
+     A. 196 cm3                                                  B. 324 cm3
+     C. 588 cm3                                                  D. 108 cm3
+
+4.   Which one of the following intervals is the solution set of the inequality ∣3 − 12 ∣x < 5?
+                                                                                       ​                                   (1)
+     A. (-2,8)                                                   B. (-4,16)
+     C. (-8,2)                                                   D. (-16,4)
+
+5.   A sector of a circle of diameter 8cm is formed by a central angle of 45°. What is the area of the sector?             (1)
+     A. (2π + 8)cm²                                              B. 2π cm²
+     C. π cm²                                                    D. 8π cm²
+
+6.   Which one of the following statements is the polynomial division theorem?                                             (1)
+
+     A. If f is a non-constant polynomial and c is a real number, then x − c is a factor of f (x) if and only if f (c) = 0.
+     B. If f (x) and d(x) are polynomials such that d(x) =    0 and degree(d(x)) ≤ degree(f (x)), then there exist
+        unique polynomials q(x) and r(x) such that f (x) = d(x)q(x) + r(x), where r(x) = 0 or degree(r(x)) <
+        degree(d(x)).
+     C. If f is a non-constant polynomial and c is a real number, then the remainder when f (x) divided by x − c is f (c)
+        .
+     D. Let f is a non-constant polynomial with integer coefficients. If the rational number dc in its lowest terms is a root
+                                                                                                  ​
+
+
+
+
+        of f , then c is a factor of the constant term of f and d is a factor of the leading coefficient.
+
+7.   Let p and q be proposition with truth values true and false respectively. Which one of the following statements is (1)
+     NOT correct?
+     A. p ∨ q is true.                                           B. p ⇔ q is true.
+     C. p ∧ q is false.                                          D. p ⇒ q is false.
+8.    Which one of the following is equal to the sum ∑5n=1 2n2 ?
+                                                             ​                                                              (1)
+
+      A. 2+8+18+32+50                                             B. 2+4+8+16+32
+      C. 2+4+6+8+10                                               D. 2+8+16+32+64
+
+9.    A company produces shirts of black and white colors from polyester and cotton. The company has 6000 units of (1)
+      polyester and 3000 units of cotton. To sell its store, A black shirt requires 5 units of polyester and 3 units of
+      cotton, whereas a white shirt requires 3 units of polyester and 3 units of cotton. If the factory gets a profit of Birr
+      120 from each black shirt and Birr 100 from each white shirt, what is the maximum profit of the company?
+      A. Birr 200,000                                             B. Birr 120,000
+      C. Birr 144,000                                             D. Birr 164,000
+
+10. If the fifth and the tenth terms of a geometric sequence are 640 and 20 respectively, then which of the                 (1)
+    following numbers are the first term and the common ratio of the given geometric sequence respectively?
+      A. 10240 and 12         ​
+                                                                  B. 1024 and 12   ​
+
+
+
+
+      C. 10240 and 2                                              D. 1024 and 2
+
+11. Which one of the following conic section is defined by "the set of points in a plane such that the sum of the           (1)
+    distances from two given points is constant"?
+      A. Circle                                                   B. Hyperbola
+      C. Parabola                                                 D. Ellipse
+
+12. Let θ be an angle in standard position and P (−3, 4) be a point on the terminal side of θ. Which one of the             (1)
+    following is true about the corresponding trigonometric functions?
+      A. cos θ = 45       ​
+                                                                  B. sin θ = − 45      ​
+
+
+
+
+      C. sin θ = 35   ​
+                                                                  D. cos θ = − 35          ​
+
+
+
+
+13. Which one of the following is the position vector of the vector with initial point A (1, -1) and terminal point B (2,   (1)
+    -3)?
+      A. i − 2j                                                   B. i − 4j
+      C. 3i − 4j                                                  D. 3i + 4j
+
+14. Let A and B be two sets that contain 15 and 17 elements respectively. If A ∩ B contains 10 elements, what is the        (1)
+    number of elements in A ∪ B?
+      A. 32                                                       B. 12
+      C. 42                                                       D. 22
+
+15. Which one of the following is a simple random sampling?                                                                 (1)
+      A. Selecting a population into groups formed by dividing the population into groups.
+      B. First divide a city into ten groups and choose the secondary school principals from the randomly selected 3
+         groups.
+      C. Selecting five students from grade 12 students of the same school randomly.
+      D. First the population is divided into homogenous groups and a sample is selected from each homogenous group.
+
+16.                                                                                            1       2       3
+      Which one of the following numbers is the determinant of the matrix M =                  4
+                                                                                               ​   ​
+                                                                                                       5   ​
+                                                                                                               6 ?
+                                                                                                                ​   ​
+                                                                                                                            (1)
+                                                                                               7       8       10
+      A. 3                                                        B. 6
+      C. -6                                                       D. -3
+17. Which one of the following pairs of functions is an inverse of each other in their respective domains?              (1)
+    A. f (x) = x+1
+               x−1 and g(x) = x+1
+                     ​
+                              x−1
+                                         ​
+                                                                B. f (x) = x5 and g(x) = x15     ​
+
+
+
+
+    C. f (x) = x3 − 1 and g(x) =3            x+1   ​
+                                                                D. f (x) =      x + 3 and g(x) = x2 − 9
+                                                                                     ​
+
+
+
+
+18. Which one of the following ordered pairs of numbers gives the coordinates of the point that divides a line          (1)
+    segment with end points A(1, 1) and B(-6, 8) in the ratio of 3:4?
+    A. (-2, 4)                                                  B. (-2, -4)
+    C. (2, 4)                                                   D. (2, -4)
+
+19. Which one of the following is a primary data?                                                                       (1)
+    A. The data obtained from a document prepared by the MOE regarding the achievements of students in a National
+       Examination.
+    B. The data obtained by reading a journal regarding the opinion of the society about holidays.
+    C. The data obtained by measuring the heights of students in a certain school.
+    D. The data obtained from a chart prepared by Ministry of Health regarding the spread of HIV/AIDS.
+
+20. Which one of the following is the solution set of the equation ( 16)2x−1 = (3 4096)3x−5 ?
+                                                                            ​                ​                          (1)
+    A. { 11
+         4 }
+           ​
+                                                                B. { 92 }
+    C. { 11
+         2 }
+           ​
+                                                                D. { 94 }
+                                                                       ​
+
+
+
+
+21. If the measure of each interior angle of a regular polygon is 135°, then which one of the following is the number   (1)
+    of lines of symmetry of the polygon?
+    A. 8                                                        B. 6
+    C. 9                                                        D. 7
+
+22. What is the perimeter of a regular hexagon of radius 6 cm?                                                          (1)
+    A. 36.3 cm                                                  B. 18 cm
+    C. 36 cm                                                    D. 18.3 cm
+
+23. Which one of the following is a quantitative data?                                                                  (1)
+
+    A. Checking the quality of a new product.
+    B. Determining the tastes of foods in a restaurant.
+    C. Identifying the social status of individuals.
+    D. Measuring the heights of each students in the given class.
+
+24. Which one of the following is true about the integral of a function f(x) with respect to a variable x?              (1)
+    A. ∫ f (x) dx is the set of all derivatives of f.
+    B. ∫ f ′ (x) dx is the set of all derivatives of f.
+    C. ∫ f (x) dx is the set of all anti-derivatives of f.
+    D. ∫ f ′ (x) dx is the set of all anti-derivatives of f.
+
+25. Which one of the following is NOT a valid reason for saving?                                                        (1)
+    A. For the time of retirement                               B. For vacation
+    C. To maximize interest                                     D. For betting in football
+26. What is the maximum value of z = 2x + 3y subjected to the constraints                                                (1)
+
+                                                         ⎧x + y ≤ 6
+
+                                                         ⎨
+                                                          2x − y ≤ 6
+
+                                                         ⎩
+                                                          x≥0
+                                                          ​                 ​
+
+
+
+
+                                                          y≥0
+
+    A. 14                                                        B. 22
+    C. 12                                                        D. 18
+
+27. Which one of the following is equal to the sum $ \sum_{k=1}^{7} 729(3^{1-k}) $?                                      (1)
+
+    A. 1092                                                      B. 1079
+    C. 1093                                                      D. 1088
+
+28. Which one of the following is an equation of the parabola with vertex V(0, 0) and focus F(2, 0)?                     (1)
+           2
+    A. y           = 18 x​
+                                                                 B. x   2
+                                                                                = 18 y​
+
+
+
+
+           2
+    C. y = 8x                                                         2
+                                                                 D. x = 8y
+
+29. Which one of the following is true about the function f(x) = tan x?                                                  (1)
+    A. The range of f is the set of real numbers, R.
+    B. The graph of f intersects y-axis at ( π2 , 0).​
+
+
+
+
+    C. The domain of f is $ \mathbb{R} \setminus \left(-\frac{\pi}{2},\frac{\pi}{2}\right) $.
+    D. f is a periodic function with period π2 . ​
+
+
+
+
+30. Which one of the following is equal to the polynomial function f (x) = x2 + 4x + 4?                                  (1)
+    A. h(x) = (x2 + 6x + 8) − (2x − 4)                           B. l(x) = (x2 + 10x + 3) + (−6x + 1)
+                             4   2
+    C. g(x) = x +4x
+                x2 +2
+                     +4
+                                     ​
+                                                                 D. k(x) = (x − 2)(x + 2)
+
+31. Let S, R and T be any three sets. Which one of the following is NOT true about the union of the sets?                (1)
+    A. S ∪ T = T                                                 B. S ∪ S = S
+    C. S ∪ R = R ∪ S                                             D. (S ∪ R) ∪ T = T ∪ (R ∪ S )
+
+32. Let r1 and r2 be the roots of a quadratic equation ax2 + bx + c = 0, such that r1 + r2 = −2.5 and r1 r2 =
+               ​             ​                                                             ​           ​         ​   ​   (1)
+    1.5. Which one of the following can be the values of a, b and c respectively?
+    A. 2, 5, and 3                                               B. 2, 3, and 5
+    C. 1, 5, and 6                                               D. 1, 6, and 5
+
+33. The following data gives the scores of 10 students in a Mathematics examination: 6, 10, 8, 5, 9, 8, 5, 10, 10, 9.    (1)
+    Which one of the following is the standard deviation of the given data?
+    A.     5.8       ​
+                                                                 B.         3.6   ​
+
+
+
+
+    C. 5.8                                                       D. 3.6
+
+34. Which of the following pairs of lines with the given equations are parallel?                                         (1)
+    A. ℓ1 : x − 2y + 1 = 0 and ℓ2 : x + 2y − 1 = 0
+           ​                                 ​
+                                                                 B. ℓ1 : 4x − y = 2 and ℓ2 : −x + 4y − 3 = 0
+                                                                        ​                      ​
+
+
+
+
+    C. ℓ1 : 2x + 3y = 5 and ℓ2 : 3x + 2y = 4
+           ​                             ​
+                                                                 D. ℓ1 : x − y + 3 = 0 and ℓ2 : −x + y − 9 = 0
+                                                                        ​                          ​
+35. Let z = −a + 2i and w = 5 − bi be two complex numbers, where a and b are real numbers. If z = w, then                                       (1)
+    which one of the following pairs of numbers are equal to a and b respectively?
+      A. −5 and 2                                                                        B. −5 and −2
+      C. 5 and 2                                                                         D. 5 and −2
+
+36. The following table presents the number of traffic accidents in a certain city per year for five consecutive years                          (1)
+    from 2019 to 2023. Year 2019 2020 2021 2022 2023 Number of Accidents 3500 2750 2850 3500 3750 What
+    is the average number of accidents per year for the given five years?
+      A. 3210                                                                            B. 3270
+      C. 3200                                                                            D. 3250
+
+37. Consider that a data set given below: 10, 8, 10, 2, 12, 6, 12, 18, 3, 7, 10, 8, 8 Which one of the following is the                         (1)
+    coefficient of range of the data?
+      A. 4/5                                                                             B. 20
+      C. 16                                                                              D. 5/4
+
+38.                                                  9  24 6
+      Let M be a matrix such that M =               −12 18 15 . Which one of the following matrices is equal to 23 M ?
+                                                    ​   ​    ​          ​       ​                                                           ​   (1)
+                                                     0  27 3
+      A.          6 8 4                                                                  B.              6 16 4
+                  −8 6 10
+                  ​   ​   ​         ​       ​                                                           −8 12 10
+                                                                                                        ​           ​           ​   ​   ​
+
+
+
+
+                  0 9 2                                                                                  0 18 2
+      C.           3 8 2                                                                 D.             6 16 2
+                  −4 6 5
+                  ​   ​   ​     ​       ​                                                               −8 12 10
+                                                                                                        ​           ​           ​   ​   ​
+
+
+
+
+                   0 9 1                                                                                0 18 2
+
+39. Which one of the following is an onto function from R onto R?                                                                               (1)
+      A. f (x) =              x2 + 1            ​
+                                                                                         B. f (x) = 5x3 + 1
+      C. f (x) = ∣x − 1∣                                                                 D. f (x) = 2x − 3x2
+
+40. If the length of the sides of a triangle are 8cm, 6cm and 4 cm, then which one of the following is the area of the                          (1)
+    triangle?
+      A. 12 cm²                                                                          B. 1.5 15cm2                       ​
+
+
+
+
+      C. 24 cm²                                                                          D. 3 15cm2                     ​
+
+
+
+
+41. Which one of the following is equal to the expression                                                                                       (1)
+                                                                            2                   3
+                                                                 (125) 3 (81)− 4​                   ​
+
+
+
+
+                                                                        − 23                    3           ​
+                                                                                                                ?
+                                                                 (27)               ​
+
+
+
+
+                                                                                        (625)   4
+                                                                                                    ​
+
+
+
+
+      A. 53   ​                                                                          B. 15
+      C. 35   ​
+                                                                                             1
+                                                                                         D. 15          ​
+
+
+
+
+42. Which one of the following numbers is a common multiple of 324 and 1152?                                                                    (1)
+      A. 7776                                                                            B. 20736
+      C. 5184                                                                            D. 13824
+                                                                                            −3x+2
+43. Which one of the following is the solution of the equation (243)2x−3 = (81)                         in the set of real numbers?   (1)
+                                                                                            3       ​
+
+
+
+
+    A. 1                                                         B. −2
+    C. −1                                                        D. 2
+
+44. What is the total surface area of a regular square pyramid with slant height 8cm and base area 25 cm²?                            (1)
+    A. 90 cm2                                                    B. 65 cm2
+    C. 105 cm2                                                   D. 80 cm2
+
+45. The following table presents the scores of Grade 11 students of a certain school in a Mathematics Examination.                    (1)
+    Score 31-40 41-50 51-60 61-70 71-80 81-90 91-100 Number of Students 10 9 15 12 10 4 2 What is the median of
+    the data given in the above table?
+    A. 55.5                                                      B. 60.5
+    C. 50.5                                                      D. 58.5
+
+46. What is the area of the region bounded by the graph of f (x) = x3 and the x-axis on the interval [−4, 2]?                         (1)
+    A. 68 Square units                                           B. 136 Square units
+    C. 60 Square units                                           D. 120 Square units
+
+47. Let f (x) = x+1
+                x−1
+                    and g(x) = x + 2 be two functions. Which one of the following is true about the
+                     ​                      ​                                                                                         (1)
+    combination values of f and g at x = 2?
+    A. (f − g)(2) = −1                                           B. ( f ) (2) = 2
+                                                                        g   ​
+
+
+
+                                                                                    3   ​
+
+
+
+
+    C. (f + g)(2) = 3                                            D. (f .g)(2) = 6
+
+48. Which one of the following defines an exponential function?                                                                       (1)
+    A. f : (0, ∞) → R defined by f (x) = xb , where b >          B. f : R → (0, ∞) defined by f (x) = xb , where b >
+       0 and b =
+                1.                                                 0 and b =
+                                                                             1.
+    C. f : (0, ∞) → R defined by f (x) = bx , where b >          D. f : R → (0, ∞) defined by f (x) = bx , where b >
+       0 and b =
+                1.                                                 0 and b =
+                                                                             1.
+
+49. In the following figure, O is the center of the circle and the line segments AB and AC are intersecting the                       (1)
+    circle at D and E respectively. If m(∠ACD) = 30∘ and m(∠BEC) = 50∘ , then which one of the following is
+    equal to m(∠BAC)?
+    A. 30∘                                                       B. 80∘
+    C. 20∘                                                       D. 70∘
+
+50. Let f be a differentiable function at a number ′ a′ for a ∈ Domain f . In the expression f (a+h)−f
+                                                                                                    h
+                                                                                                       (a)
+                                                                                                           for h =
+                                                                                                                  0, as              (1)
+                                                                                                  ′
+    h gets closer and closer to zero from both directions, the expression becomes closer to f (a), which is equal to
+    A. The gradient of the tangent line to the graph of f at a point (a, f (a)).
+    B. The gradient of the vertical line to the graph of f at a point (a, f (a)).
+    C. The gradient of the secant line to the graph of f at a point (a, f (a)).
+    D. The gradient of the normal line to the graph of f at a point (a, f (a)).
+
+51. If 180 individuals can complete a job in 15 days by working 10 hours a day, how many individuals are needed to                    (1)
+    complete the job in 10 days if they work 12 hours a day?
+    A. 220                                                       B. 144
+    C. 225                                                       D. 200
+                — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 20, 2019 E.C. (September 30, 2026 G.C.) · Temari.et
+

@@ -43,6 +43,8 @@ SESSIONS = [
     ("account9", "0994294517", "5156", ROOT / "scripts" / "temari-session9.json"),
     ("account10", "0919779444", "5156", ROOT / "scripts" / "temari-session10.json"),
     ("account11", "0926516678", "5156", ROOT / "scripts" / "temari-session11.json"),
+    ("account12", "0949597964", "5156", ROOT / "scripts" / "temari-session12.json"),
+    ("account13", "0975247141", "5156", ROOT / "scripts" / "temari-session13.json"),
 ]
 PDF_DIR.mkdir(parents=True, exist_ok=True)
 OUT_DIR.mkdir(parents=True, exist_ok=True)
