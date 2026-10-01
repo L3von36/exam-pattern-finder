@@ -1,0 +1,635 @@
+                                                        Temari.et
+                              Chemistry, 2016 EC, model exam, Arada
+                                              Grade 12 · Chemistry · 2016 E.C.
+
+Time allowed: 120 minutes                                       Questions: 78                              Total marks: 78
+
+Name                                            Grade                           ID No.              Date
+
+1.   Which model of an atom describes an atom as a positive sphere where electrons are embedded in a sphere?            (1)
+     A. Ernest Rutherford                                          B. J.J. Thomson
+     C. Neil's Bohr                                                D. John Dalton
+
+2.   An element X has two stable naturally occurring isotopes (16    18
+                                                               8 X & 8 X ). If the average atomic mass of element X
+                                                                     ​      ​                                           (1)
+                                                          16
+     is 16.2 a. m. u. what is the percentage abundance of 8 X ?
+                                                            ​
+
+
+
+
+     A. 90                                                         B. 25
+     C. 10                                                         D. 75
+
+3.   Which of the following property decreases across a period of the periodic table?                                   (1)
+     A. Ionization energy                                          B. Atomic size
+     C. Effective nuclear charge                                   D. Electron affinity
+
+4.   Unequal distribution of the shared electrons between two atoms results in the formation of -                       (1)
+
+     A. Polar covalent bond                                        B. Non-polar covalent bond
+     C. Electrovalent bond                                         D. Co-ordinate covalent bond
+
+5.   Which of the following is non-polar molecule?                                                                      (1)
+     A. NH₃                                                        B. HF
+     C. CCl₄                                                       D. SO₂
+
+6.   According to Boyle’s law, doubling the pressure of a sample of gas, what will be the volume of gas at constant     (1)
+     temperature?
+     A. Doubled                                                    B. Tripled
+     C. Halved                                                     D. One third
+
+7.   The following table shows substance of comparable molecular mass with their dominant intermolecular forces.        (1)
+     Which of the following is FALSE about the substances?
+     [Figure: A table with two columns and three rows of data:
+     Column 1 header: Substance
+     Column 2 header: Dominant intermolecular force
+     Row 1: A | Hydrogen bonding
+     Row 2: B | London-dispersion force
+     Row 3: C | Dipole –dipole force]
+     A. “B” has the weakest intermolecular force attraction
+     B. “C” has the highest boiling point than “A”
+     C. “ A” has the strongest intermolecular force attraction
+     D. “C” has the strongest intermolecular than “B”
+8.   64g of sulphur dioxide SO2 is burned in air to produce sulphur trioxide, SO3 . If the percentage yield of SO3 is
+                                  ​                                                  ​                             ​      (1)
+     90%,what is the actual yield of SO3 ?​
+
+
+
+
+     A. 80g                                                       B. 72g
+     C. 57.6g                                                     D. 160g
+
+9.   The following figure shows an energy diagram for a certain chemical reaction                                         (1)
+     Which of the following is TRUE about the reaction shown in the diagram?
+     [Figure: An energy diagram with vertical axis labeled 'Energy' and horizontal axis labeled 'Course of reaction'. A
+     horizontal plateau at a higher energy level is labeled 'Reactants'. A downward slope connects 'Reactants' to a
+     lower horizontal plateau labeled 'Products'. A dashed horizontal line extends to the right from the 'Reactants'
+     plateau directly above the 'Products' plateau. Double-headed vertical arrow C extends from the horizontal axis
+     up to the 'Reactants' level. Double-headed vertical arrow B extends from the horizontal axis up to the 'Products'
+     level. Double-headed vertical arrow A extends from the dashed line representing the 'Reactants' level down to
+     the 'Products' level.]
+     A. The reaction is endothermic
+     B. ‘C’ indicates heat content of product
+     C. ‘A’ indicates heat change of the reaction
+     D. ‘B’ indicates heat content of reactant
+
+10. If the proportions of reactants in a reaction mixture are non-stoichiometric, which of the following statement is     (1)
+    true?
+     A. The quantities of the consumed reactant in the reaction maintain stoichiometric proportion
+     B. The amount of yield is proportional to the amount of excess reactant
+     C. The excess reactant is always the one with higher number of moles
+     D. The limiting reactant is the one with less number of moles
+
+11. In an oxidation- reduction reaction, the oxidizing agent is                                                           (1)
+
+     A. reduced as it gains electrons
+     B. oxidized as it loses electrons
+     C. contains an element that undergoes oxidation
+     D. brings about reduction but itself oxidized
+
+12. In each of the four beakers shown below, a 2.0cm strip of magnesium ribbon is added to 100mL of aqueous               (1)
+    solution of HCl under the given condition shown
+    In which beaker will the reaction occur at the fastest rate? In the beaker that contains
+    [Figure: Four cylindrical beakers are shown side by side, each containing an aqueous HCl solution with different
+    conditions labeled inside: first beaker has '0.2M' and '10°C', second beaker has '0.1M' and '30°C', third beaker
+    has '0.1M' and '10°C', and fourth beaker has '0.2M' and '30°C'.]
+     A. 0.1M at 30°C                                              B. 0.2M at 30°C
+     C. 0.1M at 10°C                                              D. 0.2M at 10°C
+
+13. The quantity of heat required to convert one mole of a solid into its liquid state is                                 (1)
+     A. Molar heat of condensation                                B. Molar heat of fusion
+     C. Molar heat of crystallization                             D. Molar heat of sublimation
+14. Given the reaction at equilibrium: X2(g) + 2Y2(g) ⇌ 2XY2(g) + heat
+                                             ​          ​               ​                                          (1)
+    How the equilibrium reaction does yields high amount of product?
+    A. By increasing both the temperature and pressure
+    B. By decreasing the temperature and increasing pressure
+    C. By increasing the temperature and decreasing pressure
+    D. By decreasing both the temperature and pressure
+
+15. Two gases A and B were applied to the two ends o 40 cm long glass tube. The two gases met at a distance of     (1)
+    30 cm from the side were B is applied. Which statement is true about these gases?
+    A. The density of A is smaller than the density of B
+    B. The rate diffusion of A is faster than the rate diffusion of B
+    C. The molar mass of A is higher than the molar mass of B
+    D. The rate diffusion of B is slower than the rate diffusion of A
+
+16. Which set of compounds represents does a homologous series?                                                    (1)
+    A. C₂H₆, C₃H₈, C₄H₈                                          B. C₂H₆, C₃H₈, C₄H₁₀
+    C. C₂H₆, C₃H₈, C₅H₁₀                                         D. C₂H₆, C₃H₈, C₄H₆
+
+17. Which one of the following is a tertiary alcohol?                                                              (1)
+
+    A. 3 – Hexanol                                               B. 1,2,3 – propanetriol
+    C. 3 – methyl– 2 – pentanol                                  D. 2 – methyl– 2 – propanol
+
+18. What is the correct IUPAC name of the compound shown below?                                                    (1)
+    [Figure: A chemical structural formula showing a central carbon chain: CH3 bonded to C, which is bonded to a
+    Br above, a CH2—CH3 group below, and a CH2 group to the right. The CH2 group is bonded to a CH group,
+    which has a CH2—CH3 group above it and a CH3 group to its right.]
+    A. 2 – bromo - 2,4 – diethyl pentane
+    B. 3 - bromo - 3,5 – dimethyl heptane
+    C. 3 - bromo - 5 – ethyl – 3 – methyl hexane
+    D. 2 - bromo - 2 – ethyl – 4 –methyl hexane
+
+19. Which of these statements is FALSE about the identification test of saturated and unsaturated hydrocarbons?    (1)
+    A. Br₂ in CCl₄ is used to identify whether the compound is saturated or not.
+    B. The consumption of hydrogen gas(H₂) by the compound to be tested can be used as reagent for the existence of
+       unsaturated hydrocarbon or not
+    C. The reagent KMnO₄(Alkaline) can be used to test unsaturated hydrocarbon
+    D. The reagent nitric acid (HNO₃) can be used to test unsaturated hydrocarbon
+
+20. Alcohol that yield ketones on oxidation are classified as;                                                     (1)
+    A. Dihydric alcohol                                          B. Trihydric alcohol
+    C. Primary alcohol                                           D. Secondary alcohol
+
+21. Whih one of the following is Not a ternary acid?                                                               (1)
+
+    A. HCN                                                       B. HF
+    C. HN O3    ​
+                                                                 D. H3 P O2 ​   ​
+22. When an acid reacts with an active metal:                                                                      (1)
+    A. hydronium ion concentration increases                    B. hydrogen gas is produced
+    C. the metal forms anions                                   D. carbon dioxide gas is produced
+
+23. What is the [OH − ] of a solution with a pH of 4?                                                              (1)
+
+    A. 10−4                                                     B. 104
+    C. 1010                                                     D. 10−10
+
+24. Which one of the following salts is not an acidic salt?                                                        (1)
+    A. KHSO₄                                                    B. Na₂HPO₄
+    C. (NH₄)₂SO₄                                                D. Mg(HCO₃)₂
+
+25. During the electrolysis of molten lead bromide using graphite electrodes, the anode reaction is                (1)
+    A. 2Br− ⟶ Br2 + 2e−  ​
+                                                                B. P b ⟶ P b+2 + 2e−
+    C. Br2 + 2e− ⟶ 2Br−
+            ​
+                                                                D. P b+2 + 2e− ⟶ P b
+
+26. As opposed to a galvanic cell, in an electrolytic cell                                                         (1)
+    A. spontaneous redox reaction generates electricity
+    B. electrons flow from cathode to anode
+    C. the anode is positive
+    D. oxidation takes place at the cathode
+
+27. In the extraction of aluminum from bauxite, bauxite is treated with hot aqueous sodium hydroxide. The reason   (1)
+    for this is to
+    A. lower the melting point of bauxite                       B. increase the strength of aluminum
+    C. displace aluminum from its oxide                         D. remove impurities from bauxite
+
+28. Which of the following is the purest form of iron?                                                             (1)
+    A. Cast iron                                                B. wrought iron
+    C. Pig iron                                                 D. limonite
+
+29. Which of the following methods is used to reduce land pollution?                                               (1)
+    A. Replacing CFCs by less harmful alternatives
+    B. Removal of lead compounds from gasoline
+    C. Reducing CO₂ emission
+    D. Recycling plastics
+
+30. In the process of converting skin to leather by tanning, the use of slaked lime is to                          (1)
+    A. make sole leather                                        B. remove the hairs
+    C. kill bacteria and dehydrate                              D. soften the skin and hide
+
+31. Precision refers to how close a measured value to                                                              (1)
+    A. the true value                                           B. the other measured values
+    C. zero                                                     D. the calculated value
+
+32. Which of the following represents a tentative explanation of a certain scientific law?                         (1)
+
+    A. Hypothesis                                               B. Observation
+    C. Experimentation                                          D. Theory
+33. Which of the following electron transitions requires the highest energy to be absorbed by the hydrogen atom?                             (1)
+    A. from n = 1 to n = 2                                                         B. from n = 3 to n = 4
+    C. from n = 2 to n = 3                                                         D. from n = 4 to n = 5
+
+34. Which one of the following quantum numbers determines the orientation of atomic orbitals?                                                (1)
+
+    A. Principal quantum number                                                    B. Spin quantum number
+    C. Azimuthal (angular) quantum number                                          D. Magnetic quantum number
+
+35. Within a specified period, an increase in atomic number’s usually accompanies:                                                           (1)
+    A. an increase in atomic radius and an increase in electronegativity
+    B. a decrease in atomic radius and an increase in electronegativity
+    C. an increase in atomic radius and a decrease in electronegativity
+    D. a decrease in atomic radius and a decrease in electronegativity
+
+36. Which one of the following is an example of ionic compounds?                                                                             (1)
+
+    A. NH₃                                                                         B. CCl₄
+    C. NH₃BF₃                                                                      D. CaF₂
+
+37. Which of the following molecules violet octet rule?                                                                                      (1)
+    A. SiCl₄                                                                       B. O₃
+    C. SF₄                                                                         D. SO₃
+
+38. If a molecule has Trigonal bipyramidal electron pair arrangement and T –shape molecular geometry, how many                               (1)
+    non-bonding pair of electrons is present in the valence shell of the central atom?
+    A. 1                                                                           B. 2
+    C. 3                                                                           D. 0
+
+39. Which reaction involves a change in the hybridization state of the underlined atom?                                                      (1)
+    A. 2SO2 + O2 ⟶ 2SO3
+           ​                           ​       ​               ​       ​
+                                                                                   B. BF3 + F− ⟶ BF−
+                                                                                          ​       ​
+
+
+
+                                                                                                   4                         ​       ​
+
+
+
+
+                                           +                       +                                                  +
+    C. H2 O + H ⟶ H3 O
+               ​                   ​                       ​       ​
+                                                                                   D. NH3 + H ​           ​               ⟶ NH+
+                                                                                                                              4  ​       ​
+
+
+
+
+40. At certain point a reaction: 2A ⟶ 3B, [A] drops from 0.4M to 0.2M in 10minutes. What is the average rate of B (1)
+    during this time interval?
+    A. 0.03M min−1                                                                 B. 0.02M min−1
+    C. 0.01M min−1                                                                 D. 0.06 M min−1
+
+41. What is the half-life, t½ , for a zero order reaction: A → B, (k is rate constant)?
+                                                       ​                                                                                     (1)
+    A. [A]0        ​
+
+
+
+
+                                                                                   B. 0.693
+                                                                                        k
+          2k
+                                                                                                      ​
+                       ​
+
+
+
+
+    C.     1                                                                       D.     3
+         k[A]0                                                                          2k[A]0
+                               ​                                                                                  ​
+
+
+
+
+                           ​                                                                                  ​
+
+
+
+
+42. For the reaction 2A(g) + B(g) ⇌ 3C(g) at 200°C, the equilibrium constant is 3.0. If [A] = 2.0M, [B] = 3M and[C]
+                                                   ​                       ​   ​
+                                                                                                                                             (1)
+    = 4.0M. Which of the following is correct?
+    A. The system is at equilibrium                                                B. The values of Qc < Kc
+    C. The system shifts towards the right                                         D. The system shifts towards the left
+43. What is the relationship between Kc and Kp for the reaction 3A(g) ⇌ B(g) + C(g)
+                                                                     ​       ​                                                                                                      (1)
+    A. Kp = Kc (RT )1
+                 ​                   ​
+                                                                                     B. Kp = Kc (RT )−1
+                                                                                                   ​                    ​
+
+
+
+
+    C. Kp = Kc (RT )2
+                 ​                   ​
+                                                                                     D. Kp = Kc (RT )−2
+                                                                                                   ​                    ​
+
+
+
+
+44. What is the general formula of saturated monocarboxylic acids                                                                                                                   (1)
+
+    A. Cn H2n+1 O
+             ​                                                                       B. Cn H2n O
+                                                                                               ​                   ​
+
+
+
+
+    C. Cn H2n+2 O2
+             ​                   ​
+                                                                                     D. Cn H2n O2
+                                                                                               ​                   ​        ​
+
+
+
+
+45. What is the process that converts vegetable oils to solid fats?                                                                                                                 (1)
+    A. Hydration                                                                     B. Hydrogenation
+    C. Hydrolysis                                                                    D. Saponification
+
+46. What is the parent acid and alcohol to prepare isopropyl pentanoate?                                                                                                            (1)
+    A. CH3 − CH − CH3 & CH3 − CH2 − CH2 −
+                     ​                               ​       ​   ​       ​       ​
+                                                                                     B. CH3 − CH − CH3 & CH3 − CH2 − CH2 −
+                                                                                                       ​                                ​                   ​       ​       ​
+
+
+
+
+                                 ∣                                                                                         ∣
+                             textOH                  ​
+
+
+
+
+                                                                                                                       textOH           ​
+
+
+
+
+        CH2 − CH2 − OH
+                     ​                       ​                                          CH2 − C − OH   ​                            ​
+
+
+
+
+                                                                                                                         ∣∣
+                                                                                                                       textO        ​
+
+
+
+
+    C. CH3 − CH2 ⋅ CH2 OH & CH3 − CH2 − CH2 −
+                     ​                           ​       ​       ​       ​       ​   D. CH3 − CH2 ⋅ CH2 OH & CH3 − CH2 − CH2 −
+                                                                                                       ​                                       ​                ​       ​       ​
+
+
+
+
+       CH2 − C − OH  ​                       ​                                          CH2 − CH2 − C − OH
+                                                                                                       ​                                                ​
+
+
+
+
+                               ∣∣                                                                                                             ∣∣
+                             textO                                                                                                          textO
+                                             ​                                                                                                          ​
+
+
+
+
+47. Which one of the following is not an amphiprotic species?                                                                                                                       (1)
+    A. HPO2−
+          4                  ​
+                                                                                     B. H2 O
+                                                                                           ​
+
+
+
+
+    C. NH3               ​                                                           D. HNO2                   ​
+
+
+
+
+48. For the reaction blew, which pair of species are both bases? HCN + H2 O ⇌ H3 O+ + CN−                                       ​                   ​                               (1)
+                                             −                                                             +
+    A. HCN & CN                                                                      B. H3 O & H2 O
+                                                                                           ​                                        ​
+
+
+
+
+                                                     +
+    C. HCN &H3 O                         ​
+                                                                                     D. H2 O & CN−
+                                                                                           ​
+
+
+
+
+49. What is the pH of a 0.01M weak base, B solution? Kb = 1.6x 10−9                                                                                                                 (1)
+    A. 8.6                                                                           B. 5.6
+    C. 4                                                                             D. 6
+
+50. The concentration of hydroxide in a solution in which the concentration of hydroxide ion is 100 times hydronium                                                                 (1)
+    ion at 25°C is -----------------
+    A. 1.0x 10−5                                                                     B. 1.0x 10−6
+    C. 1.0x 10−8                                                                     D. 1.0x 10−9
+
+51. The PH of 0.1M solution of weak acid is 3.0. What is the value of the ionization constant for the acid?                                                                         (1)
+
+    A. 10−5                                                                          B. 10−6
+    C. 10−8                                                                          D. 10−10
+
+52. A buffer solution a mixture of                                                                                                                                                  (1)
+    A. a weak acid and a strong acid                                                 B. a strong acid and its conjugate base
+    C. a weak acid and its conjugate base                                            D. a strong acid and its conjugate acid
+53. To 0.2 M solution of a weak monophonic acid, HA, enough quantity of its sodium salt, NaA, was dissolved to give        (1)
+    a concentration of 0.2 M of the salt. What will be the acid concentration, [H₃O⁺], in the final solutions? (ka of HA
+                                                                                                                 ​
+
+
+
+
+    = 1.80 x 10−5 )
+    A. 3.60 x 10−6 M                                              B. 1.80 x 10−5 M
+    C. 1.00 x 10−5 M                                              D. 1.90 x 10−3 M
+
+54. Why salts of weak acid and strong base give a basic solution? because the                                              (1)
+    A. The cations derived from a strong base can hydrolyzed
+    B. The anions derived from a strong base can hydrolyzed
+    C. The cations derived from a weak acid can hydrolyzed
+    D. The anions derived from a weak acid can hydrolyzed
+
+55. Which of the following statements is true?                                                                             (1)
+    A. A universal indicator is a mixture of indicators that will give a different colour for a different pH.
+    B. Phenolphthalein is a universal indicator
+    C. A universal indicator can only be used in either strongly acidic or basic solution.
+    D. The colour of a universal indicator is red in a weak acid.
+
+56. Which of the following titrations will have an equivalence point at a pH < 7?                                          (1)
+
+    A. Strong acid with weak base                                 B. Strong acid with strong base
+    C. Weak acid with weak base                                   D. Weak acid with strong base
+
+57. In titration of acids and bases, the point at which stoichiometrically equal amounts of substances have been           (1)
+    brought together is
+    A. End point                                                  B. Standard point
+    C. Equivalence point                                          D. common ion
+
+58. The species that being reduced and causes oxidation is a/an                                                            (1)
+    A. Reduction                                                  B. Reducing agent
+    C. Oxidation                                                  D. Oxidizing agent
+
+59. Which substances is reduced in the following reaction                                                                  (1)
+
+                             Cr2 O72− + 6S2 O32− + 14H + ⟶ 2Cr3+ + 3S4 O62− + 7H2 O
+                                  ​    ​      ​    ​                                ​    ​       ​
+
+
+
+
+    A. H +                                                        B. Cr3+
+    C. S2 O32−
+          ​      ​
+                                                                  D. Cr2 O72−
+                                                                          ​     ​
+
+
+
+
+60. What is the difference between metallic conduction and electrolytic conduction?                                        (1)
+    A. Metallic conduction involves transfer of matter in the form of ions, whereas electrolytic conduction does not
+       involves transfer of matter.
+    B. In metallic conduction passage of charge brings about physical and chemical changes, whereas electrolytic
+       conduction brings about only physical changes.
+    C. In metallic conduction electrical charge is carried by electrons, whereas in electrolytic conduction electrical
+       charge is carried by ions.
+    D. In metallic conduction the ions are able to move in the solution, whereas in electrolytic conduction delocalized
+       valence electrons are able to move in the solution
+61. What are the expected products of the electrolysis of an aqueous solution of CuSO4 using an inert electrode?
+                                                                                           ​                           (1)
+    A. Cu and H2 at the cathode and dissolving of Cu at the anode
+                  ​
+
+
+
+
+    B. Cu at the cathode and O2 at the anode only
+                                          ​
+
+
+
+
+    C. Cu and H2 at the cathode and only O2 at the anode
+                  ​                            ​
+
+
+
+
+    D. Cu at the cathode, O2 at the anode and H2 SO4 solution
+                              ​                     ​    ​
+
+
+
+
+62. In the electroplating of nickel from a solution containing N i2+ ion, what will be the weight of the metal         (1)
+    deposited on the cathode by a current of 8 A flowing for 500 minutes?
+    A. 73 g                                                    B. 103 g
+    C. 117.4 g                                                 D. 145 g
+
+63. A 1M solution of Cu (NO3 )2 is placed in a beaker with a strip of Cu metal. A 1M of SnSO4 is placed in a second
+                                  ​   ​                                                          ​                     (1)
+    beaker with a strip of Sn metal. The two beakers are then connected by a slat bridge and the two metal
+    electrodes are connected by wires to a voltammeter. Which of the following electrode serves as the anode and
+    which electrode gains mass? Given that E0 Cu2+ /Cu = 0.34V and E0 Sn2+ /Sn = −0.14V
+    A. Sn, Sn electrode gains mass                             B. Cu, Sn electrode gains mass
+    C. Sn, Cu electrode gains mass                             D. Cu, Cu electrode gains mass
+
+64. Which of the following is WRONG concerning a Galvanic cell?                                                        (1)
+
+    A. It involves the deposition of one metal at one electrode when oxidations of another metal occur at the second
+       electrode.
+    B. A spontaneous chemical reaction generates an electric current
+    C. A non-spontaneous chemical reaction generates electrical energy
+    D. It does not require an external source of electric current to function
+
+65. For the electrochemical cell represented by: Zn(s)/ZnSO₄(aq) // CuSO₄(aq)/Cu(s).                                   (1)
+    The standard reduction potentials for Cu²⁺/Cu and Zn²⁺/Zn are + 0.34 and − 0.76V, respectively. What will be
+    the cell reaction that occurs spontaneously and its cell voltage? \tE°(V)
+    A. Cu + Zn²⁺ ⟶ Cu²⁺ + Zn 1.10                              B. Zn + Cu²⁺ ⟶ Zn²⁺ + Cu 0.42
+    C. Cu²⁺ + Zn²⁺ ⟶ Zn + Cu 0.42                              D. Cu²⁺ Zn ⟶ Cu + Zn²⁺ 1.10
+
+66. Which of the following statement describe Chemical industries? It is :                                             (1)
+    A. A process in which dissolved solute comes out of solution and form crystals
+    B. An area of chemistry concerned with the rate at which chemical reaction occur
+    C. A firm that involves the usage of raw material to form desired products by means of chemical reaction
+    D. An expression for the chemical composition of compound.
+
+67. Which of the following is a non-renewable resource:                                                                (1)
+
+    A. soil                                                    B. petroleum
+    C. water                                                   D. plants
+
+68. Which of the following is the most important ingredients used for production of DAP.                               (1)
+    A. Ammonia and phosphoric acid                             B. Phosphoric acid, urea and ammonia
+    C. Nitric acid and urea                                    D. Sulphuric acid, ammonia and urea
+69. The hydrogen used in Haber process is made by the following reaction CH4 + H2 O ⇌ CO + 3H2 , ΔH =
+                                                                                                    ​     ​        ​   (1)
+    +206KJ.Which of the following set of condition will favor the formation of more H₂ Molecules?
+    A. Low pressure and high temperature                                   B. High pressure and high temperature
+    C. Low pressure and low temperature                                    D. High pressure and low temperature
+
+70. Ammonia is produced in laboratory by heating ammonium chloride with _____.                                         (1)
+    A. Calcium nitrate                                                     B. Calcium hydroxide
+    C. Calcium chloride                                                    D. Calcium sulphate
+
+71. Among the following compounds which one is a by-product in Solvay process during the production of                 (1)
+    N a2 C O3 ?
+         ​               ​
+
+
+
+
+    A. CaCl2                 ​
+                                                                           B. CO2       ​
+
+
+
+
+    C. N H3      ​
+                                                                           D. CaCO3             ​
+
+
+
+
+72. Which of the following pairing is not correct?                                                                     (1)
+
+    A. Solvey process-NaCl                                                 B. Ostwald process- HNO₃
+    C. Contact process-H₂SO₄                                               D. Haber process- NH₃
+
+73. What is the purpose of adding ethanol during the preparation of soap?                                              (1)
+    A. To reduce the solubility of soap & separate it out
+    B. To dissolve the fat & make hydrolysis easily
+    C. To make soft and smooth
+    D. to make pleasant smell
+
+74. The major composition of cement is                                                                                 (1)
+
+    A. SiO2          ​                                                     B. CaO
+    C. F e2 O3
+             ​                   ​
+                                                                           D. Al2 O3​       ​
+
+
+
+
+75. The purpose of annealing during glass production is ___________.                                                   (1)
+    A. changing into required shapes                                       B. melting the raw material
+    C. testing the quality of glass                                        D. removing internal stress
+
+76. The stage in which the shredded sugarcane travels on the conveyor belt through a series of heavy-duty rollers,     (1)
+    which extract juice from the pulp in sugar manufacturing, is called_____.
+    A. Juicing                                                             B. Cleansing and Grinding
+    C. Collecting the Harvest                                              D. Clarifying
+
+77. In the process of sugar manufacturing which one of the following substance is used to bleach the brown syrup?      (1)
+    A. Sodium hypochlorite                                                 B. Sulfur dioxide
+    C. Hydrogen peroxide                                                   D. Chlorine
+
+78. Of the following methods, which one is a traditional food preservation method?                                     (1)
+    A. Vacuum packing                                                      B. Freeze drying
+    C. Salting                                                             D. Freezing
+
+                                                   — E N D O F E X A M I N AT I O N —
+                                     Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

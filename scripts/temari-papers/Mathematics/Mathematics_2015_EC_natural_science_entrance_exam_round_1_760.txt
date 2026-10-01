@@ -1,0 +1,421 @@
+                                                             Temari.et
+             Mathematics, 2015 EC, natural science, entrance exam, round 1
+                                                  Grade 12 · Mathematics · 2015 E.C.
+
+Time allowed: 120 minutes                                        Questions: 52                        Total marks: 52
+
+Name                                                 Grade                           ID No.    Date
+
+1.   A 20m high building casts a shadow of 4m, at the same time a 35m tree casts a shadow of x m. What is the      (1)
+     value of x?
+     A. 8m                                                           B. 11m
+     C. 7m                                                           D. 15m
+
+2.   A car started moving 9km to the East then moved 4 km to the North and then 12km towards West to reach its     (1)
+     destination. How far the car it travelled from its starting point?
+     A. 25km                                                         B. 12km
+     C. 4km                                                          D. 5km
+
+3.   When the polynomial P (x) = 3x6 + 5x4 − 7x3 + 2kx2 + 3 is divided by (x + 1), the remainder is 4. What is     (1)
+     the value of k?
+     A. -5                                                           B. -7
+     C. 3                                                            D. 6
+
+4.   Which of the following statement is true about f (x) = x2 − 6x + 10?                                          (1)
+     A. f (x) ≥ 2 for all x in the domain of f.
+     B. The line x = 1 is the axis of symmetry of the graph of f.
+     C. The graph of f opens downward.
+     D. The vertex of the graph of f is (3, 1).
+
+5.   What is the area of a regular hexagon inscribed in a circle of radius 6cm?                                    (1)
+     A. 48 3 cm     2                                                B.
+                                                                          54 3 cm2
+               ​
+
+
+
+
+                                                                                 ​
+
+
+
+
+     C. 48cm 2                                                       D.
+                                                                          36 3 cm2
+                                                                                 ​
+
+
+
+
+6.   Which of the following defines a prime number?                                                                (1)
+
+     A. It is a number that has more than two positive factors.
+     B. It is a number whose only factor is 1.
+     C. It is a number that has only two positive factors.
+     D. It is a number whose only factor is itself.
+
+7.   Which of the following rational numbers is written in its standard form?                                      (1)
+     A. 10 x 10−2                                                    B. 0.8 x 102
+     C. 0.09 x 105                                                   D. 5 x 05
+8.    The solution set of the equation 3∣2x − 4∣ = 6 − 2∣1 − 5x∣ is                                                                                      (1)
+      A. { 12 , 54 }
+                   ​       ​
+                                                                                                             B. {−1, 12 , 54 }   ​       ​
+
+
+
+
+      C. {}                                                                                                  D. {−1, 12 }        ​
+
+
+
+
+                                                                                               2
+9.    The domain of the function f (x) = 2x 3 is                                                   ​
+
+
+
+
+                                                                                                                                                         (1)
+      A. R ∖ {0}                                                                                             B. [0,∞)
+      C. R                                                                                                   D. (0, 2)
+
+10. The slope of the line that makes an angle of 135° with the positive x-axis is equal to                                                               (1)
+      A. 2                                                                                                   B. -1
+      C. 1                                                                                                   D. 3
+
+11. If tan31° = 0.81 then what is the value of tan509°                                                                                                   (1)
+      A. 0.19                                                                                                B. -0.81
+      C. 0.81                                                                                                D. -0.91
+
+12. If sin θ = − 35 and θ is a 4th quadrant angle, then what is the value of secθ ?
+                                           ​                                                                                                             (1)
+
+      A. -5/3                                                                                                B. 5/4
+      C. 5/3                                                                                                 D. -5/4
+
+13. If ABCD is a parallelogram with P a mid-point of AB and Q a mid-point of CD, then which of the following is                                          (1)
+    NOT necessarily true?
+      A. ΔADQ ≡ ΔCBP                                                                                         B. AQ ≡ PC  ​
+
+
+
+
+      C. APCD is a trapezium                                                                                 D. APCQ is a rhombus
+
+14. A regular pyramid has a hexagonal base whose side length is 12cm. What is the lateral surface area of the                                            (1)
+    pyramid in square centimeters if the length of each lateral edge is 10cm?
+      A. 360                                                                                                 B. 72
+      C. 288                                                                                                 D. 720
+
+15.        2           −1    1                                           3               1
+      If (                )(                                         )=(                   ) Then what are the values of a and b respectively?
+                                                                   b
+                                                                                                                                                         (1)
+                       4    −1                                     3    −1               18
+               ​               ​                           ​       ​                 ​     ​
+
+
+
+
+          a
+      A. 3, 2                                                                                                B. 2, -2
+      C. -1, 2                                                                                               D. 0, -1
+
+16.                                1                   −1
+      Let A =                      0
+                                   ​           ​       2       ​       ​   Then A T is                                                                   (1)
+                                   −3                  6
+      A.     1                 0               −3                                                            B.       1 0
+           (                                      )
+            −1                 2               6                                                                     −1 2
+                       ​               ​               ​
+
+
+
+
+                                                                                                                     ​       ​       ​           ​
+
+
+
+
+                                                                                                                     −3 6
+      C.    −1                 2               6                                                             D.      −1 1
+           (                                     )
+             1                 0               6                                                                     2   0
+                       ​               ​           ​
+
+
+
+
+                                                                                                                     ​       ​               ​       ​
+
+
+
+
+                                                                                                                     6 −3
+
+17. On the set of Natural numbers N, which one of the following propositions has a truth value True ?                                                    (1)
+      A. (∃x)(∃y)(x − y = y − x)                                                                             B. (∀x)(∀y) (x ≠ y ⟹ x > y)
+      C. (∀x)(∃y)(x − y = 5)                                                                                 D. (∀x)(∃y)(xy < x)
+18. In a certain month of the year, the temperature of a city was recorded and presented as follows: Temperature (in     (1)
+    °C) 10-14 15-19 20-24 25-29 30-34 Frequency (number of days) 2 9 11 5 3 Which one of the following is the
+    cumulative frequency of the fourth class?
+    A. 22                                                        B. 27
+    C. 18                                                        D. 20
+
+19. A fair die is going to be rolled once, and let: E1 be the event that an even number occurs; E2 be the event that a   (1)
+    prime number occurs; E3 be the event that a multiple of 3 occurs; E4 be the event that a multiple of 5 occurs;
+    Then which of the following pairs of events are mutually exclusive?
+    A. E1 and E3                                                 B. E3 and E4
+    C. E1 and E2                                                 D. E2 and E4
+
+20. The following is the distribution of the weight of 40 students in a certain class: Weight (in Kg) 40-48 49-57 58-    (1)
+    66 67-75 76-84 f 8 18 7 5 2 Then for data given above, what is the median weight in kg?
+    A. 54.5                                                      B. 55
+    C. 53                                                        D. 53.8
+
+21. A group of students, 5 from grade 10, 8 from grade 11 and 2 from grade 12 is to be formed. If a student is chosen    (1)
+    randomly from this group, what is the probability that the chosen student is either from grade 10 or grade 12?
+    A. 7/15                                                      B. 5/15
+    C. 12/15                                                     D. 1/7
+
+22. If the truth value of p is T, then which of the following compound propositions has a truth value T for any          (1)
+    proposition q?
+    A. ¬p ⇔ (p ∨ ¬q)                                             B. (¬p ∧ q) ⇒ q
+    C. (p ⇒ ¬p) ∧ q                                              D. (p ⇒ q) ∧ ¬p
+
+23. Which of the following functions is one to one?                                                                      (1)
+    A. f = {(1, 5), (2, 3), (5, 4), (6, 5)}                      B. f : (0, ∞) → R, f (x) = ∣x∣ − 1
+    C. f : R → R, f (x) = x − 1  2                               D. f = {(x, y) ∣ y is the mother of x}
+            2
+24. If (x+2)(x−1)
+          x +14
+                  2 = x+2 + x−1 + (x−1)2 then what are the values of A, B and C respectively?
+                   ​
+                       A
+                          ​
+                             B      C
+                                     ​      ​                                                                            (1)
+
+    A. 1, -1, 3                                                  B. 3, -2, 6
+    C. 2, -2, -5                                                 D. 2, -1, 5
+                                                                                                     3
+25. Which of the following line is true about the intercept and symmetry of the graph of f (x) = xx2−3x
+                                                                                                    −6 ? ​               (1)
+    A. The graph is symmetrical with respect to the y-axis.
+    B. Its y-intercept is 3.
+    C. Its x-intercepts are ±√6.
+    D. The graph is symmetrical with respect to the origin.
+
+26. Consider the lines l1 : y = 2x + 3 and l2 : y = 1 − 3x. Then the angle between l1 and l2 is                          (1)
+    A. π/4                                                       B. 3π/2
+    C. π/2                                                       D. π/6
+
+27. The equation of the parabola with vertex V(2, -1) and focus F(-1, -1) is                                             (1)
+    A. (x + 1)2 = −12(y + 1)                                     B. (y + 1)2 = −12(x − 2)
+    C. (y + 1)2 = 12(x − 2)                                      D. (x − 2)2 = −12(y + 1)
+                                        2
+28. What is the value of limx→1 x2 −1 ?                                                                                  (1)
+                                       x +1
+                                   ​           ​
+
+
+
+
+      A. 3                                                         B. 1
+      C. 2                                                         D. 0
+
+29.
+      Which one of the following is the value of a so that the function given by f (x) = { 2
+                                                                                          ax + 1        for x ≥ 1
+                                                                                                                  is     (1)
+                                                                                          x −4          for x < 1
+                                                                                                    ​            ​
+
+
+
+
+      continuous at 1?
+      A. 4                                                         B. -4
+      C. -1                                                        D. 1
+
+30. Let f (x) = − 1 cos (2x3 − π ) + 1. Then what is the period and Phase shift of the graph of f respectively?          (1)
+                     3   ​
+
+
+
+
+                                       3   ​
+
+
+
+
+      A. 4π ⁄ 9 and 2π ⁄ 9                                         B. 2π ⁄ 3 and 2π ⁄ 9
+      C. 3π ⁄ 2 and 4π ⁄ 9                                         D. π ⁄ 9 and 4π ⁄ 9
+
+31. What is the fifth term of the sequence {2n + 4n − 5}∞
+                                                        n=0 ?      ​                                                     (1)
+
+      A. 27                                                        B. 17
+      C. 47                                                        D. 15
+
+32. Which one of the following numbers is the upper bounds of the sequence { 2n+1 ∞
+                                                                             n+1 }n=1 ?
+                                                                                          ​    ​
+                                                                                                                         (1)
+      A. 3/2                                                       B. 0
+      C. 1                                                         D. 4
+
+33. Let the sequence {a n } converges to 3 while {b n } converges to -1. Then the sequence {a n -b n } converges to      (1)
+      A. 1                                                         B. 4
+      C. 3                                                         D. 1/3
+
+34. Which of the following argument is valid?                                                                            (1)
+
+      A. p ∨ q, p ⇒ q ⊢ ¬q                                         B. p ⇒ q, q, r ⇒ p ⊢ r
+      C. p, p ⇒ q, r ∨ ¬q ⊢ p ∧ r                                  D. p ⇒ q, ¬r ∧ q ⊢ p ∨ r
+
+35. Which of the following assertions is true applying the Principle of Mathematical Induction?                          (1)
+      A. 1 + 2 + 22 + … + 2n = 2n+1 − 1                for n ≥ 0   B. n! ≥ 2n      for n ≥ 0
+      C. 2 + 3 + 4 + … + n = n(n+1)
+                                2   +1             ​   for n ≥ 2   D. 3 + 5 + 7 + … + (2n + 1) = n2          for n ≥ 1
+
+36. Which of the following is equal to ∫ 3cos3xdx?                                                                       (1)
+      A. 13 sin 3x + c
+             ​
+                                                                   B. sin 3x + c
+      C. sin x + c                                                 D. − sin x + c
+
+37. What is the area of the region bounded by the graph of f (x) = x2 − 4 and the x-axis in square units?                (1)
+
+      A. 16                                                        B. 32
+      C. 16/3                                                      D. 32/3
+
+38. Which of the following set of equations define the xz-plane?                                                         (1)
+      A. {(x,y,z)|x,y,z ∈ ℝ and x==9}                              B. {(x,y,z)|x,y,z ∈ ℝ and y=0}
+      C. {(x,y,z)|x,y,z ∈ ℝ and x=0}                               D. {(x,y,z)|x,y,z ∈ ℝ and z=0}
+39. Which of the following functions has a graph that completes one full cycle on −π, 11π
+                                                                                       4 ?​           ​   ​               (1)
+      A. f (x) = 3 sin(3x + π6 ) ​
+                                                                  B. f (x) = 3 sin( 43 x + π2 )
+                                                                                      ​           ​
+
+
+
+
+      C. f (x) = 2 sin( 23 x − π6 )
+                             ​       ​
+                                                                  D. f (x) = 2 sin(2x − π6 )  ​
+
+
+
+
+40. Let A be a square matrix of order n and let B be a matrix obtained by multiplying one row of A by 2 and C be a        (1)
+    matrix found by adding one row of A to another row of A. If det(A) = 10, what are det(B) and det(C)?
+      A. 20 and 10                                                B. 20 and 0
+      C. 10 and 20                                                D. 10 and 10
+
+41.                                  ⎧2x − y + 3z = 1
+      The solution set of the system ⎨ x + y + 3z = 5 is
+                                     ⎩ x − y + z = −1
+                                         ​            ​      ​                                                            (1)
+
+
+
+      A. {(−4 − 2k, k, 2 − k) : k ∈ R}                            B. {(k + 1, 2k, k − 1) : k ∈ R}
+      C. {(2 − 2k, 3 − k, k) : k ∈ R}                             D. {(k, k + 1, k − 1) : k ∈ R}
+
+42. Let $z1, z2, and z3$ be complex numbers. Then which of the following is NOT necessarily true?                         (1)
+      A. z1 − (z2 + z3) = (z1 − z2) − z3                          B. z1 − (z2 − z3) = (z1 − z2) − z3
+      C. (z1z2)z3 = (z2z1)z3                                      D. (z1z2)z3 = z1(z2z3)
+
+43. If a translation T takes a point (-1, 1) to a point (3, 2), then the image of the circle x2 + y 2 − 2x + 4y + 1 = 0   (1)
+    under T is
+      A. (x − 3)2 + (y − 3)2 = 4                                  B. (x − 2)2 + (y + 3)2 = 4
+      C. (x − 5)2 + (y + 1)2 = 4                                  D. (x + 3)2 + (y + 3)2 = 4
+
+44. Let u = (-1,6) and v = (2, 4) be position vectors. Then the vector 4u - 3v is                                         (1)
+      A. (-10,12)                                                 B. (-10,11)
+      C. (-4,24)                                                  D. (-15,18)
+
+45. Water is running into a canonical tank, which is pointed down at a constant rate of 6π cm³/sec. The cone has a        (1)
+    height of 10 cm and a base radius of 5 cm, then how fast is the water level rising when the water reaches 2 cm
+    deep?
+      A. π4 cm/sec
+             ​
+                                                                  B. 6 cm/sec
+      C. 4 cm/sec                                                 D. π6 cm/sec
+                                                                         ​
+
+
+
+
+46. Let F be the anti-derivative of f. Then which of the following is NOT true about F and f?                             (1)
+                                                                             ′
+      A. dx
+          d
+            ∫ F (x) dx = f (x)
+                 ​
+                                                                  B. F (x) = f (x)
+      C. ∫ F (x) dx = f (x) + c                                   D. ∫ dx
+                                                                        d
+                                                                          f (x) dx = f (x) + c
+                                                                                 ​
+
+
+
+
+47. Let f (x) = 1x and g(x) = 2 − 16 x3 be two functions. For what values of x do the graphs of f and g have
+                         ​
+
+
+
+
+                         ​
+                                             ​
+                                                                                                                          (1)
+    tangent lines of the same slope?
+      A.    3        ​
+
+
+
+                                                                  B. 1
+           2
+                     ​
+
+
+
+
+      C. 4                                                        D. 1/4
+
+48. What is the value of a number in the interval (0, 1) that satisfies the Mean Value Theorem for the function           (1)
+    f (x) = 3x2 − 5x + 1?
+      A. 1/2                                                      B. 3/5
+      C. 5/6                                                      D. 1
+                                                                         ′
+49. Let f (x) = 3x + 2x − sinx + ex . What is the value of f (0)?                                                 (1)
+
+    A. 2                                                                B. 1
+    C. -1                                                               D. 4
+                                                                                        ′                  ′
+50. Let f and g be differentiable functions, and h(x) = g(f (3x + 1)). If f (1) = f (1) = 2 and g (2) = 1, then   (1)
+                           ′
+    what is the value of h (0)?
+    A. 2                                                                B. 1
+    C. 6                                                                D. 4
+
+51. Which of the following describes the mechanical meaning of derivative?                                        (1)
+    A. Gradient of graphs of functions                                  B. Area under the curve
+    C. Instantaneous rate of change                                     D. Slope of tangent line
+
+52. Which of the following is true about the zero(s) of a function f(x)?                                          (1)
+
+    A. If f(a)=0, then x-a is a factor for f(x).
+    B. If f(a)=0, then (x-a)² is a factor of f(x).
+    C. If f(a)=0, then a is not necessarily in the domain.
+    D. If f(a)=0, then y=a is they-intercept.
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

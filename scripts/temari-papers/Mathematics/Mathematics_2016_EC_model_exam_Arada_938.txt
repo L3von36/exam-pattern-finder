@@ -1,0 +1,639 @@
+                                                                                        Temari.et
+                              Mathematics, 2016 EC, model exam, Arada
+                                                                      Grade 12 · Mathematics · 2016 E.C.
+
+Time allowed: 120 minutes                                                                        Questions: 62                                               Total marks: 62
+
+Name                                                                      Grade                                                 ID No.                Date
+
+1.   If x and y are composite natural numbers and z is a prime number, then which one of the following is never                                                           (1)
+     true?
+     A. x + y = z                                                                                              B. x + y = 2z
+     C. xz = y                                                                                                 D. xy = z 2
+                                                                                                  3
+2.   The simplified form of the expression ( 54 )3 ( 25 )−4 ÷ (                ​
+                                                                                                      5 6
+                                                                                                        ) is:
+                                                                                                           ​
+
+
+
+
+                                                                                                                                                                          (1)
+                                                                                                      2
+                                                                      ​        ​                           ​
+
+
+
+
+                                                                                                       ​
+
+
+
+
+     A. 52    ​
+                                                                                                        B. 25           ​
+
+
+
+
+     C.   1                                                                                                    D. 5
+          5   ​
+
+
+
+
+3.   To rationalize the denominator 3+ 2
+                                         which one of the following expression is used as the rationalizing factor?
+                                                               ​
+
+
+
+
+                                                                                                                                                                          (1)
+                                    4− 3
+                                                               ​
+
+
+
+
+                                                               ​
+
+
+
+
+     A. 3− 2      ​
+
+
+
+                                                                                                               B. 3− 2      ​
+
+
+
+
+          3− 2                                                                                                      4+ 3
+                  ​                                                                                                         ​
+
+
+
+
+                  ​                                                                                                         ​
+
+
+
+
+     C.   4+ 3    ​
+
+                                                                                                               D.     1
+          4+ 3                                                                                                      4+ 3
+                                                                                                                            ​
+
+                  ​
+
+
+
+
+                                                                                                                            ​
+                  ​
+
+
+
+
+                                                                               2
+4.   What is the value of x for 2 ( 243
+                                                    2x                   8 3
+                                                                   = 3 ( 27
+                                                                                       x−1
+                                                                                             ?
+                                    32 )                                    )                                                                                             (1)
+                                                                                   ​
+
+
+
+
+                                                ​                          ​
+
+
+
+
+     A. 13    ​
+                                                                                                               B. 43    ​
+
+
+
+
+     C.   2                                                                                                    D.   1
+          5   ​
+
+
+
+
+                                                                                                                    4   ​
+
+
+
+
+5.   Which one of the following systems of linear equation has infinitely many solutions?                                                                                 (1)
+     A. {3x + y = −1 − x − 1 y = 1                                                                             B. {x + y = 6 2x − 5y = 0
+                                    3                3
+                                        ​                ​ ​                                                                                  ​
+
+
+
+
+     C. {x + 3y = 2 2x − 4y = 1             ​
+                                                                                                               D. {x − 2y = 5 − 3x + 6y = 1       ​
+
+
+
+
+6.   What is the solution set of the inequality ∣3x + 6∣ − 2 ≥ 4?                                                                                                         (1)
+
+     A. (−∞, −4) ∪ (0, ∞)                                                                                      B. [−4, 0]
+     C. (−∞, −4] ∪ [0, ∞)                                                                                      D. (−4, 0)
+
+7.   The solution set of the inequality 3x2 + 2x − 1 < 0 is:                                                                                                              (1)
+     A. (−∞, −1) ∪ ( 13 , ∞)
+                          ​
+                                                                                                               B. (−1, 13 )     ​
+
+
+
+
+     C. ∅                                                                                                      D. x : x ∈ R
+
+8.   For any two non-empty sets A and B. If A ⊆ B , then which one of the following is always true?                                                                       (1)
+     A. A ∩ B = B                                                                                              B. A ∪ B = A
+     C. A ∩ B = A                                                                                              D. (A ∪ B) ∩ A = B
+
+9.   Which one of the following is Not true about the graph of the function f (x) = 2x2 − 8x + 3?                                                                         (1)
+     A. It's range is y : y ≥ −5.                                                                              B. It's vertex is (2, −5) .
+     C. It's axis of symmetry is x = 2.                                                                        D. It's maximum value is −5.
+10. If f (x) = 2x+4
+               x−1 . Then, which one of the following points is on the graph of f
+                    ​
+                                                                                  −1 (x)?                               (1)
+
+    A. (1, −5)                                                  B. (3, 5)
+    C. (0, −4)                                                  D. (2, 8)
+
+11. If the ratio of the areas of two similar triangls are 64cm2 and 81cm2 , then which one of the following is Not      (1)
+    true?
+    A. The ratio of their perimeter is 8 : 9.
+    B. The ratio of their sides is 8 : 9.
+    C. The ratio of their perimetr is 64 : 81 .
+    D. All the ratio of their corresponding sides are equal.
+
+12. If the angle of a sector at the center of a circle is 1800 with radius 4cm. Then, what is the area of the sector?   (1)
+    A. 8πcm2                                                    B. 4πcm2
+    C. 16πcm2                                                   D. 2πcm2
+
+13. Which one of the following is Not true about a parallelogram ?                                                      (1)
+
+    A. Parallelogram is a quadrilateral with opposite sides parallel.
+    B. The consecutive angles of a parallelogram are supplementary.
+    C. The diagonals of a parallelogram are equal.
+    D. The opposite angles of a parallelogram are congruent.
+
+14. If a regular 8 − sided polygon is inscribed in a circle of radius 2cm , then what is the area of the polygon in     (1)
+    cm2 ?
+    A. 32                                                       B. 32 2      ​
+
+
+
+
+    C. 8                                                        D. 8 2   ​
+
+
+
+
+15. The base of a regular pyramid is an equilateral triangle of side 8cm long. If the altitude of the pyramid is 9cm,   (1)
+    then what is the volume of the pyramid ?
+    A. 16 cm3                                                   B. 48cm3
+    C. 16 3cm3​
+                                                                D. 48 3 cm3  ​
+
+
+
+
+16. Let the radii of bases of a frustum of cone are 6cm and 3cm. If the slant height of a frustum of a cone is 10 cm,   (1)
+    then what is the total surface area of the frustum?
+    A. 90π cm2                                                  B. 45πcm2
+    C. 135πcm2                                                  D. 180π cm2
+
+17. Suppose the mid-point of a line segment is M (−2, 3). If one end point of the segment is P (4, −8), then what       (1)
+    is the coordinate of the other end-point?
+    A. (−4, 6)                                                  B. (3, −5)
+    C. (−8, 14)                                                 D. (6, 3)
+
+18. What is the area of the triangle in (sq.unit) formed by the line joining the vertex of the parabola x2 = 64y to     (1)
+    the end points of the latus rectum?
+    A. 64                                                       B. 128
+    C. 256                                                      D. 512
+19. The equation of an ellipse with center at (1,5) and vertices at (10,5) and (1,2) is:                                (1)
+     A. (x − 1)2 + 9(y − 5)2 = 1                                         B. (x − 1)2 + 9(y − 5)2 = 81
+     C. 9(x − 1)2 + (y − 5)2 = 1                                         D. 9(x − 1)2 + (y − 5)2 = 81
+
+20. If the standard deviation of x1 , x2 , x3 , … xn is 6. Then, what is the variance of 2x1 + 4, 2x2 + 4, 2x3 +
+                                     ​       ​           ​           ​                         ​        ​    ​          (1)
+    4, 2x1 + 4    ​
+
+
+
+
+     A. 16                                                               B. 144
+     C. 76                                                               D. 148
+
+21. The following is the distribution of the weight of 36 persons.                                                      (1)
+    Then, what is the 20th percentile (p20 ) of the measurement?
+                                                     ​
+
+
+
+
+    [Figure: A frequency distribution table with two rows:
+    Row 1: "Weight in kg" with intervals 40 - 49, 50 - 59, 60 - 69, 70 - 79.
+    Row 2: "Frequency" with values 6, 10, 17, 3 respectively.]
+     A. 50.7                                                             B. 50.4
+     C. 51.4                                                             D. 51.7
+
+22. Let a sample space be s = {w1 , w2 , w3 , w4 }. Which of the following assignment of probabilities to each
+                                         ​       ​           ​   ​
+                                                                                                                        (1)
+    outcome are valid?
+    [Figure: A table showing probability assignments for outcomes w_1, w_2, w_3, w_4 across five assignments P,
+    Q, R, S, T: - Assignment P: w_1 = 1/4, w_2 = 3/4, w_3 = 1/2, w_4 = -1/2 - Assignment Q: w_1 = 1/4, w_2 = 1/4, w_3
+    = 1/4, w_4 = 1/4 - Assignment R: w_1 = 0, w_2 = 1, w_3 = 0, w_4 = 0 - Assignment S: w_1 = 1/2, w_2 = 1/4, w_3 =
+    1/4, w_4 = 0 - Assignment T: w_1 = 1/2, w_2 = 3/2, w_3 = 1/4, w_4 = 1/3]
+     A. Q, R and T                                                       B. Q, R and S
+     C. Q, S and T                                                       D. P, S and T
+
+23. Given the data                                                                                                      (1)
+    Then, what is the mean deviation about the mode of the data set?
+    [Figure: A data table with two rows:
+    Row 1: "x" with values 2, 3, 4, 6.
+    Row 2: "f" with values 5, 4, 2, 1.]
+     A. 1                                                                B. 14    ​
+
+
+
+
+     C.   1                                                              D.   1
+          2                                                                   6
+              ​                                                                   ​
+
+
+
+
+24. The mean of 100 observation was calculated as 40 by a student who took mistake 40 instead of 90 for one             (1)
+    observation. Then, what is the correct mean?
+     A. 39.5                                                             B. 40.5
+     C. 41                                                               D. 41.5
+
+25. If the mean of the data 6,3,2,9, x, 9 is 5, then what is the mean deviation about the mean?                         (1)
+     A. 4                                                                B. 1
+     C. 2                                                                D. 3
+26. The coefficient of mean deviation about the median of the data set                                                           (1)
+    is:
+    [Figure: A table with two rows:
+    Row 1: "x" with values 1, 2, 3, 4.
+    Row 2: "f" with values 2, 4, 3, 1.]
+    A. 0.7                                                       B. 0.35
+    C. 0.6                                                       D. 0.45
+
+27. The median and the mean deviation about the median of gross incomes of four companies are given below:                       (1)
+    Then, which company income is most consistent?
+    [Figure: A table with three columns: Company, md(median), MD(md): - Company W: md(median) = 40,000,
+    MD(md) = 7,000 - Company X: md(median) = 30,000, MD(md) = 6,000 - Company Y: md(median) = 50,000,
+    MD(md) = 4,000 - Company Z: md(median) = 60,000, MD(md) = 8,000]
+    A. W                                                         B. X
+    C. Y                                                         D. Z
+
+28. Which one of the following is always true?                                                                                   (1)
+    A. If the mode, median and mean of a distribution are 4,5 and 6 respectively, then the distribution is negatively
+       skewed.
+    B. If the 1st , 2nd and 3rd quartiles of a distribution are 7,9 and 12 respectively, then the distribution is symmetrical.
+    C. If the mean, median and standard deviation of a distribution are 4,6 and 2 respectively, then the distribution is
+       skewed to the right.
+    D. If the distribution is negatively skewed, then the mean of the distribution is less than its second quartile.
+
+29. In Addis Ababa there are 100 secondary school with 100,000 grade 12 students in total. Suppose Addis Ababa (1)
+    Education Bureau has selected 1,000 students from them for survey purposes by collected students' roster from
+    all the schools and combined them into one. After assigning a new roll number to each students, the Bureau
+    selected those numbers of students 40,140,240,340,440, ... , then which sampling method is the Bureau used?
+    A. Simple random                                             B. Systematic
+    C. Cluster                                                   D. Stratified
+
+30. Let ABCD is a parallelogram and AC and BD be diagonals, then which one of the following is Not true?                         (1)
+
+    A. AB + BC = AC                                              B. AB = BC − BD
+    C. DC + AD = AC                                              D. AB − BC = DC
+
+31. When x3 + 3x2 − kx + 5 is divided by x + 2, the remainder is 7. Then, what is the value of k?                                (1)
+    A. 1                                                         B. −2
+    C. −1                                                        D. 2
+
+32. Which one of the following is true about polynomial function ?                                                               (1)
+    A. The domain of polynomial function is the set of positive real number
+    B. The graph of a polynomial function of degree n-has at most n-turning points.
+    C. The graph of every polynomial function crosses the y-axs.
+    D. The graph of a polynomial function of degree n-has at most n-1 zeros.
+                        x                   x
+33. Let f (x) = ( 32 ) and g(x) = ( 23 ) . Then, which one of the following is Not true about f (x)and g(x)?
+                    ​                   ​
+                                                                                                                                 (1)
+    A. If > 0, then f (x) < g(x) .                               B. if x = 0, then f (x) = g(x) .
+    C. If x < 0, then f (x) < g(x).                              D. If x > 0, then f (x) > g(x) .
+34. Which of the following is the solution set of the equation log3 x + log x 4x + log 1 x = 6?
+                                                                              ​                                    ​                   ​   (1)
+                                                                                                               ​
+
+                                                                                                                               3   ​
+
+
+
+
+      A. {2}                                                              B. {−2}
+      C. ∅                                                                D. {−2, 2}
+
+35. If tan(θ − 60∘ ) = cot 4θ. Then, what is the value of θ?                                                                               (1)
+      A. 60∘                                                              B. 40∘
+      C. 50∘                                                              D. 30∘
+                                                                                                           3
+36. 39. Which one of the following is Not true about the graph of f (x) = x4 −x3 ?                                                         (1)
+                                                                                                      x −x
+                                                                                                                       ​
+
+
+
+
+      A. The graph has a hole at point (1,2).
+      B. The graph intersects its horizontal asymptote at point (−1, 0).
+      C. The y-axis is the vertical asymptote of the graph.
+      D. The graph is symmetric with respect to the origin.
+
+37. 40. For any real number x and y which one of the following statement is true?                                                          (1)
+      A. (∀x )(∃y )(y 2 + x + 1 = 0)
+                  ​   ​
+                                                                          B. (∃x ∀y )(y 2 + x + 1 = 0)
+                                                                                      ​   ​
+
+
+
+
+              ​
+                          2
+      C. (∀y )(∃x )(y + x + 1 = 0)
+                      ​                                                   D. (∃y )(∀x )(y 2 + x + 1 = 0)
+                                                                                  ​               ​
+
+
+
+
+38. 41. If A is a 3 × 3 matrix and ∣A−1 ∣ = 3, then what is the ∣6AT A∣?                                                                   (1)
+      A. 72                                                               B. 36
+      C. 24                                                               D. 18
+
+39.                                   ⎧x + 2z = 4
+      42. For What value(s) of k does ⎨3x + 4y + 4z = 6 has a unique solution?
+                                      ⎩
+                                            ​                     ​
+                                                                                                                                           (1)
+                                       kx + 3y − z = 1
+      A. k = 4                                                            B. k = 14           ​
+
+
+
+
+      C. k =
+           4                                                                   14
+                                                                          D. k =              ​
+
+
+
+
+40. 43. Let Z be a complex number and a, b ∈ R . Then, which one of the following is Not true?                                             (1)
+      A. z.zˉ = ∣z∣2
+      B. If Z = a + bi, \emph{then} z + zˉ = 2a
+      C. If z = −bi − a, \emph{then} zˉ = bi − a
+      D. If z =
+               0, \emph{then} it is multiplicative inverse is (z)z 2 .
+                                                                      ​
+
+
+
+
+41. 44. If the translation T takes the point (3,1) to the point (4,0). Then, what is the image of the circle x2 + y 2 = 2                  (1)
+    under the translation T?
+      A. x2 − 2x + y 2 + 2y = 0                                           B. x2 + 2x + y 2 − 2y = 0
+      C. x2 + 2x + y 2 + 2y = 0                                           D. x2 − 2x + y 2 − 2y = 0
+
+42. 45. What is the amplitude and period of the graph of f (x) = −4 sin ( 14 x) cos ( 14 x)?           ​                   ​               (1)
+      A. 4, π                                                             B. 2, 4π
+      C. 4, 2π                                                            D. 2, 2π
+43. 46. A patrol on a sea sailed from it's station 4 2km to the south and changed it's course and sailed 7km in the
+                                                       ​                                                                   (1)
+    direction of 450 North-west. Then, what is the shortest(straight) distance the boat should travel in order to
+    return to its station?
+    A. 5 2km ​
+                                                                   B. 5km
+    C. (5 + 2)km  ​                                                D. 7km
+                                                                                              ∞
+44. Which one of the following is the fourth term of the sequence {cos ( nπ
+                                                                          3 )}n=0 ?   ​           ​                        (1)
+    A. 0                                                           B. 1
+    C. -\frac{1}{2}                                                D. -1
+
+45. If there are 8 arithmetic means between 26 and −1 with 26 being the first term. Then, what is the common               (1)
+    difference?
+    A. -3                                                          B. 2
+    C. -2                                                          D. 3
+
+46. If the second and sixth terms of a geometric progression are 4 and 14 respectively, then what is the sum of the
+                                                                                  ​                                        (1)
+    first eight terms Of the sequence?
+    A. \frac{255}{16}                                              B. \frac{127}{8}
+    C. \frac{63}{4}                                                D. \frac{129}{32}
+
+47. What is the sum of the of the infinite series 12 − 25 + 18 − 25
+                                                           ​   ​
+                                                                 2    1
+                                                                    + 32
+                                                                      ​
+                                                                            2
+                                                                         − 125​+ ⋯?       ​                                (1)
+
+    A. \frac{7}{10}                                                B. \frac{1}{6}
+    C. \frac{3}{10}                                                D. \frac{7}{6}
+
+48. A contest offers a total of 10 prizes. The first prize is worth Birr 20,000 and each consecutive prize is worth Birr   (1)
+    1500 less than the next higher prize. What is the total value of the prizes in Birr?
+    A. 135,000                                                     B. 132,500
+    C. 142,300                                                     D. 141,500
+
+49. A ball is dropped from the height of 16m to the horizontal floor. In each bounce it rebounds 60% Of the                (1)
+    distance it fell. What maximum possible(total) vertical distance that could be covered by the ball ? (Assume that
+    the ball never comes to rest).
+    A. 240m                                                        B. 120m
+    C. 64m                                                         D. 80m
+
+50. Which one of the following series is convergent?                                                                       (1)
+
+    A. \sum_{n=1}^{\infty}\left(\frac{1}{2}\right)^{-n}
+    B. \sum_{n=1}^{\infty}(-2)^n
+    C. \sum_{n=1}^{\infty}2^{-n}
+    D. \sum_{n=1}^{\infty}(\sqrt{2})^n
+
+51. What is the absolute maximum value of the function f (x) = x3 − 12x + 4 on [−3, 3]?                                    (1)
+    A. 20                                                          B. 13
+    C. 24                                                          D. 18
+
+52. In which interval that the graph of the function f (x) = x2x+1 is increasing ?
+                                                                          ​                                                (1)
+
+    A. (-\infty,-1] \cup [1,\infty)                                B. [-1,1]
+    C. (-\infty,1]                                                 D. [1,\infty)
+53. The radius of a spherical gas balloon is increasing at a rate of 2cm/sec. At what rate it's surface area increasing   (1)
+    when the radius is 3cm ?
+      A. 52\pi\text{ }cm^2/sec                                   B. 48\pi\text{ }cm^2/sec
+      C. 32\pi\text{ }cm^2/sec                                   D. 16\pi\text{ }cm^2/sec
+
+54. A rectangular field of 1600m2 is to be fenced off. Two opposite sides will fencing costing 2 Birr per meter and       (1)
+    the remaining sides will use fencing costing 8 Birr per meter. How much is the least cost of fencing it in Birr?
+      A. 320                                                     B. 420
+      C. 560                                                     D. 640
+
+55. ∫ (5x4 − 1 ) dx is equal to:                                                                                          (1)
+                        x
+                                ​
+
+
+
+
+                                ​
+
+
+
+
+      A. 15 x5 − 2 x + c, c ∈ R
+                ​                   ​
+                                                                 B. x5 − 2 x + c, c ∈ R
+                                                                                   ​
+
+
+
+
+      C. x5 − 4 x + c, c ∈ R    ​
+                                                                 D. 45 x5 − 2 x + c, c ∈ R
+                                                                           ​           ​
+
+
+
+
+56. ∫13 (3x + x12 ) dx is equal to:
+           ​            ​                                                                                                 (1)
+      A.       35                                                B.       38
+               3    ​
+
+
+
+
+                                                                           3   ​
+
+
+
+
+      C.       34                                                D.       37
+                3   ​
+
+
+
+
+                                                                          3    ​
+
+
+
+
+57. What is the area of the region bounded by the graph of f (x) = −x2 + 4x − 3 and the x-axis from x = 0 and             (1)
+    x = 3in square units?
+      A. 83     ​
+                                                                 B. 73     ​
+
+
+
+
+      C.       10                                                D.       11
+               3    ​
+
+
+
+                                                                          3    ​
+
+
+
+
+58.                                                     ⎧2x − y ≤ 3
+      The solution region of the system of inequalities ⎨x > 0      is found in quadrant _______
+                                                        ⎩
+                                                           ​                   ​                                          (1)
+                                                         y<0
+      A. One                                                     B. Two
+      C. Three                                                   D. four
+
+59.
+      The solution set of the system of inequalities {
+                                                         2x − y ≥ 4
+                                                                    is                                                    (1)
+                                                         x+y ≥2
+                                                                      ​
+
+
+
+
+      A. {(x, y) : x ≥ 2 and − x + 2 ≤ y ≤ 2x − 4}               B. {(x, y) : x ≥ 0 and 2 − x ≤ y ≤ 2x − 4}
+      C. {(x, y) : x ≥ 2 and y ≥ 0}                              D. {(x, y) : x ≥ 0 and 2x − 4 ≤ y ≤ 2 − x}
+
+60. The minimum value of the objective function z = 3x + 5y                                                               (1)
+               ⎧x + 3y ≥ 3
+    Subject to ⎨x + y ≥ 2 is:
+               ⎩x ≥ 0, y ≥ 0
+                            ​           ​
+
+
+
+
+      A. 5                                                       B. 6
+      C. 7                                                       D. 8
+
+61. The corner points of the feasible region determined by the following systems of linear inequalities y ≥ x, x +        (1)
+    3y ≤ 60, x + y ≥ 10, x ≥ 0, y ≥ 0 are (0, 20), (15, 15)(0, 10) and (5, 5). Let z = 4ax + 2by , where
+    a, b > 0. Condition on a and b so that the maximum of z occurs at both (15, 15) and (0, 20) is:
+      A. b = 6a                                                  B. a = 6b
+      C. b = 2a                                                  D. a = 2b
+62. A manufacturer produces two types of nails, N1 and N2 . It takes 1 hour of work on machine A and 3 hours on
+                                                              ​         ​                                           (1)
+    machine B to produce a package of N1 . It takes 3 hours of work on machine A and 1 hour on machine B to
+                                                   ​
+
+
+
+
+    produce a package of N2 . He earns a profit of Birr 17.50 per package on N1 and Birr 7.00 per package on N2 .
+                             ​                                                                   ​            ​
+
+
+
+
+    How many packages of N1 and N2 , respectively should be produced each day so as to maximize his profit, if he
+                                 ​           ​
+
+
+
+
+    operates his machines for at most 12 hours a day?
+    A. 4 and 4                                                              B. 3 and 3
+    C. 3 and 4                                                              D. 4 and 3
+
+                                                   — E N D O F E X A M I N AT I O N —
+                                     Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

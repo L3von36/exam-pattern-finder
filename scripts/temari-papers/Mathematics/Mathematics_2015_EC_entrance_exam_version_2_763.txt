@@ -1,0 +1,256 @@
+                                                         Temari.et
+                           Mathematics, 2015 EC, entrance exam, version 2
+                                              Grade 12 · Mathematics · 2015 E.C.
+
+Time allowed: 120 minutes                                        Questions: 51                                     Total marks: 51
+
+Name                                             Grade                           ID No.                     Date
+
+1.   If f (x) = x+2
+                 x+2
+                     and g(x) = x1 − 2 then what is the value of f (g(x)) for all x > 0 ?
+                       ​
+
+
+
+
+                       ​             ​                                                                                          (1)
+
+     A. √x -2                                                       B. √x +2
+     C. √x                                                          D. 1/√x
+
+2.   Which of the following is Not the property of f (x) = x2/5 ?                                                               (1)
+     A. f(xy) = f(x)f(y)
+     B. decreasing on (-∞,0]
+     C. the range is real number
+     D. the graph is symmetric with respect to the y-axis
+                                                             2
+3.                                                   5x −8x+5
+     What is the partial fraction decomposition of (x−2)(x 2 −x+1) ? ​                                                          (1)
+
+     A. 2/(x-2)+(3x-1)/(x^2-x+1)                                    B. 3/(x-2)+(2x-1)/(x^2-x+1)
+     C. 1/(x-2)+(4x-3)/(x^2-x+1)                                    D. 4/(x-2)+(x+1)/(x^2-x+1)
+
+4.   Suppose f (x) = x(xQ(x)
+                         2 −1) where Q(x) is a quadratic function. Which one of the following is necessarily true
+                                ​                                                                                               (1)
+     about the graph f ?
+     A. x=0, x=1 and x=-1 are vertical asymptote of the graph f
+     B. The graph of f does not intersect with its horizontal asymptote.
+     C. The vertical asymptote of the graph of f is only x=-1, if Q(x)=x^2-x
+     D. The vertical asymptote of the graph of f is only x=1, if Q(x)=2x^2
+
+5.   Given line 4y = 3x + 24 and another line ℓ parallel to this line at a distance of 4 units from it. A possible              (1)
+     equation for ℓ is
+     A. y = (3/4)x                                                  B. y = (3/4)x+1
+     C. y = (3/4)x+6                                                D. y = (3/4)x-6
+                                                         2
+6.                                               2
+     Suppose an eccentricity of the hyperbola xa2 − yb2 = 1 is reciprocal to that of the eccentricity of the ellipse
+                                                     ​       ​
+                                                                                                                                (1)
+     x2 + 4y 2 = 4 if the hyperbola passes through a focus of the ellipse, what is the equation of the hyperbola?
+     A. x^2-2y^2=2                                                  B. x^2-3y^2=3
+     C. x^2-y^2=1                                                   D. 2x^2-y^2=2
+
+7.   Which of the following is NOT true about a parabola y 2 + 2x − 4y + 6 = 0?                                                 (1)
+     A. It opens to the left                                        B. Its vertex is (-1, 2)
+     C. Its focus is (3/2, 2)                                       D. Its directrix is the line x = -1/2
+
+8.   The distance from the point P(3,4) to the line L with equation: 3x+4y=5 is                                                 (1)
+     A. 6 units                                                     B. 7 units
+     C. 4 units                                                     D. 5 units
+9.   What is the locus of all points in the plane in which the difference of the distances from two fixed points is       (1)
+     constant?
+     A. Ellipse                                                 B. Circle
+     C. Hyperbola                                               D. Parabola
+
+10. Let p and q be propositions. Which of the following compound statement is a tautology?                                (1)
+     A. (p ∧ q) ⇔ p                                             B. (p ⇒ q) ⇔ (¬p ∨ q)
+     C. (p ∨ q) ⇔ p                                             D. (p ⇒ q) ⇔ q
+
+11. If p ⇒ q is false, then which of the following compound statement is true?                                            (1)
+
+     A. p ∧ q                                                   B. p ⇔ q
+     C. p ∨ q                                                   D. (p ∨ q) ⇒ q
+
+12. Which of the following arguments is invalid logical argument?                                                         (1)
+     A. p ∧ ¬q, p, r ⇒ q ⊢ ¬r                                   B. p ∨ r, p ∧ q ⊢ p ⇒ ¬q
+     C. p ⇒ q, ¬r ⇒ ¬q ⊢ ¬p ∨ r                                 D. ¬p ∨ q, ¬q ⊢ ¬q
+
+13. Which of the following is the inverse of; "If wages increase, then inflation decreases"?                              (1)
+     A. If inflation decreases, then wage increase.
+     B. If wages decreases, then inflation increases.
+     C. If wages decreases, then inflation decreases.
+     D. If wages increase, then inflation increases.
+
+14. What is the odds in favor of getting exactly two heads when three coins are tossed?                                   (1)
+     A. 3/8                                                     B. 5/8
+     C. 5/3                                                     D. 3/5
+
+15. From a box containing 2 white and 6 green balls, a ball is drawn at random. The probability of not a green ball is:   (1)
+     A. 1/4                                                     B. 3/4
+     C. 1/3                                                     D. 2/3
+
+16. How many three digit number can be formed from the digits 2,5,6,7 and 9 less than 600, if digits is used once         (1)
+    only?
+     A. 24                                                      B. 40
+     C. 125                                                     D. 50
+
+17. In a random arrangement of the word "SOCIETY", what is the total number of words in which all the three vowels (1)
+    come together?
+     A. 120                                                     B. 720
+     C. 420                                                     D. 840
+
+18. Which of the following is the constant term of (x^2 - 1/(2x^6))^8?                                                    (1)
+     A. 28                                                      B. 7
+     C. -7                                                      D. -28
+19. From the above data (marks distribution), if students in the top 8% are to be awarded a certificate, what is the   (1)
+    minimum mark for a certificate? (Data: class 10-14 (15), 15-19 (23), 20-29 (46), 30-39 (16))
+     A. 34.5                                                         B. 30.5
+     C. 32                                                           D. 33
+
+20. A group of 100 items have a mean of 62. If the mean of 40 of these items is 55, what is the mean of the            (1)
+    remaining items?
+     A. 66.67                                                        B. 69.00
+     C. 65.00                                                        D. 64.55
+
+21. If [[1-x,0],[1,2y]] + [[y-1,4],[2,1-3x]] = [[0,4],[3,5]], then x and y respectively?                               (1)
+     A. -2 and 2                                                     B. 1 and -1
+     C. 0 and 0                                                      D. -4 and -4
+
+22. If A is a square matrix of order 3 and det(A)=5, then what is the value of det(A adj(A))?                          (1)
+
+     A. 125                                                          B. 25
+     C. 5                                                            D. 3
+
+23. For any n×n square matrix A, which of the following is true?                                                       (1)
+     A. det(A) = -det(A^T)
+     B. If k is scalar, det(kA) = k^n det(A)
+     C. If B is obtained from A by interchanging two rows, then det(A)=det(B)
+     D. If A is invertible, then det(A)=det(A^{-1})
+
+24. For what value of x does ((1+i)/(1-i))^x = 1?                                                                      (1)
+
+     A. x=2n+1                                                       B. x=2n
+     C. x=4n                                                         D. x=4n+1
+
+25. If the real part of (z+2)/(z-1) is 4, then the locus of z is:                                                      (1)
+     A. Circle                                                       B. Straight line
+     C. Parabola                                                     D. Hyperbola
+
+26. If z = (2-2√3 i)/(1+i), then the polar representation is:                                                          (1)
+     A. 2√2(cos(-105°)+i sin(-105°))                                 B. 4(cos(-105°)+i sin(-105°))
+     C. 2√2(cos15°+i sin15°)                                         D. 4(cos75°+i sin75°)
+
+27. If z1 = (2-i)/(1+i) and z2 = (1+i)/(1-i), then z1 - 2z2 = ?                                                        (1)
+     A. 1-7i                                                         B. (1-7i)/2
+     C. (1+7i)/2                                                     D. 1-7i
+
+28. The 15th term of the sequence {0, -3, -8, -15, ...} is                                                             (1)
+
+     A. -245                                                         B. -255
+     C. -224                                                         D. -242
+
+29. The sum of the first four terms of an AP is 56 and sum of last four terms is 112. First term 11, find number of    (1)
+    terms.
+     A. 10                                                           B. 18
+     C. 12                                                           D. 11
+30. A ball is dropped from 10m, rebounds 50% each time. Total vertical distance?            (1)
+     A. 20m                                                         B. 40m
+     C. 45m                                                         D. 30m
+
+31. Sum of series Σ_{n=1}^{30} (-1)^n (1/n + 1/(n+1)) is:                                   (1)
+
+     A. -30/31                                                      B. 29/30
+     C. -29/30                                                      D. 30/31
+
+32. Third term of GP is 4/9, sum to infinity is 3. Find first term.                         (1)
+     A. 1/2                                                         B. 2/3
+     C. 1/3                                                         D. 1
+
+33. lim_{n→∞} (1^2+2^2+...+n^2)/((n^2-1)(n+1)) = ?                                          (1)
+     A. 0                                                           B. 1/2
+     C. 1/3                                                         D. does not exist
+
+34. lim_{x→1/2} (2x-1)/(1-∛(2x)) = ?                                                        (1)
+     A. 1                                                           B. 3
+     C. -3                                                          D. -1.5
+
+35. Which statement is NOT true?                                                            (1)
+
+     A. A null sequence has limit 0
+     B. Increasing bounded above sequence converges to lub
+     C. Decreasing bounded below sequence converges to glb
+     D. Every bounded sequence is convergent
+
+36. Let f(x) = { a sin x/(x-|x|) for x<0, e^{-x} for x≥0 }. If f continuous at 0, find a.   (1)
+     A. 4                                                           B. -4
+     C. 1/2                                                         D. 2
+
+37. lim_{x→∞} (√(x^2+2x) - x) = ?                                                           (1)
+
+     A. 0                                                           B. 1
+     C. ∞                                                           D. does not exist
+
+38. lim_{x→0} (2x+tan x)/(x sec x) = ?                                                      (1)
+     A. 2                                                           B. 0
+     C. 1                                                           D. 3
+
+39. lim_{x→∞} ((x+1)/x)^{2x+4} = ?                                                          (1)
+     A. e                                                           B. e^2
+     C. e^4                                                         D. ∞
+
+40. If f(x)=x^2+2 ln x^2, then lim_{h→0} (f(1+h)-f(1))/h = ?                                (1)
+     A. 2                                                           B. 6
+     C. 5                                                           D. 0
+41. If f(x)=π^3, then f'(2)=?                                                                                 (1)
+     A. 3π^2                                                             B. 0
+     C. 12                                                               D. 1
+
+42. If y=e^{2x}+x-3 cos x, then d²y/dx² = ?                                                                   (1)
+
+     A. 4e^{2x}+3 cos x                                                  B. 4e^{2x}-3 cos x
+     C. e^{2x}+1+3 sin x                                                 D. e^{2x}+1-3 sin x
+
+43. nth derivative of f(x)=e^{3x+1} is:                                                                       (1)
+     A. 3^{n-1}e^{3x+1}                                                  B. 3^{n+1}e^{3x+1}
+     C. 3^n e^{3x+1}                                                     D. e^{3x+1}
+
+44. Solution set of sin 2x - sin x = 0 in [0,2π]?                                                             (1)
+     A. {0, π/3, π, 5π/3, 2π}                                            B. {0, π/3, π, 5π/3}
+     C. {0, π/3, 5π/3, 2π}                                               D. {0, π/3, 5π/3}
+
+45. If sin(α+θ)=12/13 and sin θ=4/5, then sin α = ?                                                           (1)
+     A. 16/65                                                            B. 1/5
+     C. 56/45                                                            D. 16/45
+
+46. Which is true about f(x)=-3 cos(x/2)?                                                                     (1)
+
+     A. Amplitude is -3                                                  B. Range is [-1,1]
+     C. 5π is a zero                                                     D. f(-x) = -f(x)
+
+47. Angle of elevation 45°, distance 25m from base. Height?                                                   (1)
+     A. 25 m                                                             B. 50/√2 m
+     C. 50 m                                                             D. 25/√2 m
+
+48. Which is NOT a correct identity?                                                                          (1)
+     A. sin x cos^2 x - sin x = - sin^3 x                                B. (cos x tan x - sin x)/cot x = 0
+     C. sin^4 x - cos^4 x = sin^2 x - cos^2 x                            D. sin x/(1+cos x) = sec x - tan x
+
+49. If u=-i+2j, v=-3i+j, w=-3j, find cosine of angle between u+w and v.                                       (1)
+     A. 1/√5                                                             B. 1/2
+     C. 4/√20                                                            D. 0
+
+50. Given a=i-j, b=2i-3j, find unit vector in direction of a-b.                                               (1)
+
+     A. (1/5)i - (2/5)j                                                  B. -(1/√5)i + (2/√5)j
+     C. (1/√5)i - (2/√5)j                                                D. -(1/5)i + (2/5)j
+
+51. Let a = -2i+2j+mj and b=3i+6j. For what m are they perpendicular?                                         (1)
+     A. 1                                                                B. 2
+     C. 0                                                                D. -1
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

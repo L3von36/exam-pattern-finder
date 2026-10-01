@@ -1,0 +1,402 @@
+                                                        Temari.et
+                Chemistry, 2015 EC, natural science, entrance exam, round 1
+                                              Grade 12 · Chemistry · 2015 E.C.
+
+Time allowed: 120 minutes                                   Questions: 71                                   Total marks: 71
+
+Name                                            Grade                       ID No.                  Date
+
+1.   In a kinetic experiment, a student placed crystals of iodine in a closed reaction vessel, introduced a given        (1)
+     quantity of hydrogen gas, and collected data to calculate the rate of formation of hydrogen iodide. What would
+     be the effect obtained on the rate of the reaction, if the student takes more amount of iodine from that used in
+     the first experiment?
+     A. It speeds up the rate of the reaction.
+     B. It lowers the rate of the reaction.
+     C. The formation of hydrogen iodide will be decreased.
+     D. The rate of the reaction will be constant.
+
+2.   Which of the following CORRECTLY relates the vapor pressure of a liquid with its boiling point? Boiling point is    (1)
+     A. the temperature at which all the three physical state co-exist.
+     B. the temperature at which the vapor pressure becomes equal to the external pressure.
+     C. the temperature at which molecules present in the vapor phase go back to the liquid state.
+     D. the temperature at which the kinetic energy of molecules is much less than the intermolecular force.
+
+3.   Consider this equilibrium system: CO (g) + Fe 3 O 4 (s) ⇌ CO 2 (g) + 3FeO(s) Which of the following disturbances    (1)
+     shift the equilibrium position to the right?
+     A. Removing CO 2 (g)                                       B. Removing CO (g)
+     C. Removing FeO (s)                                        D. Adding Fe 3 O 4 (s)
+
+4.   Which one of the following resulted from interaction of the atomic orbitals of bonding atoms to produce new         (1)
+     electron distribution associated with the entire molecule?
+     A. Hybrid orbital                                          B. Molecular orbital
+     C. Electron orbit                                          D. Bohr orbit
+
+5.   Which type of organic substances would be produced by heating a mixture of a carboxylic acid and an alcohol in (1)
+     the presence of H 2 SO 4 ?
+     A. Ketones                                                 B. Aldehydes
+     C. Esters                                                  D. Ethers
+
+6.   Which one of the following is the reducing agent in the following reaction? 8NH 3 (g) + 6NO 2 (g) → 7N 2 (g) +      (1)
+     12H 2 O (l)
+     A. NO 2                                                    B. NH 3
+     C. H 2 O                                                   D. N 2
+
+7.   Carbon forms two stable compounds with oxygen, namely, carbon monoxide and carbon dioxide. For a fixed              (1)
+     mass of carbon, the ratio of oxygen in carbon monoxide to oxygen in carbon dioxide is 1:2. This result is
+     consistent with the law of
+     A. definite proportion                                     B. conservation of mass
+     C. constant composition                                    D. multiple proportion
+8.   When a system at equilibrium is disturbed by a change of variable, the system shifts the equilibrium position in a     (1)
+     way that tends to counteract this change of variable. This is a statement for
+     A. Pauli's exclusion principle                              B. Aufbau principle
+     C. Heisenberg uncertainty principle                         D. Le Chatelier Principle
+
+9.   The pH of a 0.1 M solution of formic acid (HCOOH) is 3. What is the Ka of the acid?                                    (1)
+     A. 1.01 x 10 -5                                             B. 1.01 x 10 -7
+     C. 9.99 x 10 -4                                             D. 9.99 x 10 -5
+
+10. A system does 15 J of work and no other changes take place. Which of the following function has fallen by 15            (1)
+    J?
+     A. Internal energy                                          B. Specific heat
+     C. Enthalpy                                                 D. Entropy
+
+11. Which one of the following gas laws states the volume of a fixed amount of gas maintained at constant pressure (1)
+    is directly proportional to the absolute temperature of the gas?
+     A. Charles' law                                             B. Boyle's law
+     C. Avogadro's law                                           D. Combined gas law
+
+12. Which of the following is CORRECTLY stated about the spontaneity of a reaction?                                         (1)
+
+     A. For an endothermic reaction with negative reaction entropy, the reaction is spontaneous at all temperature.
+     B. For an exothermic reaction with positive reaction entropy, the reaction is non-spontaneous at all temperature.
+     C. For an endothermic reaction with positive reaction entropy, the reaction is non-spontaneous at low temperature.
+     D. For an exothermic reaction with negative reaction entropy, the reaction is spontaneous at high temperature.
+
+13. In thermodynamics: solutions in a beaker, a gas in a cylinder, a reaction vessel, a biological cell are examples of     (1)
+    a
+     A. thermodynamic variables                                  B. state function
+     C. path function                                            D. thermodynamic system
+
+14. Given the following: bond energies (kJ/mol) H-H 436 N-N 193 N=N 409 N≡N 942 and the enthalpy for the                    (1)
+    reaction 1 / 2 N 2 (g) + 3 / 2 H 2 (g) →NH 3 (g); ΔH=-45 kJ/mol What is the bond energy for NH 3 ?
+     A. 1125                                                     B. 1170
+     C. 960                                                      D. 1080
+
+15. The rate law for: (CH 3 )-C-Br (aq) + H 2 O (l) → (CH 3 )-C-OH (aq) + H + + Br¯ (aq) is rate= k [(CH 3 )-C-Br (aq) + H (1)
+    2 O (l)]. The accepted mechanism for the reaction is: I. (CH 3 )-C-Br(aq) → (CH 3 )-C¯(aq) + Br¯(aq) [slow] II. (CH 3
+    )-C¯(aq) + H 2 O(l) → (CH 3 )-C-OH¯(aq) [fast] III. (CH 3 )-C-OH¯(aq) → (CH 3 )-C-OH(aq) + H¯ [fast] Why DOES NOT
+    H 2 O appear in the rate law? Because
+     A. water is a catalyst in the reaction.
+     B. water is an intermediate species.
+     C. water exists in the liquid state in the reaction.
+     D. water is missing in the rate determining step.
+16. The rate law for this reaction CO (g) + NO 2 (g) → CO 2 (g) + NO (g) is rate = k [NO 2 ] p [CO] q . Which one of the     (1)
+    following could be a plausible mechanism for the reaction?
+    A. NO 2 (g) + NO 2 (g) -> NO 3 (g) + NO(g) [slow] NO 3 (g) + CO(g) -> NO 2 (g) + CO 2 (g) [fast]
+    B. NO 3 (g) + NO(g) -> NO 2 (g) + NO 2 (g) [slow] NO 2 (g) + CO 2 (g) -> NO 3 (g) + CO(g) [fast]
+    C. NO 2 (g) + NO(g) -> NO 3 (g) + NO 2 (g) [slow] NO 3 (g) + CO(g) -> NO 2 (g) + CO 2 (g) [fast]
+    D. NO 2 (g) + NO 2 (g) -> NO 3 (g) + NO(g) [fast] NO 3 (g) + CO(g) -> NO 2 (g) + CO 2 (g) [slow]
+
+17. The speed with which a solute goes into solution is                                                                      (1)
+    A. degree of solvation                                       B. heat of solution
+    C. rate of dissolution                                       D. extent of dissolution
+
+18. Which one of the following explains how 2 L of 1 M NaOH aqueous stock solution is converted into a 0.25 M                (1)
+    NaOH solution?
+    A. Adding 6 L water to the stock solution
+    B. Adding 8 L water to the stock solution
+    C. Evaporating 0.25 L of water from the stock solution
+    D. Evaporating 1 L of water from the stock solution
+
+19. Which one of the following IS TRUE about isotopes?                                                                       (1)
+
+    A. Isotopes of an element are atoms that have different number of electrons and protons.
+    B. Isotopes of an element are identical in mass number.
+    C. Isotopes of the same elements contain the same number of neutrons.
+    D. Isotopes of an element have the same chemical properties.
+
+20. Which one of the following describes the quantum mechanical model?                                                       (1)
+    A. The locations of electrons in an atom are described in terms of probability.
+    B. An atom is represented by a solid indestructible sphere.
+    C. An atom is a sphere with a positively charged matter, in which electrons are embedded.
+    D. Electrons moved around the nucleus of an atom in circular orbits.
+
+21. Which one of the following is an ionic compound?                                                                         (1)
+    A. CaCl 2                                                    B. CO 2
+    C. PCl 3                                                     D. H 2 O 3
+
+22. An element is located in Group VIIA and 3 rd period of the modern periodic table. On the basis of this the               (1)
+    element:
+    A. generally forms an ion with -2 charges.                   B. has very low ionization energy.
+    C. forms an acidic oxide.                                    D. has extremely low electron affinity.
+
+23. Which of the properties of solvents WOULD NOT be affected by the formation of a solution with a non-volatile             (1)
+    solute?
+    A. Boiling Point                                             B. Chemical potential
+    C. Chemical identity                                         D. Freezing Point
+
+24. The partial pressure of acetylene, C 2 H 2 , in a container is 10 atm at 25°C. What is the solubility in molarity of C   (1)
+    2 H 2 , assume that C 2 H 2 obeys Henry's law? (K H = 1.04 mol/L atm)
+    A. 9.62                                                      B. 0.104
+    C. 104                                                       D. 10.4
+25. What is the normality of a solution that contains 19.6 g of H 2 SO 4 in 20 mL of the solution?                       (1)
+    A. 0.02                                                    B. 0.01
+    C. 20                                                      D. 10
+
+26. Which one of the following illustrates an extensive property?                                                        (1)
+
+    A. The electrode potential at standard condition for the half-reaction 2Cu 2+ + 4e − →2Cu is the same as for Cu 2+
+       + 2e − →Cu.
+    B. If a system is divided into parts and it is found that the property of the composite system has a value that is the
+       sum of the values of the property of all the parts.
+    C. Doubling the volume of a sample also doubles the mass; so the ratio of mass to volume remains the same.
+    D. If water in two beakers at the same temperature are mixed to make a single quantity of water and the
+       temperature of the combined quantity of water is the same as it was in the two separate beakers.
+
+27. The point in a titration at which the number of moles of OH - ions added to a solution is equal to the number of     (1)
+    moles of H + ions originally present is
+    A. Zero point                                              B. End point
+    C. Triple point                                            D. Equivalence point
+
+28. Which one of the following is TRUE about the electrolysis of a molten hypothetical electrolyte, MX?                  (1)
+
+    A. X is produced at the negative electrode.
+    B. M is produced at the anode.
+    C. Electrons are not transferred from one species to the other.
+    D. The overall reaction is redox reaction.
+
+29. During the extraction of an unknown metal, the metallic discharge was fused with NaOH in air and then              (1)
+    dissolved in water to obtain the soluble unknown metal containing species. Reduction with carbon is followed as
+    the solution is treated with HCl. Finally the obtained oxide is reduced to its metallic form by aluminum. The most
+    probable unknown metal would be
+    A. Ca                                                      B. Zn
+    C. Cr                                                      D. Pb
+
+30. Why tin does NOT react with cold water but calcium reacts with cold water quite readily?                             (1)
+    A. Due to its less reactive nature.
+    B. Due to the formation of a thin oxide layer.
+    C. Due to its physical state.
+    D. Due to the pH of water.
+
+31. Why is vulcanization performed in natural rubber?                                                                    (1)
+
+    A. To convert the monomer unit in natural rubber in to polymer.
+    B. To establish cross-links between polymer chain in the natural rubber.
+    C. To decrease the number of monomer unit in the natural rubber.
+    D. To increase the number of monomer unit in the natural rubber.
+
+32. Which one of the following explains the determination of the cell potential of Zn-Cu cell using voltmeter?           (1)
+    A. In the Cu half-cell, Cu metal will be dipped in ZnSO4 solution.
+    B. In the Zn half-cell, Zn metal will be dipped in CuSO4 solution.
+    C. Each U-tube served as a salt bridge that can be filled with saturated KCl.
+    D. After the experiment the mass of zinc is increased.
+33. Which one of the following is an example of molecular crystals?                                                       (1)
+     A. Diamond                                                  B. Sodium Chloride
+     C. Solid carbon dioxide                                     D. Magnesium
+
+34. Which one of the following COULD NOT be considered as factor influencing the rate of chemical reaction?               (1)
+
+     A. Presence of catalyst                                     B. Surface area of reactants
+     C. The rate constant of the reaction                        D. Temperature of reactants
+
+35. In which of the following order of a reaction, a plot of ln [A] t versus time is a straight line whose slope is -k?   (1)
+     A. First                                                    B. Zero
+     C. Third                                                    D. Second
+
+36. A forward and reverse reaction continues to take place at equal rate in microscopic level. This statement is the      (1)
+    definition of
+     A. Chemical kinetics                                        B. Dynamic equilibrium
+     C. Degree of freedom                                        D. The law of mass action
+
+37. The heat change at constant pressure that results when 1 mole of a compound is formed from its elements in            (1)
+    their standard states is
+     A. standard entropy of reaction                             B. standard enthalpy of reaction
+     C. standard reduction potential                             D. standard enthalpy of formation
+
+38. What is a redox reaction? It is a reaction in which                                                                   (1)
+     A. two insoluble ions in compounds form an insoluble products.
+     B. electrons are transferred between species.
+     C. atoms or ions of two compound exchange bonding partners.
+     D. an acid and a base neutralize each other.
+
+39. Which of the following statements describes chemical industries? It is                                                (1)
+     A. an area of chemistry concerned with the speeds, or rates, at which chemical reactions occur.
+     B. an expression for the chemical composition of a compound in terms of the symbols of the atoms of the
+        elements involved.
+     C. a process in which dissolved solute comes out of solution and forms crystals.
+     D. a firm that involves usage of raw material to produce desired products by using chemical reactions and refining
+        methods.
+
+40. What will be the product if phosphorus reacts with excess amount of oxygen?                                           (1)
+     A. H 3 PO 3                                                 B. H 3 PO 4
+     C. P 4 O 10                                                 D. P 3 O 6
+
+41. One of the basic differences between metallic conduction and electrolytic conduction is:                              (1)
+     A. The conduction of electricity is due to the movement of ions in an electrolytic conduction while the flow of
+        mobile electrons in metallic conduction.
+     B. The charge carriers in metals are cations and anions while mobile electrons are in electrolytic conduction.
+     C. The charge carriers in metals are localized electrons while strongly held mobile electrons are in electrolytic
+        conduction.
+     D. The conduction of electricity is due to the movement of ions in metallic conduction while the flow of mobile
+        electrons in electrolytic conduction.
+42. Which one of the following gases is released from combustion of a fuel in an industrial machinery causing             (1)
+    global warming?
+    A. CO                                                       B. CO 2
+    C. NO                                                       D. SO 2
+
+43. The number of digits to the right of the decimal point denotes:                                                       (1)
+    A. Significant figures                                      B. Decimal places
+    C. Conversion factor                                        D. Scientific notation
+
+44. Which of the following would occur during the formation of ions?                                                      (1)
+
+    A. Inner most shell electrons are involved.
+    B. Valence electrons are shared between atoms.
+    C. The electronic configuration of an atom forming the ion remains unaffected.
+    D. Valence electrons are transferred from one atom to another.
+
+45. In order to illustrate the structure and properties of a solid, a student put hundred marble balls in to a box that   (1)
+    representing metal cations and the empty space between and around the marble representing the electron sea.
+    Which one of the following bonding is represented by this model?
+    A. Covalent bonding                                         B. Ionic bonding
+    C. Metallic bonding                                         D. Dative bonding
+
+46. Which one of the following explains dipole-dipole force?                                                              (1)
+    A. A type of intermolecular force that exists between non-polar molecules.
+    B. The intermolecular attraction between oppositely charged poles of nearby polar molecules.
+    C. An attractive force resulting from temporary dipoles induced in molecules.
+    D. An electrostatic attraction between metal ions and valence electrons.
+
+47. Which one of the following reactions creates energy in our bodies during respiration?                                 (1)
+    A. C 6 H 12 O 6 (s) + 6O 2 (g) → 6CO 2 (g) + 6H 2 O (l)
+    B. 6CO 2 (g) + 6H 2 O (l) → C 6 H 12 O 6 (s) + 6O 2 (g)
+    C. C 6 H 12 O 6 (s) → 2C 2 H 5 OH (l) + 2CO 2 (g)
+    D. N 2 H 4 CO (g) + H 2 O (g) → 2NH 3 (l) +CO 2 (g)
+
+48. "A reaction that involves the exchange of positive and negative ions of each reactant". This is a definition of a     (1)
+
+    A. Decomposition reaction                                   B. Combination reaction
+    C. Double displacement reaction                             D. Single displacement reaction
+
+49. What are the four quantum numbers for an electron in a 2s orbital?                                                    (1)
+    A. 2, 1, 0, + 1/2                                           B. 2, 1, 1, + 1/2
+    C. 2, 0, 0, + 1/2                                           D. 2, 0, 1, + 1/2
+
+50. A student uses a digital balance (±0.02), a thermometer (±0.1), a measuring cylinder (±0.05), and a beaker (±0.5)     (1)
+    during an experiment. Which of the above instrument is more precise?
+    A. The thermometer                                          B. The digital balance
+    C. The Beaker                                               D. The measuring cylinder
+51. Which one of the following explains that light has BOTH wave and particle nature?                                   (1)
+    A. A beam of light is a stream of particles of electromagnetic energy, with energy proportional to the observed
+       frequency of the light.
+    B. An electron that is bound to the nucleus behaves like a standing wave and its position is given in terms of
+       probability.
+    C. Microscopic systems, such as atoms and molecules can possess wave properties.
+    D. Light consists of electromagnetic waves which have an oscillating electric and magnetic disturbance that
+       spreads electromagnetic radiation.
+
+52. A nuclear breakdown in which particles or electromagnetic radiation is emitted is __________.                       (1)
+    A. Radioactive isotopes                                    B. Radioactivity
+    C. Radio wave                                              D. Radioactive decay
+
+53. Which statement describes valence shell electron pair repulsion (VSEPR) theory?                                     (1)
+
+    A. Each degenerate orbitals are occupied by a single electron before the second electrons of opposite spin enters
+       the orbitals.
+    B. Electron pairs will be as far apart from each other in three dimensional spaces as possible.
+    C. Atomic orbitals are capable of combining to produce new electron distribution.
+    D. A covalent bond is formed when orbitals of two atoms overlap and the overlap region is occupied by a pair of
+       electrons.
+
+54. Which one of the following is a colorless, flammable volatile liquid and miscible with non-polar solvents?          (1)
+    A. Benzene                                                 B. Ethanol
+    C. Methanol                                                D. Methane
+
+55. Which one of the following petroleum products is used as a solvent and in dry cleaning?                             (1)
+    A. kerosene                                                B. Petroleum ether
+    C. Paraffin wax                                            D. Diesel oil
+
+56. Which one of the following is NOT TRUE about laboratory preparation of ethylene by dehydration of ethanol?          (1)
+    A. The collected ethylene gas in the experiment decolorizes Br₂ in CCl₄.
+    B. Concentrated sulphuric acid is used as a dehydrating agent.
+    C. Combustion of ethylene produces a non-luminous flame.
+    D. The collected ethylene gas in the experiment decolorizes alkaline KMnO₄.
+
+57. Which one of the following is an essential nutrient of plants?                                                      (1)
+    A. Aluminum                                                B. Lead
+    C. Sodium                                                  D. Potassium
+
+58. Which one of the following is the main reason for the large difference in dipole-moment between the triatomic       (1)
+    molecules water (H₂O) and carbon dioxide (CO₂)?
+    A. The presence of lone pairs of electrons in water (H₂O) partially reinforces bond polarities.
+    B. The higher electronegativity difference among atoms in water (H₂O) than in carbon dioxide (CO₂).
+    C. The presence of multiple bonds in carbon dioxide (CO₂) while single bonds in water.
+    D. The bonds in carbon dioxide (CO₂) are directed 180° and bond polarity reinforces each other.
+59. How many non-bonding pairs of electrons are present in the valence shell of the central atom in ClF₃?        (1)
+    A. 1                                                       B. 0
+    C. 3                                                       D. 2
+
+60. Which one would be observed in a laboratory activity that is applied on naphthalene?                         (1)
+
+    A. It is soluble in benzene.                               B. It conducts electricity in molten state.
+    C. It shows relatively high melting point.                 D. It is soluble in water.
+
+61. Which one of the following statements is CORRECT?                                                            (1)
+    A. Valence bond model simply shows the linkage between atoms and the presence of lone pairs.
+    B. Lewis model predicts the shapes of molecules based on electron-pair repulsions around a central atom.
+    C. In Lewis model, electrons repel one another and a pair of bonding electrons lies far apart as possible.
+    D. Valence bond model explain molecular shape from the interaction of atomic orbitals.
+
+62. The energy required to completely separate one mole of a solid ionic compound into gaseous ions is an        (1)
+
+    A. Ionization energy                                       B. Activation energy
+    C. Lattice energy                                          D. Bond energy
+
+63. Which of the following compounds reacts with basic oxide to form salt and water?                             (1)
+    A. Acid                                                    B. Acidic oxide
+    C. Base                                                    D. Neutral oxide
+
+64. Which one of the following reaction represents formation of an acid from its salt?                           (1)
+    A. CH 3 COOH (aq) + CH 3 OH (aq) → CH 3 CO 2 CH 3 (aq) +H 2 O (l)
+    B. P 2 O 5 (s) + 6NaOH (aq) → 2Na 3 PO 4 (s) + 3H 2 O (l)
+    C. NaNO 2 (s) + H 2 SO 4 (l) → NaHSO 4 (s) + HNO 3 (l)
+    D. AgNO 3 (aq) + NaCl (aq) → NaNO 3 (aq) + AgCl (s)
+
+65. The negative logarithm of the molar concentration of hydrogen ion to the base ten is known as                (1)
+    A. pH                                                      B. K w
+    C. K a                                                     D. pOH
+
+66. Which one of the following galvanic cell is an example of secondary cell?                                    (1)
+    A. Daniel's cell                                           B. Lead storage cell
+    C. Leclanche dry cell                                      D. Zinc-carbon dry cell
+
+67. Which one of the following is responsible for electrolytic conductivity?                                     (1)
+    A. Ions strongly held in a fixed position.                 B. Free electrons.
+    C. Electrons held in a fixed position.                     D. Movement of ions.
+
+68. Which one of the following statement is TRUE about gases?                                                    (1)
+
+    A. The particles of gases are closely packed together.
+    B. The volume of a gas is kept constant as pressure increases.
+    C. When a gas sample is heated at constant pressure, its volume decreases.
+    D. The volume of a gas is equal to the volume of its container.
+69. 180 g of calcium carbonate (CaCO₃) is allowed to react with 156 gram of hydrochloric acid (HCl), according to the (1)
+    following reaction. Which of the following substances is the limiting reagent? (Atomic masses; Ca=40, Cl=35.5,
+    O=16, C=12, H=1) CaCO 3 + 2HCl → CaCl 2 + CO 2 + H 2 O
+    A. HCl                                                             B. CaCO₃
+    C. H₂O                                                             D. CO₂
+
+70. Which one of the following isomers differs in the arrangement of carbon atoms in the longest continuous carbon     (1)
+    chain?
+    A. Geometric                                                       B. Position
+    C. Cis-trans                                                       D. Structural
+
+71. Which one of the following methods can be used in the laboratory for the preparation of alkynes?                   (1)
+    A. Dehydration of alcohols with concentrated sulphuric acid.
+    B. Heating of sodium salt of an organic acid with soda lime.
+    C. Dehydrohalogenation of adjacent dihalides with sodium hydroxide.
+    D. Hydrogenation of alkenes with a metal catalyst.
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

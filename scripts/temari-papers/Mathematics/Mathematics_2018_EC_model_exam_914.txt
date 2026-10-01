@@ -1,0 +1,358 @@
+                                                         Temari.et
+                                  Mathematics, 2018 EC, model exam
+                                              Grade 12 · Mathematics · 2018 E.C.
+
+Time allowed: 120 minutes                                    Questions: 41                                    Total marks: 41
+
+Name                                             Grade                       ID No.                   Date
+
+1.   Which of the following statement defines an arithmetic progression?                                                   (1)
+     A. It is a sequence in which the ratio between consecutive terms is a positive constant.
+     B. It is a sequence in which the difference between consecutive terms is a non-zero constant.
+     C. It is a sequence in which the difference between consecutive terms is a constant.
+     D. It is a sequence in which the ratio between consecutive terms is a non-zero constant.
+
+2.   The areas of two similar triangles are 144 cm2 and 81 cm2 . If one side of the first triangle is 6 cm, then which     (1)
+     of the following is the length of the corresponding side of the second triangle?
+     A. 81
+        4 cm
+             ​                                                   B. 92 cm
+                                                                      ​
+
+
+
+
+        3
+     C. 2 cm                                                     D. 94 cm
+         ​                                                            ​
+
+
+
+
+3.   What is the image of the point (2, −3) when reflected about the line y = −x?                                          (1)
+     A. (−3, 2)                                                  B. (2, 3)
+     C. (3, −2)                                                  D. (−2, −3)
+
+4.   A group of 30 men participate in a survey on language skills. The number of men who know both English and             (1)
+     Afan Oromo was equal to the number of men who know neither of these languages. The number of men who
+     know English is 4 more than those who know Afan Oromo. How many know Afan Oromo?
+     A. 26                                                       B. 14
+     C. 13                                                       D. 11
+
+5.   Suppose the mean, the median and the mode of a certain distribution are 32, 30.5 and 29.5 respectively, then          (1)
+     which of the following is true?
+     A. The distribution is positively skewed.
+     B. The Bowley’s coefficient of skewness β < 0.
+     C. The Pearson’s coefficient of skewness is zero.
+     D. The distribution is negatively skewed.
+
+6.                                                                                         b
+     If F and f are defined functions on [a, b] such that F ′ (x) = f (x) for all x, then ∫a f (x) dx is equal to:
+                                                                                               ​                           (1)
+     A. F ′ (a) − F ′ (b)                                        B. F ′ (b) − F ′ (a)
+     C. F (a) − F (b)                                            D. F (b) − F (a)
+
+7.   The following table presents the scores of grade 12 students of a certain school in a Mathematics Exam.               (1)
+                 Score               31-40      41-50       51-60      61-70      71-80       81-90     91-100
+             No of students          10         9           15         12         10          4         2
+     What is the middle quartile for this data?
+     A. 55.5                                                     B. 50.5
+     C. 60.5                                                     D. 58.5
+8.   Which of the following is true about the graph of f (x) = x2 −5x+6
+                                                                  x−2
+                                                                        ?              ​                                       (1)
+
+     A. x = 2 and x = 3 are its vertical asymptotes.               B. The x-axis is its horizontal asymptote.
+     C. y = 0 is its oblique asymptote.                            D. The x-intercept is (2, 0).
+
+9.   Which one of the following is non-random sampling?                                                                        (1)
+     A. Stratified Sampling                                        B. Systematic Sampling
+     C. Convenience Sampling                                       D. Cluster Sampling
+
+10. Let A and B be two vectors given by A = 3i − 2j and B = 5i + 12 j, then the vector 12 A − 23 B =
+                                                                                           ​       ​      ​                    (1)
+     A. 92 i − 43 j
+            ​               ​
+                                                                   B. − 11    4
+                                                                        6 i − 3j   ​           ​
+
+
+
+
+     C.   11    4                                                  D. − 11    4
+          6 i − 3j  ​           ​
+
+
+
+                                                                        6 i + 3j   ​           ​
+
+
+
+
+11. The simplified form of the expression      32+ 48
+                                                    ​
+
+
+
+
+                                                      is equal to:                                                             (1)
+                                               8+ 12
+                                                ​       ​
+
+
+
+
+     A.             2   ​
+                                                                   B.      4   ​
+
+
+
+
+     C. 1                                                          D. 2
+
+12. Tola purchased a TV stand for Birr 5000 and paid Birr 250 for transportation. If he sold the TV stand for Birr             (1)
+    5075, then which one of the following statement is true?
+     A. Tola gain 3.33%.                                           B. Tola gain Birr 75.
+     C. Tola gain Birr 175.                                        D. Tola loss 3.33%.
+
+13. The following table shows marks of 100 students in Mathematics and Physics. | Subject | Mean | Standard                   (1)
+    Deviation | |---------|------|--------------------| | Mathematics | 20 | 2 | | Physics | 25 | 3 | Which subject shows the
+    highest variability in marks?
+     A. Mathematics                                                B. Physics
+     C. Both are equal                                             D. Cannot determine
+
+14. What is the coefficient of x3 y 5 in the expansion of (2x − y)8 ?                                                          (1)
+     A. 448                                                        B. 8
+     C. -448                                                       D. -8
+
+15. If Q3 = 50 and Q1 = 35, then find the coefficient of quartile deviation.
+                ​                   ​                                                                                          (1)
+        3
+     A. 17                                                         B. 15
+                                                                       2
+                    ​                                                      ​
+
+
+
+
+         5
+     C. 17                                                         D. 17
+                                                                      3
+                    ​                                                      ​
+
+
+
+
+16. If f (x) = sin x and g(x) = cos x, then which of the following statement is NOT true about the graphs of f and (1)
+    g?
+     A. Both functions have the same range.
+     B. The value of both functions can be less than -1.
+     C. The domain of both functions is R.
+     D. They have the same period.
+
+17. If a frustum of a right circular cone with base radii 3 cm and 4 cm and a slant height of 6 cm is given, then what (1)
+    is the total surface area of this frustum?
+     A. 67π cm2                                                    B. 74π cm2
+     C. 56π cm2                                                    D. 36π cm2
+18. Let A be a 3 × 3 matrix and k be scalar. Which of the following is true?                                                      (1)
+      A. If B is obtained by multiplying one row of A by k , then ∣B∣ = ∣A∣.
+      B. If B is obtained by interchanging two rows of A, then ∣B∣ = ∣A∣.
+      C. If B = kA, then ∣B∣ = k 3 ∣A∣.
+      D. If B is obtained by adding k times one row of A onto another row of A, then ∣B∣ = k∣A∣.
+
+19. The cost of an electronic device reduces at the rate of 5% per annum. If its present cost is Birr 32490, then what            (1)
+    was its cost (in Birr) before two years?
+      A. 36,000                                                           B. 37,200
+      C. 35,400                                                           D. 29,469
+
+20. A company manufactures two types of sweaters; type A and type B. It costs Birr 360 to make a type A sweater                   (1)
+    and Birr 120 to make a type B sweater. The company can make at most 300 sweaters and spend at most Birr
+    72,000 a day. The number of sweaters of type B cannot exceed the number of sweaters of type A by more than
+    100. The company makes a profit of Birr 200 for each sweater type A and Birr 120 for every sweater of type B. If
+    x = the number of type A sweater and y = the number of type B sweater, then which one of the following
+    standard forms of linear programming models should be used to maximize the profit?
+      A. Maximize P = 200x + 120y subject to: x + y ≤                     B. Maximize P = 120x + 200y subject to: x + y ≤
+         300, 360x + 120y ≤ 72000, y ≤ x + 100, x ≥                          300, 360x + 120y ≤ 72000, y ≤ x + 100, x ≥
+         0, y ≥ 0                                                            0, y ≥ 0
+      C. Maximize P = 200x + 120y subject to: x + y ≥                     D. Maximize P = 200x + 120y subject to: x + y ≤
+         300, 360x + 120y ≥ 72000, y ≥ x + 100, x ≥                          300, 360x + 120y ≤ 72000, y ≤ x − 100, x ≥
+         0, y ≥ 0                                                            0, y ≥ 0
+
+21. If two dice are rolled, then what is the probability of getting a sum greater than 10 or doubles?                             (1)
+      A.   4                                                              B.   2
+           9   ​
+
+
+
+                                                                               9   ​
+
+
+
+
+      C.   1                                                              D.   1
+           4   ​
+
+
+
+                                                                               9   ​
+
+
+
+
+22.                                  1       2       3
+      Consider the matrix A =        6
+                                     ​   ​   1   ​   9 . Which of the following is the det(A) and the cofactor of entry a32
+                                                      ​   ​                                                                   ​   (1)
+                                     4       0       5
+      respectively?
+      A. 5, 0                                                             B. -19, -9
+      C. -19, 7                                                           D. 5, 9
+                                                                                                             2
+23. Which of the following is the partial fraction form of the rational expression x3 −x
+                                                                                       x +3
+                                                                                         2 +x−1 ?                    ​            (1)
+          2                                                                   2
+      A. x−1 + xx+1
+                 2 +1
+                   ​     ​                                                B. x−1 + −x+1
+                                                                                   x2 +1
+                                                                                       ​         ​
+
+
+
+
+      C.    2                                                             D.    2
+           x−1 − x2 +1                                                         x−1 + x2 +1
+                 x+1                                                                 x−1
+                   ​     ​                                                             ​     ​
+
+
+
+
+24. Let f (x) = 2x−3
+                x+1
+                     , for x =
+                              −1. Which of the following is the inverse of f ?
+                             ​                                                                                                    (1)
+
+      A. f −1 (x) = x+3
+                    2−x , x =
+                            2   ​
+                                                                          B. f −1 (x) = 2x−3
+                                                                                        x+3
+                                                                                                 32
+                                                                                             ,x =        ​       ​
+
+
+
+
+      C. f −1 (x) = 3−x
+                    x−2 , x =
+                            2   ​
+                                                                          D. f −1 (x) = x−3
+                                                                                        x+2 , x =
+                                                                                                 −2 ​
+
+
+
+
+25. If three positive numbers are in the ratio of 1:3:5 and the sum of their squares is 875, then which of the following (1)
+    is the sum of the three numbers?
+      A. 45                                                               B. 75
+      C. 90                                                               D. 99
+26. A circular plate of metal is being expanded by heating. If the radius of the plate increases at a rate of               (1)
+    0.5 cm/sec, then which one of the following is the rate of increase of its area when the radius is 20 cm?
+     A. 80π cm2 /sec                                              B. 20π cm2 /sec
+     C. 10π cm2 /sec                                              D. 200π cm2 /sec
+                                                                                                6
+27. The domain and range respectively for the power function f defined by f (x) = 13 x− 5 are:
+                                                                                            ​
+                                                                                                    ​
+
+
+
+                                                                                                                            (1)
+
+     A. R ∖ {0} and (0, ∞)                                        B. R ∖ {0} and R ∖ {0}
+     C. (0, ∞) and (0, ∞)                                         D. [0, ∞) and [0, ∞)
+
+28. On selling an article for Birr 450, a dealer lost 10%. The cost price of the article is equal to:                       (1)
+     A. Birr 405                                                  B. Birr 500
+     C. Birr 550                                                  D. Birr 454.55
+
+29. If a man saves Birr 135 in the first year, Birr 150 in the second year, Birr 165 in the third year and so on, then in   (1)
+    what time (in years) is his total saving be Birr 5,550?
+     A. 362                                                       B. 37
+     C. 20                                                        D. 360
+
+30. Which of the following is the equation of the tangent line to the circle x2 + y 2 + 2x − 4y = 0 at the point            (1)
+    (−2, 4)?
+     A. x − 2y + 8 = 0                                            B. x + 2y − 6 = 0
+     C. x − y − 10 = 0                                            D. x − 2y + 10 = 0
+
+31. If a polynomial function f (x) = x3 + ax2 + bx + 3 is divided by x + 2 the remainder is 15 and x − 1 is a               (1)
+    factor of f (x), then what are the values of a and b respectively?
+     A. −6, 2                                                     B. 6, 2
+     C. 2, 6                                                      D. 2, −6
+
+32. If Bona’s income is Birr 180,000 per year and he pays 20% of this as house rent and 15% of the remainder on his (1)
+    child’s education, then find the money left with him.
+     A. Birr 144,000                                              B. Birr 158,000
+     C. Birr 21,000                                               D. Birr 122,400
+
+33. If the 6th and 11th terms of an arithmetic progression are 52 and 112 respectively, then which of the following is      (1)
+    the common difference of this sequence?
+     A. 12                                                        B. 15
+     C. 20                                                        D. 4
+
+34. If the first term of an arithmetic sequence is 3 and the sum of its first four terms is equal to one-fifth of the sum   (1)
+    of the next four terms, then which of the following is the sum of the first 20 terms?
+     A. −1040                                                     B. −1080
+     C. −1200                                                     D. −2160
+
+35. If in increasing geometric progression, the 6th term is 32 and its 8th term is 128, then what is the value of the       (1)
+    common ratio?
+     A. −2                                                        B. 4
+     C. 2                                                         D. ±1
+36. Which of the following ordered pairs of numbers gives the coordinates of the point that divides a line segment   (1)
+    with end points A(−1, 5) and B(5, 2) in the ratio of 1 : 2?
+    A. (3, 3)                                                          B. (−3, 3)
+    C. (−4, −1)                                                        D. (1, 4)
+
+37. What is the image of the circle (x − 1)2 + (y + 2)2 = 4 when it is rotated through θ = 3π
+                                                                                            2 about the origin?
+                                                                                                          ​          (1)
+    A. (x + 2)2 + (y − 1)2 = 4                                         B. (x − 2)2 + (y + 1)2 = 4
+    C. (x + 1)2 + (y + 2)2 = 4                                         D. (x + 2)2 + (y + 1)2 = 4
+
+38. Which of the following is a discrete data?                                                                       (1)
+
+    A. Volume of water in a glass                                      B. Number of students in the class
+    C. Temperature in the classroom                                    D. Time taken to complete a test
+
+39. Given sets A = {x : x2 − 12x + 20 = 0} and B = {x : x2 + 5x − 14 = 0}, then which of the following is            (1)
+    the relative complement of A with respect to B ?
+    A. {−7}                                                            B. {10}
+    C. {−7, 10}                                                        D. {−10, 7}
+
+40. Which one of the following statements is necessarily true?                                                       (1)
+    A. If a feasible region of a linear programming problem is unbounded, then there is no optimal value.
+    B. If a feasible region of a linear programming problem is bounded, then the objective function has either maximum
+       value or minimum value.
+    C. If a feasible region of a linear programming problem is bounded, then the objective function must have optimal
+       value(s).
+    D. At corner points of a feasible region of any linear programming problem there are always optimal values.
+
+41. If ∫ k (2x − 18) dx = 0, then which of the following is the value of k ?                                         (1)
+        0
+            ​
+
+
+
+
+    A. −3                                                              B. 0
+    C. 9                                                               D. 3
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

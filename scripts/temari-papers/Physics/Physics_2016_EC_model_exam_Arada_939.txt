@@ -1,0 +1,288 @@
+                                                           Temari.et
+                                  Physics, 2016 EC, model exam, Arada
+                                                  Grade 12 · Physics · 2016 E.C.
+
+Time allowed: 120 minutes                                      Questions: 47                                      Total marks: 47
+
+Name                                               Grade                       ID No.                     Date
+
+1.   If the tail of vector B is placed at the tip of A and the tail of C is placed at the tip of B, the sum of the three       (1)
+     vectors is drawn from the
+     A. Tail of A to tip of B                                      B. Tail of A to tip of C
+     C. Tail of B to tip of C                                      D. Tip of C to tail of B
+
+2.   A, B, and C are three points on a straight line road with AB=40km and BC=90km. A woman travel from A to B at              (1)
+     10km/h and then B to C at 15km/h. What is the average speed of the woman for the journey from A to C?
+     A. 25km/h                                                     B. 5km/h
+     C. 13km/h                                                     D. 6km/h
+
+3.   A man standing on a friction less surface continuously fired 120 bullets horizontally in 1 minutes using machine          (1)
+     gun. If each bullet has a mass 10g and leaves the muzzle of the gun with a speed of 800m/s. what is the
+     average force exerted by the gun on the man?
+     A. 8N                                                         B. 16N
+     C. 960N                                                       D. 16,000N
+
+4.   Two men A and B are loading identical boxes onto a truck. A lifts his box straight up from the ground to the bed          (1)
+     of the truck, whereas B slides his box up rough ramp to the truck. Which statement is correct about the change
+     in the potential energy on the box Earth system?
+     A. A and B change the Potential energy by the same amount
+     B. A changes more Potential energy than B
+     C. B changes more Potential energy A
+     D. None of those statement is necessarily true
+
+5.   What do we mean when we say a certain machine is 98 percent efficient?                                                    (1)
+     A. The machine wastes 2 joules of an input energy
+     B. The machine wastes 2 percent of an input energy
+     C. The machine multiplying an input force by a factor of 98
+     D. The machine multiplying energy by a factor of 98
+
+6.   Two solid spheres made of gold and silver having equal masses are suspending by a springs and fully                       (1)
+     submerged in a tank of water. The density of gold is greater than that of silver, which one of the following
+     statements is true?
+     A. The buoyant force on each sphere is the same
+     B. The volume of water displaced by the gold sphere is larger than that of the silver sphere
+     C. The tension in the string supporting each sphere is the same
+     D. The buoyant force on the silver sphere is greater that on the gold sphere
+7.   An electrical heating system with an average power rating of 4KW is used to heat 400kg of water from 20c0 to            (1)
+     80c0 . How long will the process take?
+     A. 4hours                                                    B. 10hours
+     C. 7hours                                                    D. 5hours
+
+8.   The force acting on a body varies with position as shown below. What is the work done by the force from x = 0 to (1)
+     x = 15m?
+     [Figure: A graph of force F (N) versus position X (m). The vertical axis is labeled 'F (N)' with values 20, 0, and -20.
+     The horizontal axis is labeled 'X (m)' with values 0, 10, and 15. The graph starts at the origin (0, 0), rises linearly to
+     a peak of 20 N, decreases linearly to cross the horizontal axis at X = 10 m, continues linearly downward to a
+     minimum of -20 N, and rises linearly back to the horizontal axis at X = 15 m.]
+     A. 50J                                                       B. 75J
+     C. 25J                                                       D. 0J
+
+9.   The temperature of a body is directly proportional to                                                                   (1)
+     A. The average speed of the body in motion
+     B. The average potential energy of the whole
+     C. the average speed of the molecules of the body
+     D. the average kinetic energy of the molecules of the body
+
+10. A mixture of gas is made of two types of molecules. The molecules of A are lighter than the molecules of B. The          (1)
+    gas mixture has the same temperature everywhere. Which one is correct about the speed of the molecules?
+     A. The molecules of B move faster than those of A
+     B. The molecules of A move faster than those of B
+     C. The molecules of A move the same as B
+     D. The mass of the molecules and their speed are unrelated
+
+11. Which quantities decrease as sound travels from water to air                                                             (1)
+
+     A. speed and frequency                                       B. frequency and wavelength
+     C. wavelength and speed                                      D. only frequency
+
+12. Two force exerted on a block as shown in the figure below. What is the horizontal component of the force?        (1)
+    [Figure: A rectangular block resting on a horizontal surface. Two forces act on the block: one force on the left
+    has magnitude 53N directed upward and to the left (West), making an angle of 530 with the horizontal; a second
+    force on the right has magnitude 20N directed upward and to the right (East), making an angle of 370 with the
+    horizontal.]
+     A. 14N, West                                                 B. 70N, East
+     C. 30N, West                                                 D. 28N, West
+
+13. If the Earth shrinks, what will the effective on the value of gravitational acceleration?                                (1)
+     A. decrease                                                  B. increase
+     C. become zero                                               D. become infinite
+
+14. A girl can throw a stone to a maximum horizontal distance of 64m. If she throws the stone vertically upward with (1)
+    the same speed. What is the maximum height reached by the stone?
+     A. 64m                                                       B. 32m
+     C. 16m                                                       D. 8m
+15. Each of two small spheres is positively charged and combined charge is 4 × 10−8 c. What is the charge on each        (1)
+    sphere if they are repelled with a force of 27 × 10−5 N? The centers of the sphere are 0.1m apart.
+    A. 3 × 10−8 c and 10−8 c                                   B. 2 × 10−8 c and 10−8 c
+    C. 2 × 10−8 c and 1 × 10−8 c                               D. both have the same 3 × 10−8 c
+
+16. The capacitance of a parallel plate capacitor is 10 μF. If the distance between the plate is halved, keeping all     (1)
+    other quantities constant, then what is the new capacitance of the capacitor?
+    A. 0.2 μF                                                  B. 5 μF
+    C. 10 μF                                                   D. 20 μF
+
+17. An electron is projected with a velocity of 8 × 106 m/s into a uniform magnetic field of 9.1 × 10−4 T                (1)
+    perpendicular to the to the direction of the field. What is the radius of the path of the electron?
+    A. 5 × 10−2 m                                              B. 4 × 10−2 m
+    C. 5 × 10−3 m                                              D. 4 × 10−3 m
+
+18. Two students A and B with masses MA and MB , respectively stand on a wheeled trolley. If student A has larger
+                                             ​        ​                                                                  (1)
+    mass and pushes student B, then what can be said their acceleration?
+    A. The acceleration of student B is less than that of student A
+    B. Both boys will be accelerated by the same magnitude but in opposite direction
+    C. The acceleration of student A is less than that of student B
+    D. There would be no acceleration because the forces are equal and opposite
+
+19. What happens when a P-N junction is forward biased?                                                                  (1)
+    A. The depletion layer size increase                       B. The depletion layer size decrease
+    C. Current cannot flow through the diode                   D. Electron flow from P-type to N-type
+
+20. Among the following errors, which type of error is caused by unpredicted factors when you measure the length         (1)
+    of a ruler made of steel?
+    A. Zero error                                              B. Systematic error
+    C. Parallax error                                          D. Random error
+
+21. If A= kB, where k is a positive constant without measuring unit; according to the information, which one the         (1)
+    following statement describes the relationship between A and B? (Hint; A and B are non zero vectors)
+    A. A and B are parallel to each other                      B. A and B are perpendicular to each other
+    C. A and B are opposite in directions                      D. No relationship between A and B
+
+22. Which one the following statement describes the motion of a certain body is moving with constant acceleration        (1)
+    on friction less surface in the given interval of time?
+    A. The motion of the body at constant velocity
+    B. The change in velocity of the body is constant
+    C. The net applied force on the body is zero
+    D. Cannot be described
+
+23. A block starts from rest at the top of the 370 incline surface and slide down 5.85 m length in 1.5s on the incline   (1)
+    surface. What is the magnitude of the acceleration of the block if the coefficient of friction between the block
+    and the surface will be 0.1?
+    A. 3.0 m/s2                                                B. 6.0 m/s2
+    C. 5.2 m/s2                                                D. 3.8 m/s2
+24. 25. If two isolated bodies are collided each other at a point elastically, then which one of the following will be   (1)
+    correct statement about the collision of the two bodies? (Assume the effect of friction force is negligible in the
+    process)
+    A. Kinetic energies of the isolated bodies are conserved
+    B. Momenta of the isolated bodies are conserved
+    C. Kinetic energies and momenta of the isolated bodies are conserved
+    D. Neither energies nor momenta are conserved
+
+25. 27. A floating ice block is pushed through a displacement of S= (15i – 10j) m along a straight embracement by        (1)
+    rushing water, which exerts force F= (200i -150j) N on the block. How much work does the force do on the
+    block?
+    A. 3000J                                                    B. 1500J
+    C. 6000J                                                    D. 4500J
+
+26. 28. Which of the following is not true statement about couple forces acted on the wheel of car used to control       (1)
+    car`s motion about a fixed axis of rotation?
+    A. They have equal magnitude in opposite directions
+    B. The net torque has rotational effect on the wheel
+    C. They produce zero net torque
+    D. The produce net non- zero torque
+
+27. 29. What amount of force is exerted on a wire that a cross-section area of 0.01 m2 causes to yield Young`s           (1)
+    modulus 2.5X105 N/m2 if the strain is 0.5?
+    A. 2.0 × 103 N                                              B. 1.25 × 103 N
+    C. 2.0 × 102 N                                              D. 1.25 × 102 N
+
+28. 30. Which one of the following statement is wrong about surface tension?                                             (1)
+    A. It is caused by the effect of inter molecular forces
+    B. It depends on the nature of liquid and temperature
+    C. Strong attractive force between molecules has large surface tension
+    D. It increases as impurity added in to the liquid
+
+29. Which one the following statement does not express the rate of heat flow/ transfer of heat energy in our             (1)
+    environment correctly?
+    A. Heat can be transfer due to collision of solid molecules
+    B. Rate of heat flow equals the amount of heat transfer per unit time
+    C. Heat can be transfer in gas due to actual moment of molecules
+    D. Heat can be transfer in water at constant temperature
+
+30. Which one of the following concepts of physics is not important/use in the process of bricks and tiles               (1)
+    manufactures?
+    A. The concepts of matter                                   B. The concepts of energy
+    C. The concept of leather technology                        D. The concept of thermodynamics
+
+31. The branch of engineering that requires/emphasizes the concept of magnetism and mechanical energy due to             (1)
+    movement of wind molecules is known as;
+    A. Mechanical engineering                                   B. Chemical engineering
+    C. Electrical engineering                                   D. Civil engineering
+32. Which of the following does not describe the advantage of medical physics in medical treatment and diagnosis?         (1)
+    A. The treatment administered by radiation of gamma ray
+    B. The treatment is mainly administered within surgery
+    C. The diagnostic process administered by modern electronic equipment
+    D. Sound plays important role to detect the injured tissue of a patient
+
+33. Which one of the quantity remains constant if a ball is moved along a parabolic trajectory/path through warm          (1)
+    air? (Assume the effect of air resistance is neglected)
+    A. Horizontal component velocity of the ball
+    B. Vertical component velocity of the ball
+    C. The velocities in both components of the ball
+    D. Vertical component displacement of the ball
+
+34. 37. The angular velocity of a wheel is rotating about a fixed axis of rotation changed from 40 rad/s to 44 rad/s in   (1)
+    5 seconds. What are the magnitudes of average angular velocity and angular displacement respectively?
+    (Assume the rotational acceleration is constant in the entire process)
+    A. 40 rad/s and 210 rad                                    B. 42 rad/s and 210 rad
+    C. 44 rad/s and 210 rad                                    D. 40 rad/s and 44 rad
+
+35. 38. Which one of the following quantity is constant, where a particle is undergoing in uniform circular motion        (1)
+    with respect to a fixed axis of rotation?
+    A. Speed                                                   B. Displacement
+    C. Velocity                                                D. Acceleration
+
+36. 39. How large net torque is required to change the angular velocity of a rotating rigid body that has a moment of     (1)
+    inertia 10 Kgm2 in order to change the velocity by 20 rad/s in 10 seconds about an axis of rotation?
+    A. 2 Nm                                                    B. 1 Nm
+    C. 10 Nm                                                   D. 20 Nm
+
+37. 40. Which one of the following stamen is not correct about planetary motion in the universe?                          (1)
+    A. Kepler's 1st law states about the law of equal areas
+    B. The proportionality constant is nearly equal to all planets in the universe
+    C. Kepler`s 3rd law describes about period and mean distance between the sun and a planet
+    D. Another name of Kepler`s 1st law is called the law of ellipse
+
+38. 41. Which one of the following statement is correct about the final gravitational force if the new distance           (1)
+    between two isolated bodies in the universe is doubled compare to the original distance measured between
+    them? (Hint: the distance is measured from the center of the two bodies)
+    A. It is as similar as the original force                  B. It is four times the original force
+    C. Quarter of the original force                           D. Twice the original force
+
+39. 42. Which one the following phenomenon more describes why gases are easy to compress, while liquid and                (1)
+    solids are almost incomprehensible?
+    A. The molecular force between neighboring gas molecules is strong
+    B. The molecular force between neighboring gas molecules is strong
+    C. There is much inter molecular space between neighboring gas molecules
+    D. The inter molecular space is short between neighboring gas molecules
+40. At particular location, the static pressure of incompressible liquid inside an open container does not depend      (1)
+    upon the;
+    A. Depth of the liquid                                              B. Atmospheric pressure
+    C. Density of the fluid                                             D. Acceleration due to gravity
+
+41. Among the following principles, which one of the following express the pressure applied in confined system         (1)
+    distributes equally in all directions?
+    A. Archimedes`s principle                                           B. Pascal`s principle
+    C. Bernoulli`s of flotation                                         D. Principle of flotation
+
+42. A water pipe has a radius of 1.0 cm at the inlet side and 0.5cm at the outlet side. Water flows at the rate of (1)
+              −3   3
+    3.14X10 m per second at the inlet point. What are the approximate values of speed of water at the inlet and
+    the outlet points respectively?
+    A. 10 m/s and 40m/s                                                 B. 40 m/s and 10m/s
+    C. 5m/s and 40m/s                                                   D. 14 m/s and 28m/s
+
+43. The volume ratio of displaced fluid and wooden block is 90% as the faction of wooden lies below the fluid level.   (1)
+                                                                                     3
+    What will be the density of the wooden block, if the density of fluid is 900 Kg/m ?
+    A. 90 Kg/m3                                                         B. 900 Kg/m3
+    C. 81 Kg/m3                                                         D. 810 Kg/m3
+
+44. Which one of the following factor does not affect the magnitude of magnetic field strength around straight         (1)
+    current carrying conductors?
+    A. Magnitude of current flow
+    B. Resistance of the conductor
+    C. Distance from the current carrying conductor
+    D. The nature of medium near to the conductor
+
+45. Which one of the following statement is not correct about magnetic flux produced by strong magnet in a             (1)
+    particular region/surface?
+    A. It is the measure of strength of magnetic field
+    B. It is the scalar of product magnetic field and area
+    C. It has maximum value as the field crosses perpendicularly the surface
+    D. It has maximum value as the field is perpendicular to the direction vector area
+
+46. A coil has 10 turns and the magnitude of magnetic field changed by 40 Weber in 0.1s. What is the magnitude of      (1)
+    the induced electromotive force?
+    A. 400V                                                             B. 800V
+    C. 4000V                                                            D. 8000V
+
+47. A 220 V AC source is connected across the primary coil of a transformer having 50 turns. If the secondary coil     (1)
+    of the transformer has 100 turns, what voltage appears across the secondary and describes the type of
+    transformer?
+    A. 220V, it is step up transformer                                  B. 100V, it is step down transformer
+    C. 440 V, it is step up transformer                                 D. 50V, it is step down transformer
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

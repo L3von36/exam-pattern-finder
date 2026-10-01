@@ -1,0 +1,350 @@
+                                                         Temari.et
+                            Chemistry, 2015 EC, entrance exam, version 1
+                                               Grade 12 · Chemistry · 2015 E.C.
+
+Time allowed: 120 minutes                                     Questions: 75                                  Total marks: 75
+
+Name                                             Grade                        ID No.                Date
+
+1.   Which one of the following is an intensive physical property of matter?                                              (1)
+     A. Mass                                                     B. Volume
+     C. Length                                                   D. Density
+
+2.   All of the following have four significant figures except                                                            (1)
+     A. 0.05040                                                  B. 0.0012
+     C. 09.060                                                   D. 1.005
+
+3.   Which of the following is correct?                                                                                   (1)
+
+     A. 1 L = 1 dm³                                              B. 1 L = 10 dm³
+     C. 10 L = 1 dm³                                             D. 1 L = 1 m³
+
+4.   What is the first step of the scientific method?                                                                     (1)
+     A. Performing an experiment                                 B. Forming a hypothesis
+     C. Making observation                                       D. Predicting the result of an experiment
+
+5.   The equivalent temperature value in Fahrenheit scale for 50°C is                                                     (1)
+     A. 122                                                      B. 50
+     C. 100                                                      D. 90
+
+6.   Which of the following is possible while doing an experiment?                                                        (1)
+     A. Washing hand with soap                                   B. Smelling chemicals
+     C. Dangling hair                                            D. Chewing gum
+
+7.   According to Modern atomic theory, one of the Dalton's atomic theory was wrong?                                      (1)
+
+     A. Atoms combine in small whole number ratios to form compounds
+     B. Atoms of the same element are identical in mass and other properties.
+     C. Elements are made up of small particles called atoms
+     D. Atoms of one element differ from atoms of other element.
+
+8.   The main purpose of Robert Millikan's oil drop experiment is to determine                                            (1)
+     A. the speed of electron
+     B. the ratio of mass of electron to charge of electron
+     C. the mass of electron
+     D. the magnitude of charge of electron
+
+9.   Which region of electromagnetic spectrum is capable of inducing electron transition with the greatest energy?        (1)
+     A. Orange                                                   B. Red
+     C. Violet                                                   D. Green
+10. What is the wavelength of the yellow sodium emission, which has a frequency of 5.09×10¹⁴ s⁻¹? (c = 3×10⁸ m/s)     (1)
+    A. 400 nm                                                  B. 589 nm
+    C. 670 nm                                                  D. 890 nm
+
+11. What is the ratio of the energy of a photon of 300 nm wavelength radiation to that of 600 nm radiation?           (1)
+
+    A. 1:2                                                     B. 1:1
+    C. 3:1                                                     D. 2:1
+
+12. The ejection of electron from metals by shining light on the metal surface is                                     (1)
+    A. work function                                           B. binding energy
+    C. photoelectric effect                                    D. speed of light
+
+13. The subshell representation for n = 4, l = 3 is                                                                   (1)
+    A. 4p                                                      B. 4d
+    C. 4s                                                      D. 4f
+
+14. What are the possible values of the azimuthal quantum number for an electron in the 4th energy level?             (1)
+    A. 0,1,2,3                                                 B. 1,2,3
+    C. 2,3,4                                                   D. 3,4
+
+15. How many 3d electrons are present in the ground state of ⁵²₂₄Cr?                                                  (1)
+
+    A. 4                                                       B. 6
+    C. 5                                                       D. 10
+
+16. Within a specified period, an increase in atomic number is usually accompanied by                                 (1)
+    A. an increase in atomic radius and an increase in electronegativity
+    B. a decrease in atomic radius and an increase in electronegativity
+    C. an increase in atomic radius and a decrease in electronegativity
+    D. a decrease in atomic radius and a decrease in electronegativity
+
+17. In which of the following block of the periodic table is an element with atomic number of 20 placed?              (1)
+
+    A. s-block                                                 B. p-block
+    C. d-block                                                 D. f-block
+
+18. A substance that does NOT conduct electricity as a solid but does conduct electricity when melted is most likely (1)
+    classified as:
+    A. a metal                                                 B. a molecular compound
+    C. an ionic compound                                       D. a non-metal
+
+19. Which of the following ionic compounds has the highest lattice energy?                                            (1)
+    A. NaCl                                                    B. NaF
+    C. MgO                                                     D. AlN
+
+20. Which one of the substance contains ionic, covalent and dative bonds between their atoms?                         (1)
+    A. NH₄CN                                                   B. KI
+    C. Mg₃N₂                                                   D. CHOH
+21. What is the total number of valence shell electrons in BrO₃⁻?                          (1)
+    A. 20                                                         B. 26
+    C. 32                                                         D. 36
+
+22. What is the total number of lone pairs in CO₂? (¹²C, ¹⁶O)                              (1)
+
+    A. 1                                                          B. 2
+    C. 3                                                          D. 4
+
+23. Which bond between the following groups of elements will be the most polar?            (1)
+    A. S-I                                                        B. S-Cl
+    C. S-F                                                        D. S-Br
+
+24. Which one of the following is the geometry of ICl₄⁻?                                   (1)
+    A. Octahedral                                                 B. Trigonal planar
+    C. Tetrahedral                                                D. Square planar
+
+25. Which one of the following is non-polar molecule with individual bonds are polar?      (1)
+    A. O₂                                                         B. CO₂
+    C. Cl₂                                                        D. SO₂
+
+26. Which one of the following is NOT true of metallic bonding?                            (1)
+
+    A. It gives rise to excellent electrical conductivity
+    B. Electrons are free to move throughout the structure
+    C. The strength of metallic bonds increases down a group
+    D. The strength of metallic bonding affects the boiling points of metals
+
+27. Which molecule listed below has two sigma (σ) and two pi (π) bonds?                    (1)
+    A. HCN                                                        B. CH₄
+    C. NF₂                                                        D. N₂
+
+28. What type of hybridization is used by carbon in C₂H₂ (acetylene)?                      (1)
+
+    A. sp                                                         B. sp³
+    C. sp²                                                        D. sp²d
+
+29. The bond orders of H₂, H₂⁺, and H₂⁻ are, respectively. (¹H)                            (1)
+    A. 1, 0 and 0                                                 B. 1, 1/2 and 0
+    C. 1, 0 and 1/2                                               D. 1, 1/2 and 1/2
+
+30. Which one of the following solids is NOT amorphous solid?                              (1)
+    A. Glass                                                      B. Plastics
+    C. Sodium chloride                                            D. Rubber
+
+31. The rate of a reaction in which there are no gases involved is least dependent upon:   (1)
+    A. Temperature                                                B. Pressure
+    C. Concentration                                              D. Surface area
+32. For a certain reaction, rate = k[A]^{3/2}. If the rate is 0.020 M/s when [A] = 1.0 M, what is the rate when [A] =   (1)
+    0.64 M?
+    A. 0.0033 M/s                                               B. 0.04 M/s
+    C. 0.033 M/s                                                D. 0.01024 M/s
+
+33. Substances that inhibit a reaction are:                                                                             (1)
+    A. promoters                                                B. negative Catalysts
+    C. positive Catalysts                                       D. enzymes
+
+34. If we increase the concentration of a reactant, what happens to the collisions between particles?                   (1)
+
+    A. There are fewer collisions.
+    B. There are the same numbers of collisions but they have less energy.
+    C. There are more collisions.
+    D. There are the same numbers of collisions but they have more energy.
+
+35. Which of the following rate law is third order overall?                                                             (1)
+    A. Rate = k[A][B]³                                          B. Rate = k[A][B]²
+    C. Rate = k[A]³[B]³                                         D. Rate = k[A]⁵[B]²
+
+36. The reaction between NO and I₂ is second order in NO and first order in I₂. What change occurs in the rate of       (1)
+    reaction if the concentration of each reactant is tripled?
+    A. 18 fold increase                                         B. 9 fold increase
+    C. 27 fold increase                                         D. 3 fold increase
+
+37. Ozone (O₃) is depleted from tropospheric atmosphere by the following cycle: Step1: NO + O₃ → NO₂ + O₂; Step2:       (1)
+    NO₂ + 2O → 2O₂; Net: O₃ + O → 2O₂. What observation could you make about the cycle?
+    A. NO₂ is a catalyst                                        B. O is a catalyst
+    C. O is an intermediate                                     D. NO₂ is an intermediate
+
+38. Suppose reactions A → B and B → A are both elementary processes with rate constants of 800 s⁻¹ and 4000 s⁻¹ (1)
+    respectively. What is the value of the equilibrium constant for A ⇌ B?
+    A. 0.2                                                      B. 20
+    C. 0.02                                                     D. 2
+
+39. Considering the reaction N₂(g) + O₂(g) ⇌ 2NO(g), ΔH = +180 kJ/mol, the production of NO is increased by:            (1)
+
+    A. increasing temperature                                   B. increasing pressure
+    C. decreasing temperature                                   D. decreasing pressure
+
+40. In the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), K = 100. What is [O₂] if [SO₂] = [SO₃]?                                  (1)
+    A. 0.001                                                    B. 0.1
+    C. 100                                                      D. 0.01
+
+41. The relation between the equilibrium constant in terms of concentration and pressure for the equilibrium            (1)
+    reaction 2NaHCO₃(s) ⇌ Na₂CO₃(s) + H₂O(g) + CO₂(g) is
+    A. Kp = KcRT                                                B. Kc = Kp(RT)²
+    C. Kp = Kc(RT)²                                             D. Kc = KpRT
+42. Which one of the following indicates the correct expression for the equilibrium constant (K) for PCl₅(s) → PCl₃(l) + (1)
+    Cl₂(g)?
+    A. [PCl₃][Cl₂]/[PCl₅]                                       B. [Cl₂]
+    C. [PCl₃][Cl₂]                                              D. [PCl₅]/[PCl₃][Cl₂]
+
+43. Which of the following statement correctly describes a chemical reaction at equilibrium?                              (1)
+    A. The concentrations of the products and reactants are equal
+    B. The rate of the forward reaction is less than the reverse reaction
+    C. The rate of the forward reaction is equal the reverse reaction
+    D. The rate of the forward reaction is greater than the reverse reaction
+
+44. The number of phase in a mixture of sodium chloride and water is                                                      (1)
+    A. 1                                                        B. 2
+    C. 3                                                        D. 4
+
+45. What is the chemical name for Aspirin?                                                                                (1)
+    A. Sodium salicylate                                        B. Salicylic acid
+    C. Methyl salicylate                                        D. Acetyl salicylic acid
+
+46. Which compound is a carboxylic acid?                                                                                  (1)
+
+    A. CH₃CH₂COOCH₂CH₃                                          B. CH₃CH₂COOH
+    C. CH₃CH₂CHO                                                D. CH₃CH₂COCH₂CH₃
+
+47. Hydrolysis of propyl butanoate produces                                                                               (1)
+    A. Propanol and butanoic acid                               B. Butanol and propanoic acid
+    C. Butanol and Propanoic acid                               D. Ethanol and Butanoic acid
+
+48. What is the process that converts liquid vegetable oils to solid fats?                                                (1)
+    A. Hydration                                                B. Hydrolysis
+    C. Hydrogenation                                            D. Saponification
+
+49. Which of the following statements concerning fats and oils is incorrect?                                              (1)
+    A. They are also called triacyl glycerols                   B. They are also called triglycerides
+    C. They are fatty acids salts                               D. They are glycerol triesters
+
+50. Which of the following types of compounds are expected products from the saponification of a fat?                     (1)
+
+    A. Glycerol, fatty acids and fatty acid salts
+    B. Fatty acid salts and fatty acid
+    C. Glycerol and fatty acids
+    D. Glycerol and fatty acid salts
+
+51. Which of the following is NOT a solution?                                                                             (1)
+    A. Milk                                                     B. Brass
+    C. Whisky                                                   D. Coca cola drink
+
+52. The process of solute particles being surrounded by solvent molecules is                                              (1)
+
+    A. saturation                                               B. solvation
+    C. dehydration                                              D. suspension
+53. One of the following does not speed up the rate of dissolution?                                                      (1)
+    A. Increasing temperature                                    B. Increasing pressure of gas
+    C. Increasing surface area                                   D. Decreasing surface area
+
+54. When a crystal solute is added to its supersaturated solution, the solute crystal will                               (1)
+
+    A. slightly dissolve                                         B. remain unchanged
+    C. grow bigger                                               D. dissolve completely
+
+55. The solubility of oxygen gas in water at 25°C and 1 atm pressure is 0.041 g/L. What is the solubility of oxygen in   (1)
+    water at 25°C and 3 atm?
+    A. 0.123                                                     B. 0.31
+    C. 0.041                                                     D. 0.014
+
+56. Calculate the mole fraction of H₂O and CH₃CH₂OH in a mixture of equal masses of H₂O & CH₃CH₂OH. (H=1, O=16) (1)
+    A. 0.9 & 0.1                                                 B. 0.72 & 0.28
+    C. 0.5 & 0.5                                                 D. 0.6 & 0.4
+
+57. The molarity of nitrate ion in a solution that contains 0.9 M Al(NO₃)₃ is                                            (1)
+    A. 0.3 M                                                     B. 2.7 M
+    C. 0.9 M                                                     D. 1.8 M
+
+58. What is the normality of 0.2 M solution of Ca₃(PO₄)₂?                                                                (1)
+    A. 0.2 N                                                     B. 3 N
+    C. 1.2 N                                                     D. 0.6 N
+
+59. What is the volume of water required to dilute 40 mL of 2 M HCl to 0.5 M HCl?                                        (1)
+
+    A. 80 mL                                                     B. 40 mL
+    C. 160 mL                                                    D. 120 mL
+
+60. What volume of 2 M H₂SO₄ is needed to react exactly with 240 g of magnesium? (Mg=24, S=32, O=16, H=1)                (1)
+    A. 5 L                                                       B. 10 L
+    C. 2.5 L                                                     D. 2 L
+
+61. The spectator ions are: 2AgNO₃(aq) + Na₂CrO₄(aq) → Ag₂CrO₄(s) + 2NaNO₃(aq)                                           (1)
+    A. Na⁺, NO₃⁻                                                 B. Ag⁺, NO₃⁻
+    C. Na⁺, CrO₄²⁻                                               D. Ag⁺, CrO₄²⁻
+
+62. The boiling point of pure ethanol is 78.5°C. What is the boiling point of a solution when 3.4 g of vanillin is       (1)
+    dissolved in ethanol?
+    A. Less than 78.5°C                                          B. Equals 78.5°C
+    C. Greater than 78.5°C                                       D. Equals -78.5°C
+
+63. A solution is prepared by mixing 1 mole of ethanol and 2 mole of water at 25°C. What is the total vapour             (1)
+    pressure above the solution? (vapour pressure of pure ethanol = 44 torr, pure water = 23.8 torr)
+    A. 33.9 torr                                                 B. 30.5 torr
+    C. 45 torr                                                   D. 67.8 torr
+64. The conjugate base of H₃O⁺ is                                                                                   (1)
+    A. OH⁻                                                     B. H⁺
+    C. NH                                                      D. H₂O
+
+65. Given the reaction: H₂PO₄⁻ + H₂O ⇌ H₃O⁺ + HPO₄²⁻. Which of the following represents a conjugate acid-base       (1)
+    pair?
+    A. H₂PO₄⁻ and H₂O                                          B. H₂PO₄⁻ and HPO₄²⁻
+    C. H₂PO₄⁻ and H₃O⁺                                         D. H₂O and HPO₄²⁻
+
+66. The pH value of three acids A, B and C are 1, 2 and 3 respectively, which one of the following represents the   (1)
+    correct order of acid strength?
+    A. C > A > B                                               B. B > A > C
+    C. A > B > C                                               D. C > B > A
+
+67. What is the percent dissociation in 1 M solution of HF containing the concentration of H₃O⁺ = 2.7×10⁻² M?       (1)
+
+    A. 37%                                                     B. 3.7%
+    C. 27%                                                     D. 2.7%
+
+68. The concentration of H₃O⁺ and OH⁻ respectively with pOH = 3 at 25°C are                                         (1)
+    A. 1.0×10⁻¹¹ and 1.0×10⁻⁴ M                                B. 1.0×10⁻³ and 1.0×10⁻¹⁰ M
+    C. 1.0×10⁻³ and 1.0×10⁻¹² M                                D. 1.0×10⁻¹¹ and 1.0×10⁻³ M
+
+69. What is the effect if 0.3 M of CH₃COONa is added into aqueous solution of 0.2 M CH₃COOH?                        (1)
+    A. CH₃COOH becomes more acidic                             B. The concentration H₃O⁺ will increase
+    C. The equilibrium shifts to the left                      D. pH value will decrease
+
+70. How is a buffer solution prepared?                                                                              (1)
+    A. By mixing a weak acid and a strong acid
+    B. By mixing a weak acid and its conjugate base.
+    C. By mixing a strong base and its conjugate acid.
+    D. By mixing a strong acid and its conjugate base.
+
+71. Which of the following compounds would be the most basic?                                                       (1)
+    A. 0.2 M sodium acetate                                    B. 0.2 M acetic acid
+    C. 0.2 M hydrochloric acid                                 D. 0.2 M ammonium chloride
+
+72. What volume of 0.2 M KOH is required to neutralize completely 50 mL of 1.5 M H₂SO₄?                             (1)
+    A. 750 mL                                                  B. 375 mL
+    C. 250 mL                                                  D. 50 mL
+
+73. The pH of the solution for the titration of 100 mL of 0.3 M HNO₃ after addition of 100 mL of 0.3 M KOH is       (1)
+
+    A. 12.7                                                    B. 7
+    C. 2.7                                                     D. 4
+
+74. A system that can exchange matter and energy is                                                                 (1)
+    A. closed system                                           B. isolated system
+    C. open system                                             D. homogeneous system
+75. If 1,500 J of heat is added to a system while the system does work equivalent to 2,500 J by expanding against   (1)
+    the atmosphere, what is the value of ΔE for the system?
+    A. 4,000 J                                                        B. 1,000 J
+    C. -4,000 J                                                       D. -1,000 J
+
+                                              — E N D O F E X A M I N AT I O N —
+                                Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

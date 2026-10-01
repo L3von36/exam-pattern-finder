@@ -1,0 +1,234 @@
+                                                          Temari.et
+                             Physics, 2015 EC, entrance exam, version 1
+                                                  Grade 12 · Physics · 2015 E.C.
+
+Time allowed: 120 minutes                                      Questions: 46                                    Total marks: 46
+
+Name                                              Grade                         ID No.                  Date
+
+1.   A good scientific theory is one which is                                                                                  (1)
+     A. simple (less complex), has a wide scope, and is accurate and consistent.
+     B. simple (less complex), specific in scope, and is accurate and consistent.
+     C. more complex, has a wide scope, is accurate and consistent.
+     D. more complex, specific in scope, consistent but not accurate.
+
+2.   The number of significant digits in a quantity m = 7.10 × 10³⁰ kg is                                                      (1)
+     A. 3                                                          B. 2
+     C. 32                                                         D. 33
+
+3.   Given A = a i + b j + 2k and B = 4i + 2j - 4k. What must be the value of 'a' and 'b', respectively, for the two vectors   (1)
+     to be parallel?
+     A. -2 and -1                                                  B. 2 and 1
+     C. -1 and -2                                                  D. 1 and 2
+
+4.   For what value of 'a' the two vectors A = a i + 2j + 5k and B = (1/2)i + 6j + 2k are orthogonal to each other?            (1)
+     A. 1                                                          B. -44
+     C. -1                                                         D. 4
+
+5.   What is the area of a parallelogram formed by vectors A = 2i - j + k and B = 3i + 2j - 3k?                                (1)
+     A. √111                                                       B. √121
+     C. √131                                                       D. √141
+
+6.   What is the magnitude of A·(A×B) if θ is the angle between vector A and vector B?                                         (1)
+
+     A. BA sinθ                                                    B. BA² sinθ
+     C. B²A sinθ                                                   D. zero
+
+7.   Which one of the following vector properties is WRONG?                                                                    (1)
+     A. Scalar product is commutative.
+     B. Vector addition is associative.
+     C. Both scalar and vector products are distributive over addition & subtraction.
+     D. The magnitudes of A×B and B×A are different.
+
+8.   A, B and C are three points, in that order, on a straight line road with AB=40km and BC=90km. A woman travels             (1)
+     from A to B at 10 km/h and then from B to C at 15 km/h. What is the average speed of the woman for the
+     journey from A to C?
+     A. 25 km/h                                                    B. 13 km/h
+     C. 5 km/h                                                     D. 6 km/h
+9.   A stone is thrown upward with a speed of 20 m/s from a point at a height h meters above the horizontal ground        (1)
+     level. If the stone hits the ground 5 seconds later, what is the height h?
+     A. zero                                                     B. 100 m
+     C. 25 m                                                     D. 20 m
+
+10. A truck traveling with constant speed of 20 m/s along a straight line passes a motorcycle. Just as the truck          (1)
+    passes, the motorcycle accelerates from rest at 2 m/s² to overtake the truck. How fast is the motorcycle
+    traveling while it overtakes the truck?
+     A. 2 m/s                                                    B. 20 m/s
+     C. 30 m/s                                                   D. 40 m/s
+
+11. Which one of the following statements is CORRECT about two dimensional motions?                                       (1)
+     A. The acceleration in a uniformly circular motion is constant.
+     B. In a projectile motion the vertical and horizontal parts of its motion are independent of each other.
+     C. The maximum range of projectiles can be achieved at an angle of 90°.
+     D. The velocity of a vertical circular motion is maximum at the top of the vertical circle.
+
+12. A man of mass 80 kg stands on a balance inside an elevator. If the balance reads 900 N, the elevator is               (1)
+     A. ascending with constant velocity.                        B. descending with constant velocity.
+     C. ascending with constant acceleration.                    D. descending with constant acceleration.
+
+13. A 32 kg big fish moving with 10 m/s to the east swallows a small 4 kg fish moving with a speed of 5 m/s to the        (1)
+    west. The velocity of the big fish after impact is
+     A. 8.3 m/s, east                                            B. 10 m/s, east
+     C. 10 m/s, west                                             D. 8.3 m/s, west
+
+14. A 10 kg object moving with a velocity of (6i) m/s explodes into two equal fragments. One flies off with a velocity    (1)
+    (2i - j) m/s. What is the velocity of the other fragment?
+     A. (3i + 5j) m/s                                            B. (-3i - 5j) m/s
+     C. (10i + j) m/s                                            D. (6i - 5j) m/s
+
+15. What should be the coefficient of static friction at the pavement of a flat road for a car moving with a maximum      (1)
+    speed of 15 m/s in a circle of radius 45 m to make turns safely?
+     A. 0.2                                                      B. 0.3
+     C. 0.4                                                      D. 0.5
+
+16. The dimension of energy is                                                                                            (1)
+     A. ML²T⁻²                                                   B. MLT⁻²
+     C. ML²T⁻³                                                   D. MLT⁻³
+
+17. A force of F = (2i + 4k) N is exerted on a block to move it with a velocity of V = (6j + 8k) m/s. What is the power   (1)
+    exerted on the block?
+     A. 12 W                                                     B. 32 W
+     C. 24 W                                                     D. 16 W
+
+18. A block of mass 2.5 kg is attached to a spring with spring constant 40 N/m. If it is pulled down a displacement       (1)
+    of 30 cm and released, what would its speed be as it passes the equilibrium position?
+     A. 1.6 m/s                                                  B. 1.2 m/s
+     C. 1.4 m/s                                                  D. 1 m/s
+19. What is the moment of inertia of a thin rod of mass M and length L about an axis perpendicular to the rod at a      (1)
+    distance of L/4 from one end? (I_cm = 1/12 ML²)
+    A. (7/48)ML²                                                 B. (7/12)ML²
+    C. (5/12)ML²                                                 D. (1/3)ML²
+
+20. The angular displacement described by a particle is given as θ(t) = 10 + 20t - 4t² where θ in radian and t in       (1)
+    seconds. What is the value of t when the particle becomes momentarily at rest?
+    A. 5 s                                                       B. 2.5 s
+    C. 2 s                                                       D. 1 s
+
+21. A solid cylindrical grinding stone (I = ½MR²) has a radius of 0.4 m and mass of 40 kg. A constant unbalanced        (1)
+    torque acting on it changes its angular speed to 40 rad/s from rest in 20 seconds. What is the magnitude of the
+    desired net torque?
+    A. 6.4 Nm                                                    B. 16 Nm
+    C. 3.2 Nm                                                    D. 8 Nm
+
+22. A ring (I = MR²) is released and rolled down an inclined plane which is 10 m above the horizontal ground. What is   (1)
+    the linear velocity of the ring at the bottom of the incline?
+    A. 2√10 m/s                                                  B. √10 m/s
+    C. 100 m/s                                                   D. 10 m/s
+
+23. Real gases behave like an ideal gas at                                                                              (1)
+    A. Low temperature and high pressure.                        B. High temperature and low pressure.
+    C. Low temperature and low pressure.                         D. High temperature and high pressure.
+
+24. A Carnot engine working between 27°C and 327°C has a work output of 800 J per cycle. The amount of heat             (1)
+    energy supplied to the engine from the source in each cycle is
+    A. 800 J                                                     B. 1600 J
+    C. 3200 J                                                    D. 6400 J
+
+25. If one mole of an ideal gas doubles its volume as it undergoes an isothermal expansion, its pressure is             (1)
+    A. quadrupled                                                B. doubled
+    C. halved                                                    D. quartered
+
+26. The rms speed of an ideal gas at a temperature of 120 K is V. What would the rms speed be if its temperature        (1)
+    becomes 480 K?
+    A. V/4                                                       B. V/2
+    C. 4V                                                        D. 2V
+
+27. A hollow metal sphere of radius 10 cm is charged to a potential of 100 V. What is the potential at the center of    (1)
+    the sphere?
+    A. Zero                                                      B. 50 V
+    C. 200 V                                                     D. 100 V
+
+28. A body is said to be in neutral equilibrium if                                                                      (1)
+
+    A. its center of gravity is above the axis of rotation.
+    B. its center of gravity is below the axis of rotation.
+    C. its center of gravity coincides (meet at a point) with the axis of rotation.
+    D. its center of gravity produces net torque about the axis of rotation.
+29. A body is said to be charged positively if it has                                                                     (1)
+    A. excess of protons.                                       B. deficiency of protons.
+    C. excess of electrons.                                     D. deficiency of electrons.
+
+30. A 10⁻⁶ F capacitor is charged with a 10 V battery. What is the energy of the capacitor?                               (1)
+
+    A. 50 μJ                                                    B. 100 μJ
+    C. 150 μJ                                                   D. 200 μJ
+
+31. The intensity level (loudness level) changes from L₁ = 60 dB to L₂ = 90 dB. What is the ratio of intensities I₂/I₁?   (1)
+    A. 3                                                        B. 30
+    C. 300                                                      D. 1000
+
+32. A 0.5 kg object attached to a spring undergoes SHM with amplitude of 8 cm and period of 0.2π s. What is the           (1)
+    maximum force acting on the object?
+    A. 80 N                                                     B. 50 N
+    C. 8 N                                                      D. 4 N
+
+33. When light travels from one medium to another which is separated by a sharp boundary the characteristic that          (1)
+    does not change is
+    A. velocity                                                 B. wavelength
+    C. frequency                                                D. amplitude
+
+34. Monochromatic green light of wavelength 5×10⁻⁷ m illuminates two slits 1 mm apart. If the screen and the slits        (1)
+    are 2 m apart, the separation between two successive bright fringes is
+    A. 0.25 mm                                                  B. 0.1 mm
+    C. 1 mm                                                     D. 0.01 mm
+
+35. A tube closed at one end containing air produces a fundamental frequency of 512 Hz. If the same length of tube        (1)
+    is open at both ends, the fundamental frequency that can be produced is
+    A. 1024 Hz                                                  B. 512 Hz
+    C. 256 Hz                                                   D. 125 Hz
+
+36. A uniform spring of force constant K is cut into two equal pieces. What is the force constant of each piece?          (1)
+    A. 2K                                                       B. 3K/2
+    C. K                                                        D. K/2
+
+37. A progressive wave is represented by the equation Y(t,x) = (0.2) sin(6.28t - 12.56x), where x and y are in meter      (1)
+    and t in seconds. The velocity of the wave is
+    A. 2 m/s                                                    B. 1.5 m/s
+    C. 1 m/s                                                    D. 0.5 m/s
+
+38. Which pair of quantities are expressed in the same units?                                                             (1)
+    A. Stress and strain                                        B. Young's modulus and stress
+    C. Young's modulus and strain                               D. Shear modulus and strain
+39. A 0.5 m long guitar string of cross-sectional area 10⁻⁶ m² has Young's modulus of Y = 2×10⁹ N/m². By how much       (1)
+    length do you stretch the string to obtain a tension of 20 N?
+    A. 2 mm                                                            B. 3 mm
+    C. 4 mm                                                            D. 5 mm
+
+40. Which one of the following statements is WRONG?                                                                     (1)
+    A. Wave fronts of point source of light are concentric spheres.
+    B. Light rays and wave fronts intersect at right angles.
+    C. Light rays and wave fronts are parallel.
+    D. Rays and the radii of spherical wave fronts.
+
+41. In a hydraulic brake system a force of 20 N is applied to piston 1 which has a cross-sectional area of 4 cm². What (1)
+    is the force on piston 2 if its cross-sectional area is 60 cm²?
+    A. 200 N                                                           B. 300 N
+    C. 400 N                                                           D. 500 N
+
+42. Bernoulli's principle is based on                                                                                   (1)
+    A. conservation of momentum                                        B. conservation of mass
+    C. conservation of energy                                          D. mass-energy equivalence
+
+43. The speed of water flowing through a horizontal pipe is 10 m/s at a point where the cross-sectional area of the     (1)
+    pipe is 0.1 cm². If there is a point in the pipe where its cross-sectional area is 1 cm², what is the pressure
+    difference between these points?
+    A. 4.95×10⁴ Pa                                                     B. 5.95×10⁴ Pa
+    C. 6.95×10⁴ Pa                                                     D. 7.95×10⁴ Pa
+
+44. The transfer of heat by the direct movement of molecules is called                                                  (1)
+    A. conduction                                                      B. convection
+    C. radiation                                                       D. induction
+
+45. A window has a glass surface of 2000 cm² and thickness of 4 mm. The temperature inside and outside the              (1)
+    glass are 21°C and -3°C, respectively. What is the rate of heat flow through the window? (K = 0.2 W/m°C)
+    A. 480 W                                                           B. 48 W
+    C. 84 W                                                            D. 240 W
+
+46. A piece of iron (specific heat = 450 J/kg°C) is dropped from a height of 900 m above the ground. Assuming all       (1)
+    the energy is converted to heat the iron, what will be the rise in temperature of the iron in degree centigrade?
+    A. zero                                                            B. 8
+    C. 20                                                              D. 24
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,350 @@
+                                                         Temari.et
+                            Physics, 2015 EC, natural science, entrance exam, round 1
+                                                 Grade 12 · Physics · 2015 E.C.
+
+Time allowed: 120 minutes                                     Questions: 42                                   Total marks: 42
+
+Name                                             Grade                               ID No.           Date
+
+1.   Which one of the following units is NOT a possible unit of electric field strength?                                    (1)
+     A. Newton/Coulomb                                            B. Joule/Coulomb
+     C. Volt/meter                                                D. Joule/(Coulomb×meter)
+
+2.   Which one of the following statements does NOT describe magnetic nature of a material?                                 (1)
+     A. There is no a single magnetic North or magnetic South Pole.
+     B. Magnetic dipoles of a material aligned parallel when the magnetic material is placed in external magnetic field.
+     C. Magnetic molecules in a magnet will align when they are heated or hammered.
+     D. Magnetic molecules (dipoles) are oriented randomly when a material lose its magnetism.
+
+3.   Which one of the following statements is correct about conduction in semiconductors?                                   (1)
+     A. N-type semiconductor is made from half-filled shell atoms doped with accepter atoms.
+     B. P-type semiconductors have holes as minority charge carriers in the crystal lattice of the material.
+     C. The majority charge carriers in N-type semiconductors are electrons due to doping.
+     D. When atoms with half-filled electrons are doped with atoms of five valance electrons, the majority charge
+        carriers are holes.
+
+4.   What is the acceleration due to gravity at an altitude twice the radius of the Earth? (gE is the gravitational
+                                                                                               ​                            (1)
+     acceleration on the surface of the Earth).
+     A. g                                                         B. g
+            E   ​
+
+
+                                                                         E   ​
+
+
+
+
+         3                                                             9
+                    ​                                                            ​
+
+
+
+
+     C. 3gE             ​
+                                                                  D. g
+                                                                         E   ​
+
+
+
+
+                                                                       4
+                                                                                 ​
+
+
+
+
+5.   A 64 V battery is connected to a series combination of 3 kΩ bulb and 4 kΩ electric iron. If the total current in the   (1)
+     circuit is 8 mA, what is the internal resistance of the battery?
+     A. 1 kΩ                                                      B. 7 kΩ
+     C. 8 kΩ                                                      D. 15 kΩ
+
+6.   A solenoid with 5000 turns and length 1m carries 15A of current. If no iron core is inserted in the solenoid, what     (1)
+     is the magnetic field strength at the center of the solenoid?
+     A. 20π × 10−2 T                                              B. 6π × 10−2 T
+     C. 3π × 10−2 T                                               D. 4π × 10−2 T
+
+7.   A small source emits sound waves which are spherical. The intensity of the sound wave measures at a distance r (1)
+     = 3.0 m from the source is 1.5 W/m². At what distance from the source would the intensity be one-fourth as
+     much as it is at r = 3.0 m?
+     A. 12.0 m                                                    B. 9.0 m
+     C. 4.5 m                                                     D. 6.0 m
+8.   Light ray is allowed to enter from air medium (nair = 1) into water medium (index of refraction nw = 43 ) at an
+                                                          ​                                                  ​     ​         (1)
+     angle of 30∘ with the normal to air-water interface (boundary). Which one of the following is correct about the
+     ray of light?
+     A. The sine of the angle of refraction of the light ray in water is equal to 0.5.
+     B. The sine of the angle of refraction of the light ray in water is equal to 0.38.
+     C. The speed of the light ray in water is 1.33 times that of its speed in air.
+     D. The speed of the light ray in water is 0.9 times that of its speed in air.
+
+9.   A fluid travelling over an object's surface exerts less pressure than if the fluid was static. This is a statement of   (1)
+
+     A. Bernoulli's principle.                                    B. principle of continuity.
+     C. Pascal's principle.                                       D. Archimedes' principle.
+
+10. Which one of the following statements is correct about critical and boiling points of a substance?                       (1)
+     A. The critical point and the boiling point of a substance occur at the same specific temperature and pressure.
+     B. Both critical temperature and boiling point of a substance can be increased or decreased based on the pressure
+        of the surrounding.
+     C. The boiling point of a substance can be different based on the pressure of the surrounding whereas critical point
+        occurs at one specific pressure and temperature.
+     D. The critical temperature of a substance can be increased or decreased based on the pressure of the surrounding
+        whereas boiling point does not vary with the pressure of the surrounding.
+
+11. A 30 kg rigid object has a moment of inertia 45 kg⋅m 2 about its center of mass. What is the object's moment of          (1)
+    inertia when it rotates through an axis 2 m away and parallel to the axis through its center of mass?
+     A. 90 kg⋅m 2                                                 B. 165 kg⋅m 2
+     C. 180 kg⋅m 2                                                D. 105 kg⋅m 2
+
+12. Water flows at the rate of 500.0 cm³/s at small cross-section 5 cm². The larger cross-section is 25 cm². What is         (1)
+    the ratio of the speed of the water at A₁ to A₂.
+     A. 5                                                         B. 100
+     C. 0.2                                                       D. 20
+
+13. An ideal monoatomic gas expands adiabatically from an initial volume of 2 liters at a temperature of 300 K to 16         (1)
+    liters of volume. What is the final temperature of the gas? (Use the ratio of specific heat capacity at constant
+    pressure to that at constant volume to be 5/3.)
+     A. 37.5 K                                                    B. 75 K
+     C. 2400 K                                                    D. 1200 K
+
+14. Consider a particle performing a circular motion around a circle of radius r with an angular velocity ω and the          (1)
+    particle's projection on the horizontal diameter of the circle (between points Q and R) as shown in the figure
+    below? Which one of the following statements is correct about the motion of the particle and its projection on
+    QR   ​
+
+
+
+
+     A. The projection of the particle on QR swings between points Q and R with constant speed.
+                                                   ​
+
+
+
+
+     B. The circular motion of the particle can be taken as a simple harmonic motion.
+     C. The projection of the particle on QR demonstrates simple harmonic motion.
+                                                   ​
+
+
+
+
+     D. The projection of the particle on QR demonstrates motion with constant acceleration.
+                                               ​
+15. Air molecules vibrate in a pipe of length L closed at one end but open at the other. If the speed of sound through      (1)
+    the pipe is V , which one of the following statements is correct about the resonance effects of vibration of air
+    molecules in the pipe?
+    A. The fundamental resonance frequency is 4L
+                                              V
+                                                 .    ​
+
+
+
+
+    B. The fundamental wave length of resonance is equal to 2L.
+    C. The resonance frequency of the first harmonics is VL . ​
+
+
+
+
+    D. The wavelength of the third harmonic is equal to L.
+
+16. A monochromatic light of wave length λ passes through double slits separated by a distance d . If the path              (1)
+    difference between the lights is a and being an integer (0, 1, 2, 3, ...). Which one of the following would be
+    observed on screen behind the slits?
+    A. constructive interference if p = (n + 1/2)λ.               B. constructive interference if p = nλ.
+    C. destructive interference if p = 2nλ.                       D. destructive interference if p = 0
+
+17. The amount of heat energy required to change a substance from a liquid to a gaseous state is known as                   (1)
+    A. specific heat capacity.                                    B. quantity of heat.
+    C. latent heat of fusion.                                     D. latent heat of vaporization.
+
+18. Which one of the following is correct about mechanical waves?                                                           (1)
+
+    A. The maximum height in a transverse wave is known as the trough of the wave.
+    B. The time taken for one complete wave to pass a given point is called the frequency of the wave.
+    C. The distance between two identical points on adjacent waves is known as the wavelength of the wave.
+    D. The number of complete waves that passes a given point per time is called the period of the wave.
+
+19. A car of mass 1.50 × 10³ kg collides with a wall and rebounds. The initial and final velocities of the car are v1 = (1)
+                                                                                                                     ​
+
+
+
+
+    −15.0 m/s and v2 = 2.60 m/s respectively. If the collision lasts for 0.15 s, what is the magnitude of the average
+                        ​
+
+
+
+
+    force exerted on the car?
+    A. 2.60 × 10⁴ N                                               B. 3.96 × 10³ N
+    C. 2.64 × 10⁴ N                                               D. 1.76 × 10⁵ N
+
+20. Starting from rest, a block of mass 5.0 kg slides 2.5 m down a rough 37° incline. The coefficient of kinetic friction (1)
+    between the block and the incline is µk = 0.44 . What is the work done by the friction force on the block?
+                                              ​
+
+
+
+
+    A. -75.00 J                                                   B. -18.92 J
+    C. -44.00 J                                                   D. -59.00 J
+
+21. An inclined plane is 20 m long and is inclined at an angle of 15° to the horizontal. If the effort required to push a   (1)
+    block of weight 3,000 N up the slope is 900 N, what is the efficiency of the inclined plane?
+    A. 100 %                                                      B. 86.7 %
+    C. 25.9 %                                                     D. 30.0 %
+
+22. A wooden block of volume 5.00 × 10⁻⁴ m³ floats partially submerged in water, and a small steel object of mass           (1)
+    m is placed on top of the block. When m = 0.25 kg, the system is in equilibrium and the top of the wooden block
+    is at the level of the water. What is the density of the wood?
+    A. 1000 kg.m⁻³                                                B. 1500 kg.m⁻³
+    C. 500 kg.m⁻³                                                 D. 800 kg.m⁻³
+23. A boy in a journey covers his route by travelling 3.0 km east and 4.0 km north. What is the magnitude of his         (1)
+    resultant displacement?
+    A. 5.0 km                                                  B. 1.0 km
+    C. 7.0 km                                                  D. 2.7 km
+
+24. A bimetallic strip made up of iron and brass bonded together is used in a thermostat. The coefficient of linear      (1)
+    expansions for iron and brass are 1.1 × 10⁻⁵/K and 1.9 × 10⁻⁵/K, respectively. Which of one the following
+    phenomena occurs when the temperature changes?
+    A. When the temperature decreases, the brass section of the bimetallic strip contracts slowly than the iron and the
+       strip bends towards the brass section.
+    B. When the temperature increases, the iron section of the bimetallic strip expands faster than the brass and the
+       strip bends towards the brass section.
+    C. When the temperature increases, the brass section of the bimetallic strip expands faster than the iron and the
+       strip bends towards the iron section.
+    D. When the temperature decreases, the iron section of the bimetallic strip contracts faster than the brass and the
+       strip bends towards the iron section.
+
+25. Which one of the following statements does NOT describe coherent light or interference of coherent light?            (1)
+
+    A. Two waves which maintain constant phase relationship can produce sustained interference.
+    B. Sustainable interference pattern can be formed by two waves with variable phase difference.
+    C. In order for two waves to be coherent, they must be the same type of wave.
+    D. Coherent light waves have the same frequency and wavelength.
+
+26. Kirchhoff's junction rule is a consequence of conservation of                                                        (1)
+    A. momentum.                                               B. mass.
+    C. charge.                                                 D. electrical energy.
+
+27. Which one of the following statements describes the photoelectric effect interaction of radiation with matter?       (1)
+
+    A. When radiation of certain frequency f, interact with atoms of a material, electrons will be emitted with energies
+       proportional to the radiation energy.
+    B. Any value of photons (radiations) is capable of producing photoelectrons from a metal.
+    C. In photoelectric effect, the photoelectron energy is directly proportional to the wavelength of incident radiation.
+    D. The intensity of radiation incident on a material can affect the energy of photoelectrons emitted from the metal
+       surface.
+
+28. A positive point charge of 2 μC is placed on the x-axis at the origin and a positive charge of 6 μC and a negative   (1)
+    point charge of -4 μC are placed, respectively at x=-3cm and x=+3cm on the x-axis. What is the net electric
+    force on the 2 μC charge?
+    A. 200 N toward the negative x-axis                        B. 200 N toward the positive x-axis
+    C. 40 N toward the positive x-axis                         D. 40 N toward the negative x-axis
+29. Consider a point charge Q in an electrostatic field and a point mass m in a gravitational field. Which one of the      (1)
+    following statements is correct about the potential energy of the objects?
+    A. The electric potential decreases as a positive charge moves opposite to the electric field while the gravitational
+       potential of the mass increases when it moves along the gravitational field.
+    B. The potential energy of the point charge and that of the point mass changes as they move over equipotential
+       surfaces in their respective fields.
+    C. The potential energies at distance r, from the field sources for both Q and m vary inversely with r².
+    D. The gravitational force on mass m is in the same direction of the gravitational field while the electric force on Q
+       in the same or opposite directions depending the sign of the charge.
+
+30. An electron moving with a speed of 2.2×10⁷m/s east enters the region of a magnetic field strength of 5×10⁻⁴ T          (1)
+    directed north. What is the magnetic force experienced by the electron?
+    A. 1.76×10⁻¹⁵ N, perpendicular to north and east directions
+    B. 8×10⁻¹⁵ N, perpendicular to north and east directions
+    C. 3.64×10⁻³⁰ N, towards east direction
+    D. 1.76×10⁻¹⁵ N towards north direction
+
+31. A magnetic field intensity of 4x10⁻⁴ T crosses a coil having face area 100 cm² and 5x10⁴ turns perpendicular to        (1)
+    the face of the coil. If the magnetic flux in the coil set to zero within 2 ms. What is the magnitude of the induced
+    emf in the coil?
+    A. 4x10⁻³ V                                                 B. 100 V
+    C. 10 V                                                     D. 2x10⁻⁵ V
+
+32. In a simple a.c circuit, an inductor of 4μH and a capacitor of 9 pf are connected in series to each other and the      (1)
+    combination is connected to an a.c source. What is the angular frequency at resonance of the circuit?
+    A. 3.8x10⁸ rad/s                                            B. 2.7x10⁵ rad/s
+    C. 3.6x10⁷ rad/s                                            D. 1.67x10⁸ rad/s
+
+33. Electrons in a Sodium atom emit radiation when they move from a higher energy level of -0.81eV to a lower              (1)
+    energy level of -2.21eV. What is the frequency of radiation emitted in the process?
+    A. 3.38x10 14 Hz                                            B. 1.40x10 15 Hz
+    C. 8.10x10 15 Hz                                            D. 2.21x10 14 Hz
+
+34. Which one of the following statements is NOT correct about power of a lens?                                            (1)
+    A. The power of a lens decreases as the focal length of the lens increases.
+    B. The larger the focal length of the lens, the greater is the power of the lens.
+    C. The power of a lens is the measure of the strength of the lens.
+    D. Optician gives the name diopters for the unit of power of a lens.
+
+35. Which one of the following groups of physical quantities contains only vectors?                                        (1)
+    A. Work, Electric field, Displacement and Force
+    B. Acceleration, Speed, Force and Electric field
+    C. Momentum, Energy, Magnetic field and Force
+    D. Displacement, Velocity, Magnetic field and Momentum
+
+36. Which rule about the number of significant figures is correct? Zeros in the number                                     (1)
+    A. 450.0 are significant figures.                           B. 0.0023 are significant figures.
+    C. 1.1000 are not significant figures.                      D. 2.70018 are not significant figures.
+37. Given two vectors v₁ = 10 units along the positive y-axis and v₂ = 6 units at an angle of 37° above the positive x-     (1)
+    axis. What is the scalar product of the vectors in square of units?
+    A. 45                                                                  B. 36
+    C. 48                                                                  D. 60
+
+38. An airplane takes-off at airport A and travels 500 km due east within one hour and then turning to south it flies       (1)
+    for 20 minutes to land on airport B which is 100 km away from the turning point. The magnitude average
+    velocity of the plane during its flight between the two airports is
+    A.   24 km/h
+             ​
+                                                                           B. 100 34 km/h   ​
+
+
+
+
+    C. 450 km/h                                                            D. 75 26 km/h​
+
+
+
+
+39. A bullet is fired with an initial speed v at an angle θ with the horizontal. It takes a time T to reach its maximum     (1)
+    vertical displacement hmax. It hits the target point a distance R away and exactly in the horizontal level to the
+    point where it was fired. Which one of the following statement is NOT correct about the motion of the bullet?
+    A. The bullet hits the target at a time 2T after it was fired.
+    B. hmax is directly proportional to the initial speed v.
+    C. R will be maximum if cos θ = 2/2.         ​
+
+
+
+
+    D. θ should be different from 90° to hit the target at a distance R.
+
+40. A man pushes a 25.0 kg object by 250 N force along an inclined plane inclined at an angle of 37° to the                 (1)
+    horizontal. If the object moves with constant speed, the friction force exerts on the block is
+    A. 250.0 N, up the inclined plane.                                     B. 100.0 N, up the inclined plane.
+    C. 100.0 N, down the inclined plane.                                   D. 250.0 N, down the inclined plane.
+
+41. The following three collisions occur in different systems. I. A billiard ball A collides with an identical ball B and   (1)
+    comes to rest after collision, while ball B moves with the same velocity as ball A was moving before. II. A bullet
+    moving with speed v hits a suspended mass and is embedded in it and the combination moves with common
+    velocity. III. Two cars moving in opposite direction become at rest after collision. Which of the following
+    statements is correct about these collisions?
+    A. If and III are inelastic collisions.                                B. I and II are elastic collisions.
+    C. I, II and III are inelastic collisions.                             D. I and III are elastic collisions.
+
+42. An object of mass M is attached to a spring of spring constant K, as shown in the figure below. If the mass is          (1)
+    pulled to a point P, which is at distance A from equilibrium position O, and released, Which one of the following
+    statements is correct about energy of the system? (assume the surface is frictionless)
+    A. At point O, the system has both kinetic and potential energy.
+    B. At point P, the system has both kinetic energy and potential energy.
+    C. At point P, the mass attain its maximum velocity.
+    D. At point Q the system has both kinetic energy and potential energy.
+
+                                                     — E N D O F E X A M I N AT I O N —
+                                     Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

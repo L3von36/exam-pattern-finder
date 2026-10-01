@@ -1,0 +1,218 @@
+                                                            Temari.et
+                          Physics, 2015 EC, natural science, entrance exam
+                                                    Grade 12 · Physics · 2015 E.C.
+
+Time allowed: 120 minutes                                        Questions: 30                             Total marks: 30
+
+Name                                                Grade                        ID No.             Date
+
+1.   An object is placed 25.0 cm in front of a concave mirror having focal length of 10.0cm. The magnification of the       (1)
+     mirror is
+     A. 2.5                                                          B. 16.7
+     C. 0.67                                                         D. 1.5
+
+2.   Which of the following statements distinguishes between random and systematic errors?                                  (1)
+     A. Systematic error can be minimized by taking several readings and averaging; whereas random error cannot be
+        minimized.
+     B. Systematic error makes measured values to be always above or always the true value; whereas random error
+        causes measured vales to be sometimes above and sometimes below the true value.
+     C. Random error makes measured values to be always above or always below the true value; whereas systematic
+        error causes measured values to be sometimes above and sometimes below the true value.
+     D. Random error is biased, whereas systematic error does not show bias.
+
+3.   The unit vector the direction A = 3i + 4j is                                                                           (1)
+     A. (3/5)i + (4/5)j                                              B. 2i - j
+     C. (3/2)i - (4/2)j                                              D. i + j
+
+4.   Which of the following pair of vectors are collinear?                                                                  (1)
+     A. 2i - 3j and -4i - j                                          B. i + j and -i + j
+     C. 2i + 3j and -4i + 6j                                         D. 2i + 3j and -4i - 6j
+
+5.   For an object moving in straight line,                                                                                 (1)
+
+     A. If the displacement changes by equal amount in equal time interval,the displacement-time graph is horizontal
+        line.
+     B. The area of the region under the displacement-time graph and the slope of velocity-time graph are, respectively,
+        the acceleration and displacement of the object.
+     C. If the velocity increases by equal amount in equal time interval, the velocity -time graph is straight line with
+        positive slope and the acceleration-time graph is horizontal.
+     D. The slope of displacement-time graph and the area of the region under acceleration-time graph are,
+        respectively, the acceleration and velocity of the object
+
+6.   Which of the following is true about satellite motion?                                                                 (1)
+     A. A satellite moving closer to the Earth takes longer time to complete one revolution than a satellite farther from
+        the Earth.
+     B. For two satellites moving around the Earth at equal orbital radius, a heavier satellite has larger speed than a
+        lighter one.
+     C. For equal orbital radius, a satellite moving around the Earth has smaller speed than a satellite moving about
+        moon.
+     D. A satellite closer to Earth is faster than a satellite farther from the As Earth.
+7.   According to the work- energy theorem,                                                                               (1)
+     A. work done by tension on an object tied to a string and moving a horizontal circle is negative.
+     B. work done by gravity on an object downward is negative.
+     C. work done by gravity on an object thrown upward and moving upward is negative.
+     D. work done by gravitational force on a satellite moving around the earth in a circular is positive
+
+8.   A young double slit experiment consists of two narrow slits separated by 0.06 mm and 1.2m away from a screen. (1)
+     If the slits arel illuminated with a light of wavelength 563nm, the location of the fourth bright fringe on the
+     screen is
+     A. 0.0394cm                                                B. 0.45cm
+     C. 3.94cm                                                  D. 4.5cm
+
+9.   The electric potential at a distance of 2 cm from -1.6 x 10-9C point charge is                                       (1)
+     A. -14.4 v                                                 B. 720 v
+     C. 4.4 v                                                   D. -720 v
+
+10. Consider a long and tightly wound solenoid carrying current l, havinglength L and N turns of winding. If n is the     (1)
+    number of turns per unit length, which of the following describes the magnetic field produced by the solenoid?
+     A. The magnetic field inside the solenoid is zero, whereas the field outside is perpendicular to the length of the
+        solenoid.
+     B. The magnetic field inside the solenoid is constant and is parallel to the solenoid's axis, whereas the field outside
+        is negligible.
+     C. The magnetic field inside the solenoid is uniform and perpendicular to the axis of the solenoid.
+     D. The magnetic field outside the solenoid is as strong as the field inside it.
+
+11. According to the law of electromagnetic induction,                                                                    (1)
+     A. the magnitude of emf induced in a circuit is directly proportional to the rate of change the magnetic flux
+        crossing any surface bounded by the circuit.
+     B. a changing magnetic field parallel to the plane of a circuit induces an emf in it.
+     C. a constant magnetic flux crossing the surface of a circuit induced an emf in the circuit.
+     D. an emf is induced in a circuit when a constant magnetic field crosses its surface.
+
+12. According to the Heisenberg's uncertainty principle,                                                                  (1)
+
+     A. the larger the position uncertainty, the larger the momentum uncertainty.
+     B. if the uncertainty in position decreases, the momentum uncertainty decreases, too.
+     C. the more precisely we measure the position of a particle; we become less precise of its momentum and vice
+        versa.
+     D. we can measure both the position and momentum of a particle simultaneously with unlimited precision.
+
+13. The graph of nuclear binding energy per nucleon (BE/A) versus mass number (A) has its peak near an atomic             (1)
+    weight A = 56. Which of the following statements is true about the graph?
+     A. Uranium (A = 235), which has larger binding energy than iron (A = 56), is more stable than iron.
+     B. Nucleus with larger number of neutron is more stable than nucleus of the same atom with smaller number of
+        neutron.
+     C. For heavier nuclei (A > 56), the binding energy per nucleon decreases with the increase of mass number;
+        implying that heavier atoms can increase their stability by increasing their proton's number.
+     D. For smaller atoms (A < 56), the biding energy per nucleon generally increases with the increase of mass number;
+        indicating that lighter atoms can increase stability through nuclear fission.
+14. Which of the following statements is NOT correct about reflection and refraction of sound waves and their              (1)
+    applications?
+    A. In pre-natal scanning, reflection and refraction of sound allows doctors to monitor the progress of a developing
+       baby.
+    B. Reflection of sound (echo) is formed when sound enters a medium of varying densities.
+    C. Reflection and refraction of sound are used to detect flaws in metals and to help people park their cars.
+    D. Refraction of sound is the change in its direction as it travels through a medium having different densities.
+
+15. A torque t rotates an object of mass m and moment of inertia I through an angle 9. The work done on the object         (1)
+    by the torque is
+    A. Iθ                                                       B. mθ
+    C. τθ                                                       D. τI
+
+16. One of the following statements is a correct description of the charging processes?                                    (1)
+
+    A. During charging a neutral object by induction using a negatively charged rod, charge flows from the rod to the
+       object
+    B. When a neutral metallic sphere is charged by induction using a negatively charged rod, the sphere acquires a net
+       negative charge.
+    C. When a positively charged object is momentarily brought into contact with a neutral metallic sphere, the sphere
+       acquires a net positive charge.
+    D. When a plastic rod is rubbed with wool, the two objects acquire a net charge of the same region.
+
+17. A parallel plate capacitor is charged with a battery. The battery is then disconnected, and a dielectric material is   (1)
+    inserted between the plates of the capacitor. Which of the following is correct about the effect of the dielectric?
+    A. The potential difference between the plates remains the energy stored increases.
+    B. The charge on the plates decreases and the energy stored increases
+    C. The electric field between the plates and the energy stored decrease.
+    D. he capacitance remains the same and the electric field between the plates increases.
+
+18. Which one of the following statements is correct about the resistance of a conductor with a circular cross-            (1)
+    section?
+    A. At a given temperature, the resistance of copper and silver wires of the same length and diameter is the same.
+    B. The resistance of the conductor increases as its length increases and its diameter decreases.
+    C. The resistance of the conductor increases as its length and diameter increases.
+    D. The resistance of the conductor decreases as it is heated.
+
+19. The primary coil of a transformer has 250 turns and its secondary coil consists of 1500 turns. If 220V is applied      (1)
+    to its primary coil, the voltage induced in the secondary coil, respectively, are
+    A. 1320V and 6                                              B. 1330V and 6
+    C. 1220V and 60                                             D. 1320V and 60
+
+20. A diode is an electronic component that                                                                                (1)
+
+    A. is useful to covert a DC voltage to AC voltage.
+    B. allows electric current to pass through it in one direction.
+    C. allows the flow of current when its p-type region is connected to the negative terminal of a cell.
+    D. allows current to mass through it either from cathode to anode or from anode to cathode.
+21. A student throws a ball vertically upward with a speed of 20m/s. The maximum height reached by the ball and              (1)
+    its velocity 30s after it was thrown are, respectively
+    A. 20m and 30m/s upward.                                    B. 15m and 10m/s downward.
+    C. 105m and 50m/s upward.                                   D. 20m and 10m/s downward.
+
+22. Which one of the following statements describes the difference between different types of friction?                      (1)
+    A. For an object at rest on a horizontal surface, static friction increases with the increase of the applied force and
+       reaches a maximum value just before sliding occurs.
+    B. Limiting friction is the minimum value of static friction that keeps an object stationary.
+    C. If there is a constant force applied to a stationary object on a horizontal surface, the static friction becomes
+       equal to the limiting friction.
+    D. Limiting and kinetic frictions exist at the same time between two surfaces sliding over each other.
+
+23. The apparent weight of a 60kg student standing inside a lift is                                                          (1)
+
+    A. 600N when the lift accelerates with acceleration equal to gravitational acceleration.
+    B. 600N when the lift accelerates upward with 2m/s^2
+    C. 480N when the lift accelerates downward with 2m/s^2
+    D. 720N when the lift is at rest.
+
+24. Which of the following statements describe the use of energy resources?                                                  (1)
+    A. Solar energy produced by photovoltaic cells in free of greenhouse gases and has a very low running cost
+    B. Hydroelectric power generates a large a large amount of energy using small dam with little environmental
+       impact and cheap initial cost of consstruction.
+    C. Geothermal energy is the most accessible, environmental friendly and inexpensive source of energy.
+    D. Wind energy, which is due to the pressure difference in space as the result of uneven sun heat, is a consistent
+       and economical source of energy.
+
+25. According to the law of floatation, an object must displaces a volume of fluid                                           (1)
+
+    A. equal to the weight of undisplaced fluid.
+    B. equal to its apparent weight.
+    C. less than its own weight.
+    D. equals to its own weight.
+
+26. Which one of the following statements describes the unusual behavior of expansion of water?                              (1)
+    A. The density of water at 0°C is less than its density at 4°C, since water molecules move further apart and form a
+       second hydrogen bond with other water molecules.
+    B. As a temperature of water increases above 4°C, its density increases since water molecules move further apart
+       to form a second hydrogen bond with other molecules.
+    C. At 0°C, water has larger density and smaller volume than its density and volume at 4°C.
+    D. As a temperature of water increases from 0°C to 4°C, its density increases since one molecule of water forms
+       one hydrogen bond with another molecule.
+
+27. An FM radio signal is transmitted from a radio station at a frequency of 1.5 x 108 Hz. If the wavelength of the          (1)
+    radio wave is 2.00m, the speed of the FM signal is
+    A. 6.00 x 10^8 m/s                                          B. 1.33 x 10^(-8) m/s
+    C. 3 x 10^(8) m/s                                           D. 0.75 x 10^(8) m/s
+28. Which one of the following statements is correct about transformation of mechanical energy into other forms      (1)
+    and the law of conservation of total energy?
+    A. Due to dissipative force, the mechanical energy of a wooden block sliding on a rough horizontal surface is not
+       conserved.
+    B. Mechanical energy of a wooden block sliding on a rough horizontal surface is conserved.
+    C. Neglecting air resistance, an object moving vertically downward gains potential energy and loses an equal
+       amount of kinetic energy.
+    D. Neglecting air resistance, an object moving vertically upward gains kinetic energy and loses an equal amount of
+       gravitational potential energy
+
+29. A wheel rotating at angular speed of 20 rev/s is brought to rest after 40 rev under a constant angular           (1)
+    acceleration. The angular acceleration of a point on the wheel is
+    A. 5 rev/s^2                                                       B. -5 rev/s^2
+    C. -0.5 rev/s^2                                                    D. 0.25 rev/s^2
+
+30. Tensile stress is the                                                                                            (1)
+    A. parallel component of the applied force divided by the cross sectional area of an object.
+    B. ratio of change in length of an object to the original length
+    C. perpendicular component of the applied force divided the cross sectional area of an object.
+    D. ratio of original to the change in length of the object.
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,291 @@
+                                                              Temari.et
+                            Mathematics, 2015 EC, entrance exam, version 1
+                                                   Grade 12 · Mathematics · 2015 E.C.
+
+Time allowed: 120 minutes                                                 Questions: 57                      Total marks: 57
+
+Name                                                  Grade                               ID No.      Date
+
+1.   If f (x) = x+2
+                 x+2
+                     and g(x) = x1 − 2 then what is the value of f (g(x)) for all x > 0 ?
+                        ​
+
+
+
+
+                        ​                  ​                                                                              (1)
+
+     A. √x - 2                                                               B. √x + 2
+     C. √x                                                                   D. 1/√x
+
+2.   Which of the following is Not the property of f (x) = x2/5 ?                                                         (1)
+     A. f(xy) = f(x)f(y)
+     B. decreasing on (-∞,0]
+     C. the range is real number
+     D. the graph is symmetric with respect to the y-axis
+
+3.   Which one of the following function is one to one correspondence function from A = [0,1] to B = [2,3]?               (1)
+     A. f(x)=x+2                                                             B. f(x)=2x+2
+     C. f(x)=x+3                                                             D. f(x)=2x+1
+
+4.   Suppose f (x) = x(xQ(x)
+                         2 −1) where Q(x) is a quadratic function. Which one of the following is necessarily true
+                                   ​                                                                                      (1)
+     about the graph f ?
+     A. x=0, x=1 and x=-1 are vertical asymptote of the graph f
+     B. The graph of f does not intersect with its horizontal asymptote.
+     C. The vertical asymptote of the graph of f is only x=-1, if Q(x)=x^2-x
+     D. The vertical asymptote of the graph of f is only x=1, if Q(x)=2x^2
+
+5.   What is the solution set of x2 = xx−2          2x−2
+                                       2 −2x = 1 − 3x−2 ? (Note: The equation has two equals signs, likely a typo;
+                                       ​       ​                      ​                                                   (1)
+                    2
+     probably it is x = x2 −2x and also equals the other expression. We solve as two equations.)
+                    ​
+                         x−2
+                               ​
+
+
+
+
+     A. {-2,1}                                                               B. {1,2}
+     C. {-1}                                                                 D. {1}
+
+6.   Given line 4y = 3x + 24 and another line ℓ parallel to this line at a distance of 4 units from it. A possible        (1)
+     equation for ℓ is
+     A. y = (3/4)x                                                           B. y = (3/4)x + 1
+     C. y = (3/4)x + 6                                                       D. y = (3/4)x - 6
+                                                      2       2
+7.   Suppose an eccentricity of the hyperbola xa2 − yb2 = 1 is reciprocal to that of the eccentricity of the ellipse
+                                                          ​       ​                                                       (1)
+     x2 + 4y 2 = 4 if the hyperbola passes through a focus of the ellipse, what is the equation of the hyperbola?
+     A. x^2 - 2y^2 = 2                                                       B. x^2 - 3y^2 = 3
+     C. x^2 - y^2 = 1                                                        D. 2x^2 - y^2 = 2
+
+8.   Which one of the following is the equation of a circle whose center is on x-axis and radius is 3 ?                   (1)
+     A. x^2 + y^2 + 6y = 0                                                   B. x^2 + (y-2)^2 = 3
+     C. (x-3)^2 + y^2 = 9                                                    D. x^2 + y^2 = 9
+9.   Which of the following is NOT true about a parabola y 2 + 2x − 4y + 6 = 0?                                           (1)
+     A. It opens to the left                                    B. Its vertex is (-1, 2)
+     C. Its focus is (3/2, 2)                                   D. Its directrix is the line x = -1/2
+
+10. The distance from the point P(3,4) to the line L with equation: 3x + 4y = 5 is                                        (1)
+
+     A. 6 units                                                 B. 7 units
+     C. 4 units                                                 D. 5 units
+
+11. What is the locus of all points in the plane in which the difference of the distances from two fixed points is        (1)
+    constant?
+     A. Ellipse                                                 B. Circle
+     C. Hyperbola                                               D. Parabola
+
+12. Let p and q be propositions. Which of the following compound statement is a tautology?                                (1)
+     A. (p ∧ q) ⇔ p                                             B. (p ⇒ q) ⇔ (¬p ∨ q)
+     C. (p ∨ q) ⇔ p                                             D. (p ⇒ q) ⇔ q
+
+13. If p ⇒ q is false, then which of the following compound statement is true?                                            (1)
+     A. p ∧ q                                                   B. p ⇔ q
+     C. p ∨ q                                                   D. (p ∨ q) ⇒ q
+
+14. Which of the following arguments is invalid logical argument?                                                         (1)
+     A. p ∧ ¬q, p, r ⇒ q ⊢ ¬r                                   B. p ∨ r, p ∧ q ⊢ p ⇒ ¬q
+     C. p ⇒ q, ¬r ⇒ ¬q ⊢ ¬p ∨ r                                 D. ¬p ∨ q, ¬q ⊢ ¬q
+
+15. Which of the following is the inverse of; "If wages increase, then inflation decreases"?                              (1)
+
+     A. If inflation decreases, then wage increase.
+     B. If wages decreases, then inflation increases.
+     C. If wages decreases, then inflation decreases.
+     D. If wages increase, then inflation increases.
+
+16. What is the odds in favor of getting exactly two heads when three coins are tossed?                                   (1)
+     A. 3/8                                                     B. 5/8
+     C. 5/3                                                     D. 3/5
+
+17. From a box containing 2 white and 6 green balls, a ball is drawn at random. The probability of not a green ball is:   (1)
+
+     A. 1/4                                                     B. 3/4
+     C. 1/3                                                     D. 2/3
+
+18. The expenditure of 50 families is given below. If the mode of the data is 23.5 what are the values of F1 and F2?      (1)
+    (Class intervals: 0-9,10-19,20-29,30-39,40-49; frequencies: 6,10,F1,14,F2 with total 50)
+     A. F1=17, F2=13                                            B. F1=24, F2=6
+     C. F1=8, F2=22                                             D. F1=22, F2=8
+
+19. How many three digit number can be formed from the digits 2,5,6,7 and 9 less than 600, if digits is used once         (1)
+    only?
+     A. 24                                                      B. 40
+     C. 125                                                     D. 50
+20. In a random arrangement of the word "SOCIETY", what is the total number of words in which all the three vowels (1)
+    come together?
+     A. 120                                                              B. 720
+     C. 420                                                              D. 840
+
+21. Which of the following is the constant term of (x2 − 2x1 6 )8 ?  ​                                                  (1)
+     A. 28                                                               B. 7
+     C. -7                                                               D. -28
+
+22. From the data (marks distribution), if student in the top 8% are to be awarded a certificate. What is the minimum   (1)
+    mark for a certificate? (Data: class intervals 10-14,15-19,20-29,30-39; frequencies 15,23,46,16)
+     A. 34.5                                                             B. 30.5
+     C. 32                                                               D. 33
+
+23. A group of 100 items have a mean of 62. If the mean of 40 of these items is 55, what is the mean of the             (1)
+    remaining items?
+     A. 66.67                                                            B. 69.00
+     C. 65.00                                                            D. 64.55
+
+24. If [[1-x, 0],[1, 2y]] + [[y-1, 4],[2, 1-3x]] = [[0,4],[3,5]], then x and y respectively?                            (1)
+
+     A. -2 and 2                                                         B. 1 and -1
+     C. 0 and 0                                                          D. -4 and -4
+
+25. If A is a square matrix of order 3 and det(A)=5, then what is the value of det(A adj(A))?                           (1)
+     A. 125                                                              B. 25
+     C. 5                                                                D. 3
+
+26. For any n×n square matrix A, which of the following is true?                                                        (1)
+     A. det(A) = -det(A^T)
+     B. If k is scalar, det(kA) = k^n det(A)
+     C. If B is obtained from A by interchanging two rows, then det(A)=det(B)
+     D. If A is invertible, then det(A)=det(A^{-1})
+
+27. For what value of x does ((1+i)/(1-i))^x = 1?                                                                       (1)
+     A. x=2n+1                                                           B. x=2n
+     C. x=4n                                                             D. x=4n+1
+
+28. If the real part of (z+2)/(z-1) is 4, then the locus of the point representing z in the complex plane is:           (1)
+     A. Circle                                                           B. Straight line
+     C. Parabola                                                         D. Hyperbola
+
+29. If z = (2-2√3 i)/(1+i), then which one is the polar representation of z?                                            (1)
+     A. 2√2(cos(-105°)+i sin(-105°))                                     B. 4(cos(-105°)+i sin(-105°))
+     C. 2√2(cos15°+i sin15°)                                             D. 4(cos75°+i sin75°)
+
+30. If z1 = (2-i)/(1+i) and z2 = (1+i)/(1-i), then z1 - 2z2 = ?                                                         (1)
+
+     A. 1-7i                                                             B. (1-7i)/2
+     C. (1+7i)/2                                                         D. 1-7i
+31. The 15th term of the sequence {0, -3, -8, -15, ...} is                                                                 (1)
+     A. -245                                                         B. -255
+     C. -224                                                         D. -242
+
+32. The sum of the first four terms of an arithmetic progression is 56 and the sum of the last four terms is 112. If its   (1)
+    first term is 11, then the number of terms are:
+     A. 10                                                           B. 18
+     C. 12                                                           D. 11
+
+33. A ball is dropped from a height of 10m above a flat surface. In each bounce, it rebounds 50% of the distance it        (1)
+    fell. What is the maximum possible vertical distance the ball could travel?
+     A. 20m                                                          B. 40m
+     C. 45m                                                          D. 30m
+
+34. What is the sum of the series Σ_{n=1}^{30} (-1)^n (1/n + 1/(n+1))?                                                     (1)
+
+     A. -30/31                                                       B. 29/30
+     C. -29/30                                                       D. 31/31
+
+35. If the third term of a geometric sequence is 4/9 and the sum of infinite terms of the geometric sequence is 3,         (1)
+    then the first term of geometric sequence will be:
+     A. 1/2                                                          B. 2/3
+     C. 1/3                                                          D. 1
+
+36. Which one of the following is equal to lim_{n→∞} (1^2+2^2+...+n^2) / ((n^2-1)(n+1)) ?                                  (1)
+     A. 0                                                            B. 1/2
+     C. 1/3                                                          D. does not exist
+
+37. The value of lim_{x→1/2} (2x-1)/(1-∛(2x)) is equal to:                                                                 (1)
+     A. 1                                                            B. 3
+     C. -3                                                           D. -1.5
+
+38. Which of the following statement is NOT True?                                                                          (1)
+     A. A sequence {a_n} is a null sequence if lim a_n = 0
+     B. If {a_n} is increasing and bounded above then lim a_n = lub of {a_n}
+     C. If {a_n} is decreasing and bounded below, then lim a_n = glb of {a_n}
+     D. Every bounded sequence is convergent
+
+39. Let f(x) = { a sin x / (x - |x|) for x<0, e^{-x} for x≥0 }. If f is continuous at x=0, then a = ?                      (1)
+     A. 4                                                            B. -4
+     C. 1/2                                                          D. 2
+
+40. Which one of the following is equal to lim_{x→∞} (√(x^2+2x) - x) ?                                                     (1)
+     A. 0                                                            B. 1
+     C. ∞                                                            D. does not exist
+
+41. Which one of the following is equal to lim_{x→0} (2x + tan x)/(x sec x) ?                                              (1)
+
+     A. 2                                                            B. 0
+     C. 1                                                            D. 3
+42. lim_{x→∞} ((x+1)/x)^{2x+4} is equal to:                                                                           (1)
+     A. e                                                          B. e^2
+     C. e^4                                                        D. ∞
+
+43. If f(x)= x^2 + 2 ln x^2, then lim_{h→0} (f(1+h)-f(1))/h is equal to:                                              (1)
+
+     A. 2                                                          B. 6
+     C. 5                                                          D. 0
+
+44. If f(x)= π^3, then f'(2) is equal to:                                                                             (1)
+     A. 3π^2                                                       B. 0
+     C. 12                                                         D. 1
+
+45. If y = e^{2x} + x - 3 cos x, then d²y/dx² is:                                                                     (1)
+     A. 4e^{2x}+3 cos x                                            B. 4e^{2x}-3 cos x
+     C. e^{2x}+1+3 sin x                                           D. e^{2x}+1-3 sin x
+
+46. Which of the following function has NO vertical asymptote?                                                        (1)
+     A. f(x)=1/(x-1)                                               B. f(x)=x/(x^2+1)
+     C. f(x)=tan x                                                 D. f(x)=ln x
+
+47. Which of the following is the equation of the line tangent to the graph of f(x)= 1/(x+1) + e^{2x} cos x at x=0?   (1)
+
+     A. y= x+2                                                     B. y= 2x+1
+     C. y= 3x+2                                                    D. y= x+1
+
+48. What is the nth derivative of the function f(x)= e^{3x+1}?                                                        (1)
+     A. 3^{n-1} e^{3x+1}                                           B. 3^{n+1} e^{3x+1}
+     C. 3^n e^{3x+1}                                               D. e^{3x+1}
+
+49. Which of the following is the solution set of the equation sin 2x - sin x = 0 in [0,2π]?                          (1)
+     A. {0, π/3, π, 5π/3, 2π}                                      B. {0, π/3, π, 5π/3}
+     C. {0, π/3, 5π/3, 2π}                                         D. {0, π/3, 5π/3}
+
+50. If sin(α+θ)=12/13 and sin θ = 4/5, then sin α is:                                                                 (1)
+     A. 16/65                                                      B. 1/5
+     C. 56/45                                                      D. 16/45
+
+51. Which of the following is true about f(x)= -3 cos(½ x)?                                                           (1)
+
+     A. The amplitude of f is -3                                   B. The range of f is [-1,1]
+     C. 5π is a zero of the function                               D. f(-x) = -f(x) ∀x∈ℝ
+
+52. Your football has landed at the edge of the roof of your school building. When you are 25 meters away from the    (1)
+    base of the building, the angle of elevation to your football is 45°. How high off the ground is your football?
+     A. 25 meters                                                  B. 50/√2 meters
+     C. 50 meters                                                  D. 25/√2 meters
+
+53. Which one of the following is NOT a correct identity?                                                             (1)
+     A. sin x cos^2 x - sin x = - sin^3 x                          B. (cos x tan x - sin x)/cot x = 0
+     C. sin^4 x - cos^4 x = sin^2 x - cos^2 x                      D. sin x/(1+cos x) = sec x - tan x
+54. Which of the following is the image of the point (1,3) when reflected along the line x - 2y - 5 = 0?               (1)
+     A. (4/3, -11/3)                                                      B. (3,-1)
+     C. (-6, -1/2)                                                        D. (5,-5)
+
+55. If u = -i+2j, v = -3i+j, w = -3j, what is cosine of angle between u+w and v?                                       (1)
+
+     A. 1/√5                                                              B. 1/2
+     C. 4/√20                                                             D. 0
+
+56. Let a = i - j and b = 2i - 3j. What is a unit vector in the direction of a - b?                                    (1)
+     A. (1/5)i - (2/5)j                                                   B. -(1/√5)i + (2/√5)j
+     C. (1/√5)i - (2/√5)j                                                 D. -(1/5)i + (2/5)j
+
+57. Let two vectors a = -2i + 2j + mj (should be + mk?) and b = 3i + 6j. For what value of m are they perpendicular?   (1)
+     A. 1                                                                 B. 2
+     C. 0                                                                 D. -1
+
+                                                  — E N D O F E X A M I N AT I O N —
+                                    Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+
