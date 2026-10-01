@@ -56,3 +56,9 @@ server.log
 .env
 /db/*.db
 /db/*.db-journal
+
+# Sensitive auth files (random accounts used for scraping)
+scripts/account*.txt
+scripts/temari-session*.json
+download/account*.txt
+

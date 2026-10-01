@@ -1,4 +1,0 @@
-Phone: 0913979891
-PIN: 5156
-Name: Study User
-Grade: 12 Natural
