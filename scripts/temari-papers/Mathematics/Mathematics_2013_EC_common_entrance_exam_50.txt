@@ -1,0 +1,119 @@
+                                                          Temari.et
+                           Mathematics, 2013 EC, common, entrance exam
+                                               Grade 12 · Mathematics · 2013 E.C.
+
+Time allowed: 120 minutes                                     Questions: 20                                       Total marks: 20
+
+Name                                              Grade                        ID No.                      Date
+
+1.   What is the determinant of the matrix:                                                                                    (1)
+
+
+      1       −7
+     (           )
+      6       5
+          ​       ​
+
+
+
+
+     A. 47                                                        B. 37
+     C. -37                                                       D. -47
+
+2.   The additive inverse of the complex number 3 - 4i is                                                                      (1)
+     A. 3 - 4i                                                    B. -3 + 4i
+     C. 3 + 4i                                                    D. -3 - 4i
+
+3.   What is the modulus of the complex number -6 + 8i?                                                                        (1)
+
+     A. 10                                                        B. 8
+     C. 5                                                         D. 2
+
+4.   Given two vectors u = (1 , 3) and v= (-3, 5) in the plane. Then 6u + 2v is equal to                                       (1)
+     A. (2, 28)                                                   B. (0, 28)
+     C. (0,18)                                                    D. (3, 3)
+
+5.   Which one of the following is the standard form of the equation ofthe circle centered at (2, -3) and radius 5?            (1)
+     A. (x - 2)^(2) + (y + 3)^(2) = 5                             B. (x + 2)^(2) + (y + 3)^(2) = 25
+     C. (x - 2)^(2) + (y + 3)^(2) = 25                            D. (x - 2)^(2) + (y - 3)^(2) = 25
+
+6.   Which of the following defines the equation of a sphere whose centeris at (0, -1, 2) and radius 6 units?                  (1)
+     A. x^2 + (y + 1)^2 + (z - 2)^2 = 12                          B. x^2 + (y + 1)^2 + (z + 2)^2 = 36
+     C. x^2 + (y + 1)^2 + (z - 2)^2 = 36                          D. x^2 + (y - 1)^2 + (z - 2)^2 = 36
+
+7.   Which of the following represents the vector (3, -5, 7) in the spaceusing the standard unit vectors i, j and k ?          (1)
+
+     A. 3i - 5j + 7k                                              B. -3i - 5j - 7k
+     C. 3i - 51 - 7k                                              D. 3i + 5j + 7k
+
+8.   What are the domain and range of the function f(x) = 2x3/4 respectively?                                                  (1)
+     A. [0, ∞) and R                                              B. [0, ∞) and [0, ∞)
+     C. R and [0, ∞)                                              D. [0, ∞) and (0, ∞)
+
+9.   Which one of the following defines a one-to-one function?                                                                 (1)
+     A. f(x) = {(x, y): y = x^2 + 1}                              B. f(x) = {(x, y): y is a father of x}
+     C. f(x) = {(x, y): y is a sister of x}                       D. f(x) = {(x, y): y = 3x - 1}
+10. The equation of a circle is given by (x - 3)2 + (y + 2)2 = 9. What arethe center and the radius of the circle      (1)
+    representatively?
+    A. (3,-2) and 9                                              B. (3,2) and 9
+    C. (3,-2) and 3                                              D. (3,2) and 3
+
+11. Which of the following sentences has a truth value?                                                                (1)
+    A. Man is mortal                                             B. Tomorrow is a beautiful day
+    C. Man is selfish                                            D. We shall win!
+
+12. Which one of the following is the standard form of the equation ofthe parabola with vertex (4, 6) and focus (-8,   (1)
+    6)?
+    A. (y - 6)^2 = 48(x - 4)                                     B. (y - 6)^2 = -48(x - 4)
+    C. (x - 4)^2 = -12(y - 6)                                    D. (x - 4)2 = 12(y - 6)
+
+13. Which of the following is true about the hyperbola given by (x2/4) - y2 = 1?                                       (1)
+    A. Its center is at (2, 1).                                  B. An asymptote to the hyperbola is y = 2x
+    C. Its foci are at (-5, 0) and (5, 0).                       D. Its vertices are at (-2, 0) and (2, O).
+
+14. Two statements P and q are given by:                                                                               (1)
+
+
+    p: 22/7 is an irrational number.
+    q: The sum of two odd integers is odd.
+
+    Then which of the following has truth value T?
+    A. ¬p ∧ q                                                    B. p ∧ q
+    C. p ∧ ¬q                                                    D. ¬q ∨ p
+
+15. Which one of the following is the contrapositive of the statement: lf 21 is a prime number, then 4 is an odd       (1)
+    number?
+    A. If 4 is not an odd number, then 21 is not a prime number.
+    B. If 21 is not a prime number, then 4 is an even number.
+    C. If 4 is an odd number, then 21 is not a prime number.
+    D. If 4 is an odd number, then 21 is a prime number.
+
+16. In a certain health center there are 3 doctors, 8 nurses and 2 physicians. In how many ways one can form a         (1)
+    group of 5 members consisting of 1 doctor, 3 nurses and 1 physician?
+    A. 336                                                       B. 330
+    C. 168                                                       D. 112
+
+17. Which one of the following forms represents an exhaustive set of events if a die is thrown once?                   (1)
+
+    A. {1, 2}, {2}, {4, 5}, {5, 6}                               B. {1, 2}, {4}, {4, 5, 6}
+    C. {1, 2, 3}, {3, 4}, {6}                                    D. {1, 2, 3}, {4, 5}, {6}
+
+18. A bag contains 2 red, 3 yellow and 5 green balls. One ball is drawn at random. What is the probability that the    (1)
+    drawn ball is NOT yellow?
+    A. 4/5                                                       B. 7/10
+    C. 3/10                                                      D. 1/5
+19. Which one of the following is NOT true about the determinant of a given square matrix A ?                    (1)
+     A. The determinant of A is equal to the determinant of its transpose.
+     B. Interchanging two rows of A gives the same determinant.
+     C. If A contains a row of zeros, then its determinant is zero.
+     D. If A has identical rows, then its determinant is zero.
+
+20. If f is a continuous function on [a, b] and F is its anti-derivative, then which of the following is true?   (1)
+
+        Question Diagram
+     A. A                                                                B. B
+     C. C                                                                D. D
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

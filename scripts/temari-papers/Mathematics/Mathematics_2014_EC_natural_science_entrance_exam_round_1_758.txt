@@ -1,0 +1,448 @@
+                                                           Temari.et
+                      Mathematics, 2014 EC, natural science, entrance exam, round 1
+                                                Grade 12 · Mathematics · 2014 E.C.
+
+Time allowed: 120 minutes                                       Questions: 51                                Total marks: 51
+
+Name                                               Grade                           ID No.            Date
+
+1.   What is the locus all points in the plane in which the sum of the distances from two fixed points is constant?       (1)
+     A. Hyperbola                                                   B. Parabola
+     C. Ellipse                                                     D. Circle
+
+2.   The radian measure of an angle of 120° is equal to:                                                                  (1)
+     A. 2π
+         3        ​
+                                                                    B. 4π
+                                                                        3      ​
+
+
+
+
+     C.   π
+          2   ​
+                                                                    D. π
+                                                                       4
+                                                                           ​
+
+
+
+
+3.   What is the surface area of a sphere with radius 6 cm?                                                               (1)
+     A. 24π cm²                                                     B. 36π cm²
+     C. 48π cm²                                                     D. 144π cm²
+
+4.   Which of the following is the measure of an exterior angle of a 10 sided regular polygon?                            (1)
+     A. 72°                                                         B. 144°
+     C. 180°                                                        D. 36°
+
+5.   If the volume of a right circular cone is 64π cm 3 and the diameter of its base is 8 cm, what is the height of the   (1)
+     cone?
+     A. 4cm                                                         B. 12cm
+     C. 8cm                                                         D. 3cm
+
+6.   What are the quotient and remainder respectively, when 75 is divided by 20?                                          (1)
+     A. 3 and 15                                                    B. 4 and 5
+     C. 15 and 3                                                    D. 2 and 19
+
+7.   In rolling a fair die, what is the probability of obtaining 3 or 5?                                                  (1)
+
+     A. 1/3                                                         B. 1/4
+     C. 1/6                                                         D. 1/2
+
+8.   Which one of the following is true?                                                                                  (1)
+     A. The range of arctangent function is [-π, π]
+     B. The range of arcsine function is (-∞, ∞)
+     C. The domain of arccosine function is [-1, 1]
+     D. The domain of arcsine function is [0, π]
+
+9.   The angle of depression of the top of a flag pole from the top of a building that is 40.3 m away from the flag       (1)
+     pole is 30°. If the height of the flag pole is 10m, what is the height of the building?
+     A. 20.3 m                                                      B. 10(4/√3 + 1) m
+     C. 50 m                                                        D. 40 m
+10.                                               2           0       5                      1       3       0
+      Given matrices A =                          3
+                                                  ​       ​   1   ​   4    ​   ​   and B =   6
+                                                                                             ​   ​   5   ​   2 . Which one of the following is A − B ?
+                                                                                                              ​   ​                                          (1)
+                                                  0           6       −2                     9       7       0
+      A.                                                                                                     B.
+            1        3        5                                                                                       1        −3       −5
+            −3
+            ​    ​   −4   ​   2   ​       ​                                                                           −3
+                                                                                                                      ​    ​   −4   ​   2    ​       ​
+
+
+
+
+            9        1        2                                                                                       9        1        2
+
+      C.                                                                                                     D.
+            1        3        5                                                                                       1        −3       5
+            −3
+            ​    ​   −4   ​   −2      ​               ​                                                               −3
+                                                                                                                      ​    ​   −4   ​   2    ​       ​
+
+
+
+
+            −9       1        2                                                                                       −9       −1       −2
+
+
+11. In order to find point P in space one can start from the origin (0,0, 0); move 5 units in the direction of negative x-                                   (1)
+    axis, then move 5 units in the direction of positive y-axis and finally move 5 units in the direction of negative z-
+    axis. Which one of the following is the ordered triple of numbers represented by point P?
+      A. (5, 5, 5)                                                                                           B. (-5, 5, -5)
+      C. (5, -5, -5)                                                                                         D. (-5, -5, 5)
+
+12. Which one of the following quantities represents a vector?                                                                                               (1)
+      A. Weight of an object                                                                                 B. Speed of a motorbike
+      C. Volume of a box                                                                                     D. The width of your bedroom
+
+13. Which one of the following is the derivative of f(x) = tanx + 3 x ?                                                                                      (1)
+
+      A. sec²x + 3 x lnx                                                                                     B. -csc²x + 3 x lnx
+      C. -tanx + 3 x lnx                                                                                     D. sec²x + 3 x
+
+14. Which one of the following points is, inside the sphere with equation x²+y²+z²=5?                                                                        (1)
+      A. (1,-2,2)                                                                                            B. (1,1,1)
+      C. (1,2,3)                                                                                             D. (0,-2,3)
+
+15. Which one of the following gives the polar form of the complex number z = 2 − 2 3i?                                                                  ​   (1)
+      A. 4 (cos 53 π + i sin 53 π )
+                     ​                        ​
+                                                                                                             B. 4 (cos 53 π + i sin 53 π )
+                                                                                                                               ​                 ​
+
+
+
+
+      C. 4 (cos 34 π + i sin 34 π )
+                     ​                        ​
+                                                                                                             D. 4 (cos 13 π + i sin 13 π )
+                                                                                                                               ​                 ​
+
+
+
+
+16. What is the product of the two complex number z = 2 - 3i and w = 5 + 2i?                                                                                 (1)
+      A. 16 + 11i                                                                                            B. 4 - 11i
+      C. 16 - 11i                                                                                            D. 29
+
+17. Which of the following is true about the Arithmetic Mean of a given data?                                                                                (1)
+
+      A. It is affected by extreme values
+      B. There can be two means for a given data
+      C. It can also be used for qualitative data
+      D. It can be obtained even in the absence of some of the values in the data
+
+18. In ΔABC, if AB = 10 units, BC = 14 units and AC = 8 units, then the area of the triangle is                                                              (1)
+      A. 10√6 square unit                                                                                    B. 16√6 square unit
+      C. 16√3 square unit                                                                                    D. 16√2 square unit
+19. The integral ∫ ( 1 − e−3x + 52 ) dx is equal to:                                                                                     (1)
+                      x         x
+                                       ​                          ​
+
+
+
+
+                                       ​
+
+
+
+
+                             −3x                                                                          −3x
+      A. 2 x + e 3 + x5 + C
+                         ​         ​       ​
+                                                                                    B. 2 x + e 3 − x5 + C
+                                                                                                 ​                 ​        ​
+
+
+
+
+                −3x                                                                           −3x
+      C. 2 x − e − 5 + C                                                            D. 2 x − e + 5 + C
+                             3         x                                                                  3             x
+                         ​         ​       ​                                                     ​                 ​        ​
+
+
+
+
+20. Let f be a continuous function on [a, b]. Then which of the following is NOT true?                                                   (1)
+      A.         b                                  a
+            ∫ f (x)dx = − ∫
+                     ​                                  ​   f (x)dx
+             a                                  b
+
+      B. [\int_{a}^{b} k f(x) \, dx = k \int_{a}^{b} f(x) \, dx \quad \text{for any constant } k]
+      C. [\int_{a}^{b} f(x) \, dx = \int_{a}^{c} f(x) \, dx - \int_{c}^{b} f(x) \, dx \quad \text{for any } c \text{ in } (a,b).]
+      D. c
+         ∫ f (x)dx = 0 for any c in (a, b).
+                     ​
+
+
+
+
+             c
+
+
+21. The simplified form of the expression                                                                                                (1)
+
+                                                                            6 20 − 3 45
+                                                                                ​            ​
+
+
+
+
+                                                                               3 75
+                                                                                             ​
+
+
+
+
+                                                                                     ​
+
+
+
+
+      is:
+      A. √3                                                                         B.
+                                                                                            15       ​
+
+
+
+
+                                                                                           15
+                                                                                                     ​
+
+
+
+
+      C. 1/5                                                                        D. 5
+
+22. Which one of the following sets is the symmetric difference, A △ B, of the sets A = {1,3,5,6,8,10} and B =                           (1)
+    {2,5,8,11}?
+      A. {1,2,3,5,6,8,10,11}                                                        B. {2,11}
+      C. {1,2,3,6,10,11}                                                            D. {1,3,6,10}
+
+23. Which of the following is the variance of the data given as: 2, 3, 4, 5, 7?                                                          (1)
+      A. 2.46                                                                       B. 2.96
+      C. 3.06                                                                       D. 3.70
+
+24. Which of the following pairs of events are dependent?                                                                                (1)
+      A. Tossing two coins simultaneously and obtaining head from one and tail from the other.
+      B. Drawing two cards one after the other from a well shuffled pack of cards without replacement.
+      C. Drawing two balls successively from a box containing balls having the same size and shape with replacement.
+      D. Any events obtaining from tossing a coin and rolling a die at the same time.
+
+25.
+                                                                                                                       f −g
+                                               If lim f (x) = 6 and lim g(x) = −9, then lim (                                 )= ?       (1)
+                                                                                                                       2f − 7
+                                                              ​             ​                                  ​                ​    ​
+
+
+
+
+                                                    x→2               x→2                                x→2
+
+
+      A. 3                                                                          B. -3
+      C. 15                                                                         D. -15
+26. Let f and g be two functions. Which one of the following statements is true about f or g?                         (1)
+      A. The line y = 0 is the a tangent line to the graph of f(x) = |x| at (0, 0).
+      B. If f' differentiable at a, then it is continuous at a.
+      C. If f'(a) = 0, then the tangent line to the graph of f at (a, f(a)) is y = a.
+      D. If f and g differentiable at a, then f/g is differentiable at a.
+
+27.
+                                 What is the value of a for which the function defined by,                            (1)
+
+
+                                   f (x) = { 2
+                                            ax + 3,                  for x ≥ 1
+                                                                               is continuous at 1?
+                                            x − 2x + 3,              for x < 1
+                                                               ​                       ​
+
+
+
+
+      A. 1                                                                     B. -1
+      C. 3                                                                     D. 4
+
+28. What is the derivative of the function                                                                            (1)
+
+                                                                    xex
+                                                     f (x) =                    at x = 0?
+                                                                   cos x
+                                                                           ​
+
+
+
+
+      A. 2                                                                     B. -1
+      C. 1                                                                     D. 0
+
+29. Which of the following is true about bounded sequence?                                                            (1)
+      A. Every bounded sequence is convergent.
+      B. Every increasing bounded sequence converges to the greatest lower bound of the sequence.
+      C. Every decreasing bounded sequence converges to the least upper bound of the sequence.
+      D. Every monotone bounded sequence converges.
+
+30. If f and g are continuous functions at a, then which of the following functions may NOT be continuous at a?       (1)
+      A. 2f + 3g                                                               B. fg
+      C. f/g                                                                   D. f - 2g
+
+31. Let f be a continuous function on R and c be a number in the domain of f. Which one of the following must be      (1)
+    true about the function?
+      A. An absolute maximum value of f which is attained at a critical number is also a local maximum value of f.
+      B. If f'(c) = 0, then (c, f(c)) is an inflection point of f.
+      C. If f(c) is a local minimum value of f, then f'(c) = 0.
+      D. If c is a critical number of f, then f(c) is a local extreme value of f.
+
+32. If the perimeter of a rectangle is 120 m, what are the length l and width w of the rectangle that maximizes its   (1)
+    area?
+      A. l = 50 m and w = 10 m                                                 B. l = 30 m and w = 30 m
+      C. l = 35 m and w = 25 m                                                 D. l = 40 m and w = 20 m
+33. The sum of the first 8 terms of a geometric sequence with first term 0.3 and common ratio 1/10 is equal to:                            (1)
+     A.                                                                       B.
+          3 108 − 1                                                                1 108 − 1
+             (      )                                                                (       )
+          10   108                                                                 3   108
+                       ​                    ​                                          ​                           ​
+
+
+
+
+     C.                                                                       D.
+          1 108 − 1                                                                3 108 − 1
+            (       )                                                                 (      )
+          3   107                                                                  10   109
+           ​                            ​                                                      ​                       ​
+
+
+
+
+34. Suppose f is a continuous function on an interval [a, b] and differentiable on (a, b) with the property f(a) = f(b).                   (1)
+    Which one of the following must be true?
+     A. The function has a zero in (a, b).
+     B. The function has minimum value in (a, b).
+     C. The function has maximum value in (a, b).
+     D. The graph of f has horizontal tangent line at (c, f(c)) for some c ∈ (a, b).
+
+35. The distance from the point P(3, 4) to the line L with equation 3x + 4y - 5 = 0 is:                                                    (1)
+     A. 5 units                                                               B. 6 units
+     C. 4 units                                                               D. 7 units
+
+36. A line segment chord in an ellipse which passes through the center and perpendicular to the major axis is                              (1)
+    called:
+     A. Semi-major axis                                                       B. Minor axis
+     C. Eccentricity                                                          D. Latus rectum
+
+37. If A is a 3 × 3 matrix with det(A) = 5, then what is the determinant of 2A?                                                            (1)
+
+     A. 10                                                                    B. 2/5
+     C. 40                                                                    D. 30
+
+38. Which one of the following is the augmented matrix associated to the system of equations:                                              (1)
+
+                                                                     ⎧2x + y + 3z = 4
+                                                                     ⎨      x−z =1
+                                                                     ⎩ −4x + y = 3
+                                                                      ​            ​               ​
+
+
+
+
+     A.                                                                       B.           3               1       2           4
+               3               2            1        1                                     −1              0       1           1
+               −1              1            −1       3
+                                                                                           ​           ​       ​           ​       ​   ​
+
+
+
+
+                   ​       ​        ​            ​       ​       ​
+
+
+
+
+                                                                                           −4              1       −3          0
+               −1              −4           1        4
+
+     C.        1               2            3        4                        D.           2               1       3           4
+               −1
+               ​           ​   1    ​       −1   ​   1   ​   ​                             1
+                                                                                           ​           ​   0   ​   −1      ​   1   ​   ​
+
+
+
+
+               1               −4           −1       3                                     −4              1       0           3
+
+39. Which one of the following compound statements has a converse with truth value False?                                                  (1)
+
+     A. If 6 is a prime integer, then 4 is an even number.
+     B. If man is immortal, then the earth does not rotate around the sun.
+     C. If athlete Derartu Tulu was born on October 21, 1971, then 6 is prime.
+     D. If man is mortal, then the earth does not rotate around the sun.
+40. The solution set of the equation given by log (x 2 - 3) = 2 log(x - 1) is:                                          (1)
+     A. {1}                                                       B. {2}
+     C. {4}                                                       D. Ø
+
+41. Which of the following is true about the trigonometric values of the given pairs of angles?                         (1)
+
+     A. tan (75°) = tan (105°)                                    B. sin (75°) = cos (105°)
+     C. cos (120°) = cos (60°)                                    D. sin (120°) = sin (60°)
+
+42. Which one of the following intervals is the solution set of the inequality x 2 - 5x + 6 ≤ 0?                        (1)
+     A. [0, 2]                                                    B. [2, 3]
+     C. (3, ∞)                                                    D. (-∞, 2]
+
+43. What are the coordinates of a point that divides the line segment with endpoints P(0, 1) and Q(5, 6) in the ratio   (1)
+    2:3 from P?
+     A. (2, 3)                                                    B. (0, 2)
+     C. (3, 2)                                                    D. (0, 3)
+
+44. Which one of the following trigonometric values is correct?                                                         (1)
+     A. sin (-120°) = 0.5                                         B. cos (-120°) = -0.5
+     C. tan (-120°) = -1                                          D. cos (-60°) = √3/2
+
+45. Which one of the following is an onto function from R on to [0, ∞)?                                                 (1)
+     A. f(x) = √x²                                                B. f(x) = |x| + 2
+     C. f(x) = x² + 1                                             D. f(x) = 2^x
+
+46. $ \text{Which one of the following is the simplified form of } \frac{4x^4 - 64}{2 - x} \text{ for } x $ ≠ 2?        (1)
+
+     A. 4(x + 2)(x² + 4)                                          B. 4(x - 2)(x² - 4)
+     C. -4(x + 2)(x² + 4)                                         D. -4(x - 2)(x² + 4)
+
+47. If Btu 20,000 is deposited in a Bank at a rate of 12% interest compounded monthly, how long will it take to         (1)
+    double the amount?
+     A. 7.59 years                                                B. 6 years
+     C. 5.81 years                                                D. 5 years
+
+48. Which one of the following is true about the matrix $ \begin{pmatrix} 1 & 3 & 5 \\ 6 & 4 & 2 \\ 9 & 7 & 0           (1)
+    \end{pmatrix} $?
+     A. The minor of the entry 3 is 18.                           B. The cofactor of the entry 5 is -6.
+     C. The minor of the entry 0 is 14.                           D. The cofactor of the entry 1 is -14.
+
+49. What is the image of the circle with equation (x + 2) 2 + (y - 2) 2 = 1, when it is rotated through π/6 about the   (1)
+    origin?
+     A. (x + (√3 - 1)) 2 + (y - (√3 - 1)) 2 = 1                   B. (x - (√3 + 1)) 2 + (y + (√3 - 1)) 2 = 1
+     C. (x + (√3 + 1)) 2 + (y - (√3 - 1)) 2 = 1                   D. (x - (√3 - 1)) 2 + (y + (√3 + 1)) 2 = 1
+
+50. What is the dot (scalar) product of the vectors u = i + 2j and v = -2i + 4j?                                        (1)
+     A. -8                                                        B. 5
+     C. 6                                                         D. 7
+51. The following is the distribution of the marks of students obtained in Mathematics test out of 50: Range of   (1)
+    marks Frequency 20 - 25 15 26 - 31 25 32 - 37 25 38 - 43 20 44 - 50 10
+    A. The first quartile of the distribution is 28.
+    B. The first quartile of the distribution is 26.
+    C. The first quartile of the distribution is 26.5.
+    D. The first quartile of the distribution is 27.5
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

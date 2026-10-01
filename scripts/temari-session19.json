@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0f4c3-f15f-7050-828c-1f29d2d27cb9%22%2C%22distinct_id%22%3A%2201a0f4c3-f15f-7050-828c-1f29d2d27cb9%22%2C%22%24sesid%22%3A%5B1790812879648%2C%2201a0f4c3-fb20-72d7-b843-e2baf55f49dd%22%2C1790812879648%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".temari.et",
+      "path": "/",
+      "expires": 1822348879.0,
+      "size": 333,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://temari.et",
+      "localStorage": [
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+          "value": "{\"$initialization_time\":\"2026-10-01T00:01:17.147Z\",\"$configured_session_timeout_ms\":1800000,\"distinct_id\":\"01a0f4c3-f15f-7050-828c-1f29d2d27cb9\",\"$device_id\":\"01a0f4c3-f15f-7050-828c-1f29d2d27cb9\",\"$user_state\":\"anonymous\",\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1790812878691,\"enabled\":false,\"networkPayloadCapture\":{\"capturePerformance\":{\"network_timing\":true,\"web_vitals\":true,\"web_vitals_allowed_metrics\":null}},\"canvasRecording\":{},\"sampleRate\":null,\"minimumDurationMilliseconds\":null},\"$autocapture_disabled_server_side\":false,\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":true,\"$web_vitals_allowed_metrics\":null,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$sesid\":[1790812879648,\"01a0f4c3-fb20-72d7-b843-e2baf55f49dd\",1790812879648],\"$client_session_props\":{\"sessionId\":\"01a0f4c3-fb20-72d7-b843-e2baf55f49dd\",\"props\":{\"r\":\"$direct\",\"u\":\"https://temari.et/signup\"}}}"
+        },
+        {
+          "name": "temari_arrival_landing",
+          "value": "/signup"
+        },
+        {
+          "name": "temari_arrival_at",
+          "value": "1790812877271"
+        }
+      ],
+      "sessionStorage": [
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_posthog",
+          "value": "{\"$sdk_debug_extensions_init_method\":\"synchronous\",\"$sdk_debug_extensions_init_time_ms\":3}"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_primary_window_exists",
+          "value": "true"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_session_registered_properties",
+          "value": "[\"$sdk_debug_extensions_init_method\",\"$sdk_debug_extensions_init_time_ms\"]"
+        },
+        {
+          "name": "ph_phc_zd2hnf26pEyfLvu5a2S7wRBXTRDr3QRG5Dro9BnW3539_window_id",
+          "value": "\"01a0f4c3-fb20-72d7-b843-e2bb491fb25e\""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+                                                          Temari.et
+                                    Physics, 2006 EC, entrance exam
+                                                 Grade 12 · Physics · 2006 E.C.
+
+Time allowed: 120 minutes                                     Questions: 48                                Total marks: 48
+
+Name                                              Grade                       ID No.                Date
+
+1.   The distance between two point charges is doubled. What will happen to the force of interaction between the        (1)
+     charges?
+     A. The force will be doubled.
+     B. The force will be reduced by half.
+     C. The force will be reduced by a factor of �.
+     D. The force will not be affected.
+
+2.   What does the slope of a velocity time graph represent?                                                            (1)
+
+     A. distance                                                  B. acceleration
+     C. displacement                                              D. speed
+
+3.   Moving 2.5 × 10−6 coulomb of charge from point A to point B in an electric field requires 6.3 × 10−4 joule of      (1)
+     work. The potential difference between points A and B is approximately
+     A. 4.0 × 10−3 V                                              B. 2.5 × 10−2 V
+     C. 1.6 × 10−19 V                                             D. 1.0 × 10−14 V
+
+4.   A transverse sinusoidal wave is traveling on a string. Which statement is correct about a point on the string?     (1)
+     A. The point moves in the same direction as the wave.
+     B. The point moves in simple harmonic motion with a different frequency than that of the wave.
+     C. The point moves in simple harmonic motion with the same angular frequency as the wave.
+     D. The point moves in uniform circular motion with a different angular speed than the wave.
+
+5.   Two none zero vectors D and E have precisely equal magnitudes. For the magnitude of D + E to be 3 times larger (1)
+     than the magnitude of D - E, what must be the angle between D and E?
+     A. 30∘                                                       B. 37∘
+     C. 53∘                                                       D. 60∘
+
+6.   Which statement is correct about the pressure under a fluid in a container?                                        (1)
+
+     A. It depends on the volume of the fluid.
+     B. It depends on the density of the fluid.
+     C. It depends on the shape of the container.
+     D. It is independent of the depth of the fluid.
+7.   A capacitor made of parallel plates is charged by connecting it to a battery. The distance between the plates is (1)
+     much less than the surface area of each plate. After fully charged if the plates are disconnected from the battery
+     and then pulled apart a little, what will happen to the total stored energy, the electric field, and the potential
+     difference between the plates?
+     A. The electric field between the plates increase.
+     B. The potential difference between the plates remain the same.
+     C. The total energy stored in the capacitor increase.
+     D. The electric field, the potential difference and the stored energy remain the same.
+
+8.   Which one of the following statements is true about the motion of a particle in a circular path?                        (1)
+     A. The centripetal acceleration is constant if the particle?s speed is constant.
+     B. The tangential acceleration can be perpendicular to the velocity vector of the particle.
+     C. The centripetal acceleration is always in the direction perpendicular to the velocity vector of the particle.
+     D. The acceleration is always perpendicular to the velocity vector of the particle.
+
+9.   Two rectangular loops of wire lie in the plane of this paper as shown in the figure below, if the current I in the      (1)
+     outer loop is counter clockwise and increases with time, which one of the following statements is correct about
+     the current induced in the inner loop?
+     [Figure: A line drawing of two concentric rectangles drawn in the plane of the page: a larger outer rectangle
+     and, centred inside it, a smaller inner rectangle. Immediately to the right of the outer rectangle's right-hand side
+     there is a straight vertical line carrying a solid arrowhead at its top, pointing upward, indicating that the current
+     in the outer loop runs upward along that right-hand side (i.e. counter clockwise around the outer loop). No
+     numeric labels appear on the figure; the current symbol I is named only in the stem.]
+     A. A current is induced in the inner loop in the clockwise direction.
+     B. A current is induced in the inner loop in the counter wise direction.
+     C. The induced current in the inner loop creates a magnetic field inside the area bounded by the inner loop in the
+        same direction of the magnetic field that the outer loop produces in this same area.
+     D. It is zero.
+
+10. Two men, A and B, are loading identical boxes onto a truck. A lifts his box staring up from the ground to the bed        (1)
+    of the truck, whereas B slides his box up a rough ramp to the truck, which statement is correct about the
+    change in the potential energy on the box earth system?
+     A. A and B change the potential energy by the same amount.
+     B. A changes more potential energy than B.
+     C. B changes more potential energy than A.
+     D. None of those statements is necessarily true because the force of friction and the angle of the incline is
+        unknown.
+
+11. Two projectiles are fired from ground level at equal speed but different angles. One is fired at an angle of 30          (1)
+    degrees and the other at 60 degrees. The projectile to hit the ground first will be the one fired at (neglect air
+    resistance)
+     A. 60 degrees
+     B. 30 degrees
+     C. both hit at the same time
+     D. cannot be determined from the given condition.
+12. A planet of mass m is circling a star in an elliptical orbital as shown below. Its velocity at point A is 60,000m/s   (1)
+    and rb = 8ra what is its velocity at point B?
+             ​        ​
+
+
+
+
+    [Figure: A hand-drawn wide ellipse lying horizontally. A small open circle marks the left-hand end of the major
+    axis, labelled A just outside it; another small open circle marks the right-hand end, labelled B just outside it. A
+    star symbol sits on the major axis, well left of centre, representing the star at one focus. A straight horizontal
+    line runs along the major axis from A through the star to B. The segment from A to the star is labelled ra (written
+    above the line, left of the star) and the much longer segment from the star to B is labelled rb (written above the
+                                                                                                   ​
+
+
+
+
+    line, right of the star). No numeric distances are marked on the drawing.]
+     A. 7,500m/s                                                  B. 8,571m/s
+     C. 60,000m/s                                                 D. 788,000m/s
+
+13. A small radio receiver uses a battery that delivers a constant current of 25mA for 3 hours. Calculate the total       (1)
+    charge delivered by the battery.
+     A. 1080000C                                                  B. 270000
+     C. 540C                                                      D. 270C
+
+14. A cup of coffee at a temperature of 80°C is placed on table in a 20°C room. What happens to the thermal energy (1)
+    and molecular motion of the coffee when it is left on the table?
+     A. The thermal energy decreases and the molecules move more slowly.
+     B. The thermal energy increases and the molecules move more slowly.
+     C. The thermal energy decreases and the molecules move faster.
+     D. The thermal energy increases and the molecules move faster.
+
+15. The vector 2^i + ^j + k^ is perpendicular to ^i + 4^j + λ if λ is equal to
+                                ​                        ​                                                                (1)
+
+     A. -2                                                        B. -1
+     C. 2                                                         D. 3
+
+16. A mass suspended from the end of a spring vibrates up and down 20 times in 36s. What are the frequency and            (1)
+    period of the vibration?
+     A. 0.55Hz, 1.8S                                              B. 0.67Hz, 1.5S
+     C. 0.0012Hz, 864S                                            D. 864Hz, 0.0012S
+
+17. Determine the total impedance for the circuit shown below                                                           (1)
+    [Figure: A hand-drawn single-loop series AC circuit. Along the top branch, from left to right: a rectangular
+    resistor box labelled 4Ω above it, then a coil (zig-zag/solenoid symbol) labelled 27mH above it, then a pair of
+    parallel vertical plates (capacitor symbol) labelled 380μ above it. The top branch runs from the top-left corner to
+    the top-right corner of the loop; vertical wires run down both sides. Along the bottom branch there is a source
+    symbol drawn as two small open circles with a sine-wave symbol between them (an AC generator), labelled 110v
+    in large text just above it. No frequency is marked anywhere on the figure, and the capacitor's unit letter after μ
+    is not printed.]
+     A. 0Ω                                                        B. 4Ω
+     C. 27Ω                                                       D. 31Ω
+
+18. A hoop of mass M and radius R is at rest at the top of an incline plane of height h. the hoop rolls down the plane    (1)
+    without slipping. When the hoop reaches bottom, its angular momentum about its center of mass is:
+     A. Mgh                                                       B. MR 2gh          ​
+
+
+
+
+     C.          gh                                               D. MR gh       ​
+
+
+
+
+          MR
+                  2
+                          ​ ​
+19. What is the resistance of a copper cable if it has a cross sectional area of 1cm2 and a length of 2km? The              (1)
+    resistivity of copper is 2 × 10−8 Ωm.
+    A. 0.0004Ω                                                   B. 0.004Ω
+    C. 0.04Ω                                                     D. 0.4Ω
+
+20. When a load of 500kg is hanging from a steel wire of length 3m and cross sectional area 0.20cm2 , the wire              (1)
+    stretches beyond its no load length. If the Young�s modulus for the wire made of steel is Y = 2 × 1011 Pa,
+    what is the change in length of the wire beyond its no load length?
+    A. 3.75mm                                                    B. 2.75mm
+    C. 1.75mm                                                    D. 0.75
+
+21. As shown in Figure below, two blocks are connected by a string of negligible mass passing over a pulley of             (1)
+    radius r = 0.2m and moment of inertia I. The block on the frictionless incline is moving with a constant
+    acceleration a = 2.0m/s2 up along the incline. What is the moment of inertia of the pulley?
+    [Figure: A hand-drawn right-triangular wedge sitting on horizontal ground, with the right angle at the bottom
+    right; the sloping face rises from the lower left to the apex at the top right, and the angle between the slope and
+    the ground is marked with an arc labelled 370 . A square block labelled 15kg rests on the sloping face. A string
+    leaves the top of that block, runs up the slope parallel to the incline (labelled T1 above it), passes over a circular
+                                                                                        ​
+
+
+
+
+    pulley drawn at the apex of the wedge, and then hangs vertically down the right-hand vertical face (labelled T2     ​
+
+
+
+
+    to the right of it) to a square block labelled m2 , with '20kg' printed to the right of that block.]
+                                                     ​
+
+
+
+
+    A. 0.8kgm2                                                   B. 1.25kgm2
+    C. 4kgm2                                                     D. 40kgm2
+
+22. A viewing screen is separated from a double slit by 4.80m. The distance between the two slits is 0.030mm.               (1)
+    Monochromatic light is directed toward the double slit and forms and interference pattern on the screen. The
+    first dark fringe is 4.50 cm from the center line on the screen. What is the wavelength of the light?
+    A. 1250nm                                                    B. 7200nm
+    C. 2500nm                                                    D. 5625nm
+
+23. A horizontal pipe of 10cm in diameter has a smooth reduction to a pipe of 5cm in diameter. If the pressure of the       (1)
+    water in the larger pipe is 80kPa and the pressure in the smaller pipe is 6kPa, at what rate does the water flow
+    through the smaller pipe?
+    A. 1.63m/s                                                   B. 6.53m/s
+    C. 13.6m/s                                                   D. 42.67m/s
+
+24. An aluminium block of mass m1 = 3kg and a copper block of mass m2 = 5kg are connected by a light string
+                                      ​                                          ​                                          (1)
+    over a frictionless pulley. They sit on a steel surface as shown in figure below , where θ = 53∘ . The coefficient of
+    kinetic friction between the steel surface and each block in 0.3. if the blocks are released from rest what is the
+    tension T in the string?
+    [Figure: A hand-drawn steel block shaped like a wedge with a flat horizontal top on the left and a face sloping
+    down to the right; the word 'Steel' is printed inside the body. A rectangular block labelled m1 sits on the flat
+                                                                                                      ​
+
+
+
+
+    horizontal top surface. A string runs horizontally to the right from m1 , passes over a small circular pulley
+                                                                             ​
+
+
+
+
+    mounted at the top corner where the horizontal surface meets the sloping face, then runs down along the
+    sloping face to a square block labelled m2 resting on that slope. At the bottom of the slope, an arc marks the
+                                                 ​
+
+
+
+
+    angle between the sloping face and the horizontal, labelled θ. No numeric values appear on the drawing itself.]
+    A. 29.40N                                                    B. 17.25N
+    C. 12.25N                                                    D. 8.60N
+25. An object of mass 3kg hangs from three light inextensible wires as shown in figure below. Two of the wires           (1)
+    make angles θ1 = 53∘ and θ2 = 37∘ with the horizontal. If the system is in equilibrium, what will be the
+                                  ​           ​
+
+
+
+
+    tensions T1 and T2 in the wires?
+                          ​           ​
+
+
+
+
+    [Figure: A hand-drawn figure showing a horizontal ceiling at the top, drawn as a straight line with hatching
+    strokes above it. Two wires run down from the ceiling and meet at a common knot below and between them,
+    forming a V. The left wire makes an angle with the ceiling marked by an arc labelled θ1 , and the wire itself is
+                                                                                            ​
+
+
+
+
+    labelled T1 below and to the left. The right wire makes an angle with the ceiling marked by an arc labelled θ2 ,
+                      ​                                                                                            ​
+
+
+
+
+    and that wire is labelled T2 below and to the right. From the knot a third, vertical wire runs straight down to a
+    solid rectangular block, and a short vertical arrow points downward from the bottom of the block (its weight). No
+    numeric values are written on the drawing.]
+    A. T1 = 18N and T2 = 24N
+          ​                               ​
+                                                               B. T1 = T2 = 18N
+                                                                      ​    ​
+
+
+
+
+    C. T1 = T2 = 24N
+          ​                   ​
+                                                               D. T1 = 24N and T2 = 18N
+                                                                      ​              ​
+
+
+
+
+26. An object of mass m is hung from a spring and set into oscillation. The frequency of the oscillation is measured     (1)
+    and recorded as f. if the object of mass m is replaced with an object of mass m is replaced with an object of
+    mass 2m and set into oscillation, what will be the frequency of the motion?
+    A. f / 2      ​
+                                                               B. f
+    C. ( 2)f  ​                                                D. 2f
+
+27. A placekicker must kick a football from a point which is at a distance of 36.0 m from the goal. When kicked, the     (1)
+    ball leaves the ground with a speed of 20.0m/s at an angle of 37∘ to the horizontal. If the ball hits the crossbar
+    of the goal at a height h and bounces back what will be the height of the crossbar?
+    A. 2.45m                                                   B. 2.85
+    C. 3.00m                                                   D. 3.15m
+
+28. A body moving with constant acceleration covers the distance between two points 60m apart in 5s. Its velocity        (1)
+    as it passes the second point is 15m/s. what is the acceleration?
+    A. 3m/s2                                                   B. 2.4m/s2
+    C. 1.8m/s2                                                 D. 1.2m/s2
+
+29. Which of the following combinations of properties would be most desirable for a heat sink in a machine?              (1)
+
+    A. high specific heat and low conductivity.
+    B. low heat specific heat and low conductivity.
+    C. high specific heat and high conductivity.
+    D. low specific heat and low conductivity.
+
+30. A 6V battery is connected across the primary coil of a transformer having 50 turns. If the secondary coil of the     (1)
+    transformer has 100 turns, what voltage appears across the secondary?
+    A. 24.0V                                                   B. 12.0V
+    C. 6.00V                                                   D. 3.00V
+
+31. The change in entropy is zero for:                                                                                   (1)
+    A. reversible isobaric processes.
+    B. reversible adiabatic processes.
+    C. reversible isothermal processes.
+    D. reversible processes during which no work is done.
+32. Two particles with masses 2m and 3m are moving toward each other along the x axis with the same initial                (1)
+    speed v. Particle 2m is traveling to the left, and particle 3m is traveling to the right. They undergo an elation
+    glancing collision such that particle 2m is moving in the negative y direction after the collision. What are the x
+    component of the final velocity of particle 3m and the kinetic energy of particle 2m, respectively?
+    A. 0.33v and 0.7mV 2                                        B. 0.33v and 1.41mV 2
+    C. 0.67v and 0.71mV 2                                       D. 0.67v and 1.4mV 2
+
+33. Two separate coherent sources produce waves whose wavelengths are 0.10m. which statement is correct about              (1)
+    points that are 3.2m away from one source?
+    A. constructive interference occurs if the points are 3.0m from the other source
+    B. constructive interference occurs if the points are 3.05m from the other source.
+    C. constructive interference occurs if the points are 2.95m from the other source.
+    D. destructive interference occurs if the points are 3.2m from the other source.
+
+34. A coil formed by wrapping 50 turns of wire in the shape of a square is positioned in a magnetic field so that the      (1)
+    normal to the plane of the coil makes an angle 37∘ with the direction of the field. When the magnetic field is
+    increased uniformly from 200 mT to 600mT in 4.00s, an emf of magnitude 160.0 mv is induced in the coil. What
+    is the total length of the wire in the coil?
+    A. 100m                                                     B. 200m
+    C. 300m                                                     D. 400m
+
+35. The half-life of radium 224 is 3.5 days. What fraction of the sample remains undecided after fourteen days? (if        (1)
+    needed use ln 2 = − ln(1/2) ≈ 0.693)
+    A. ?                                                        B. �
+    C. 1/8                                                      D. 1/16
+
+36. Two positive charges of magnitude q are each a distance d from the origin A of a coordinate system as shown            (1)
+    below. The magnitude of the electric field is minimum at point
+    [Figure: A hand-drawn coordinate diagram. A horizontal axis runs across the figure with an arrowhead at the
+    right end labelled X; a vertical axis rises from the origin with an arrowhead at the top labelled Y, and the origin
+    itself is marked with a solid dot (this is point A named in the stem). Two small open circles sit on the horizontal
+    axis, each labelled +q above it: one a distance d to the left of the origin and one a distance d to the right of the
+    origin. The two spacings are marked underneath the axis by short dashed segments each labelled d. Further to
+    the right along the horizontal axis there are two solid dots: the nearer one labelled B (above it) and the farther
+    one labelled C (above it), with '3d' printed just below the point C. Below the axis, dashed vertical lines drop from
+    each of the two +q charges to a dashed horizontal line, forming an open rectangle; the lower-left corner of that
+    dashed rectangle is a solid dot labelled D and the lower-right corner is a solid dot labelled E.]
+    A. A                                                        B. B
+    C. C                                                        D. D
+
+37. If the terminals of a battery with zero internal resistance are connected across two identical resistors in series,    (1)
+    the total power delivered by the battery is 8 W. if the same is connected across the same resistors in parallel,
+    what is the total power delivered by the battery?
+    A. 2W                                                       B. 4W
+    C. 16W                                                      D. 32W
+38. Wire B has twice the length and twice the radius wire A. Both wires are made from the same material. If wire A        (1)
+    has a resistance R, what is the resistance of wire B?
+    A. 4R                                                       B. 2R
+    C. R/2                                                      D. R/4
+
+39. The sound level at a distance of 4.00m from a source is 120dB. At what distance is the sound level 100dB?             (1)
+    A. 0.40m                                                    B. 4.80m
+    C. 40m                                                      D. 48m
+
+40. An ideal gas is at a temperature of 300k. if we wish to double the root mean square (rms) speed of the                (1)
+    molecules of the gas, to what value must we raise its temperature?
+    A. 450K                                                     B. 600k
+    C. 800k                                                     D. 1200k
+
+41. Suppose that the index of refraction of a soap bubble film is 1.25, what is the minimum thickness of the soap-        (1)
+    bubble film that results in constructive interference in the reflected light if the film is illuminated with light
+    whose wavelength in free space is λ = 600nm?
+    A. 120nm                                                    B. 150nm
+    C. 300nm                                                    D. 450nm
+
+42. A wire carries a steady current of 2.4A. A straight section of the wire is 0.75m long and lies in xy-plane along the (1)
+    x-axis within a uniform magnetic field, B=1.6kT. If the current is in the positive x direction, what is the magnetic
+    force on the section of wire?
+    A. 2.88N, in the negative y direction.                      B. 2.88N, in the positive y direction.
+    C. 3.84N, in the negative y direction.                      D. 3.84N, in the positive y direction.
+
+43. Two different capacitors of capacitance C1 = 2μF and C2 = 3μF are connected in series across a 120V
+                                                 ​               ​                                                        (1)
+    supply line. The charged capacitors are disconnected from the line and from each other, and reconnected with
+    terminals of like sign together. What will be the final charges on C1 and C2 respectively?
+                                                                          ​       ​
+
+
+
+
+    A. 57.63μC and 86.4μC                                       B. 115.2μC and 127.8μC
+    C. 144μC across each                                        D. 288μC across each
+
+44. A glass flask whose volume is exactly 1,000cm3 at 0∘ C is totally filled with 1000cm3 of mercury at this              (1)
+    temperature. When flask and mercury are heated to 100∘ C, 15.2cm3 of mercury overflow. If the coefficient of
+    volume expansion of mercury is 1.82 × 10−4 per Celsius degree, what should be the coefficient of volume
+    expansion of the glass?
+    A. 1.52 × 10−4 /C∘                                          B. 1.82 × 10−4 /C∘
+    C. 3.00 × 10−4 /C∘                                          D. 1.00 × 10−5 /C∘
+
+45. A heat engine is being designed to have a Carnot efficiency of 65.0% when operating between two energy                (1)
+    reservoirs. If the temperature of the cold reservoir is 20.0∘ C, what must be the temperature of the hot
+    reservoir?
+    A. 570C                                                     B. 3100C
+    C. 5640C                                                    D. 8070C
+46. In Figure given below, the current in the 16Ω resistor is                                                                (1)
+    [Figure: A hand-drawn circuit with a left vertical rail and a right vertical rail joined by three horizontal branches.
+    Top branch, from left to right: a battery symbol (long and short parallel plates) with '24V' printed above and to its
+    left, then a zig-zag resistor labelled 28Ω above it; a horizontal arrow pointing to the right near the right-hand
+    end of this branch is labelled I1 . Middle branch, from left to right: a second battery symbol with no voltage label
+                                        ​
+
+
+
+
+    printed, then a zig-zag resistor labelled 12Ω above it; below and to the right of this branch a horizontal arrow
+    points to the right, labelled I2 . Bottom branch: a zig-zag resistor labelled 16Ω below it, with a horizontal arrow
+                                    ​
+
+
+
+
+    above the branch pointing to the LEFT, labelled I3 .]    ​
+
+
+
+
+    A. 0.64A                                                            B. 0.15A
+    C. 0.49A                                                            D. 1.28A
+
+47. A 10.0m uniform ladder weighing 200N rests against a frictionless wall. The ladder makes 53∘ angles with the             (1)
+    horizontal, if the ladder is just on the verge of slipping when a 600.0N firefighter is 6.00m along the ladder from
+    the bottom, what is the coefficient of static friction between the ladder and ground?
+    A. 0.3240                                                           B. 0.4313
+    C. 0.5750                                                           D. 0.7667
+
+48. A block of mass 1.6kg is attached to a horizontal spring that has a force constant of 200N/m. The spring is              (1)
+    compressed 2.0cm and is then released from rest. At what speed will the block pass through the equilibrium
+    position if a constant friction force of 10.0N retards its motion from the moment it is released?
+    A. 75m/s                                                            B. 50m/s
+    C. 70m/s                                                            D. 55m/s
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

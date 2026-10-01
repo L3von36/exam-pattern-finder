@@ -1,0 +1,341 @@
+                                                          Temari.et
+                                     Physics, 2012 EC, entrance exam
+                                                  Grade 12 · Physics · 2012 E.C.
+
+Time allowed: 120 minutes                                      Questions: 41                                     Total marks: 41
+
+Name                                              Grade                        ID No.                   Date
+
+1.   Equilibrium is the state of an object when                                                                               (1)
+     A. The net force and net torque are both zero.
+     B. The object has constant angular acceleration.
+     C. The net forceZ acting on it is constant.
+     D. The object has constant linear acceleration.
+
+2.   The fulcrum of a uniform 20 Kg seesaw that is 4.0 m long is located 2.5 m from one end. A 30Kg child sits on the (1)
+     long end. The weight of a person sitting at the other end in order To balance the seesaw is ________ .
+     A. 433 N                                                      B. 567 N
+     C. 750 N                                                      D. 850 N
+
+3.   A material rod that is 4.00 m long and 0.5cm2 in cross-sectional area is found to stretch 0.20cm under a                 (1)
+     tension of 5000N. The Young's Modulus for this material is _______.
+     A. 2.0 × 1011 N/m2                                            B. 5.0 × 108 N/m2
+     C. 1.0 × 104 N/m2                                             D. 1.0 × 108 N/m2
+
+4.   Which one of the following is NOT true about Pascal's principle and its application?                                     (1)
+
+     A. In pneumatic application, air is used for pressure transmission instead of liquid.
+     B. The hydraulic lift is a speed multiplying device in which a large force lifts a light object over a long distance.
+     C. It has applications in hydraulic brakes for vehicles, where confined oil connects a small piston (brake pedal) to a
+        large piston connected to the brake drums on the wheel of the car.
+     D. It has applications in hydraulic lift in which a small force is applied to a smaller piston is used to lift heavy object
+        on large.
+
+5.   Which one of the following is NOT correct about factors that affecting the streamlining of objects moving in             (1)
+     fluid?
+     A. The mass of the object
+     B. Shape and surface area of the object moving in fluid
+     C. Compressibility of the fluid
+     D. Density of the fluid
+
+6.   Which of the following is correct?                                                                                       (1)
+     A. Internal energy of a system is independent of its mass or the number of molecules in the system.
+     B. Temperature is a measure of the average molecular kinetic energy of a gas.
+     C. The temperature is a measure of the amount of energy that flows from hot to colder region.
+     D. Heat is energy that can be transferred from one object to another at equal temperature.
+7.   Two moles of an ideal gas at a temperature of 308 K is confined in a volume of 5.00 × 10−3 m3 . The pressure          (1)
+     of the gas is (Universal gas constant R= 8.314 J/mol.K).
+     A. 1.23 × 106 Pa                                           B. 5.12 × 106 Pa
+     C. 1.02 × 106 Pa                                           D. 1.00 × 106 Pa
+
+8.   A glass contains 12 mole of water molecule (H₂O). The number of water molecules, the mass of water, and the           (1)
+     mass of each water molecules in the glass are, respectively (Molar mass of H is 1.0g and O is 16.0 g).
+     A. 96.32 × 1023 molecules, 0.036 Kg, 0.009 ×        B. 102 × 1023 molecules, 0.024Kg, 6.02 ×
+           −26
+        10     Kg.                                          10−26 Kg.
+     C. 90.32 × 1023 molecules, 0.192 Kg, 18 × 10−26 Kg. D. 72.24 × 1023 molecules, 0.216 Kg, 35.9 ×
+                                                            10−26 Kg.
+
+9.   Three resistors are connected across a battery as shown below. The potential difference across the resistors R1,      (1)
+     R2, and R3 are, respectively,
+     [Figure: A circuit diagram showing a DC voltage source labeled V = 110 V connected in series with a resistor
+     labeled R₁ = 2 Ω on the upper rail. Following R₁, the circuit splits into two parallel branches: the first branch
+     contains a resistor labeled R₂ = 3 Ω, and the second branch contains a resistor labeled R₃ = 6 Ω. Both parallel
+     branches connect back to the bottom rail returning to the negative terminal of the voltage source.]
+     A. 110V, 25V, 30V                                          B. 55V, 55V, 55V
+     C. 55V, 82.5V, 165V                                        D. 50V, 30V, 30V
+
+10. According to Kirchhoff’s junction rule,                                                                                (1)
+     A. The amount of electric charge entering a junction is equal to the amount leaving the junction.
+     B. Charges can disappear or appear at the junction.
+     C. The amount of electric charge flowing into a junction is less than the amount flowing out of the junction.
+     D. The amount of electric charge flowing into a junction is greater than the amount flowing out of the junction.
+
+11. Which of the following is true about galvanometer?                                                                     (1)
+
+     A. A galvanometer can be converted to an ammeter that can read large currents by connecting a small resistance
+        in parallel with it, and can be converted to a voltmeter by connecting a large resistance in series with the
+        galvanometer
+     B. To use a galvanometer as an ammeter that can read voltages, we connect a small resistance in series with the
+        galvanometer
+     C. Galvanometer can be converted to a voltmeter by connecting a small resistance in parallel with the
+        galvanometer
+     D. To use a galvanometer as an ammeter that can measure large currents, we need to measure its resistance by
+        connecting a large resistance in series with the galvanometer.
+
+12. According to the kinetic theory of gases, the                                                                          (1)
+     A. Diffusion rate of a gas is inversely proportional to the square root of the molar mass because it is directly
+        proportional to the molecular speed.
+     B. Particles of an ideal gas undergo inelastic collision between themselves and with the walls of the container.
+     C. Average translational kinetic energy of the particles of an ideal gas increases as gas gets cooled.
+     D. Internal energy of an ideal gas is equal to the potential energy due to interaction between the particles of the
+        gas.
+13. At t = 0, an object undergoing SHM has maximum displacement of 0.650 m and angular frequency of 7.40                  (1)
+    rad/s. Which of the following is correct about the motion of the oscillator?
+    A. The frequency of the oscillator is 7.40 Hz and its period is 0.135 s.
+    B. The position of the object is x = 0.65 cos(7.40t) and its acceleration is a = −35.59 cos(7.40t).
+    C. The position of the object is x = 0.650 cos(7.40t) and acceleration is a = −3.59 sin(7.40t).
+    D. The position of the object is x = 0.650 sin(7.40t) and its velocity is V = 4.81 cos(7.40t).
+
+14. A 0.35 Kg mass attached to the end of a spring oscillates 2.5 times per second with amplitude of 0.15 m. which        (1)
+    of the following is true about the motion of the mass?
+    A. The acceleration when it is 0.10 m from equilibrium is 25.00 m/s2 .
+    B. The velocity when its 0.10m from equilibrium is 3.0m/s.
+    C. The total energy of the system is 97.0 J.
+    D. The velocity when it passes the equilibrium is 2.355m/s.
+
+15. Identify a true statement about a mechanical wave                                                                     (1)
+
+    A. The speed of a wave traveling along a string increases as the tension in the string increases and as the linear
+       density of the string decreases.
+    B. The speed of a wave traveling across a thin string is equal to its speed when traveling across a thick string of
+       the length and tension.
+    C. The velocity of traveling wave is equal to the velocity of the particles through which the wave propagates.
+    D. As a wave travels from one point too another along a medium, it transmits energy and particles of the medium
+       from point to point.
+
+16. Which one of the following is correct statements about the intensity of sound?                                        (1)
+
+    A. It is inversely proportional to the square of the distance between from the source of sound.
+    B. It is directly proportional to the square of the distance between from the source of sound.
+    C. It is energy transmitted per unit time.
+    D. It is the product of the a sound and area through which the sound is transmitted.
+
+17. Which of the following is correct about Doppler effect?                                                               (1)
+    A. Doppler effect is the change in the frequency of a wave due to relative motion between the wave source and an
+       observer.
+    B. When a sound source moves away from stationary observer, the frequency detected by the observer increases,
+       where as the wavelength decreases.
+    C. When a source of sound wave moves toward stationary observer, the wavelength of the wave increases while its
+       frequency decreases.
+    D. It is the change in the velocity of a wave due to relative motion between the source of the wave and an observer.
+
+18. Huygens's principle states that                                                                                       (1)
+    A. The secondary wavelets are parallel to the original wave front.
+    B. All points along a wave front behave as a source of spherical secondary wavelets that have the same frequency
+       and speed as the original wave front.
+    C. The secondary wavelets combine to produce a new wave front which has a shape different from the original
+       wave front.
+    D. All points along a wave front acts as a source of plane secondary wavelets that travel at speeds and frequencies
+       greater than that of the original wave.
+19. Which one of the following is correct about the law of reflection and the law of refraction?                           (1)
+    A. The ratio of the sine incident angle to the sine of the refracted angle is equal to the ratio of the speed of incident
+       wave to the speed of the refracted wave.
+    B. If the speed of the incident wave is less than the speed of the refracted wave, the refracted wave bends towards
+       the normal line.
+    C. The speed and wave length of a reflected wave are different from that of an incident wave.
+    D. The incident and refracted rays make equal angles with the boundary of the two interface.
+
+20. Choose the correct statement about interference pattern due to diffraction of light through single and double          (1)
+    slits.
+    A. The light intensity of interference pattern due to double and single slits remain the same as the distance from
+       the central bright fringe increases.
+    B. The central bright fringes in both double and single slits interference are twice as wide as the first order bright
+       fringes.
+    C. Constructive interference due to double slit and single slit interference occur when the path difference between
+       interfering waves is half-integer multiple of the wavelength.
+    D. The bright and dark fringes formed when light passes through double slit have equal widths, where as the
+       central bright fringe formed in single slit diffraction is twice wider as the first order maxima.
+
+21. In order for interference of light waves to occur, the interfering light waves should                                  (1)
+    A. Be incoherent.
+    B. Be in phase.
+    C. Have constant phase difference and the same frequency and speed.
+    D. Be of different.
+
+22. Which one of the following is true about fundamental forces?                                                           (1)
+    A. A weak nuclear force is an extremely short-range force that binds protons and neutrons together in a nucleus.
+    B. Electromagnetic force is a long-range attractive force between particles due to their mass.
+    C. Gravitational force is a long-range attractive force between particles due to their charge.
+    D. Strong nuclear force is a short-range force that holds protons and neutrons to form atomic nucleus.
+
+23. Three blocks of mass M1 = 1Kg, M2 = 2Kg, and M3 = 3Kg, placed on a horizontal frictionless table, are
+                                  ​                   ​                                                                    (1)
+    connected with strings and pulled to the right by a force F = 9N, as shown below. The acceleration a, tensions T1,
+    and T2 are, respectively
+    [Figure: Three rectangular blocks labeled from left to right as M1 , M2 , and M3 rest on a horizontal surface. A
+                                                                        ​    ​           ​
+
+
+
+
+    horizontal string connects M1 to M2 with tension labeled T1 and arrows pointing inward. A second horizontal
+                                          ​       ​                 ​
+
+
+
+
+    string connects M2 to M3 with tension labeled T2 and arrows pointing inward. A force labeled F pulls block
+                          ​           ​                       ​
+
+
+
+
+    M3 horizontally to the right with an arrow.]
+        ​
+
+
+
+
+    A. a = 2/3 m/s2 , T1 = 2/3 N and T2 = 2N.
+                              ​                           ​
+                                                                  B. a = 3/2 m/s2 , T1 = 3/2 N and T2 = 9/2 N.
+                                                                                             ​           ​
+
+
+
+
+                      2                                                          2
+    C. a = 3/2 m/s , T1 = 3N and T2 = 9/2 N.
+                              ​               ​
+                                                                  D. a = 3m/s , T1 = 3N and T2 = 9N.
+                                                                                     ​             ​
+24. which of the following is correct about an astronaut inside an international space station orbiting the earth?         (1)
+    A. The astronauts experiences weightlessness because the space station and the astronauts are freely falling
+       towards the center of the earth.
+    B. Because the earth exerts a larger force on the astronaut than on the space station, the astronaut experienced
+       weightlessness.
+    C. Since the earth exerts equal force on both the astronauts and the space, the astronaut experiences
+       weightlessness.
+    D. The astronauts experiences weightlessness since the earth's gravitational force on the astronaut is less than the
+       earth's forces on the space station.
+
+25. Two masses of m1 and m2 are balanced on a horizontal stick of negligible mass pivoted at the center of mass of         (1)
+    the system. If the distance from m1 to the center of mass is 3.0m and the distance from the mass m2 to the
+    center of mass is 1.0m, the ratio of m1 to m2 (m1/m2) is?
+    A. 3                                                       B. 1/3
+    C. 4/3                                                     D. 3/4
+
+26. Identify the correct statement about energy, work, and force.                                                          (1)
+    A. Machines can multiply energy but not force.
+    B. Energy cannot be possessed by an object at rest.
+    C. Work is said to be done by a force whenever the force is exerted on an object.
+    D. Force is a vector quantity, where as work and energy are scalars.
+
+27. Distinguish between conservative and non-conservative forces.                                                          (1)
+
+    A. Friction force is an example of conservative force, whereas spring force and gravitational force are typical
+       examples of non-conservative force.
+    B. A conservative forces dissipates energy, where as non-conservative force does not.
+    C. Work done by conservative force along any closed path is zero, whereas the work done by non-conservative
+       force along a closed path is not zero.
+    D. Work done by a conservative force is path dependent, whereas work done by non-conservative force does not
+       depend on the path followed.
+
+28. A crane raises 75.0Kg of bricks from the ground to a height of 45.0m in 52.0s a constant speed. The average            (1)
+    power of the crane is?
+    A. 14.4 W                                                  B. 649 W
+    C. 3,375 W                                                 D. 144 W
+
+29. For a rigid body rotating about a fixed axis,                                                                          (1)
+
+    A. For the same time interval, a point closer to the axis and a point father from the axis travel the same linear
+       distance.
+    B. For the same time interval, a point closer to the axis turn through a smaller angle than a point farther from the
+       axis.
+    C. A point closer to the axis has smaller linear speed than a point farther from the axis.
+    D. A point closer to the axis has greater linear speed than a point father from the axis.
+30. A disk of radius 0.10m and mass 0.1Kg is set into motion by a tangential force of 2.0 N applied at the edge of the     (1)
+    disk. If the angular acceleration of the disk is 400 rad/s2 , the torque and angular velocity at 2.0 s are,
+    respectively
+    A. 0.5 Nm and 100 rad/s.                                                B. 0.2 Nm and 800 rad/s.
+    C. 0.2 Nm and 400 rad/s.                                                D. 0.1 Nm and 200 rad/s.
+
+31. Identify the correct statement about torque and angular momentum.                                                      (1)
+    A. No torque acts on an object when its angular momentum increases.
+    B. The change in angular momentum is inversely proportional to the torque exerted for a given time interval.
+    C. For the same time interval, a small torque and a large torque change angular momentum by the same amount.
+    D. A small torque applied for a longer time and a large torque exerted for a shorter time have the same effect on
+       the change of angular momentum.
+
+32. A scientific method                                                                                                    (1)
+    A. Is a scientific procedure where a researcher first predicts the result of a problem before proposing the possible
+       hypothesis.
+    B. Begins from an accepted scientific theory and concludes with designing an experiment.
+    C. Is a scientific procedure which ensures a rigorous evidence-based structure in which only ideas that have been
+       carefully tested are accepted as scientific theory.
+    D. Is scientific procedure in which a researcher begins with performing experiments.
+
+33. Which one of the following is correct about accuracy and precision of a measurement?                                   (1)
+    A. Accuracy is related to the number of significant figures, whereas precision describes how well we minimizes
+       random errors.
+    B. A more accurate measurement has larger uncertainty, whereas a more precise data has smaller uncertainty.
+    C. Accuracy describes the closeness of repeatedly measured data to each other, whereas precision describes
+       about the closeness of a data to a true value.
+    D. Accuracy refers to the closeness of repeatedly measured data to a true value, whereas precision is related to
+       the closeness of the measured data to each other.
+
+34. In an experiment to measure the velocity of a ball rolling along x-axis, a student recorded the distance traveled      (1)
+    and time taken by the ball. Which of the following data represent constant velocity of the ball?
+    A. | x(m) | 0 | 4 | 5 | 6 | 7 | 9 | | t(s) | 0 | 1 | 2 | 3 | 4 | 4 |
+    B. | x(m) | 0 | 2 | 4 | 6 | 8 | 10 | | t(s) | 0 | 1 | 2 | 3 | 4 | 5 |
+    C. | x(m) | 0 | 3 | 5 | 6 | 9 | | t(s) | 0 | 1 | 2 | 3 | 5 |
+    D. | x(m) | 0 | 2 | 3 | 4 | 6 | 7 | | t(s) | 0 | 1 | 2 | 2 | 3 | 4 |
+
+35. A position vector of an object                                                                                         (1)
+
+    A. Is independent of the origin from which it is measured.
+    B. Is a measure of how fast it is moving relative to stationary reference frame.
+    C. Describes its distance from a point in a specified direction.
+    D. Describes its distance from a given point in all directions.
+36. Consider two force vectors in x-y plane: F1 = 10N making a 30∘ angle above the horizontal and F2 = 20 N                  (1)
+    making a 60∘ angle above the horizontal. Which of the following is true?
+    A. The direction of their resultant vector is 45∘ above the horizontal.
+    B. The magnitude of their resultant is 42 N.
+    C. The horizontal and vertical components of their resultant are 18.66N and 22.32N, respectively.
+    D. The horizontal and vertical components of their resultant are 15N and 26N, respectively.
+
+37. Given four vectors A = 2i − j , B = 4i − 2j , C = i − j , D = 2i + 3j , which pair of theses vectors are                 (1)
+    collinear?
+    A. C and D                                                         B. A and B
+    C. B and C                                                         D. A and C
+
+38. While going to school, a student travels 3km, East and then 4km, North in 2 hrs. the magnitude of student's              (1)
+    average velocity and average speed are, respectively
+    A. 2.5 km/hr and 3.5km/hr.                                         B. 2km/hr and 7km/hr/.
+    C. 5km/hr and 7km/hr.                                              D. 3.5km/hr and 2.5km/hr.
+
+39. A boy throws a ball vertically upward with an initial speed of 20 m/s. Neglecting air resistance, which of the           (1)
+    following is true about the motion of the?
+    A. The time taken to reach the maximum height is 4s.
+    B. Its velocity after 3s is 50m/s, downward.
+    C. Its maximum height is 20m.
+    D. Its velocity after 1s is 30 m/s, upward.
+
+40. Choose a correct statement about centripetal force and centripetal; acceleration.                                        (1)
+    A. For an object moving in a circular path, its centripetal force and centripetal acceleration are parallel and directed
+       toward the centre of the path.
+    B. Centripetal acceleration and centripetal force are constant in direction, but vary in magnitude.
+    C. Centripetal force on an object moving in a circular path is perpendicular to the radius of the path.
+    D. Centripetal force on an object moving in a circular path tends to pull the object outward from its path.
+
+41. According to Newton's law of Universal Gravitation,                                                                      (1)
+    A. The speed of a satellite moving around the Earth in a circular orbit depends on the mass of the satellite.
+    B. For two interacting objects, gravitational force exerted on a light object is less than the force on the heavy one.
+    C. The period of a satellite orbiting the Earth in a circular orbit increases as the radius of its orbit increases.
+    D. The gravitational attraction between two objects is directly proportional to the square of the distance between
+       them.
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

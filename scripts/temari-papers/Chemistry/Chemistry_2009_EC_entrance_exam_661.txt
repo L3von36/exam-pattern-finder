@@ -1,0 +1,597 @@
+                                                          Temari.et
+                                  Chemistry, 2009 EC, entrance exam
+                                                Grade 12 · Chemistry · 2009 E.C.
+
+Time allowed: 120 minutes                                     Questions: 69                                      Total marks: 69
+
+Name                                              Grade                       ID No.                     Date
+
+1.   Which of the following covalent bonds is the most polar?                                                                  (1)
+     A. H - F                                                      B. H - C
+     C. H - H                                                      D. H - N
+
+2.   The force that hold different atoms or ions together are called?                                                          (1)
+     A. Electric forces                                            B. Physical bonds
+     C. Chemical bond                                              D. Atomic forces
+
+3.   How many electrons are shared between two atoms in a double bond?                                                         (1)
+
+     A. 2                                                          B. 3
+     C. 4                                                          D. 6
+
+4.   What is the chemical formula of the compound formed by aluminium (III) and sulphate ion, SO2−
+                                                                                                4 ?         ​
+                                                                                                                               (1)
+     A. AlSO4   ​
+                                                                   B. Al2 SO4
+                                                                          ​      ​
+
+
+
+
+     C. Al2 (SO4 )3
+            ​       ​   ​                                          D. Al(SO4 )3 ​    ​
+
+
+
+
+5.   Which of the following is the most reasonable valence- bond structure of the nirocyl chloride (NOCl)?                    (1)
+     [Figure: The four options are scanned Lewis (electron-dot) structures, one per option, each drawn on a pale lilac
+     background. Option A: ':O - N - Cl' written with capital letters; the O has a pair of dots above it, a pair of dots to
+     its left (drawn as a colon) and a pair of dots below it, and is joined to N by a single horizontal line; the N has a
+     pair of dots above and a pair of dots below, and is joined to Cl by a short single dash; the Cl has a pair of dots
+     above and a pair of dots below. Option B: 'O = N - Cl'; the O has a pair of dots above and a pair of dots below and
+     is joined to N by a double line (two parallel horizontal strokes); the N has one pair of dots above it only; N is
+     joined to Cl by a short single dash; the Cl has a pair of dots above and a pair of dots below. Option C: ': O - N =
+     Cl'; a pair of dots stands to the left of O, and O also has a pair of dots above and a pair of dots below; O is joined
+     to N by a single short dash; N has a pair of dots above and a pair of dots below; N is joined to Cl by a double
+     line; Cl has a pair of dots above and a pair of dots below. Option D: ': O = N Cl'; a pair of dots stands to the left of
+     O and a pair of dots above it; O is joined to N by a double line; N has a pair of dots above and a pair of dots
+     below; Cl stands with no bond line drawn to N and carries a pair of dots above and a pair of dots below. The tick
+     marking the key sits at the end of option B's line.]
+     A. O and N joined by a single bond, N and Cl joined by a single bond; O carries three lone pairs (above, left and
+        below), N carries two lone pairs (above and below), Cl carries two lone pairs (above and below)
+     B. O and N joined by a double bond, N and Cl joined by a single bond; O carries two lone pairs (above and below), N
+        carries one lone pair (above), Cl carries two lone pairs (above and below)
+     C. O and N joined by a single bond, N and Cl joined by a double bond; O carries three lone pairs (left, above and
+        below), N carries two lone pairs (above and below), Cl carries two lone pairs (above and below)
+     D. O and N joined by a double bond, no bond drawn between N and Cl; O carries two lone pairs (left and above), N
+        carries two lone pairs (above and below), Cl carries two lone pairs (above and below)
+6.   Which of the following is the correct order for electrons filling in orbitals?                                      (1)
+     A. 3s, 3p, 4s, 3d                                            B. 2p, 3s, 3p, 3d
+     C. 3p, 4s, 3d, 5s                                            D. 4s, 3d, 4p, 4d
+
+7.   The normal human eye responds to visible light of wavelength ranging from about 390nm to 710nm. What is the         (1)
+     frequency range of the human eye?
+     A. 7.7 × 1014 s−1 to 4.2 × 1014 s−1                          B. 4.2 × 1014 s−1 to 7.7 × 1014 s−1
+     C. 1.3 × 10−15 s−1 to 2.4 × 10−15 s−1                        D. 2.4 × 10−15 s−1 to 1.3 × 10−15 s−1
+
+8.   How many different types of orbitals are there in the third energy level?                                           (1)
+
+     A. 2                                                         B. 3
+     C. 6                                                         D. 7
+
+9.   The Heisenberg uncertainty principle states that                                                                    (1)
+     A. Two atoms of the same element must have the same number of protons.
+     B. No two electrons din the same atom can have the same set of four quantum numbers.
+     C. It is impossible to determine both position and momentum of an electron simultaneously.
+     D. Electrons of atoms in ground state enter energetically equivalent stet of orbitals singly before they pair any
+        orbitals of the set.
+
+10. Which of the following transitions will have minimum wavelength?                                                     (1)
+     A. n4 → n1                                                   B. n2 → n1
+     C. n4 → n2                                                   D. n3 → n1
+
+11. What is the energy associated with one photon of a microwave radiation having a frequency of 2.45 × 109 s−1 ?        (1)
+
+     A. 1.62 × 1024 J                                             B. 2.45 × 109 J
+     C. 2.45 × 10−9 J                                             D. 1.62 × 10−24 J
+
+12. What is the frequency of a radiation (in Hz) from an atom if its wavelength is 1.0 × 10−9 nm?                        (1)
+     A. 3.3 × 10−27                                               B. 3.0 × 1017
+     C. 3.0 × 108                                                 D. 3.0 × 1026
+
+13. Which of the following particle was discovered by the cathode rays experiment?                                       (1)
+     A. Electron                                                  B. Neutron
+     C. Nucleus                                                   D. Proton
+
+14. Which of the following is NOT a laboratory safety rule?                                                              (1)
+     A. You should tie back loose hair.
+     B. You should never add acid to water.
+     C. Do not suck solution in the pipette by mouth.
+     D. When lighting a Bunsen Burner, you should light the match stick before turning on the gas.
+
+15. Which of the following is the correct relationship between picometer (PM) and nanometer (nm)?                        (1)
+     A. 1Pm = 10nm                                                B. 1pm = 100nm
+     C. 1nm = 10pm                                                D. 1nm = 1000pm
+16. How many significant figures has the sum of 2.453, 4.6 and 8.14?                                               (1)
+    A. 2                                                       B. 3
+    C. 4                                                       D. 5
+
+17. Which one of the following measurements has the greatest number of significant figures?                        (1)
+
+    A. 0.00046                                                 B. 0.0046
+    C. 460                                                     D. 4.6 × 106
+
+18. Which of the following methods is used to convert oils into fats?                                              (1)
+    A. Esterification reaction using strong bases like NaOH or KOH
+    B. Saponification reaction using strong bases like NaOH or KOH
+    C. Hydrolysis reaction in the presence of water and a catalyst
+    D. Hydrogenation reaction at high temperature and in the presence of a catalyst
+
+19. The solubility of compounds containing the carboxylic acid group can be increased by reaction with             (1)
+
+    A. Sulphuric acid                                          B. Sodium hydroxide
+    C. Water                                                   D. Benzoic acid
+
+20. What products will be formed when a carboxylic acid reacts with an alcohol?                                    (1)
+    A. Ketone and water                                        B. Amide and water
+    C. Acid chloride and water                                 D. Easter and water
+
+21. Consider the reaction AB3 (g) ⇌ A (g) + 3B (g) What is the equilibrium constant expression if the initial
+                                 ​                                                                                 (1)
+    concentration of AB3 , is 0.1M and the equilibrium concentration of A is expressed by x? (Assume the initial
+                          ​
+
+
+
+
+    concentrations of A and B are both zero.)
+    A. x − 3x                                                 B.      x.3
+       0.1 − x                                                    (0.1 − 3x)3
+                ​                                                              ​
+
+
+
+
+                3
+    C.   x−x                                                  D. x(3x)3
+       (0.1 − 3x)3                                                0.1 − x
+                     ​                                                     ​
+
+
+
+
+22. Consider the following reaction at equilibrium. 2CO2 (g) ⇌ 2CO (g) + O2 (g) ΔH 0 = -514KJ What does Le
+                                                          ​                        ​                               (1)
+    Chatelier's principle predict when the temperature for the reaction is increased?
+    A. The value of the equilibrium constant will increase.
+    B. The value of the equilibrium constant will decrease.
+    C. The partial pressure of O2 (g) at equilibrium will increase.
+                                     ​
+
+
+
+
+    D. The partial pressure of CO2 (g) at equilibrium will increase.
+                                         ​
+
+
+
+
+23. For one component system, when would the degree of freedom becomes one?                                        (1)
+
+    A. When only one phase is present.
+    B. When two phases are present at equilibrium.
+    C. When three phases are present at equilibrium.
+    D. At all times.
+
+24. Which one of the following is correct when a reaction reaches equilibrium?                                     (1)
+    A. The reaction rate for the forward direction is decreased to zero.
+    B. The rate of the forward and reverse reaction becomes equal.
+    C. The rate of the reverse reaction is reached a maximum.
+    D. The amounts of reactants and products becomes equal.
+25. A possible mechanism for the reaction, A + 2B → AB2 is Step: A + B → AB Slow Step: AB + B → AB2
+                                                                     ​                                                                  (1)
+    Fast Overall: A + 2B → AB2 According to the mechanism, what will be the rate law?
+                                             ​
+
+
+
+
+     A. Rate = K[A][B]                                                   B. Rate = K[B]2
+     C. Rate = K[A][B]2                                                  D. Rate = K[A]
+
+26. The initial rate of a reaction A + B → products was measured for several different starting concentrations of A                     (1)
+    and B, with the following results. What is the initial rate of reaction when [A]0 = 0.12M and [B]0 = 0.015M?
+                                                                                                        ​                   ​
+
+
+
+
+    [Figure: A four-column, three-row data table between the two halves of the stem. Column headings: 'Exp', '[A]',
+    '[B]', 'Initial rate of formation of C M/s'. Row 1: Exp 1, [A] 0.04, [B] 0.04, rate 9.6 × 10−6 . Row 2: Exp 2, [A] 0.08,
+    [B] 0.04, rate 1.92 × 10−5 . Row 3: Exp 3, [A] 0.02, [B] 0.02, rate 9.6 × 10−6 .]
+     A. 0.006Ms−1                                                        B. 0.006M−2 s−1
+     C. 1.08 × 10−5 Ms−1                                                 D. 1.08 × 10−4 Ms−1
+
+27. Given the following data for the reaction: NH+              −
+                                                    4 (aq) + NO2 (aq) → N2 (g) + 2H2 O(l) What will be the rate
+                                                             ​              ​               ​                   ​                       (1)
+    law for the given reaction?
+    [Figure: A four-column, three-row data table directly under the equation. Column headings: 'Experiment', '[N+
+                                                                                                                4 ]', '             ​
+
+
+
+
+       −
+    [N2 ]', 'Rate'. Row 1: Experiment 1, 0.010M, 0.020M, 0.020M/s. Row 2: Experiment 2, 0.015M, 0.020M, 0.03M/s.
+         ​
+
+
+
+
+    Row 3: Experiment 3, 0.010M, 0.010M, 0.005M/s. The column headings are printed as [N+             −
+                                                                                            4 ] and [N2 ], which        ​       ​
+
+
+
+
+                              +           −
+    does not match the NH4 and NO2 of the equation.]
+                                     ​           ​
+
+
+
+
+     A. Rate = K[NH+     −
+                   4 ][NO2 ]
+                         ​           ​
+                                                                         B. Rate = K[NH+  2
+                                                                                       4 ] [NO2 ]   ​           ​
+
+
+
+
+     C. Rate = K[NH+  2   − 2
+                   4 ] [NO2 ]
+                         ​               ​
+                                                                         D. Rate = K[NH+     − 2
+                                                                                       4 ][NO2 ]    ​       ​
+
+
+
+
+28. The rate of a reaction increases with increasing the concentration of reactant molecules, because                                   (1)
+
+     A. The average kinetic energy of the molecules increases.
+     B. The frequency of molecular collisions increase.
+     C. The order of the reaction increases
+     D. The activation energy increases.
+
+29. Consider the following reactions: 2N2 O5 (g) → 4NO2 (g) + O2 (g) At a certain temperature, the rate of
+                                                     ​   ​       ​                  ​                                                   (1)
+    decomposition of N2 O5 (g) is 2.5 × 106 mol/s. What will be the rate of formation of NO2 ?
+                             ​   ​                                                                                  ​
+
+
+
+
+     A. 1.0 x 10-5mol/s                                                  B. 2.5 x 10-6mol/s
+     C. 1.3 x 10-6mol/s                                                  D. 5.0 x 10-6mol/s
+
+30. Which of the following refer to a reaction that is NOT dependent on the concentration of a reactant?                                (1)
+     A. Second order reaction                                            B. First order reaction
+     C. Zero order reaction                                              D. Third order reaction
+
+31. What is the bond order of a superoxide anion, with the chemical formula O−
+                                                                             2?                 ​                                       (1)
+
+     A. 3                                                                B. 2.5
+     C. 2                                                                D. 1.5
+
+32. What kind of hybrid orbitals are utilized by the carbon atom in CF4 molecules?      ​
+                                                                                                                                        (1)
+     A. Sp                                                               B. Sp  2
+
+     C. Sp   3                                                           D. Sp3 d
+33. Which statement about indicators is always correct?                                                                     (1)
+    A. The mid-point of the PH rage of an indicator is 7.0
+    B. The PH rage is greater with higher PKa values.
+    C. The colour red indicates an acidic solution.
+    D. The PKa values of the indicator is within its PH range.
+
+34. The suppression of ionization of a weak acid or a weak base by adding one of its own ions is known as:                  (1)
+    A. Buffer effect                                                                     B. Ionization effect
+    C. Common ion effect                                                                 D. Association effect
+
+35. Nitrous acid, HNO2 is 0.37% ionized in 3.0M solution. What is the Ka for this acid?
+                                                         ​                                                  ​               (1)
+                                                 2                                                              2
+    A. 3.0(0.0037)                                                                       B. (0.0037)
+           99.63                                                                             0.9963
+                                                     ​                                                              ​
+
+
+
+
+    C. 3.0(0.0037)2                                                                      D. 0.9963
+                                                                                            (0.0037)2
+                                                                                                                    ​
+
+
+
+
+          0.9963
+                                                     ​
+
+
+
+
+36. Among the following acids, which has the lowest PKa value?                   ​                                          (1)
+    A. CH3 CH2 COOH                  ​
+                                                                                         B. HCOOH
+    C. (CH3 )2CHCOOH         ​
+                                                                                         D. CH3 COOH​
+
+
+
+
+37. Which one of the following is a Lewis acid?                                                                             (1)
+    A. NH3           ​
+                                                                                         B. CCl4        ​
+
+
+
+
+    C. AlCl3                     ​
+                                                                                         D. LiCl
+
+38. Which of the following is the conjugate acid of the HS− ion?                                                            (1)
+
+    A. H2 S− ​                                                                           B. S−
+                                                                                             2  ​
+
+
+
+
+    C. S−                                                                                D. H2 S
+
+39. What will be the ration of the boiling point elevation of a 0.1M solution of sucrose, sodium sulphate and               (1)
+    potassium bromide?
+    A. 1 : 3 : 1                                                                         B. 1 : 1 : 2
+    C. 1: 3 : 2                                                                          D. 1 : 2 : 2
+
+40. When the molecular equation: CaCl2 (aq) + Na2 CO3 (aq) → CaCO3(s) + 2NaCl(aq) Is written in terms of (1)
+                                                                     ​       ​       ​
+
+
+
+
+    ionic equation, which one of the following pairs will be the spectator ions?
+    A. Na+ and Cl−                                                                       B. Ca2+ and Cl−
+    C. Na2−
+         3 and Cl
+                  −      ​
+                                                                                         D. Ca2+ and CO2−
+                                                                                                        3               ​
+
+
+
+
+41. If 0.454kg of nitroglycerin explodes according to the following reaction:                                               (1)
+    2C3 H5 (NO2 )3 → 6CO2 + 3N2 + 5H2 What is the total volume of gases in dm3 produced at STP?
+         ​       ​                       ​   ​               ​   ​       ​
+
+
+
+
+    A. 44.8                                                                              B. 163
+    C. 397.7                                                                             D. 650
+
+42. How many grams of methanol would have to be added to water to prepare 150ml of solution which is 2.0M                   (1)
+    methanol?
+    A. 2.4                                                                               B. 9.6
+    C. 9.6 × 103                                                                         D. 4.3 × 102
+43. A certain 500g toothpaste sample has 0.2g of fluoride. What is the concentration of the fluoride in ppm?             (1)
+    A. 200                                                       B. 250
+    C. 400                                                       D. 1000
+
+44. What will be the normality of a 2.3M sulphuric acid solution?                                                        (1)
+
+    A. 0.23N                                                     B. 0.46N
+    C. 2.3N                                                      D. 4.6N
+
+45. The solubility of NaCl in water at 200 C is 36g in 100g of water. A solution that contains 18g of NaCl in 50g of     (1)
+    water at 200 C is
+    A. Saturated                                                 B. Unsaturated
+    C. Supersaturated                                            D. Dilute
+
+46. Which of the following pairs of substances are miscible?                                                             (1)
+    A. Water and gasoline                                        B. Water and oxygen
+    C. Water and salt                                            D. Water and ethanol
+
+47. Which of the following types of solution are possible? 1. Solid dissolved in a liquid 2. Gas dissolved in a gas 3.   (1)
+    Gas dissolved in a liquid 4. Solid dissolved in a solid
+    A. 1 and 2                                                   B. 1, 2, 3 and 4
+    C. 1, 2 and 4                                                D. 1
+
+48. The chemical makeup of oil is esters of glycerol with three                                                          (1)
+    A. Identical saturated fatty acids.                          B. Predominantly saturated fatty acids.
+    C. Predominantly unsaturated fatty acids.                    D. Identical unsaturated fatty acids.
+
+49. Which of the following general class of organic molecules do triglycerides belong to?                                (1)
+    A. Ketones                                                   B. Carboxylic acids
+    C. Esters                                                    D. Ethers
+
+50. What type of polymerization occurs when amino acids react to form peptides and proteins?                             (1)
+
+    A. Addition polymerization                                   B. Condensation polymerization
+    C. Substitution polymerization                               D. Hydration polymerization
+
+51. Which of the following is the most abundant polysaccharide?                                                          (1)
+    A. Amylose                                                   B. Cellulose
+    C. Starch                                                    D. Sucrose
+
+52. What is the other name for polymethyl methacrylate (PMMA)?                                                           (1)
+    A. Perspex                                                   B. Teflon
+    C. Bakelite                                                  D. Nylon- 6
+
+53. What is the monomer of polyvinyl chloride (PVC)?                                                                     (1)
+    A. Cloroethane                                               B. Ethylene dichloride
+    C. Chloroform                                                D. Ethyl chloride
+54. The second step in the production of sulphuric acid is given by the reaction: 2SO2 (g) + O2 (g) ⇌ 2SO3 (g)                                    ​       ​           ​       (1)
+    Which conditions would increase the yield of this reaction?
+    A. High temperature and low pressure                                              B. Low temperature and high pressure
+    C. High temperature and high pressure                                             D. Low temperature and low pressure
+
+55. Which of the following reactions is used in the production of industrially important chemical?                                                                            (1)
+    A. H2 S2 O7 (l) + H2 O(l) → 2H2 SO4 (aq)
+          ​       ​           ​       ​               ​   ​
+                                                                                      B. 3NO3 (g) + H2 O(l) → 2HNO3 (aq) + NO2 (g)
+                                                                                                      ​                               ​                           ​       ​
+
+
+
+
+    C. (NH4 )2HPO4 (s) + NH3 (g) → NH4 H2 PO4 (s)
+                      ​           ​           ​                   ​       ​   ​
+                                                                                      D. 2Cr(s) + Al2 O3 (s) → Cr2 O3 (s) + 2Al(s)
+                                                                                                                              ​           ​           ​       ​
+
+
+
+
+56. Which one of the following metal is used for galvanization of iron sheets?                                                                                                (1)
+
+    A. Nickel                                                                         B. Zinc
+    C. Chromium                                                                       D. Aluminium
+
+57. In what way is the phosphorous cycle differs from the carbon and nitrogen cycle?                                                                                          (1)
+    A. Phosphorus is more abundant than carbon and nitrogen
+    B. Phosphorus is less important than carbon and nitrogen
+    C. Phosphorus, once used by an organism does not cycle back to the environment
+    D. The reservoirs for phosphorus exists in mineral form in rocks than in the atmosphere
+
+58. Which one of the following is needed for photosynthesis?                                                                                                                  (1)
+
+    A. Carbon dioxide                                                                 B. Nitrogen
+    C. Oxygen                                                                         D. Phosphorus
+
+59. Consider the reaction: Cu2+ (aq) + Fe(s) ⇌ Cu(s) + Fe2+ (aq), E0 = 0.78V What is the value of E when                                                                      (1)
+    [Cu2+ ] is equal to 0.040M and [Fe2+ ] is equal to 0.40M?
+    A. 0.72V                                                                          B. 0.75V
+    C. 0.81V                                                                          D. 0.84V
+
+60. For the electrochemical cell represented by: Zn/ZnSO4 (aq) // CuSO4 (aq)/Cu(s) The standard reduction
+                                                                                  ​                                       ​
+                                                                                                                                                                              (1)
+    potentials for Cu2+ /Cu and Zn2+ /Zn are +0.34 and -0.76V, respectively, what will be the cell reaction that
+    occurs spontaneously and its cell voltage?
+    A. Cu + Zn2+ = Cu2+ + Zn E0 (V) = 1.10                                            B. Zn + Cu2+ = Zn2+ + Cu E0 (V) = 0.42
+    C. Cu2+ + Zn2+ = Zn + Cu E0 (V) = 0.42                                            D. Cu2+ + Zn = Cu + Zn2+ E0 (V) = 1.10
+
+61. What product(s) is /are formed during the electrolysis of a concentrated aqueous solution of sodium chloride?                                                             (1)
+
+    A. Cl2 (g)​                                                                       B. Cl2 (g) and H2 (g)
+                                                                                                  ​                               ​
+
+
+
+
+    C. NaOH(aq) and Cl2 (g)               ​
+                                                                                      D. Cl2 (g), H2 (g) and NaOH(aq)
+                                                                                                  ​               ​
+
+
+
+
+62. In the reaction: Pb + (s), PbO2 + H2 SO4 (aq) → 2PbSO4 (s) + 2H2 O(l) Which substance behaves as the
+                                                  ​           ​       ​                   ​                           ​
+                                                                                                                                                                              (1)
+    oxidizing agent?
+    A. Pb                                                                             B. PbSO4                ​
+
+
+
+
+    C. PbO2               ​
+                                                                                      D. H2 SO4
+                                                                                              ​           ​
+
+
+
+
+63. What mass of magnesium (Mg) is produced in the electrolysis of molten MgCl2 , if a current of 7.50 × 102 A is                             ​
+                                                                                                                                                                              (1)
+    passed through the molten salt for 1.00 hour?
+    A. 3.4 × 102 g                                                                    B. 9.92 × 102 g
+    C. 1.7 × 102 g                                                                    D. 4.96 × 102 g
+64. Devices in which oxidation- reduction reaction is induced by an electric current are called                              (1)
+    A. Galvanic cells                                                                B. Electrolytic cells
+    C. Voltaic cells                                                                 D. Electromotive cells
+
+65. In the following reaction:                                                                                               (1)
+    3Cl− (aq) + 4CrO2−               +                        3+
+                         4 (aq) + 23H (aq) → 3HClO2 (aq) + 4Cr (aq) + 10H2 O(l) What is the behaviour
+                                       ​                                     ​                                           ​
+
+
+
+
+    Cl− (aq)?
+    A. An acid                                                                       B. A base
+    C. An oxidizing agent                                                            D. A reducing agent
+
+66. Based on the following information ΔH 0 (KJ) H2 (g) + 1/2O2 (g) → H2 O(l) -286
+                                                                     ​                      ​                ​               (1)
+    2Na(s) + 1/2O2 (g) → Na2 O(s) 414 Na(s) + 1/2O2 (g) + 1/2H2 (g) → NaOH(s) -425 What will be the
+                           ​                ​                                    ​                   ​
+
+
+
+
+    standard enthalpy changes for the reaction? Na2 O(s) + H2 O(l) → 2NaOH(s)?
+                                                                         ​              ​
+
+
+
+
+    A. -978KJ                                                                        B. -722KJ
+    C. -150KJ                                                                        D. +275KJ
+
+67. At what condition(s) is the equation, ΔH = ΔU + P ΔV , applicable?                                                       (1)
+    A. For constant pressure and temperature processes
+    B. Only for constant pressure processes
+    C. Only for constant temperature processes
+    D. Only for constant volume processes
+
+68. What is a thermodynamic system that exchanges both energy and matter with the surroundings?                              (1)
+    A. Adiabatic                                                                     B. Closed
+    C. Isolated                                                                      D. Open
+
+69. Use the following equilibrium reaction for questions 81 2C (s) + O2 (g) = 2CO (g) ΔH < 0     ​                           (1)
+    What is the equilibrium expression? (M)
+    A.           2[CO]                                        B.        [CO]2
+       K=                                                        K=              h
+             2[C] + [O2 ]                                             [C]2 [O2 ]
+                                   ​
+                                                                                                                     ​
+
+
+
+
+                               ​
+
+
+
+
+    C.       2[CO]                                            D.      [CO]2
+       K=                                                        K=
+              [O2 ]                                                    [O2 ]
+                       ​
+                                                                                                                 ​
+
+
+
+
+                   ​
+                                                                                                         ​
+
+
+
+
+                                                         — E N D O F E X A M I N AT I O N —
+                                           Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

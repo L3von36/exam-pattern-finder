@@ -1,0 +1,678 @@
+                                                          Temari.et
+                                Mathematics, 2009 EC, entrance exam
+                                               Grade 12 · Mathematics · 2009 E.C.
+
+Time allowed: 120 minutes                                         Questions: 61                                        Total marks: 61
+
+Name                                              Grade                                ID No.                   Date
+
+1.                                                       1        3       2
+                                                  −1
+     If A = (aij )3×3 is a square matrix with A
+                 ​        ​                            = 1​   ​   1   ​   3 , then what is the cofactor of a23 ?.
+                                                                           ​   ​                               ​                    (1)
+                                                         0        4       5
+     A. −3/14                                                             B. −2/7
+     C. 2/7                                                               D. −3/7
+
+2.   A team of 10 researchers consist 4 biologists and 6 chemists. If 3 persons are chosen randomly from the team,                  (1)
+     what is the probability that at least one is a biologist?
+     A. 2/3                                                               B. 2/5
+     C. 5/6                                                               D. 7/10
+
+3.   The probability that an electronic device produced by a company does not function properly is equal to 0.1. If 2               (1)
+     devices are bought, then what is the probability that at least one device function properly?
+     A. 0.81                                                              B. 0.09
+     C. 0.18                                                              D. 0.99
+
+4.   In how many ways can a committee of 3 members be formed from 7 candidates?                                                     (1)
+     A. 7                                                                 B. 21
+     C. 28                                                                D. 35
+
+5.   The following is a frequency distribution table of a grouped data with variable X. What is the mean (x     ˉ) and the          (1)
+     variance (s2 ) of the data respectively?
+     [Figure: A two-row bordered frequency table with five columns. Top row: first cell labelled 'X', then the class
+     intervals 3-7, 8-12, 13-17, 18-22. Bottom row: first cell labelled 'Frequency', then the values 4, 6, 8, 2 under those
+     intervals respectively.]
+     A. x
+        ˉ = 12, s2 = 21                                                   B. x
+                                                                             ˉ = 12, s2 = 25
+        ˉ = 13, s2 = 9
+     C. x                                                                    ˉ = 13, s2 = 16
+                                                                          D. x
+
+6.   The expenditure of 100 families is given below. The mode of the data is 23.5, what are the values of f1 and f2                 (1)
+     [Figure: A two-row bordered table with six columns. Top row: first cell labelled 'Expenditure', then the classes 0-
+     9, 10-19, 20-29, 30-39, 40-49. Bottom row: first cell labelled 'No. of Families', then the values 14, 23, f1 , 21, f2
+                                                                                                                        ​      ​
+
+
+
+
+     under those classes respectively.]
+     A. f1 = 27, f2 = 15
+          ​          ​
+                                                                          B. f1 = 15, f2 = 27
+                                                                                   ​            ​
+
+
+
+
+     C. f1 = 25, f2 = 17
+          ​           ​
+                                                                          D. f1 = 17, f2 = 25
+                                                                                   ​            ​
+
+
+
+
+7.   The first group of 10 children has a mean weight of 15.6kg, the second group of another 10 children has a mean                 (1)
+     weight of 16kg, and the third group of children has a mean weight of 20kg. If the mean weight of all the children
+     is 17kg, what is the total number of children in all of the three group?
+     A. 28                                                                B. 29
+     C. 30                                                                D. 32
+8.    Which of the following is a valid argument?                                                                            (1)
+      A. ¬p ⇒ ¬q, q ⊢ ¬p                                                      B. p ⇒ ¬q, p, r ⇒ q ⊢ ¬r
+      C. ¬p ∨ q, r ⇒ p, r ⊢ ¬q                                                D. ¬p, p ∨ q, r ⇒ q ⊢ ¬r
+
+9.    Consider the following open propositions: P(x) =x is a prime number, C(x) =x is a composite number, and E(x) =x        (1)
+      is an even number, which one of the following has a truth value of True in the set of positive integers?
+      A. (∀x )[P (x) ⇒ ¬E(x)]
+                           ​
+                                                                              B. (∀x )[P (x) ⇒ ¬E(x)]
+                                                                                         ​
+
+
+
+
+      C. (∀x )[P (x) ⇒ ¬E(x)]
+                           ​
+                                                                              D. (∀x )[P (x) ⇒ ¬E(x)]
+                                                                                         ​
+
+
+
+
+10. Which of the following functions is a one to one correspondence?                                                         (1)
+
+      A. f : [0, ∞) ⟶ ℜ definded by f (x) = ∣x∣                               B. f : ℜ ⟶ [0, ∞) definded by f (x) = x2
+      C. f : ℜ ⟶ [0, ∞) definded by f (x) = 3x                                D. f : (0, ∞) ⟶ ℜ definded by f (x) = log2 x
+                                                                                                                        ​
+
+
+
+
+11. If f (x) =                 x3 and (f ∘ g)(x) = 4 x, then what is the value of g(8)?
+                                 ​                        ​                                                                  (1)
+      A.   3
+               2   ​
+                                                                              B. 2
+      C.       2       ​
+                                                                              D. 2 2             ​
+
+
+
+
+12. Which one of the following is the inverse of f (x) = 8x3 + 2?                                                            (1)
+    A. f −1 (x) =     1                                      B. f −1 (x) = 1 3 x − 2
+                     3
+                  8x + 2                                                   2
+                                         ​                                                           ​   ​
+
+
+
+
+    C. f (x) = 8x + 2
+         −1         −3                                                     1
+                                                             D. f −1 (x) = 3 x − 2
+                                                                           8
+                                                                                                     ​   ​
+
+
+
+
+13.                                            1        1      x + x1
+      What is the solution set of                   −        =        ?
+                                                                      ​
+
+
+
+
+                                                                                                                             (1)
+                                             1 + x1   1 − x1   x − x1
+                                                      ​           ​       ​
+
+
+
+
+                                                  ​           ​       ​
+
+
+
+
+      A. { }                                                                  B. {−1}
+      C. {1}                                                                  D. {−1, 1}
+
+14.                                                                       x3
+      Which one of the following is true about the graph of                                                                  (1)
+                                                                      x3 (x − 1)
+                                                                                             ​
+
+
+
+
+      A. the vertical asymptotes of the graph are x = 0 and x = 1
+      B. a horizontal asymptote of the graph is y = 1
+      C. the graph intersects its horizontal asymptote at a point (−1, 0)
+      D. the graph intersects the vertical line x = 1 at a point (1, 2)
+
+15. What is the equation of a line that passes through point (a, a) in xy-plane if it is parallel to a line that passes      (1)
+    through points (a, b) and (b, a) where a =
+                                              b?
+      A. y = x                                                                B. y = −x
+      C. y = −x + 2a                                                          D. y = 2x − a
+
+16. What are the values of the center (C) and radius (r) of a circle x2 + y 2 − 4x + 6y = 5?                                 (1)
+
+      A. C = (−2, 3), r = 3 2                 ​                               B. C = (2, −3), r = 3 2        ​
+
+
+
+
+      C. C = (2, −3), r = 2 3                 ​
+                                                                              D. C = (−2, 3), r = 2 3        ​
+
+
+
+
+17. What is the radius of the largest possible circle that can be inscribed in the ellipse given by 5(x − 1)2 + 3y 2 =       (1)
+    15?
+      A. 3             ​                                                      B. 5   ​
+
+
+
+
+      C. 3                                                                    D. 5
+18.                                           x2    y2
+      Suppose the eccentricity of the hyperbola  −     = 1 is reciprocal to that of the eccentricity of the ellipse    (1)
+                                              a2    b2
+                                                    ​               ​
+
+
+
+
+       2      2
+      x + 4y = 4. If the hyperbola passes through the focus of the ellipse, then what is the equation of the
+      hyperbola?
+      A. x2 − 2y 2 = 2                                                       B. x2 − 3y 2 = 3
+      C. x2 /3 − y 2 /2 = 1                                                  D. x2 /2 − y 2 /3 = 1
+
+19. Let p and q stands for the statements "Nejat is intelligent" and "Almaze is hardworking". Respectively, which of   (1)
+    the following represent the statement "Almaze is hardworking if Nejat is intelligent"?
+      A. ¬p ∧ q                                                              B. ¬p ∨ q
+      C. p ∧ q                                                               D. ¬q ∨ p
+
+20. Let f be differentiable function with f (1) = −1 and f ′ (1) = 1. If g(x) = [f (2x + 1) + 2]2 , then what is the   (1)
+    value of g ′ (0)?
+      A. 4                                                                   B. 2
+      C. -2                                                                  D. -4
+
+21. If f (x) = ln(x2 + 2), then what is the value of f ′′ (1)?                                                         (1)
+      A. 3/2                                                                 B. 5/9
+      C. 2/3                                                                 D. 2/9
+
+22.                                                dy
+      If x2 + xy = 10, then what is the value of      when x = 2?
+                                                        ​                                                              (1)
+                                                   dx
+      A. −7/2                                                 B. 2/7
+      C. 3/2                                                  D. 7/2
+
+23. What is the equation of the tangent line to the graph of f (x) = 3x2 + 4x − 5 at (1, 2)?                           (1)
+      A. 10x − y − 8 = 0                                                     B. −10x + y − 8 = 0
+      C. −10x − y − 8 = 0                                                    D. 10x + y − 8 = 0
+
+24. If f (x) = π2 + 1, then what is the value of f ′ (x)?                                                              (1)
+      A. 2π + 1                                                              B. 2π
+      C. 2                                                                   D. 0
+
+25. Suppose f is continuous on [2, 6] and the only solutions of the equation f (x) = 7 are x = 2 and x = 5. If         (1)
+    f (3) = 9, then one of the following Can Not be the value of f (4)?
+      A. 5                                                                   B. 7.5
+      C. 8                                                                   D. 9
+
+26.                                          ⎧ tan 2x ,
+      What is the value of k so that f (x) = ⎨ x
+                                                                        if x > 0
+                                             ⎩k − ex ,
+                                                                                       if continuous at x = 0?         (1)
+                                                            ​
+
+
+
+
+                                              ​                 ​                  ​
+
+
+
+
+                                                                        if x ≤ 0
+      A. 2                                                                   B. 3
+      C. 1                                                                   D. 0
+27.                                                                                                                          3
+      If f is continuous at x = 0 and g(x) =                                                           x (2f (x) +
+                                                                                                           ​                    ) for all x > 0, then what is the value of
+                                                                                                                                   ​                                                                                             (1)
+                                                                                                                              x    ​
+
+
+
+
+      limx→0+ g(x)?              ​
+
+
+
+
+      A. 0                                                                                                                   B. 2
+      C. 3                                                                                                                   D. 5
+
+28. What is the value of lim                                                         sin x cos 2x
+                                                                           x→0                    ?                                                                                                                              (1)
+                                                                                       x2 + 3x
+                                                                                 ​                 ​
+
+
+
+
+      A. 1/3                                                                                                                 B. 2/3
+      C. 1                                                                                                                   D. 2
+
+29. If a =                                                                                                 sin x cos 2x
+          0, then what is the value of lim                                                      x→0                    ?                                                                                                        (1)
+                                                                                                             x2 + 3x
+                                                                                                       ​                 ​
+
+
+
+
+      A. 1/a2                                                                                                                B. 1/2a2
+      C. 1/6a2                                                                                                               D. 0
+
+30.                                                     ⎧x + y + z = 6
+      What are the values of λ and μ so that the system ⎨x + 2y + 3z = 10 has infinitely many solutions?
+                                                        ⎩
+                                                                                                                     ​                                                              ​                                            (1)
+                                                         x + 2y + λz = μ
+      A. λ =
+            3 and μ ∈ ℜ                                                                                                     B. λ = 3 and μ =
+                                                                                                                                             10
+      C. λ = 3 and μ = 10                                                                                                    D. λ ∈ ℜ and μ = 10
+
+31.        a                                  b                c                                          a                                                             b                    c           x   1
+      When a         ​       ​               −a       ​       a = a3 , and a =
+                                                                   ​   ​      0, what is the solution of a                                    ​               ​       −a       ​           a    ​   ​   y = 0 ?
+                                                                                                                                                                                                         ​   ​   ​   ​   ​   ​   (1)
+           a                                 a                −a                                          a                                                            a                    −a           z   0
+      A. x = 0, y = 2a, z = 2a                                                                                               B. x = 1/a, y = −2a, z = 2a
+      C. x = 1/a, y = 2/a, z = 2/a                                                                                           D. x = 0, y = 2/a, z = 2/a
+
+32. If z = 2 − i and z = 1 + i , then what is the value of z + 2z ?                                                                                                                                                              (1)
+        1             2                                     1      2
+            1+i          1−i
+             ​                                ​                    ​                     ​                                     ​                           ​
+
+
+
+
+    A. 1 + i                                                B. i + 1
+                                                                 2
+                                                                                                                                                                   ​
+
+
+
+
+    C. i + 2                                                D. 1 − i
+          2
+                                     ​
+
+
+
+
+33. Which one of the following is the conjugate of ∣3 + 4i∣ − 25i ? ?                                                                                                                                                            (1)
+                                                             3 + 4i
+                                                                                                                                                   ​
+
+
+
+
+    A. 5 + 3i                                                B. 1 + 3i
+    C. 3 − 5i                                                D. 1 − 3i
+
+                    π              π
+34. If z =                           2 cos (
+                      ) + i 2 sin ( ), then what is the value of z 3 ?                                                                                                                                                           (1)
+                   12              12
+                                         ​                     ​                     ​       ​
+
+
+
+
+      A. 2 + 2i                                         B. 2 + 2 i                                                                         ​                            ​
+
+
+
+
+      C. 2 2 + 2 2 i     ​                              D. 3 2 + 3 2 i
+                                                          ​                                                                                            ​                                ​
+
+
+
+
+35. Which of the following relations holds for the sequence: -10, -3, 4, 11,...?                                                                                                                                                 (1)
+      A. an = an−1 − 8
+                 ​                                ​
+                                                                                                                             B. an = an−1 + 7
+                                                                                                                                       ​                                    ​
+
+
+
+
+      C. an = an−1 − 7
+                 ​                                ​
+                                                                                                                             D. an = an−1 + 8
+                                                                                                                                       ​                                    ​
+36.                                                               1   1
+      What is the sum of ∑n=1 (−1)n (                                   )?
+                                           30
+                                                                    +                                                 (1)
+                                                                  n n+1
+                                                ​                  ​       ​
+
+
+
+
+      A. −29/30                                                                    B. 29/30
+      C. 30/31                                                                     D. −30/31
+
+37. Which of the following is the sum of the series 5 − 10 + 20 − 40 + ⋯ ? ?                                          (1)
+                                                        3    9    27
+                                                                               ​        ​         ​
+
+
+
+
+    A. -5                                                   B. -3
+    C. 3                                                    D. 5
+
+38. Which one of the following is a convergent sequence?                                                              (1)
+                           n
+      A.    5                                                                      B.   2n
+         {( ) }                                                                         {  }
+            3                                                                          n+1
+                   ​                                                                                      ​
+
+
+
+
+      C.    n2                                                                     D. (−1)n
+         {     }                                                                     {      }
+           n+1                                                                           3
+                           ​                                                                                  ​
+
+
+
+
+39. What is the value of the area of the region enclosed by the graph of f (x) = ex and g(x) = x between the lines (1)
+    x = −1 and x = 1?
+    A. e2 − 1                                                 B. e2 − 1                               ​
+
+
+
+
+                                                                       e
+                       ​
+
+
+
+
+          e
+             1
+    C. e2 − + 2                                                       1
+                                                              D. e − + 2
+                       ​                                                                      ​
+
+
+
+
+             e                                                        e
+40. If f (0) = −1, f (1) = 2 and f ′ (x) is continuous on [0, 1], then which of the following is equal to             (1)
+       1
+    ∫0 f ′ (x) 2 + f (x) dx?
+           ​                           ​
+
+
+
+
+      A. 16/3                                                                      B. 14/3
+      C. 8/3                                                                       D. 4/3
+
+41. Which of the following is equal to the volume of a solid generated when the region bounded by the graph of        (1)
+    y = 2 x + 1 and x-axis, when 0 ≤ x ≤ 2, rotates about the x-axis?
+                               ​
+
+
+
+
+      A. 8π                                                                        B. 8π 2
+      C. 16π                                                                       D. 16π 2
+
+42. A particle moves along the x-axis with velocity given by v(t) = 3t2 + 6t for time t = 0. If the particle is at    (1)
+    position x = 2 at a time t = 0, what is the position of the particle at t = 1?
+      A. 6                                                                         B. 9
+      C. 11                                                                        D. 12
+
+43. Which of the following is equal to ∫ x (ex + sin(x2 )) dx?                                                        (1)
+
+    A. ex (x + 1) + 1 sin(x2 ) + c                           B. ex (x − 1) − 1 sin(x2 ) + c
+                      2                                                      2
+                                   ​                                                                              ​
+
+
+
+
+    C. ex (x − 1) − 1 cos(x2 ) + c                           D. ex (x − 1) + 1 cos(x2 ) + c
+                      2                                                      2
+                                   ​                                                                              ​
+
+
+
+
+44. What is the value of ∫ ln                   3              ex
+                                                                     dx?                                              (1)
+                                                    ​
+
+
+
+
+                                           0                e−x + ex
+                                                        ​              ​
+
+
+
+
+      A. 1 ln 2                                                                    B. ln 4
+         2
+               ​
+
+
+
+
+      C. ln 2                                                                      D. 1
+45. Suppose f : (−∞, ∞) ⟶ R is differentiable and the graph of its derivative y = f ′ (x), is as shown in the                         (1)
+    figure below. Which one of the following is true about f?
+    A. f is increasing on (1, ∞)                                     B. f is concave upward on (0, ∞)
+    C. f has no relative maximum value                               D. f has a relative minimum value at x = 2
+
+46. If 2 ≤ f ′ (x) ≤ 4 for all values of x, then the value of f (8) − f (2) is between which of the following numbers?                (1)
+    A. 14 and 24                                                     B. 12 and 24
+    C. 12 and 18                                                     D. 8 and 10
+
+47. A tin can of volume 54π cm3 is to be made in the form of a right circular cylinder that has both flat top and flat                (1)
+    bottom. What is the base radius of the tin if it is to be made of the least amount of metal?
+    A. 2cm                                                           B. 3 cm
+    C. 4 cm                                                          D. 6 cm
+
+48. Air is being pumped into a spherical balloon so that its volume increase at a rate of 50 cm3 /s. How fast is the                  (1)
+    radius of the balloon increasing when the diameter is 5 cm?
+    A. 1 cm/s                                                   B. 1 cm/s
+        50π                                                        25π
+                     ​                                                            ​
+
+
+
+
+    C. 5 cm/s​
+                                                                D. 2 cm/s ​
+
+
+
+
+        π                                                          π
+49. Which one of the following is a valid assertion that can be proved by principle of mathematical induction?                        (1)
+
+    A. the sum of any two positive rational numbers is positive.
+    B. r2 ≥ 1, for every real number r =≥1
+    C. n2 ≥ 4n, for every integer n ≥ 4
+    D. 22 ≤ 22 , for every integer n ≤ 100
+
+50. Consider the assertion: "The sum of positive irrational numbers is positive irrational number". Which one of the                  (1)
+    following is correct about the assertion?
+    A. taking irrational numbers such as 2, 3, 5, 6, 7, and so on, if we add any two of them, the sum is
+                                                     ​   ​   ​   ​    ​
+
+
+
+
+       irrational. Therefore, the assertion is true.
+    B. the sum of 1 + 2 and 1 − 2 is 2, which is rational. This is a counter example that disproves the assertion.
+                             ​           ​
+
+
+
+
+    C. the sum of 7 and 2 is a counter example that shows the assertion is false.
+                         ​       ​
+
+
+
+
+    D. the assertion can be disproved by taking the sum of 1 +            2 and 2 −
+                                                                              ​               2 as a counter example.
+                                                                                               ​
+
+
+
+
+51. Suppose "If x ∈ A, then y ∈ B " is a True statement. Then, which one of the following is necessarily true?                        (1)
+
+    A. y ∈ B                                                         B. if x ∈
+                                                                             / A, then y ∈/B
+    C. if y ∈ B , then x ∈ A                                         D. if y ∈
+                                                                             / B . then x ∈
+                                                                                          /A
+
+52. Let A and B be vectors in space such that A ⋅ B = −2 and B = 6i − 7j +                ​
+                                                                                                   15 k . If θ is the angle between
+                                                                                                     ​
+                                                                                                                                      (1)
+    A and B , then what is the value of A ?  ​   ​
+
+
+
+
+    A. 1 cos θ                                                       B.   1
+       5                                                               5 cos θ
+         ​                                                                            ​
+
+
+
+
+    C. − 1 cos θ                                                     D. −1
+         5                                                             5 cos θ
+                 ​                                                                    ​
+53. If P (2, 5, 1) and Q(3, 0, 9) are points on a sphere whose center is on z-axis, then which one of the following
+                               ​                                                                                                                   (1)
+    point is outside of the sphere?
+    A. (−4, 3, 5)                                                                        B. (2, −2, 1)
+    C. (3, 1, 1)                                                                         D. (0, 0, 0)
+
+54. If A(x, 0, 2), B(3, 0, 2) and C(2,                       3, 2) are vertices of an equilateral triangle in space, then what is the value
+                                                                  ​                                                                                (1)
+    of x?
+    A. 5                                                                                 B. 3
+    C. 2                                                                                 D. 1
+
+55. A patrol boat on a sea sailed from its station 7km to the North; and changed its course and sailed 4 2 km in the (1)          ​
+
+
+
+
+    direction of 450 South-East. What is the shortest (straight) distance the boat should travel in order to return to
+    its station?
+    A. 5km                                                                               B. 7km
+    C. 5 2km           ​                                                                 D. 5+v2km
+
+56. Let PQ be a vector with initial point P = (1, 5) and terminal point Q = (4, 0). If v = xi + 2j is parallel to PQ (1)
+                   ​                                                                                                          ​                ​
+
+
+
+
+    , then what is the value of x?
+    A. −6/5                                                                              B. −2/5
+    C. -3                                                                                D. 3
+
+57. For two non-zero vectors a and b if a + b = ∥a∥ which of the following is true?
+                                                              ​            ​                                                                       (1)
+
+    A. 2a ⋅ b = b ⋅ b                                                                    B. 2a + b and b are perpendicular
+    C. 2a + b and 2a + b are not parallel                                                D. a ⋅ b − b ⋅ b = 0
+
+58. A line given by the vector equation (x, y) = (−t, 6 + 2t), t ∈ ℜ, is tangent to a circle at a point (1, 4). What is                            (1)
+    the radius of the circle if its center is on the y-axis?
+    A.     5   ​
+                                                                                         B. 1/2            5   ​
+
+
+
+
+    C. 2 5             ​
+                                                                                         D.     10 ​
+
+
+
+
+59. If cot θ =                     8 and θ is first quadrant angle, then what is the value of csc θ?
+                                    ​                                                                                                              (1)
+
+    A. 1/3                                                                               B. 3
+    C. 8/3     ​
+                                                                                         D. 1/ 8       ​
+
+
+
+
+60. If θ = arctan(2), then what is the value of sin(2θ)?                                                                                           (1)
+    A. 2/5                                                                               B. 4/5
+    C. 4/ 5                ​                                                             D. 2/ 5       ​
+
+
+
+
+61. Which one of the following is true?                                                                                                            (1)
+    A. the amplitude of f (x) = sin 3x is 3                                              B. the period of f (x) = 2 sin 4x is π
+    C. the period of f (x) = 3 cos(0.5x − π/3) is 4π                                     D. the amplitude of f (x) = −5 cos(3x + 2) − 2 is 7
+
+                                                                      — E N D O F E X A M I N AT I O N —
+                                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

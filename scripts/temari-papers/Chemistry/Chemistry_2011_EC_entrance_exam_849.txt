@@ -1,0 +1,492 @@
+                                                            Temari.et
+                                   Chemistry, 2011 EC, entrance exam
+                                                Grade 12 · Chemistry · 2011 E.C.
+
+Time allowed: 120 minutes                                      Questions: 77                              Total marks: 77
+
+Name                                                Grade                      ID No.              Date
+
+1.   What aspect of the modern view of atomic structure was proved by Rutherford's gold foil experiment?               (1)
+     A. The existence of the nucleus.                             B. The charge on an electron.
+     C. The charge on an α particle.                              D. The existence of electrons.
+
+2.   Which of these compounds is propanoic acid?                                                                       (1)
+     A. CH₃CH₂COOCH₃                                              B. CH₃CH₂COH
+     C. CH₃CH₂CH₂OH                                               D. CH₃CH₂COOH
+
+3.   Fats and oils can be classified as___________.                                                                    (1)
+
+     A. carbohydrates                                             B. acids
+     C. esters                                                    D. alcohols
+
+4.   What does it mean by ΔH = negative for a given process?                                                           (1)
+     A. The process is endothermic                                B. The process is exothermic
+     C. The process is adiabatic                                  D. The process is equithermic
+
+5.   The oxidation state of chlorine in HClO₄ is:                                                                      (1)
+     A. +1                                                        B. +3
+     C. +5                                                        D. +7
+
+6.   Which substance is used to lower the melting point of aluminum oxide ore in the electrolytic extraction of        (1)
+     aluminum?
+     A. Cryolite                                                  B. Bauxite
+     C. Hematite                                                  D. Magnetite
+
+7.   The metal extracted from limestone, chalk and marble is___________.                                               (1)
+     A. Sodium                                                    B. Calcium
+     C. Zinc                                                      D. Chromium
+
+8.   Which one of the following is NOT a condensation polymer?                                                         (1)
+
+     A. Neoprene                                                  B. Polyamides
+     C. Polyester                                                 D. Nylon
+
+9.   Which of the following compounds does NOT contain both ionic and covalent bond?                                   (1)
+     A. NH₄NO₃                                                    B. CH₃CO₂H
+     C. NH₄Cl                                                     D. Na₂CO₃
+10. Acetylsalicylic acid (aspirin) has the structural formula:                                                        (1)
+    Which functional group (groups) is (are) present in aspirin?
+    [Figure: A chemical structural formula of acetylsalicylic acid (aspirin). It consists of a benzene ring with two
+    adjacent substituents on the right side: the upper-right substituent shows a bond from the ring vertex to a group
+    labeled '-COH' with a vertical double bond to an oxygen atom ('=O') above it; the lower-right substituent shows a
+    bond from the ring vertex to '-O-CH3' with a vertical double bond to an oxygen atom ('=O') below the bond
+    between O and CH3.]
+     A. Hydroxyl                                               B. hydroxyl and carbonyl
+     C. Carboxyl and acetyl                                    D. Carboxyl and ester
+
+11. Which of the four colligative properties arises in systems where there is an equilibrium between a liquid solution   (1)
+    phase and a second liquid phase?
+     A. Vapour pressure lowering                               B. Boiling point elevation
+     C. Freezing point depression                              D. Osmotic pressure
+
+12. Which of the following can function as both a Brønsted-Lowry acid and Brønsted-Lowry base?                           (1)
+     A. H₂SO₄                                                  B. HSO₃⁻
+     C. SO₄²⁻                                                  D. H⁺
+
+13. What makes the phosphorus cycle different from the carbon and nitrogen cycles?                                       (1)
+     A. Phosphorus is found in the atmosphere in the gaseous state.
+     B. Carbon and nitrogen are released at lower rate compared to phosphate salts.
+     C. Phosphorus salts are released at higher rate compared to carbon and nitrogen cycles.
+     D. Carbon and nitrogen are found in the atmosphere in the gaseous state.
+
+14. When Na₂CrO₄ solution is acidified, which of the following is formed?                                                (1)
+     A. Cr (metal)                                             B. Cr₂O₃
+     C. CrO₄²⁻                                                 D. Cr₂O₇²⁻
+
+15. Nylon is a/an___?                                                                                                    (1)
+     A. Amide                                                  B. Peptide
+     C. Polyamide                                              D. Polyester
+
+16. Which of the following is NOT a component of polysaccharides?                                                        (1)
+
+     A. Glucose                                                B. Sucrose
+     C. Cellulose                                              D. Glycogen
+
+17. Which of the following is the SI measurement unit of electric current?                                               (1)
+     A. Ampere                                                 B. Watt
+     C. Volt                                                   D. Coulomb
+
+18. What is the first step in a scientific investigation?                                                                (1)
+     A. Ask questions                                          B. Make observations
+     C. Do research                                            D. Draw conclusions
+19. In the electromagnetic spectrum with wavelengths shown (in micrometers, μm), which bracketed section of the                 (1)
+    spectrum represents visible light?
+    [Figure: A horizontal axis labeled 'wavelength ( μm )' with tick marks at 0.2, 0.4, 0.6, 0.8, 1, 2, 4, 8, 10, 12, and 20.
+    Above the axis are four curly brackets indicating intervals: bracket 'x' spans from 0.4 to 0.8 μm; bracket 'y'
+    spans from 0.8 to 4 μm; bracket 'z' spans from 4 to 12 μm; bracket 'o' spans from 12 to 20 μm.]
+     A. o                                                          B. x
+     C. y                                                          D. z
+
+20. Which of the orbitals in the figure below has (have) an angular momentum quantum number of l = 2?                           (1)
+    [Figure: Four electron density cross-section diagrams labeled I, II, III, and IV. I and III are spherically symmetric
+    showing concentric circular rings (s orbitals). II shows a four-lobed cloverleaf pattern (d orbital). IV shows two
+    vertically aligned lobes with a nodal plane between them (p orbital).]
+     A. I                                                          B. I and III
+     C. II                                                         D. I and IV
+
+21. Which groups in the periodic table form ionic bonds?                                                                        (1)
+     A. Groups 1(1A) & 7(7B), Groups 2(2A) & 6(6B)
+     B. Groups 1(1A) & 17(7A), Groups 2 (2A) & 16(6A)
+     C. Groups 1(1A) & 18(8A), Groups 4(4B)& 14 (4A)
+     D. Groups 3(3B) & 5(5B), Groups 4(4B) & 14 (4A)
+
+22. There is a progressive decrease in the bond angle in the series of molecules CCl₄, PCl₃, and H₂O. According to              (1)
+    the VSEPR model, this is best explained by:
+     A. Increasing electronegativity of the central atom
+     B. Increasing number of lone pair electrons
+     C. Decreasing size of the central atom
+     D. Decreasing bond strength
+
+23. For the reaction, N₂ + 3H₂ → 2NH₃, the rate of disappearance of H₂ is 0.01 mol L−1 min−1 . What is the rate of              (1)
+    appearance of NH₃?
+     A. 0.01 mol L−1 min−1                                         B. 0.02 mol L−1 min−1
+     C. 0.007 mol L−1 min−1                                        D. 0.002 mol L−1 min−1
+
+24. The appropriate unit for a first order rate constant are?                                                                   (1)
+     A. M/s                                                        B. 1/M s
+     C. 1/M2 s                                                     D. 1/s
+
+25. 2X(g) ⇌ 3Y(g) + Z(g) ΔH(f orward rxn) > 0
+             ​        ​       ​                 ​                                                                               (1)
+    The molar equilibrium concentrations for the reaction mixture represented above at 298 K are [X] = 4.0 M, [Y] =
+    5.0 M, and [Z] = 2.0 M. What is the value of the equilibrium constant, Keq , for the reaction at 298 K?
+                                                                                   ​
+
+
+
+
+     A. 0.06                                                       B. 2.50
+     C. 16.0                                                       D. 62.5
+26. What is the IUPAC name for the following carboxylic acid?                                                                (1)
+    [Figure: A chemical structural formula: a central carbon is single-bonded to a CH₃ group to the left, a CH₃ group
+    above, a CH₃ group below, and a -CH₂- group to the right. The -CH₂- group is single-bonded to a carbonyl
+    carbon (C=O), which is single-bonded to an -OH group.]
+    A. 3,3-dimethylbutanoic acid                                 B. 2-methylpentanoic acid
+    C. 2,2-dimethylbutanoic acid                                 D. 3-methylpentanoic acid
+
+27. 4 L of 0.02 M of aqueous solution of NaCl is diluted with 1 L of water. What is the molarity of the solution?            (1)
+    A. 0.004                                                     B. 0.008
+    C. 0.012                                                     D. 0.016
+
+28. How much water, in liters, must be added to 0.50 liter of 6.0 M HCl to make the solution 2.0 M?                          (1)
+    A. 0.50                                                      B. 1.0
+    C. 1.5                                                       D. 2.0
+
+29. What is the pH of a 0.10 M solution of NH₃, a weak base, whose Kb = 1.8 × 10−5 ?
+                                                                            ​                                                (1)
+    A. 2.89                                                      B. 4.76
+    C. 9.24                                                      D. 11.11
+
+30. Which of the following is the correct reaction taking place at the electrodes during the electrolysis of dilute          (1)
+    sodium chloride solution?
+    A. Anode: 2 Cl⁻(aq) → Cl₂ (l) + 2e⁻
+       Cathode: 2 Na⁺ (aq) + 2e- → 2 Na (s)
+    B. Anode: 2 H₂O (l) → O₂ (g) + 4 H⁺ (aq) + 4e⁻
+       Cathode: 2 H₂O (l) + 2 e⁻ → H₂ (g) + OH⁻(aq)
+    C. Anode: 2 Cl⁻ (aq) → Cl₂ (l) + 2e⁻
+       Cathode: 2 H₂O (l) + 2 e⁻ → H₂ (g) + OH⁻(aq)
+    D. Anode: 2 H₂O (l) → O₂ (g) + 4 H⁺ (aq) + 4e⁻
+       Cathode: 2 Na⁺ (aq) + 2e- → 2 Na (s)
+
+31. Precision refers to _________                                                                                            (1)
+    A. how close a measured number is to the true value
+    B. how close a measured number is to zero
+    C. how close a measured number is to other measured numbers
+    D. how close a measured number is to the calculated value
+
+32. Consider the following two possibilities for electron transfer in a hydrogen atom, given below:                          (1)
+    First: The electron drops from the Bohr orbit n = 3 to the orbit n = 2, followed by the transition from n = 2 to n = 1
+    Second: The electron drops from the Bohr orbit n = 3 directly to the orbit n = 1
+    Which of the following is correct about the energy change of these transitions?
+    A. The sum of the energies for the first transitions is less than the energy of transition of the second.
+    B. The sum of the energies for the first transitions is equal to the energy of transition of the second.
+    C. The sum of the energies for the first transitions is greater than the energy of transition of the second.
+    D. The energies of transitions of the first and the energy of transition of the second can't be compared.
+
+33. Which of the following elements has the highest fifth ionization energy (IE₅)?                                           (1)
+    A. Al                                                        B. Si
+    C. P                                                         D. S
+34. Which one of the following type of bonding exists between atoms with very different electro-negativities?              (1)
+    A. Metallic bonding                                          B. Hydrogen bonding
+    C. Network covalent bonding                                  D. Ionic bonding
+
+35. Which one of the following reactions at equilibrium would be unaffected by an increase in pressure? (I) N₂ (g) +       (1)
+    3H₂ (g) ⇌ 2NH₃ (g) (II) 2H₂ (g) + O₂ (g) ⇌ 2H₂O (g) (III) N₂ (g) + O₂ (g) ⇌ 2NO (g) (IV) 2CO (g) + O₂ (g) ⇌ 2CO₂ (g)
+    A. I                                                         B. II
+    C. III                                                       D. IV
+
+36. A sealed isothermal container initially contained 2 moles of CO gas and 3 moles of H₂ gas. The following               (1)
+    reversible reaction occurred:
+    CO(g) + 2 H₂(g) ⇌ CH₃OH(g)
+    At equilibrium, there was 1 mole of CH₃OH in the container. What was the total number of moles of gas present
+    in the container at equilibrium?
+    A. 1                                                         B. 2
+    C. 4                                                         D. 3
+
+37. Hydrolysis of ester leads to the formation of which of the following products in basic medium?                         (1)
+    A. Ether and alcohol                                         B. Aldehyde and alcohol
+    C. Alcohol and sodium carboxylate                            D. Sodium carboxylate
+
+38. When a saturated solution of sodium chloride is heated, it becomes                                                     (1)
+    A. Unsaturated                                               B. Remains saturated
+    C. Supersaturated                                            D. Attains equilibrium conditions
+
+39. The pH of a solution prepared by the addition of 100 mL 0.002 M HCl to 100-mL distilled water is closest to:           (1)
+    A. 1.0                                                       B. 1.5
+    C. 2.0                                                       D. 3.0
+
+40. A chemist creates a buffer solution by mixing equal volumes of a 0.2-molar HOCl solution and a 0.2-molar KOCl          (1)
+    solution. Which of the following will occur when a small amount of KOH is added to the solution?
+    I. The concentration of undissociated HOCl will increase.
+    II. The concentration of OCl⁻ ions will increase.
+    III. The concentration of H⁺ ions will increase.
+    A. I only                                                    B. II only
+    C. III only                                                  D. I and III only
+
+41. Based on the information given in the table below, what is the enthalpy change for the reaction: 2 H₂O₂(g) + S(s)      (1)
+    → SO₂(g) + 2 H₂O(g)
+    [Figure: A table with two columns and four data rows:
+    Header: 'Substance' and 'ΔHf∘ (kJ/mol)'.
+                                     ​
+
+
+
+
+    Row 1: H₂O₂(g) | -150
+    Row 2: SO₂(g) | -300
+    Row 3: H₂O(g) | -250
+    Row 4: S(s) | 0]
+    A. −500 kJ                                                   B. −200 kJ
+    C. 200 kJ                                                    D. 400 kJ
+42. Features common to both galvanic and electrolytic cells include which of the following?                             (1)
+    I. Oxidation at the anode
+    II. Can perform electrolysis
+    III. Spontaneous
+    A. I only                                                   B. II only
+    C. III only                                                 D. I and II only
+
+43. Which of the following reactions is NOT involved in the contact process, during the production of sulfuric acid?    (1)
+    A. SO₂ + O₂ → 2 SO₃                                         B. SO₃ + H₂O → H₂SO₄
+    C. SO₃ + H₂SO₄ → H₂S₂O₇                                     D. H₂S₂O₇ + H₂O → H₂SO₄
+
+44. Two types of polymer are shown below. Which of the following statements concerning these polymers is                (1)
+    correct?
+    [Figure: Two schematic drawings of polymer structures labeled X and Y. Diagram X shows three horizontal wavy
+    polymer chains with vertical dashed lines representing weak intermolecular attractions between adjacent
+    chains. Diagram Y shows three horizontal polymer chains connected to each other by solid vertical and angled
+    covalent cross-links, forming a continuous network.]
+    A. X and Y are thermosetting
+    B. X is thermosetting and Y is thermoplastic
+    C. X is thermoplastic whereas Y is thermosetting
+    D. X and Y are thermoplastic
+
+45. The energy of an electron in the first Bohr orbit of hydrogen atom is -13.6 eV. The possible value of the excited   (1)
+    state for electron in Bohr orbits of hydrogen is_______.
+    A. -1.51 eV                                                 B. -6.8 eV
+    C. -4.21 eV                                                 D. +6.8 eV
+
+46. The sublevel that can be occupied by a maximum of 10 electrons is identified by the letter_______.                  (1)
+
+    A. d                                                        B. f
+    C. p                                                        D. s
+
+47. What is the molecular shape of ICl−
+                                      4?  ​
+                                                                                                                        (1)
+    A. Octahedral                                               B. T-shaped
+    C. Square planar                                            D. Trigonal bipyramidal
+
+48. What hybridization change, if any, occurs at the underlined atom in the following reaction? CO2 + H2 O →
+                                                                                                   ​   ​     ​          (1)
+    H2 CO3
+        ​        ​
+
+
+
+
+    A. sp → sp2                                                 B. sp3 → sp3 d
+    C. sp2 → sp3                                                D. No hybridization change observed
+
+49. The proposed reaction mechanism between nitrogen monoxide and bromine is give below. NO + Br2 ⇌          ​          (1)
+    NOBr2 (fast) NOBr2 + NO → 2NOBr (slow)
+             ​               ​
+
+
+
+
+    Which of the following rate equations is consistent with the proposed mechanism?
+    A. Rate = k [NO]2                                           B. Rate = k [NO][Br2 ]2   ​
+
+
+
+
+    C. Rate = k [NO][Br2 ]       ​
+                                                                D. Rate = k [NO]2 [Br2 ]      ​
+50. Which one of the following statements regarding a dynamic equilibrium is FALSE?                                            (1)
+     A. At equilibrium, there is no net change in the system.
+     B. At equilibrium, the forward and reverse reactions cease to occur.
+     C. At equilibrium, the rates of the forward and back reactions are identical.
+     D. At equilibrium, the concentration of reactants and products stays the same.
+
+51. In which of the following cases will the dissolution of sugar be the most rapid?                                           (1)
+     A. Sugar crystals in hot water.                              B. Powdered sugar in hot water.
+     C. Sugar crystals in cold water                              D. Powdered sugar in cold water.
+
+52. If a solution of acetic acid (CH₃COOH) has a pH of 3.00, what is its concentration? Ka of acetic acid = 1.74 ×             (1)
+    10−5
+     A. 0.0057 M                                                  B. 0.057 M
+     C. 0.57 M                                                    D. 5.70 M
+
+53. The indicator methyl red is red in a solution of NaH₂PO₄. Which of the following equations is consistent with this         (1)
+    observation?
+     A. H₂PO₄⁻ + H₂O ⇌ H₃PO₄ + OH⁻                                B. H₂PO₄⁻ + H₂O ⇌ HPO₄²⁻ + H₃O⁺
+     C. HPO₄²⁻ + H₂O ⇌ PO₄³⁻ + H₃O⁺                               D. HPO₄²⁻ + H₂O ⇌ H₂PO₄⁻ + OH⁻
+
+54. A nickel electrode can undergo oxidation to Ni²⁺ ion as follows:                                                           (1)
+    Ni (s) → Ni²⁺ (aq) + 2e⁻ E∘ red= -0.28 V 2H₂O(l) → 4H⁺ (aq) +O₂(g) +4e⁻ E∘ red= 1.23 V
+    What will happen during the electrolysis of concentrated aqueous solution of NiSO₄ using Ni electrodes?
+    (I)Nickel will deposit at the cathode. (II)Nickel will dissolve at the anode. (III)Oxygen will be released at the anode.
+    (IV)Nickel will deposit at the anode.
+     A. I only                                                    B. I,II
+     C. I,III                                                     D. II, IV
+
+55. Which of the following is NOT true about the photoelectric effect?                                                         (1)
+
+     A. Most metals require ultraviolet light to emit electrons.
+     B. A bright light causes more electrons to be emitted than a weak light.
+     C. Higher frequency light emits electrons with higher kinetic energy
+     D. A bright light causes less electrons to be emitted than a weak light.
+
+56. Which of the following statements is correct about nitrosyl chloride (NOCl)?                                               (1)
+     A. It has a bent or angular geometry with N a central atom.
+     B. It has a bent or angular geometry with O a central atom.
+     C. It has a trigonal planar geometry with N a central atom.
+     D. It has a trigonal planar geometry with O a central atom.
+
+57. The minimum energy required for an effective collision is called______.                                                    (1)
+     A. potential energy                                          B. activation energy
+     C. free energy                                               D. kinetic energy
+58. A sample of solid ammonium carbamate is heated in a closed container at 298 K and allowed to reach                (1)
+    equilibrium.
+    NH₄CO₂NH₂ (s) ⇌ 2 NH₃ (g) + CO₂ (g)
+    If the total pressure of the system is 0.114 atm, what is the value of equilibrium constant, Kp?
+    A. 1.29 × 10−3                                             B. 3.80 × 10−4
+    C. 7.60 × 10−3                                             D. 2.19 × 10−4
+
+59. During esterfication of carboxylic acid with alcohol which bond of carboxylic acid undergoes cleavage?            (1)
+    A. C - C                                                   B. C = O
+    C. C - O                                                   D. O - H
+
+60. If 49 grams of H₂SO₄ react with 80.0 grams of NaOH, how much reactant will be left over after the reaction is     (1)
+    complete?
+    A. 24.5 g H₂SO₄                                            B. 20.0 g NaOH
+    C. 40.0 g NaOH                                             D. 60.0 g NaOH
+
+61. What is the change in internal energy of a system that releases 12.4 J of heat and does 4.2 J of work on the      (1)
+    surroundings
+    A. 16.6 J                                                  B. 8.2 J
+    C. -16.6 J                                                 D. -8.2 J
+
+62. Which one of the following is true?                                                                               (1)
+    A. Entropy increases when a liquid freezes at its melting point.
+    B. For spontaneous process ΔS > 0.
+    C. For a spontaneous process ΔG > 0.
+    D. Entropy of the pure crystalline solid is zero at 0°C.
+
+63. Which of the following has the same number of significant figures as the number 1.00310?                          (1)
+    A. 100                                                     B. 1 × 106
+    C. 199.791                                                 D. 5.119
+
+64. When an electron in a hydrogen atom makes the transition from the n = 4 state to the n = 2 state, blue light      (1)
+    with a wavelength of 434 nm is emitted. Which of the following expressions gives the energy released by the
+    transition?
+                  −34        8                                                   −34
+    A. (6.63×10      )(3.00×10 )
+                                 joules                        B.        (6.63×10 )
+              (4.34×10−7 )                                          (4.34×10−7 )(3.00×108 ) joules
+                                                                                          ​
+
+
+
+
+                 −34          −7
+    C.   (6.63×10 )(4.34×10 )                                  D.         (4.34×10−7 )
+               (3.00×108 )       ​joules                            (6.63×10−34 )(3.00×108 ) joules
+                                                                                              ​
+
+
+
+
+65. Arrange the following molecules in the order of increasing stability.                                             (1)
+
+    A. N₂⁺ < N₂ < N₂⁻ < N₂²⁻                                   B. N₂²⁻ < N₂⁻ = N₂⁺ < N₂
+    C. N₂²⁻ < N₂⁻ < N₂ < N₂⁺                                   D. N₂ < N₂⁺ = N₂⁻ < N₂²⁻
+
+66. The reaction below takes place with all of the reactants and products in the gaseous phase. Which of the          (1)
+    following is true of the relative rates of disappearance the reactants and appearance of the products? 2 NOCl →
+    2 NO + Cl₂
+    A. NO appears at twice the rate that NOCl disappears.
+    B. Cl₂ appears at the same rate that NOCl disappears.
+    C. NO appears at half the rate that NOCl disappears.
+    D. NO appears at the same rate that NOCl disappears.
+67. In the Figure shown below, what does O denote?                                                                          (1)
+    [Figure: A phase diagram plotting pressure on the vertical axis (with values 0.1, 1, and 100 marked) against
+    temperature on the horizontal axis. The diagram is divided into three phase regions: "Solid" on the left, "Liquid" in
+    the upper central region, and "Vapour" on the lower right. Three boundary curves meet at a single intersection
+    point labeled "O": a sublimation curve rising from the origin to point O, a solid-liquid boundary curve with a
+    negative slope extending upward to label B, and a liquid-vapour curve rising to the right toward point A. Dashed
+    horizontal and vertical reference lines connect point O to the pressure value 0.1 and the temperature axis,
+    respectively. Another horizontal dashed line at pressure 1 intersects the solid-liquid line and liquid-vapour line,
+    with vertical dashed lines dropping to the temperature axis.]
+    A. Melting point                                            B. Triple point
+    C. Boiling point                                            D. Vaporization point
+
+68. Given the following unbalanced equation KMnO4 + KI + H2 SO4 → K2 SO4 + MnSO4 + I2 + H2 O
+                                                            ​          ​        ​   ​               ​    ​       ​          (1)
+    How many grams of KMnO4 are needed to make 250 mL of 0.20 N solution?
+                                     ​
+
+
+
+
+    A. 3.95 g                                                   B. 3.16 g
+    C. 2.98 g                                                   D. 1.58 g
+
+69. Consider the following equilibria: (I) HCO−                              −       +        +
+                                                 3 + H2 O ⇌ H2 CO3 + OH (II) NH4 + H2 O ⇌ H3 O + NH3
+                                                   ​    ​         ​        ​             ​      ​            ​        ​     (1)
+             −         +
+    (III) HSO3 + H3 O ⇌ H2 O + H2 SO3
+                ​      ​         ​        ​    ​
+
+
+
+
+    In which of the equilibrium ( equilibria) does water act as a Brønsted-Lowry base?
+    A. I only                                                   B. II only
+    C. II and III                                               D. I, II, III
+
+70. A certain current produces 0.50 g of hydrogen gas in 2.0 hrs. What is the amount of copper librated from a              (1)
+    solution of copper sulfate by the same current flowing for the same time?
+    A. 31.8 g                                                   B. 63.6 g
+    C. 15.9 g                                                   D. 6.36 g
+
+71. For which of the following half-cells is the reduction potential E independent of the pH of the solution?               (1)
+    A. [Cr₂O₇]²⁻ + 14H⁺+6e⁻ ⇄ 2Cr³⁺ + 7H₂O                      B. H₂O₂ + 2H⁺+2e⁻ ⇄ 2H₂O
+    C. [NO₃]⁻+H₂O +2e⁻ ⇄ [NO₂]⁻ + 2[OH]⁻                        D. Co²⁺ + 2e⁻ ⇄ Co
+
+72. What is the basis for the Scientific Method?                                                                            (1)
+
+    A. To formulate a research problem, test the hypothesis under carefully controlled conditions that challenge the
+       hypothesis
+    B. To test hypotheses and if they are disproved, they should be abandoned completely.
+    C. To test hypotheses in conditions that are favourable to their success.
+    D. To formulate a research problem and disprove the hypothesis.
+
+73. Which of the following molecules has the largest dipole moment?                                                         (1)
+    A. CO                                                       B. HCN
+    C. HCl                                                      D. HF
+
+74. In three different experiments the following results were obtained for the reaction A → products: [A]ₒ = 1.00 M,        (1)
+    t₁/₂ = 50 min; [A]ₒ = 2.00 M, t₁/₂ = 25 min; [A]ₒ = 0.50 M, t₁/₂ = 100 min. What is the value of the rate constant
+    for this reaction?
+    A. 0.010 L mol−1 min−1                                      B. 0.020 L mol−1 min−1
+    C. 0.030 L mol−1 min−1                                      D. 0.040 L mol−1 min−1
+75. Which of the following compounds is the least soluble in water?                                                  (1)
+    A. (NH₄)₂CO₃                                                        B. BaCO₃
+    C. Fe(NO₃)₃                                                         D. Na₃(PO₄)
+
+76. What is the freezing point of a solution of 250 g of CaCl₂ in 1.0 kg of water? ( Kf for H₂O = 1.86 kg/mol)
+                                                                                                     ​               (1)
+
+    A. - 1.3 °C                                                         B. - 6.5 °C
+    C. - 9.0 °C                                                         D. - 13 °C
+
+77. Which of the following metals cannot be electroplated on to the surface of another metal using an aqueous        (1)
+    electrolyte? E ∘ (Ni²⁺/Ni) = -0.28 V; E ∘ (Cu²⁺/Cu) = 0.34 V, E ∘ (Mg ²⁺/Mg) = -2.37 V; E ∘ (Ag ⁺/Ag) = 0.80 V
+    A. Ni                                                               B. Cu
+    C. Mg                                                               D. Ag
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

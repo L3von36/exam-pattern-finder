@@ -1,0 +1,758 @@
+                                                                     Temari.et
+                                    Mathematics, 2011 EC, entrance exam
+                                                          Grade 12 · Mathematics · 2011 E.C.
+
+Time allowed: 120 minutes                                                Questions: 64                                   Total marks: 64
+
+Name                                                         Grade                                  ID No.        Date
+
+1.   Which one of the following is the set of critical numbers of f (x) = 38 x8/3 − 6x2/3 ?             ​                             (1)
+     A. {−2, 2}                                                                  B. {−1, 1}
+     C. {−1, 0, 1}                                                               D. {−2, 0, 2}
+
+                                                              1                                 ∞
+2.   What is the greatest lower bound of the sequence {(−1)n n+1 }n=0 ?                     ​       ​                                 (1)
+
+     A. -1                                                                       B. 0
+     C. −1/2                                                                     D. 1/2
+
+3.   Which one of the following is true about the pair of lines:3x + 9y − 24 = 0 and 4x + 12y + 32 = 0?                               (1)
+
+     A. perpendicular lines                                                      B. intersecting lines
+     C. parallel and distinct lines                                              D. representing the same lines
+
+4.   Which one of the following is equal to f (x) =                  (x + 4)2 , for every x ∈ R?
+                                                                                  ​                                                   (1)
+     A. g(x) = x + 4                                                             B. g(x) = x + 2
+     C. g(x) = ∣x + 4∣                                                           D. g(x) = ∣x∣ + 4
+
+5.   The center of a circle on the line y = 2x and the line x = 1 is tangent to the circle at (1, 6). How long is the                 (1)
+     radius of the circle?
+     A. 5                                                                        B. 4
+     C. 3                                                                        D. 2
+                                              n   n
+6.   What is the value of limn→∞ ( 3 6+2
+                                      ​
+
+                                       n )?           ​                                                                               (1)
+     A. 1                                                                        B. 0
+     C. ∞                                                                        D. 56  ​
+
+
+
+
+                        x
+7.   If F (x) = ∫0 e−t dt, then what is the value of F ′ (x)?
+                            ​                                                                                                         (1)
+     A. e−x                                                                      B. −e−x − 1
+             −x+1
+     C. e                                                                        D. −e−x
+        −x+1
+                    ​
+
+
+
+
+8.   If ¬p ⇒ r is False and p ⇔ q is True, then which of the following is True?                                                       (1)
+     A. p ∨ (¬q ∧ r)                                                             B. ¬p ∧ (q ⇒ r)
+     C. ¬p ⇒ (q ∨ r)                                                             D. p ⇔ (¬q ∨ r)
+
+9.   If a1 = 2, a2 = 6, a3 = 10, a4 = 14, …, then ∑100
+         ​              ​       ​         ​
+
+
+
+                                                   n=1 an = ___          ​   ​                                                        (1)
+     A. 20,020                                                                   B. 20,200
+     C. 20,000                                                                   D. 22,000
+                                                                                          2       2
+10.                                                                        8( 12 +h) −8( 12 )
+      What is the value of Limh→0                                                             ?                                                   (1)
+                                                                                              ​
+
+
+
+
+                                                                   ​
+
+
+
+
+                                                                                    h                 ​
+
+
+
+
+      A. 0                                                                                                    B. 4
+      C. 8                                                                                                    D. The limit does not exist
+
+11. If there are two children in a family, what is the probability that there is at least one girl in the family?                                 (1)
+      A. 12        ​
+                                                                                                              B. 14   ​
+
+
+
+
+      C. 34        ​
+                                                                                                              D. 23   ​
+
+
+
+
+12.      −1                    1           2   −x              3             2
+      If 3 ​               ​   2   ​       x = 2
+                                           ​   ​   ​       ​   2       ​     3 , then what is the value of x ?
+                                                                                  ​   ​                                                           (1)
+         2                     4           1    1              −1            −2
+      A. 25        ​
+                                                                                                              B. -\frac{2}{5}
+      C.       2                                                                                              D. -\frac{2}{3}
+               3   ​
+
+
+
+
+13. Let f (x) = 2ex − k sin x + 1. If the equation of the tangent line to the graph of f at (0, 3) is y = 5x + 3,                                 (1)
+    then what is the value of k ?
+      A. 3                                                                                                    B. -3
+      C. -5                                                                                                   D. 2
+
+14. Everyday a person saves 5 cents more than the amount he saved on the previous day. His target is to save the                                  (1)
+    total amount of 3225 cents by the end of 30 days. How much must be the starting saving to meet the target?
+      A. 35 cents                                                                                             B. 25 cents
+      C. 50 cents                                                                                             D. 60 cents
+
+15. Which one of the following is the multiplicative inverse of z = 3+4i
+                                                                    4−5i
+                                                                         ?                                                            ​           (1)
+
+      A.       8    31                                                                                        B. -\frac{8}{25} + \frac{31}{25}i
+               25 − 25 i
+                       ​               ​
+
+
+
+
+                                                                                                                 8
+      C. -\frac{8}{25} - \frac{31}{25}i                                                                       D. 25 + 31
+                                                                                                                      25 i​               ​
+
+
+
+
+16.                                               ⎧x − 2y + z = 1
+      Consider the following system of equations: ⎨−x + y + z = 3
+                                                  ⎩
+                                                                                                          ​                       ​               (1)
+                                                   3x − 5y + z = k
+      How much must be the value of k so that the system has a solution?
+      A. 7                                                                                                    B. 1
+      C. 0                                                                                                    D. -1
+
+17. What is the value of ∫12 lnx2x dx ?                ​       ​                                                                                  (1)
+      A. -\frac{\ln 2}{2} - \frac{1}{2}                                                                       B.   ln 2 1
+                                                                                                                    2 − 2     ​               ​
+
+
+
+
+      C. -\frac{\ln 2}{2} + \frac{1}{2}                                                                       D.   ln 2 1
+                                                                                                                    2 + 2     ​               ​
+
+
+
+
+18. Among 2000 students who took a regional exam, the percentile of certain student's score is 90. Which of the                                   (1)
+    following is correct about the student's score?
+      A. The student have answered 90% of the questions correctly.
+      B. The student's score is greater than or equal to that of 1800 students.
+      C. The student's score is the same as the top10% of the scores.
+      D. The score of the student is as good as that of 90% of the students.
+19. If A is a 3 × 3 matrix and det(A) = 5, then how much is det(2AT A) ?                                                                      (1)
+    A. 200                                                                                  B. 100
+    C. 50                                                                                   D. 20
+                                                              −1 −1
+20. What is the simplified form of a−3 b −3 ?                                                                                                 (1)
+                                                     a −b
+                                                                      ​
+
+
+
+
+              2 2                                                                                     2 2
+    A.    a b                                                                               B.    a b
+         b2 −a2                                                                                  b3 −a3
+                      ​                                                                                               ​
+
+
+
+
+    C.   a3 −b3                                                                             D.   a3 −b3
+            ab        ​
+
+
+
+                                                                                                  a−b                 ​
+
+
+
+
+21. If the circle passing through the point (−1, 0) touches the y − axis at (0, 2), then what is the equation of the                          (1)
+    circle?
+    A. x2 + y 2 + 5x + 4y + 4 = 0                                                           B. x2 + y 2 − 5x + 4y + 4 = 0
+    C. x2 + y 2 − 5x − 4y + 4 = 0                                                           D. x2 + y 2 + 5x − 4y + 4 = 0
+                                                                                2
+22. Let z be a complex number and w = 3 + 4i. If zz+i
+                                                   +1
+                                                      = ∣w∣z − 1i w, then what is the value of z ?
+                                                                                    ​                             ​                           (1)
+
+    A. −4 − 2i                                                                              B. 4 − 2i
+    C. −1 + i                                                                               D. −1 − i
+
+23. What is the value of the left-hand side limit, lim sin2
+                                                           x
+                                                             4x3 + 9x2 ?                                                                      (1)
+                                                      − x
+                                                                                ​       ​                                     ​
+
+
+
+
+                                                                          x→0
+    A. −3                                                                                   B. 3
+    C. 2                                                                                    D. Does not exist
+                                                     3
+24. What is the value of limx→2 xx2 −8
+                                    −4 ?        ​              ​                                                                              (1)
+
+    A. 2                                                                                    B. 3
+    C. -2                                                                                   D. The limit does not exist.
+
+25. If f (x) = ax3 + xb + 5 has local minimum at (2, −3), what are the values of a and b?
+                                      ​
+                                                                                                                                              (1)
+    A. a = − 14 , b = 12          ​
+                                                                                            B. a = − 14 , b = −12                         ​
+
+
+
+
+    C. a = 14 , b = 12    ​                                                                 D. a = 14 , b = −12           ​
+
+
+
+
+26. What is the value of ∫ x xe +e
+                                          e−1       x−1
+                                +ex dx?                   ​                                                                                   (1)
+
+    A. 1e ln(xe + ex+1 ) + c
+          ​
+                                                                                            B. 1e ln(xe + ex ) + c
+                                                                                                  ​
+
+
+
+
+    C.   1                                                                                  D.   1
+         e ln((x + 1) + e     )+c                                                                e ln(x     + ex+1 ) + c
+          ​
+                     e    x+1                                                                     ​
+                                                                                                        e+1
+
+
+27. What is the area of the region bounded by the lines x = 0, x = 2, and y = 1 and the curve y = e2x ?                                       (1)
+          4                                                                                       2
+    A. e − 5                                                                                B. e − 1
+         2    2                                                                                 2   2
+              ​               ​                                                                       ​                           ​
+
+
+
+
+    C.   e3                                                                                       4
+                                                                                            D. - e + 5
+         3
+            − 13
+              ​               ​
+
+
+
+
+                                                                                                 2   2
+                                                                                                              ​                       ​
+
+
+
+
+28. If the region enclosed by the graphs of f (x) = x2 and f (x) = x3 from x = 0 to x = 1 rotates about the x-                                (1)
+    axis, what is the volume of the solid of revolution?
+    A. 2π
+       27 cubic units
+                  ​
+                                                                                            B. 2π
+                                                                                               25 cubic units
+                                                                                                          ​
+
+
+
+
+    C.   2π                                                                                 D.   2π
+          5 cubic units                                                                          35 cubic units
+                  ​                                                                                       ​
+29. Which one of the following is a valid argument?                                                                                        (1)
+     A. If I don't change my oil regularly, my engine will die. My engine died, Thus, I didn't change my oil regularly.
+     B. If I am literate, then I can read and write. I can read but I can't write. Thus I am not literate.
+     C. If you do every problem in the book, then you will learn the subject. You learned the subject. Thus, you did every
+        problem in the book.
+     D. If it rains or snows, then my roof leaks. My roof is leaking. Thus, it is raining and snowing.
+
+30. The earth's orbit has a semi-major axis a ≈ 149.6 Gm (gigameters) and an eccentricity of e ≈ 0.017. What is                            (1)
+    the approximate value of the semi-minor axis?
+     A. 152.14 Gm                                                                                      B. 145.32 Gm
+     C. 149.06 Gm                                                                                      D. 149.58 Gm
+
+31. The marks of 50 students is given below:                                                                                               (1)
+    If the median of the data is 26, what are the values of f1 and f2 ?                            ​                   ​
+
+
+
+
+    [Figure: A table with two rows and six columns:
+    Row 1: "Marks", "0-10", "10-20", "20-30", "30-40", "40-50"
+    Row 2: "No. of students", "5", "8", "f_1", "10", "f_2"]
+     A. f1 = 7, f2 = 20
+                 ​             ​
+                                                                                                       B. f1 = 12, f2 = 15
+                                                                                                                   ​                   ​
+
+
+
+
+     C. f1 = 15, f2 = 12
+                 ​                 ​                                                                   D. f1 = 20, f2 = 7
+                                                                                                                   ​                   ​
+
+
+
+
+32. Suppose 2,500 items are produced by a machine and 2 % of the product are randomly selected and tested. If 5                            (1)
+    of the tested items have a defect, then what is the probability that an item produced by the machine has NO
+    defect?
+     A. 0.80                                                                                           B. 0.85
+     C. 0.90                                                                                           D. 0.95
+                                                 −1
+33. If 2 (2x             ​   x −5      ​   −3)
+                                             ​
+                                                      = (3   ​   2 −5     ​   −4), then what is the value of x?
+                                                                                       ​                                                   (1)
+
+     A. -2                                                                                             B. 2
+     C. 12   ​
+                                                                                                       D. - 12     ​
+
+
+
+
+34. If the second and fifth terms of a geometric progression are − 12 and 16
+                                                                          1
+                                                                             , respectively, what is the sum of the first  ​       ​       (1)
+    eight terms of the sequence?
+        85
+     A. 128                                                                                            B. 255
+                     ​
+
+
+
+
+                                                                                                          256                  ​
+
+
+
+
+     C. 128
+         85
+                     ​
+                                                                                                       D. 256
+                                                                                                          255
+                                                                                                                               ​
+
+
+
+
+                                            2
+35. What is the limit of the sequence 1, 22 −1        3        4
+                                               2 , 32 −22 , 42 −32 , …?
+                                                                      ​            ​           ​                                           (1)
+     A. 0                                                                                              B. 1
+     C. 12   ​
+                                                                                                       D. 32   ​
+
+
+
+
+                                                                                   3
+36. At what value of x does the function f (x) = 4x − x4 attains its maximum value?                                                        (1)
+                                                                               3           ​
+
+
+
+
+     A. −1                                                                                             B. 0
+     C. 1                                                                                              D. 43   ​
+
+
+
+
+37. What is the solution of ∫ 4x(ln x + x12 )dx ?                 ​                                                                        (1)
+     A. 4x2 (ln x + 1) − 2x2 + c                                                                       B. x2 (4 ln x − 1) + 2 ln x + c
+     C. x2 (2 ln x + 1) + 4 ln x + c                                                                   D. x2 (2 ln x − 1) + 4 ln x + c
+38. If f (x) = ax − b and f −1 (x + 1) = 12 x + 2, for each x ∈ R, then what must be the values of a and b?
+                                                                 ​                                                               (1)
+     A. a = 1/2,                       b = −2                                   B. a = 2,                          b=2
+     C. a = 1,                     b=1                                          D. a = 2,                          b=3
+                                                                                             2
+39. Which one of the following is true about the graph of f (x) = x +5x+6
+                                                                     2    + 3?                                                   (1)
+                                                                                             x −4
+                                                                                                         ​
+
+
+
+
+     A. The graph has a hole at x = 2.
+     B. The vertical asymptotes of the graph are x = −2 and x = 2.
+     C. A horizontal asymptote of the graph is y = 4.
+     D. The graph has y -intercept at (0, − 32 )             ​
+
+
+
+
+40. Fatuma can solve 90% of the problems given in a book and Mesfin can solve 70%. What is the probability that at               (1)
+    least one of them will solve the problem, selected at random from the book?
+     A. 0.77                                                                    B. 0.87
+     C. 0.97                                                                    D. 0.67
+
+                              7−i
+41. What is the polar form of 3−4i ?                   ​                                                                         (1)
+     A. 2(cos π2 + i sin π2 )
+                     ​             ​               ​
+                                                                                B. 2(cos π4 + i sin π4 )
+                                                                                                 ​                 ​         ​
+
+
+
+
+     C. 2(cos π2 + i sin π2 )
+                         ​                 ​
+                                                                                D. 2(cos π4 + i sin π4 )
+                                                                                                     ​                   ​
+
+
+
+
+42. What is the sum of the infinite series ∑∞ 5 ( 2k +5k k ) ?                                                                   (1)
+                                            k=0    10                ​     ​
+
+
+
+
+     A. 15                                                                      B. 25
+                                                                                   4     ​
+
+
+
+
+     C. 5                                                                       D. 65
+                                                                                   4     ​
+
+
+
+
+43. If f (x) = ln(2tan x ), then what is the value of f ′ (0)?                                                                   (1)
+     A. ln 2                                                                    B. −2 ln 2
+     C.   ln 2                                                                  D. 1
+           2     ​
+
+
+
+
+44. If h(x) =                      1+     x, then which of the following is equal to h′ (x)?
+                                               ​                                                                                 (1)
+     A.              1                                                          B.                1
+          2                                                                          4
+                               ​                                                                               ​
+
+
+
+
+                     1+ x    ​ ​
+                                                                                                 x+x x       ​ ​
+
+
+
+
+     C.              x                                                          D.                x
+          2          1+ x                                                            4
+                               ​                                                                               ​
+
+
+
+
+                             ​ ​                                                                 x+x x       ​ ​
+
+
+
+
+45. A man wants to fence two identical rectangular enclosures in a field alongside a straight river as shown in the     (1)
+    following figure.
+    What is the maximum area of each enclosure that he can make with 192 meter fencing material if the side along
+    the river does not need a fence?
+    [Figure: A diagram shows a straight river represented by a shaded horizontal strip along the top. Directly
+    adjacent to the river is a large rectangular area divided into two identical side-by-side rectangular enclosures by
+    a line perpendicular to the river bank. The fencing consists of the three boundary segments perpendicular to the
+    river and the single outer boundary segment parallel to the river; the side along the river requires no fence.]
+     A. 1530 m2                                                                 B. 1564 m2
+     C. 1664 m2                                                                 D. 1536 m2
+
+46. For real numbers x and y, which one of the following is NOT true?                                                            (1)
+
+     A. (∀x)(∀y)(y 2 + x2 ≥ −1                                                  B. (∀x)(∃y)(y ≥ x2 + 1
+     C. (∃x)(∀y)(y ≥ x2 + 1                                                     D. (∃x)(∃y)(y ≥ x2 + 1
+47. If f (x) = x3 − 2x + 1, then which one of the following is NOT true?                                                    (1)
+     A. f (c) = 0 for some c ∈ [−2, 0].                          B. f (c) = 12 for some c ∈ [0, 1].
+                                                                               ​
+
+
+
+
+     C. f (c) = 14 for some c ∈ [−1, 0].
+                             ​
+                                                                 D. f (c) = 3 for some c ∈ [1, 2].
+
+48. A water tank is a rectangular parallelepiped with base length 3 m, width 2 m and height 2.5 m. If water is              (1)
+    flowing into the tank at the rate of 0.12 m3 /sec, then how fast does the level of water rise up in the tank?
+     A. 0.02 m/sec                                               B. 0.03 m/sec
+     C. 0.04 m/sec                                               D. 0.06 m/sec
+
+49. If f is the greatest integer function and g is the absolute value function, then what is the value of (f ∘ g)( 32 ) +
+                                                                                                                        ​   (1)
+    (g ∘ f )(− 43 )? ​
+
+
+
+
+     A. 1                                                        B. 3
+     C. -1/2                                                     D. 2
+
+50. There are three children in a room with, ages four, five, and six. If a five-year-old child enters the room, then       (1)
+    which of the following statement is correct ?
+     A. mean age will stay the same but the standard deviation will decrease.
+     B. mean age will stay the same but the standard deviation will increase.
+     C. mean age and standard deviation will increase.
+     D. mean age and standard deviation will stay the same.
+
+51. If f (x) = x1 , then what is the value of f (n) (x) ?
+                         ​                                                                                                  (1)
+                                     n
+     A. f (n) (x) = (−1)n n!                                     B. f (n) (x) = (−1) n+1(n+1)!
+                                                                                      n+1
+
+                      x
+                                         ​
+
+
+
+
+                                                                                     x           ​
+
+
+
+
+     C. f (n) (x) = (−1)                                         D. f (n) (x) = (−1)
+                         n                                                           n
+                           n!                                                          n!
+                     xn−1                ​
+
+
+
+
+                                                                                 xn+1       ​
+
+
+
+
+52. What is the value of cot 270∘ + 2 cos 90∘ + 4 sec2 180∘ ?                                                               (1)
+     A. -2                                                       B. 8
+     C. 4                                                        D. 7
+
+53. ∀n ∈ N, 3n − 2 is prime that can be proved or disproved by which one of the following mathematical proofs?              (1)
+
+     A. Direct proof                                             B. Proof by exhaustion
+     C. Disprove by counter example                              D. Proof by contradiction
+
+54. If the point (α, 0, 3) is on the sphere centered at (1, 2, 3) with radius 2, what is the value of α ?                   (1)
+     A. 0                                                        B. 1
+     C. 2                                                        D. -3
+
+55. Consider a rectangle ABCD with base vertices A=(0,3) and B=(4,0) and the other vertices, C and D, in the first-         (1)
+    quadrant of the coordinate plane. If its height BC is half of the length of its base, then which of the following
+    indicates the coordinates of vertex C?
+     A. (4, 5/2)                                                 B. (6, 3/2)
+     C. (5/2, −2)                                                D. (11/2, 2)
+
+56. Which one of the following is a valid assertion that can be proved by the principle of mathematical induction?          (1)
+     A. 3n + 25 < 3 , for every integer n ≥ 3.
+                                 n                               B. 2 > n + 20, for every integer n ≥ 4.
+                                                                        n
+
+            2
+     C. n ≤ 2 , for every integer n ≥ 1.
+                 n                                               D. n3 − n is divisible by 6, for every integer n ≥ 1.
+57. Ship A and B depart from the same point at the same time on the course N60∘ E and N40∘ E, respectively. If the                                                                                    (1)
+    speed of ship A is 20 km per hour and the speed of ship B is 30 km per hour, what is the distance between the
+    two ships just after 30 minutes of their departure? [You may take: cos(40∘ ) = 0.77, cos(20∘ ) = 0.94,
+    sin(20∘ ) = 0.34]
+    A.         40 km       ​                                                                                                 B.        43 km ​
+
+
+
+
+    C.         50 km           ​
+                                                                                                                             D.        53 km ​
+
+
+
+
+58. When the plane is rotated 45∘ about the point (1, -2), then what would be the image of the point (2, 4)?                                                                                          (1)
+    A. (1 − 5 2 , −2 + 7 2 )                                                                                                 B. (1 −
+                                                                                                                                                             2 , −2 + 2 )
+                                                               ​                   ​                                                                          2       ​2                          ​
+
+
+
+
+                                                   2           ​
+
+
+
+                                                                               2   ​                                                                                  ​                           ​
+
+
+
+
+    C. ( 5 2 , 7 2 )               ​                               ​
+
+                                                                                                                             D. (       2​
+
+
+
+
+                                                                                                                                          , 22 )                  ​
+
+
+
+
+                   2                               2                                                                                   2
+                                   ​                               ​                                                                     ​                        ​
+
+
+
+
+59. If u = 2j − k and v = i − 8j + 3k , then what is the unit vector in the direction of 5u + v?
+                                       ​                                                  ​                                                                                                           (1)
+
+    A. i + 2j − 2k                         ​
+                                                                                                                             B. 23 i + 13 j − 23 k
+                                                                                                                                   ​                     ​    ​                               ​
+
+
+
+
+    C.   1    2    2
+         3i + 3j − 3k
+           ​                                   ​       ​                   ​
+                                                                                                                             D.   1    2    2
+                                                                                                                                  3i + 3j + 3k
+                                                                                                                                  ​                      ​    ​                               ​
+
+
+
+
+60. The diagram below is a representation of a 25 m vertical observation tower TB and two cars K and L on a road.          (1)
+    The angle of depression from T to car L is 30°. The angle of elevation from car K to the top of the tower is 60°. B,
+    K and L lie in a straight line and lie on the same horizontal plane as the base of the tower.
+    What is the distance between the two cars?
+    [Figure: A diagram showing a vertical cylindrical observation tower TB of height 25 m with base B and top T,
+    standing perpendicular to a horizontal ground line containing points B, K, and L in order from left to right. A right-
+    angle symbol is marked at base B. A horizontal dashed line extends to the right from top T. A straight line of
+    sight runs from T to car L, forming an angle of depression labeled 30° with the horizontal dashed line. Another
+    line runs from car K to top T, forming an angle of elevation labeled 60° with the horizontal line BL.]
+    A. 503 3 m             ​
+
+
+
+
+                           ​
+                                                                                                                             B. 50 3 m               ​
+
+
+
+
+    C. 50 3 m              ​
+
+
+                                                                                                                             D. 50 +                         3m
+               2
+                                                                                                                                                                          ​
+
+                           ​
+
+
+
+
+61. Let L be the line given by the vector equation (x, y) = (1, 1) + t( 3, 1), t ∈ R. What is the equation of the                                                             ​                       (1)
+    image of L after being rotated 15° about (1, 1) and then translated by vector u = (−1, 1)?
+    A. −x + y = 2                                                                                                            B. x − y = 2
+    C.         3x − y = 2
+                   ​
+                                                                                                                             D. −x +                                  3y = 1      ​
+
+
+
+
+62. If the angle between the vectors A = (2, −1, 1) and B = (1, 1, α) is π3 , then what is the value of α?                                                                            ​
+                                                                                                                                                                                                      (1)
+    A. 1                                                                                                                     B. −1
+    C. 2                                                                                                                     D. −2
+
+63. What is the solution set of sin2 x − sin x cos x = 0 over [0, 2π]?                                                                                                                                (1)
+    A. {0, π, 5π4 , 2π}                                    ​
+                                                                                                                             B. {0, π4 , π, 2π}  ​
+
+
+
+
+    C. {0, π4 , π, 5π
+                    4 , 2π}        ​                                   ​
+                                                                                                                             D. {0, π4 , π, 5π
+                                                                                                                                             4 } ​                                        ​
+
+
+
+
+64. Which of the following is a correct assertion that can be proved by the principle of mathematical induction?                                                                                      (1)
+        1
+    A. n+1                                                                                                                   B. m! ≤ 4m , for each positive integer m.
+           ≤ 1, for each real number n ≥ 1.
+                       ​
+
+
+
+
+    C. 2p − 1 is prime for each prime integer p.                                                                             D. k! ≥ 2k , for each integer k ≥ 4.
+
+                                                                                                     — E N D O F E X A M I N AT I O N —
+                                                                                       Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

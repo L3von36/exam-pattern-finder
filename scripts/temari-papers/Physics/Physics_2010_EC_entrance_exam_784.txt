@@ -1,0 +1,401 @@
+                                                            Temari.et
+                                        Physics, 2010 EC, entrance exam
+                                                    Grade 12 · Physics · 2010 E.C.
+
+Time allowed: 120 minutes                                          Questions: 41                                        Total marks: 41
+
+Name                                                Grade                                 ID No.             Date
+
+1.                                           4         2        −6       15
+     Four vectors are listed below A = [       ]. B = [ ], C = [ ], D = [ ], Which pair of the vectors is                            (1)
+                                             10        −5       15       −6
+                                                ​              ​                      ​            ​
+
+
+
+
+     orthogonal?
+     A. A and D                                                            B. B and C
+     C. C and D                                                            D. A and B
+
+2.   A race car is moving at a constant speed of 35m/s . A security car was moving at a speed of 5m/s as the race                    (1)
+     car passes by it and was accelerating at constant rate of 5 m/s2 . What was the speed of the security car when
+     it took over the race car ?
+     A. 35m/s                                                              B. 60m/s
+     C. 5m/s                                                               D. 65m/s
+
+3.   A car start moving from rest and its motion on a straight line is shown in the figure below. What is the average             (1)
+     velocity of the car within the first 6 seconds?
+     [Figure: Hand-drawn velocity-time graph. Vertical axis labelled v (m/s) with tick marks at 2, 4, 6, 8, 10 and 12;
+     horizontal axis labelled t(s) with tick marks at 2, 4, 6 and 8. The trace consists of three straight segments: a line
+     rising from the origin to a point labelled "2, 6" (t = 2 s, v = 6 m/s); a horizontal segment from that point to a point
+     labelled "4, 6" (t = 4 s, v = 6 m/s); then a line rising from there to a point labelled "6, 10" (t = 6 s, v = 10 m/s), where
+     the trace ends.]
+     A. 5.67m/s                                                            B. 1.67 m/s
+     C. 5 m/s                                                              D. 6 m/s
+
+4.   Which one of the following statements is correct regarding the motion in a plane?                                               (1)
+     A. When a body moves in a horizontal circle, its velocity is constant
+     B. When a body moves in a vertical circle, its speed is constant
+     C. The centripetal force for a body moving in either vertical or horizontal circle is toward the center
+     D. In projectile motion the horizontal component of the motion is uniformly accelerated motion.
+
+5.   A bullet is fired at an angel of 30° above the horizontal. If air resistance is neglected, what should be the bullet's          (1)
+     horizontal acceleration (ax ) and vertical acceleration (ay ) when it reaches its maximum height?
+                                  ​ ​                                ​ ​
+
+
+
+
+     A. Both ax and ay are zero
+                 ​ ​     ​ ​
+                                                                           B. ax is 10 m/s2 downward, and ay is zero
+                                                                                ​ ​                          ​ ​
+
+
+
+
+     C. Both ax and ay are 10 m/s2 downward
+                 ​ ​                                                       D. ax is zero, and ay is 10 m/s2 downward.
+                                                                                ​ ​                    ​ ​
+6.   Two students A and B, with masses mA and mB respectively, stand on a wheeled trolleys as shown in the figure (1)
+                                                  ​    ​
+
+
+
+
+     below. If student A has larger mass and pushes student B, then what can be said about their accelerations?
+     [Figure: Line drawing of two boys facing each other, each standing on a small four-wheeled trolley (skateboard-
+     like platform) resting on a hatched horizontal ground line. The boy on the left is labelled A, the boy on the right is
+     labelled B. A leans forward with both arms extended, his hands pressing against B's hands, so A is pushing B to
+     the right. Both boys are drawn about the same size; no forces or numerical values are marked.]
+     A. The acceleration of student B is less than that of student A.
+     B. Both boys will be accelerated by the same magnitude but in opposite directions.
+     C. The acceleration of student A is less than that of student B.
+     D. There would be no acceleration because the forcec are equal and opposite.
+
+7.   Two forces F1 = (8i + 3j ) N and F1 = (4i + 6j ) N are acting on an object. What is the magnitude and
+                   ​ ​           ​          ​ ​            ​                                                               (1)
+     direction of the resultant force?
+     A. 225 N, 143°                                              B. 5 N, -37°
+     C. 5 N, 143°                                                D. 15 N, 37°
+
+8.   The diagram below shows a path taken by a flying bird. Which one of the following vector may represent a             (1)
+     resultant displacement?
+     [Figure: Hand-drawn path made of four thick displacement arrows joined head to tail. Starting at the upper left,
+     the first arrow runs horizontally to the right and ends with its head at the upper right. From that head the second
+     arrow runs diagonally down and to the left, ending with its head at the lower left. From there the third, shorter
+     arrow runs to the right and slightly downward, ending near the bottom middle. From that head the fourth arrow
+     runs diagonally up and to the right, ending with its head at the right of the figure, roughly level with the middle.
+     No lengths or labels are marked. The four answer choices are themselves small arrow drawings: A is an arrow
+     pointing up-right, B a horizontal arrow pointing right, C an arrow pointing down-left, and D an arrow pointing
+     down-right; the tick is beside D.]
+     A. An arrow pointing up and to the right (north-east).
+     B. A horizontal arrow pointing to the right (east).
+     C. An arrow pointing down and to the left (south-west).
+     D. An arrow pointing down and to the right (south-east).
+
+9.   A body that is released from the top of a tall building reaches the ground after six seconds. What is the ratio of    (1)
+     the kinetic energy acquired by it at the end of the first three seconds to the increment in the kinetic energy
+     during the next three seconds?
+     A. 3/2                                                      B. 1
+     C. 1/3                                                      D. 2
+
+10. A boy pushes a block over 12m distance within 6 seconds. The force applied by the boy varies as shown in the           (1)
+    diagram below. What is the average power loss by the boy?
+    [Figure: Hand-drawn force-displacement graph. Vertical axis labelled Fx (N) with three unlabelled tick marks
+                                                                                ​
+
+
+
+
+    and the value 4 marked on the second tick; horizontal axis labelled x(m) with tick marks at 3, 6, 9 and 12. The
+    trace is a trapezium: a straight line rises from the origin to the point labelled (3,4); a horizontal segment runs
+    from (3,4) to the point labelled (9,4); then a straight line falls from (9,4) down to the x axis at x = 12, where it
+    meets the axis.]
+     A. 4 w                                                      B. 8w
+     C. 7w                                                       D. 6w
+11. A thin rod when rotated about an axis at the end of the rod has a moment of inertia 13 M L2 . The rod has a mass
+                                                                                              ​                               (1)
+    of 1.5kg and length of 1.0 m. if the rod initially at rest gains a rotational kinetic energy of 1000.0 J, at what speed
+    does it rotate?
+     A. 10 5 rad/s
+              ​
+                                                                  B. 20 10 rad/s
+                                                                             ​
+
+
+
+
+     C. 10 rod/s                                                  D. 18.8 rod/s
+
+12. A ring a solid cylinder and a solid sphere, all having the same mass and the same radius, are held at the top of     (1)
+    an inclined plane as shown in the figure below. If the objects roll with out sliping and the coefficient of static
+    friction between each object and the plane is 0.3, which one of the following shows the order in which they will
+    get to the bottom of the inclined plane?
+    [Figure: Shaded drawing of an inclined plane: a flat rectangular ramp drawn in perspective, rising from the lower
+    right to the upper left, with a right-angled triangular support beneath it; the angle between the ramp and the
+    horizontal base at the bottom right is marked 20∘ . Three objects sit near the top edge of the ramp, each named
+    by a leader line drawn from a label on the left: "sphere" points to a ball at the top, "Solid cylinder" points to a
+    short cylinder just below it, and "ring" points to an annulus (a ring seen edge-on with a hole) at the lower left of
+    the three.]
+     A. All will reach the bottom at the same time
+     B. Ring, solid cylinder, sphere
+     C. Solid cylinder, sphere, ring
+     D. Sphere, solid cylinder, ring
+
+13. If in a given rotational system of a body the angular momentum is increased with time, which one of the                   (1)
+    following statement is not correct?
+     A. The radius of rotation may increase                       B. There is no torque exerted on the system
+     C. The moment of inertia may increase                        D. There is a torque exerted on the system
+
+14. Which of the following is a correct statement about the first condition of equilibrium?                                   (1)
+
+     A. The sum of all torques must be zero
+     B. Clockwise moments should balance counter clockwise moments
+     C. The net force on an object must be zero
+     D. The torque produced by a force should be perpendicular to the force.
+
+15. For a constant force F, if the impulse imparted to the system is large, then what can you conclude about the              (1)
+    collision?
+     A. Linear momentum is conserved                              B. The contact or impact time is large
+     C. Kinetic energy is conserved                               D. The change in velocity is small
+
+16. An open trolley is rolling on a level surface without frictional loss through a vertical downpour of rain, as shown (1)
+    in the figure below. As the trolley rolls, an appreciable amount of rainwater accumulates in the cart. What will be
+    the speed of the cart?
+    [Figure: Solid dark silhouette of an open-topped trolley or cart seen from the side: a rounded rectangular body
+    with two round wheels beneath it, the open top drawn as a lighter band across the upper part of the body. A
+    horizontal arrow leaves the right-hand side of the cart and points to the right, labelled V above it. No rain, ground
+    line or numerical values are drawn.]
+     A. It increases because of conservation of mechanical energy
+     B. It decreases because of conservation of mechanical energy
+     C. It remains the same because the raindrops are falling perpendicular to the direction of the cart's motion
+     D. It decreases because of conservation of momentum
+17. An object of mass 1kg moving with a speed of 2m/s was acted on by a force that produces an acceleration of 2          (1)
+    m/s2 . What is the change in kinetic energy of the object if the force is exerted on the object for 2seconds in its
+    direction of motion?
+    A. 1 J                                                      B. 16 J
+    C. 8 J                                                      D. 4 J
+
+18. In the figure below, what is the speed of water as it leaves A2 ?
+                                                                    ​                                                     (1)
+    [Figure: Shaded drawing of a narrow horizontal pipe on the left feeding into a much wider rectangular chamber
+    on the right. On the left, an arrow points to the right into the narrow pipe, labelled above with A1 = 4 cm2 and
+                                                                                                       ​
+
+
+
+
+    below with V1 = 0.9 m/s. On the right, an arrow leaves the wide chamber pointing to the right, labelled A2 =
+                   ​                                                                                               ​
+
+
+
+
+    12 cm above it and V2 below it.]
+                           ​
+
+
+
+
+    A. 0.9 m/s                                                  B. 0.3 m/s
+    C. 3.3 m/s                                                  D. 3.6 m/s
+
+19. An electric immersion water heater is rated at 400w. how long will it take to heat one kilogram of water from 10      (1)
+    to 30 ? (the specific heat of water is 4.2 J/g k.)
+    A. 45 min                                                   B. 1 min
+    C. 15 min                                                   D. 3.5 min
+
+20. If a thermodynamic system undergoes a process in which its internal energy increased by 400 J while doing             (1)
+    200 J of work on its surrounding, then what is the energy absorbed in or extracted from it in the form of heat?
+    A. -600 J                                                   B. -200 J
+    C. 200 J                                                    D. 600J
+
+21. Which of the following statement is not correct?                                                                      (1)
+    A. A system can absorb heat from a hot reservoir and can convert it entirely in to workout additional changes in the
+       system and its surroundings.
+    B. The spontaneous transfer of energy from a cooler body to hotter body is quite possible.
+    C. No process is possible in which there is an overall decrease in the entropy of the universe.
+    D. The complete conversion of energy from hot source in to work is not possible.
+
+22. A heat engine operating between 100°C and 700°C has efficiency equal to 40 % of the maximum theoretical         (1)
+    efficiency. How much energy does this engine extract from the hot reservoir in order to do 5000 J of mechanical
+    work?
+    A. 20259.32 J                                               B. 81.0 J
+    C. 810.4 J                                                  D. 20.3 J
+23. From the figures given below, which one is in equilibrium?                                                       (1)
+    [Figure: Four hand-drawn free-body sketches, one per answer choice, each a circle with force arrows. A: 2F up
+    from the top of the circle and 2F down from the bottom, both collinear through the centre. B: 2F up along the
+    right-hand edge and 2F down along the left-hand edge, the two arrows parallel but not collinear (a couple). C: F
+    up from the top, F up along the right-hand edge, and 2F down along the left-hand edge. D: 3F up from the top of
+    the circle, with 2F down on the left and F down on the right below it. The tick is beside A.]
+    A. A circle with an arrow labelled 2F pointing straight up from the top of the circle and an arrow labelled 2F
+       pointing straight down from the bottom, both along the same vertical line through the centre.
+    B. A circle with an arrow labelled 2F pointing up along its right-hand edge and an arrow labelled 2F pointing down
+       along its left-hand edge, the two lines of action offset on opposite sides of the centre.
+    C. A circle with an arrow labelled F pointing up from the top, a second arrow labelled F pointing up along the right-
+       hand edge, and an arrow labelled 2F pointing down along the left-hand edge.
+    D. A circle with an arrow labelled 3F pointing up from the top, and two downward arrows below it, labelled 2F on
+       the left and F on the right.
+
+24. Which of the following figure indicates tensile deformation?                                                            (1)
+    [Figure: Four hand-drawn deformation sketches, one per answer choice, each labelled with its letter beneath it.
+    A: an oval with a dashed inner outline and eight straight arrows pointing inward at it from all directions. B: a tall
+    upright cylinder with a dashed line down its face, a curved arrow over the top curling to the left and a curved
+    arrow under the bottom curling to the right (a twist about the cylinder's long axis). C: a rectangular block sitting
+    on a horizontal ground line, an arrow pushing right against its upper left edge and an arrow pushing left against
+    its lower right edge, with the sheared parallelogram shape drawn in dashes. D: a tall upright cylinder with a
+    straight arrow pointing up out of its top and a straight arrow pointing down below its bottom, the stretched
+    portion below the cylinder drawn in dashes. The tick is beside D.]
+    A. An oval body with a dashed outline drawn inside it and eight arrows pointing inward toward it from all around
+       (uniform compression from every side).
+    B. An upright cylinder with a dashed line running down its curved surface, a curved arrow at the top turning one
+       way and a curved arrow at the bottom turning the opposite way (twisting).
+    C. A rectangular block standing on a horizontal surface, with a horizontal arrow pushing to the right at its top edge
+       and a horizontal arrow pushing to the left at its bottom right; the deformed, leaning shape is drawn dashed
+       (shearing).
+    D. An upright cylinder with an arrow pointing straight up out of its top and an arrow pointing straight down below
+       its bottom; the stretched extension at the bottom is drawn dashed.
+
+25. An object with a mass of 150 kg and a volume of 0.75 m3 is floating in a liquid of density 0.8 g/cm3 . What             (1)
+    percentage of the objects volume will be submerged below the surface of the fluid?
+    A. 100 %                                                     B. 50 %
+    C. 75 %                                                      D. 25 %
+
+26. Why is an interference pattern not observed between the lights produced from a pair of car headlights?                  (1)
+    A. The light sources are not collimated.
+    B. Interference is observed only in laboratory conditions
+    C. The light sources are not coherent
+    D. The spread of light as it travels out of the source
+27. Suppose that three point charges are placed along a straight line and electrostatic force exerted on the middle          (1)
+    charge is zero. What can we conclude about the charges?
+    A. The signs of the three charges should be the same
+    B. The charges at the ends must have the same sign
+    C. The middle charge should be placed at the center between the two charges
+    D. The charge at the middle and at the left end should have the same sign
+
+28. Two parallel plates are kept at 3 V and 5 V as shown in the diagram below. If an electron is released at O, then         (1)
+    which way will the electron move?
+    [Figure: Hand-drawn sketch of two horizontal parallel plates, each a long straight line with a small filled dot
+    marked at its midpoint. The upper plate is labelled +5V at its right end; the lower plate is labelled +3V at its right
+    end. Midway between the plates, slightly left of centre, is the letter O followed by a small filled dot and then the
+    label e− , marking the released electron at point O. The letter A is written just above the dot on the lower plate.
+    No label is legible beside the dot on the upper plate.]
+    A. Towards B                                                 B. Towards A
+    C. Remains at O                                              D. Parallel to the plates
+
+29. A copper wire of cross sectional area 2 mm2 carrying a current of 1.5 A. if the drift velocity of the electron is        (1)
+    0.00028 m/s, what is the number of charge carriers (free electrons) per unit volume in the copper wire?
+    A. 1.5 × 1025 /m3                                            B. 1.88 × 1028 /m3
+    C. 1.5 × 1032 /m3                                            D. 1.67 × 1032 /m3
+
+30. Which of the following statement is correct?                                                                             (1)
+
+    A. Galvanometer can be converted to voltmeter of different scale by connecting low valued resistance in parallel
+    B. Low valued internal resistance increases accuracy of voltmeter
+    C. High valued internal resistance increases accuracy of ammeter
+    D. Galvanometer can be converted to ammeter of different scale by connecting variety of low value shunt
+       resistance in parallel.
+
+31. What makes the oscillatory motion a simple harmonic motion?                                                              (1)
+    A. The acceleration of the motion is directly proportional to the velocity
+    B. The acceleration of the motion is directly proportional in magnitude but opposite in direction to the displacement
+    C. The velocity of the motion is directly proportional to the displacement
+    D. The velocity of the motion is inversely proportional to the displacement
+
+32. The two end fixed string of length 0.5m has a mass per unit length 2 g/m. if the tension in the string is 80 N,          (1)
+    what is the second harmonic frequency?
+    A. 400 Hz                                                    B. 200 Hz
+    C. 100 2 Hz ​
+                                                                 D. 600 Hz
+
+33. Which one of the following is not the use of Doppler effect?                                                             (1)
+    A. Astronomy                                                 B. Energy transmission
+    C. Radar                                                     D. Blood flow measurement
+
+34. A 632.8 nm laser light produces an interference pattern on a screen of 4.0 m from a pair of slits. The slit space is     (1)
+    equal to 0.2 mm. calculate the fridge width.
+    A. 15.3 cm                                                   B. 25.3 mm
+    C. 6.33 mm                                                   D. 12.7 mm
+35. An inductor has a self inductance of 12 mH. The current in the circuit decreases at a rate of 2.0 A/s. what is the      (1)
+    magnitude of the induced electromotive force?
+    A. 2.4π V                                                    B. 1.2π V
+    C. 1.2 × 10−2 V                                              D. 2.4 × 10−2 V
+
+36. Which of the following is correct about the characteristics of current and voltage in A.C circuits?                     (1)
+    A. If the current leads the voltage, its capacitive reactance is greater than the inductive reactance
+    B. If the current is in phase with the voltage, the circuit is inductive
+    C. If the current leads the voltage, it is inductive circuit
+    D. If the current lags the voltage, the circuit is capacitive
+
+37. An RLC circuit is designed to have a resistance of 400 ?, capacitive reactance of 350 ? and inductive reactance         (1)
+    of 50 ?. The circuit is connected to an alternative voltage source of effective (rms) valve 50 v and frequency of
+    50 Hz. What is the average output power?
+    A. 62.5 W                                                    B. 4.0 W
+    C. 400 W                                                     D. 40 W
+
+38. In Rutherford experiment, a beam of positively charged alpha particles was projected in to a thin piece of a gold       (1)
+    foil. One of the observation of this experiment is that some charged particles deflected through a large angel
+    (10° to 90° ) are those concentrated in one place. What conclusion can be drawn from this observation?
+    A. Most of the mass and all positive charge is in tiny central nucleus
+    B. Most of the atom is empty space
+    C. All the atom is positive charge
+    D. All the atom is negative charge
+
+39. In the circuit shown below, each resistor has a value of 3 ?. What is the value of the current through R4 ? ​          (1)
+    [Figure: Hand-drawn two-loop circuit built on a rectangle with a horizontal middle branch. Top branch: running
+    from the top-right corner to the top-left corner there is a battery labelled 6V, and an arrowhead on the wire to
+    the left of the battery marks a current I1 flowing to the left. Left side: a vertical resistor R1 between the top-left
+                                               ​                                                   ​
+
+
+
+
+    corner and the left middle node; below that node an arrowhead on the left wire points upward, marking a current
+    I3 . Right side: a vertical resistor R2 between the top-right corner and the right middle node, and a vertical
+       ​                                 ​
+
+
+
+
+    resistor R3 between the right middle node and the bottom-right corner. Middle branch: from the left middle
+                 ​
+
+
+
+
+    node to the right middle node, an arrowhead pointing right marks a current I2 , followed by a battery cell (drawn
+                                                                                      ​
+
+
+
+
+    but carrying no value label) and then a horizontal resistor R4 . Bottom branch: from the bottom-left corner to the
+                                                                    ​
+
+
+
+
+    bottom-right corner, a horizontal resistor R5 followed by a battery labelled 9V.]
+                                                   ​
+
+
+
+
+    A. 0.75 A                                                    B. 1.0 A
+    C. 0.625 A                                                   D. 0.125 A
+
+40. If a charged particle enters in to a uniform magnetic field perpendicular to its direction, then what will happen?      (1)
+    A. It moves in an elliptical path
+    B. The radius of its path is proportional to the magnetic field strength
+    C. The charged particle will not be affected by magnetic field
+    D. The period of the motion is inversely related to the magnetic field strength
+
+41. Two parallel wires each carrying 5 A current in the same direction are separated by 2.5cm. what is the                  (1)
+    magnitude of the force per unit length acting on the wires? Is the force attractive or repulsive?
+    A. 2 × 10−4 N/m, attractive                                  B. 4 × 10−6 N/m, repulsive
+    C. 8 × 10−5 N/m, repulsive                                   D. 5 × 10−6 N/m, attractive
+              — E N D O F E X A M I N AT I O N —
+Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

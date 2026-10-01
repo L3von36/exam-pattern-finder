@@ -1,0 +1,439 @@
+                                                          Temari.et
+                                      Physics, 2009 EC, entrance exam
+                                                 Grade 12 · Physics · 2009 E.C.
+
+Time allowed: 120 minutes                                     Questions: 45                                     Total marks: 45
+
+Name                                              Grade                       ID No.                    Date
+
+1.   The range of cannon-ball fired horizontally from a laboratory table is equal to 8/3 times the height of the table.        (1)
+     What is the direction of velocity vector of the projectile as it strikes the ground?
+     A. 45° from the horizontal                                    B. 53° from the horizontal
+     C. 60° from the horizontal                                    D. 37° from the horizontal
+
+2.   Galileo carried out a �thought� experiment on motion. The line between A and B represents a surface and the               (1)
+     center of the ball is placed at A. what would happen in each of the three situations shown in the figure below,
+     without friction when the ball is released?
+     [Figure: Three hand-drawn panels labelled a, b and c. In each, a small shaded ball sits at a point labelled A on
+     the left, and a horizontal dashed line runs from A rightwards to a point labelled B. Panel (a): from the ball a solid
+     curve dips below the dashed line as a symmetric U-shaped valley and rises back up to meet the dashed line
+     exactly at B on the right. Panel (b): the solid curve dips below the dashed line in a shallower valley, crosses the
+     dashed line at B and continues rising steeply upward past B (the far side of the valley is much less steep, so the
+     rising track carries on above and beyond B). Panel (c): the solid curve drops from the ball and then runs flat and
+     horizontal to the right indefinitely, with a straight arrow above it pointing right; the label at the right reads "B at
+     ∞" (B at infinity).]
+     A. The ball would never reach point B in all instances.
+     B. The ball would reach B in all instances even if point B keeps on receding to infinity in (c).
+     C. The ball would reach point B in (a) and (b) and not in (c).
+     D. The ball would reach point B only in (a).
+
+3.   A uranium atom initially at rest has a mass of 2 units and spontaneously disintegrated into two fragments. One            (1)
+     of the fragments has a mass of 0.8 units and moves at a speed of 24m/s as shown in figure below. What is the
+     speed of the second fragments?
+     [Figure: A photographed hand-drawn sketch. On the left a shaded oval (the parent nucleus) sits on a long
+     horizontal reference line, labelled above as M = 2 units, u = 0. The horizontal line runs to the right. At a point
+     on that line the two fragment tracks cross it. One arrow goes up and to the right, making an angle of 30∘ above
+     the horizontal line, ending in a shaded oval labelled m2 , v2 . The other arrow goes down and to the left-of-
+                                                               ​   ​
+
+
+
+
+     vertical, making an angle of 53∘ below the horizontal line on the left side, passing through a shaded oval
+     labelled m1 = 0.8 units, v1 = 24 m/s and continuing to an arrowhead at the lower left.]
+                  ​               ​
+
+
+
+
+     A. 25.6m/s                                                    B. 21.3m/s
+     C. 16m/s                                                      D. 14.8m/s
+
+4.   A 1kg object explodes and breaks up into three pieces. One piece has a mass of 400g and has a velocity of (15i + (1)
+     10j)m/s. a second piece has a mass of 250g and has a velocity of (25i � 10j)m/s. What is the velocity of the
+     third piece?
+     A. (-4.3i + 35j)m/s                                           B. (-35i � 4.3j)m/s
+     C. (35i � 4.3j)m/s                                            D. (-35i � 4.3j)m/s
+5.   Which of the following statements is not correct?                                                                       (1)
+     A. Dynamic equilibrium is an equilibrium in which a body is moving at steady velocity without net force or torque
+        acting on it.
+     B. Static equilibrium is an equilibrium in which a body is at rest without net force or torque acting on it.
+     C. Couples are set of forces with a resultant torque but no net force.
+     D. The necessary and sufficient condition for equilibrium of a rigid body is to have the sum of all torques acting on
+        it is zero.
+
+6.   A spring with a spring constant of 300N/m is stretched 20cm in 2 seconds. What is the power applied to                  (1)
+     stretch the spring?
+     A. 3W                                                      B. 6W
+     C. 30KW                                                    D. 60KW
+
+7.   A 50KW machine is used to lift heavy objects to the top of a building under construction. If this machine is            (1)
+     replace with a new machine of 100KW power, then which of the following statements is not true about the new
+     machine?
+     A. The new machine can raise objects with the same mass at twice the speed of the old machine.
+     B. The new machine can raise objects with twice as much mass at the same speed as the old machine.
+     C. The new machine takes twice as much time to do the same work as the old machine.
+     D. The new machine can do twice as much work in the same time as the old machine.
+
+8.   Which of the following is correct about a work done for dissipative force?                                              (1)
+     A. Path dependent
+     B. The same as the loss in kinetic energy.
+     C. The same as the gain in potential energy.
+     D. The same as the potential energy stored in spring.
+
+9.   A disk of radius R with uniform distribution of mass M rotates about an axis perpendicular to its plane at the rim      (1)
+     with angular speed ω the moment of inertia of the disc about the axis through the center is1/2MR2 . What is the
+     kinetic energy of the disk?
+     A. 1/4M R2 ω 2                                             B. 1/3M R2 ω 2
+     C. 1/2M R2 ω 2                                             D. 4/4M R2 ω 2
+
+10. A pulley is rotating at a frequency of 20rev/min. a motor speeds up the wheel so that 30s later the frequency of         (1)
+    the motion is 60rev/min. How far a point on the pool 0.30m from its center will has travelled during that period?
+     A. 125.7m                                                  B. 0.13m
+     C. 37.68m                                                  D. 4.2m
+
+11. Which of the following statements is correct about the first condition of equilibrium?                                   (1)
+     A. The net force on an object must be zero.
+     B. The sum of all torques must be zero.
+     C. Clockwise moments should balance counter clockwise moments.
+     D. The torque produced by a force should be perpendicular to the force.
+12. A 4m long uniform board of mass 10kg hinged on the ground at one end is hanging by a string at the other end. (1)
+    A block of mass 8kg is placed at 1m from the hinge on the ground as shown in the diagram below. What is the
+    tension in the string?
+    [Figure: A hand-drawn sketch, tall and narrow. At the bottom is hatched horizontal ground; a long straight board
+    (drawn as a narrow rectangle) is hinged at its lower end on that ground and leans up and slightly to the left,
+    making an angle marked 600 with the ground on the right-hand side. From the top end of the board a string runs
+    upward and slightly left to a hatched ceiling/support at the top of the figure. Leaning against the lower left part
+    of the board is a small block labelled 8kg; a short dimension line at the bottom left marked 1m indicates its
+    distance from the hinge.]
+    A. 10N                                                        B. 50N
+    C. 70N                                                        D. 110N
+
+13. Which of the following refers to the definition of strain as a ratio?                                                   (1)
+
+    A. Extension to the original length.
+    B. Force applied to area of the object normal to the force.
+    C. Stress to Young modulus.
+    D. Tensile to applied force.
+
+14. Which of the following is the application of Pascal�s law?                                                              (1)
+    A. Hydraulic brake in vehicles.                               B. Siphon to remove fluids.
+    C. Working of submarines.                                     D. Sucking of liquid into a syringe.
+
+15. If a precision of surveyor measured a distance of 500 meters /between two points in a village/ using a meter            (1)
+    that has centimetre division on it, then what is the measurement result?
+    A. 500m                                                       B. 500.0m
+    C. 500.00m                                                    D. 500.000m
+
+16. From the figures given below, which one of them shows precise but not accurate measurements? T represents               (1)
+    the true value.
+    [Figure: Four photographed hand-drawn distribution graphs, one per option. Every graph has the same axes: the
+    vertical axis is labelled "Number of readings" and the horizontal axis is labelled "Reading", with a single letter T
+    marked as a tick position on the horizontal axis. Graph A: T is marked near the left of the axis; a tall, narrow,
+    sharply peaked curve rises well to the right of T, clearly separated from it (narrow spread, displaced from the
+    true value). Graph B: T is marked on the axis and the tall, narrow, sharply peaked curve sits directly over T
+    (narrow spread, centred on the true value). Graph C: a broad, low, wide hump whose maximum lies a little to the
+    left of T, its tail spreading past T to the right (wide spread, roughly straddling the true value). Graph D: a broad,
+    low, wide hump whose maximum lies well to the left of T, dying away just before T (wide spread, displaced from
+    the true value).]
+    A. Graph A: a tall narrow peak located well to the right of T.
+    B. Graph B: a tall narrow peak centred on T.
+    C. Graph C: a broad low hump whose maximum lies just to the left of T.
+    D. Graph D: a broad low hump whose maximum lies well to the left of T.
+
+17. If vector P is 6m in the x-direction and vector q is 8m in the y-direction. Then what is the value of the vector
+                                                      ​                                                                     (1)
+    p + q?
+      ​    ​
+
+
+
+
+    A. 10m at 53° from x-direction.                               B.   136m at 450 from x-direction.
+                                                                            ​
+
+
+
+
+    C. 10m at 37° from x-direction.                               D.   136m at 300 from x-direction.
+                                                                            ​
+18. Given vectors A =           3i + j and B =
+                                 ​   ​
+                                                 3i − j . What is the smaller angle between the vectors?
+                                                  ​       ​
+                                                                                                                               (1)
+     A. 60°                                                       B. 53°
+     C. 45°                                                       D. 30°
+
+19. If A = x m + 3 m z and B = 2 m y + 3 m z , then what is the value of A × B ?                                               (1)
+             s     s    ​   ​
+
+
+
+
+                                 s       s ​          ​                                        ​   ​
+
+
+
+
+     A. 10 ms   ​   ​                                             B.    13 ms  ​       ​
+
+
+
+
+     C. 7 ms​
+                                                                  D.    130 ms     ​       ​
+
+
+
+
+20. A cricketer throws a ball vertically upwards with initial speed of 20m/s. How long is it in the air before it returns      (1)
+    to the cricketer�s hands?
+     A. 2s                                                        B. 10s
+     C. 1.5s                                                      D. 4s
+
+21. A fun making boy swings a blinking ball tied to the end of a string in a vertical circle. If the radius of the circle is   (1)
+    0.5m, then what should be the minimum speed of the ball at the bottom of the circle to make a complete
+    circular motion at the top?
+     A. 5m/s                                                      B.    5m/s
+                                                                           ​
+
+
+
+
+     C.   15m/s ​
+                                                                  D. 2 5m/s    ​
+
+
+
+
+22. The activity of radioactive substance reduces from 2000Bq to 1000Bq in 106 seconds. What is the decay                      (1)
+    constant?
+     A. 6.93 × 105 , decay/s                                      B. 6.93 × 10−7 , decay/s
+     C. 2.00 × 106 , decay/s                                      D. 5.00 × 10−7 , decay/s
+
+23. Which of the following phenomena clearly demonstrates the particle nature of light?                                        (1)
+
+     A. Refraction of light by prism.                             B. The photoelectric effect.
+     C. Diffraction of light by double slit.                      D. Dispersion of white light.
+
+24. Which of the following statements is correct?                                                                              (1)
+     A. Irreversible process is a process that can be reversed through finite change in the system.
+     B. Complete conversion of energy from a hot source into work is possible.
+     C. There are processes in which there is an overall decrease in entropy.
+     D. Entropy is a measure of the amount of disorder.
+
+25. A certain heat engine draws 500cal/s from a water bath at 27°C and rejects 400 calories to a reservoir at a                (1)
+    lower temperature. What is the efficiency of this engine?
+     A. 80%                                                       B. 75%
+     C. 25%                                                       D. 20%
+
+26. Three metals are in contact and in thermal equilibrium. The metals have different specific heat capacity. What             (1)
+    can be concluded about the temperature of the metals?
+     A. Since they have different specific heat capacity, they must have different temperature at thermal equilibrium.
+     B. They must have the same temperature at thermal equilibrium.
+     C. They must have different internal energy.
+     D. They must have different kinetic energy.
+27. Metal A has a coefficient of linear expansion that is three times the coefficient of linear expansion of metal B.        (1)
+    How does their coefficient of areal expansion, Y, compare?
+     A. YA = 2YB
+           ​        ​
+                                                                  B. YA = 3Y B
+                                                                        ​
+
+
+
+
+     C. YA = 4YB
+           ​        ​
+                                                                  D. YA = 6YB
+                                                                        ​       ​
+
+
+
+
+28. On an unknown scale x, the ice point temperature is 50°x and the steam-point temperature is 200°x. If the                (1)
+    temperature is 60°C, then what is the reading in °x?
+     A. 90°x                                                      B. 140°x
+     C. 15°x                                                      D. 333°x
+
+29. A block of mass 5kg hanging at the end of spring scale is totally submerged in a breaker of water. The beaker is         (1)
+    large enough to avoid overflow of water. If the density of the block is 2.5 × 103 kg/m3 , then what is the reading
+    of the scale?
+     A. 3kg                                                       B. 2kg
+     C. 1kg                                                       D. 0kg
+
+30. An electric generator has a coil of 400 turns and cross-sectional area 5m2 rotating at angular frequency 0.524           (1)
+    rad/s in a uniform magnetic field of 0.2T, what is the induced e.m.f produced from the electric generator in each
+    second?
+     A. 209.6V                                                    B. 104.8V
+     C. 200V                                                      D. 182.4V
+
+31. Which of the following statement is correct?                                                                             (1)
+     A. The direction of induced e.m.f is in such a direction as to reinforce the change produces it.
+     B. Self-inductance of a coil is e.m.f divided by a magnitude of rate change of current with time.
+     C. The induced e.m.f in a coil is inversely proportional to its number of turns.
+     D. Self-inductance of a coil is inversely proportional to the cross sectional area of the coil.
+
+32. A positively charged particle of charge q=3.2 x10−19 C is moving parallel to x-axis with speed 1000m/s in a             (1)
+    magnetic field of 0.5T parallel to y-axis as shown in the diagram below. What is the magnetic force on the
+    charge?
+    [Figure: A photographed hand-drawn set of three-dimensional axes meeting at a common origin at the left. One
+    arrow points straight up and is labelled Z. A second arrow points to the upper right (diagonally) and is labelled y.
+    A third arrow points to the lower right (diagonally) and is labelled X. Two extra shorter arrows are drawn from
+    near the origin: one lying along the y direction, drawn just above the y axis and labelled B (the magnetic field,
+    parallel to y), and one lying along the X direction, drawn just above the X axis and labelled V (the velocity, parallel
+    to x).]
+     A. 8.0 × 10−16 N in ? ve Z                                   B. 3.2 × 10−16 N in � ve x
+     C. 8.0 × 10−17 N in + ve x                                   D. 1.6 × 10−16 N in + ve Z
+
+33. A charged particle moves perpendicular to a uniform magnetic field. Which statement is correct about the                 (1)
+    motion of the particle?
+     A. Both kinetic energy and linear momentum of the particle change.
+     B. The kinetic energy of the particle change but not its linear momentum.
+     C. The linear momentum of the particle changes but not its kinetic energy.
+     D. Both the energy and momentum do not change.
+34. Which of the following is not correct about magnetic field?                                                               (1)
+     A. Magnetic field lines are closed.
+     B. Magnetic monopoles exist.
+     C. The closer the field lines are, the storage the magnetic field.
+     D. Magnetic field is produced by moving charge.
+
+35. Which of the following is not correct about the circuit shown below?                                                      (1)
+    [Figure: A hand-drawn single-loop circuit. On the left, enclosed inside an ellipse (marking the real cell), are a
+    battery symbol labelled ε and, directly below it in the same branch, a small rectangular resistor labelled r (the
+    internal resistance). Wires run from the ellipse along the top and the bottom of a rectangular loop to the right-
+    hand branch, which carries a vertical rectangular resistor labelled RL .]            ​
+
+
+
+
+     A. Voltage across RL is r+R
+                              RL
+                                 ε​
+
+
+
+
+                                              ​
+                                                                      B. Current flowing through RL is r+R
+                                                                                                         ε
+                                                                                                                      ​
+
+
+
+
+                                      L   ​
+                                                                                                              L   ​
+
+
+
+
+     C. Current flowing through r is r+R
+                                       r
+                                         L
+                                           ε      ​
+                                                      ​
+                                                                      D. Power drop in RL is (r+R
+                                                                                               RL ​
+
+
+
+
+                                                                                                  L)
+                                                                                                     ε2
+                                                                                                      ​
+                                                                                                          ​
+
+
+
+
+36. A galvanometer of full-scale deflection 10mA is to be converted into a 0 � 10.0A ammeter. If its coil has a               (1)
+    resistance of 100Ω, then what value of shunt resistance must be fitted?
+     A. 0.1Ω                                                          B. 10Ω
+     C. 9.99Ω                                                         D. 0.999Ω
+
+37. If a cell supplies a current of 0.9A when connected to a 2Ω resistor and a current of 0.3A, then what will be the         (1)
+    internal resistance of the cell when connected to a 7Ω resistor?
+     A. 2Ω                                                            B. 1.2Ω
+     C. 1Ω                                                            D. 0.5Ω
+
+38. The capacitance of a parallel plate capacitor is 10. If the distance between the plates is halved, keeping all other      (1)
+    quantities constant, then what is the new capacitance of the capacitor?
+     A. 0.2μF                                                         B. 5μF
+     C. 10μF                                                          D. 20μF
+
+39. Two positive charges of magnitude 2.4 × 10−9 C and 1.6 × 10−9 C are separated in air by a distance of 2.0cm.              (1)
+    How much electrostatic potential is produced by the two charges at midway between them?
+     A. 3.6KV                                                         B. 0.72 KV
+     C. 2.16 KV                                                       D. 1.44 KV
+
+40. A charge of q1 = −10.0 × 10−9 C, q2 = +10.0 × 10−9 C and q3 = −2.5 × 10−8 C are placed on x-y plane as
+                    ​                                     ​                      ​                                            (1)
+    shown in the figure below. What is the electric force on q3 by q1 and q2 ?
+                                                                  ​          ​               ​
+
+
+
+
+    [Figure: A photographed hand-drawn set of x-y axes: a vertical axis with an arrowhead at the top and a
+    horizontal axis with an arrowhead at the right, labelled "x (in m)". Three small circled dots mark the charges. At
+    the origin, on the horizontal axis at the left, is a circled dot labelled q1 with the coordinates "(0.0)" written
+                                                                                     ​
+
+
+
+
+    beneath it. High on the vertical axis is a circled dot labelled q2 with the coordinates (0,6) written beside it. Out in
+                                                                         ​
+
+
+
+
+    the first quadrant, between the two, is a circled dot with the coordinates (4,3) beside it and the label q3 written   ​
+
+
+
+
+    just below. Short tick marks are drawn on both axes.]
+     A. 1.08 × 10−7 N in + ve y direction                             B. 9.00 × 10−7 N in - ve y direction
+     C. 1.42 × 10−7 N in + ve x direction                             D. 1.42 × 10−7 N in - ve x direction
+41. In a Young�s experiment, there are two slits, rather than one. What do you think the reason?                     (1)
+    A. To increase the intensity.
+    B. One slit is for frequency the other for wavelength.
+    C. To create a path length difference.
+    D. One slit is for electric fields and the other is for magnetic fields.
+
+42. A light of wavelength 590nm is incident normally on a grating with spacing 1.67 × 10−6 m. How many orders of     (1)
+    diffraction maxima can be obtained (including the zero order)?
+    A. 1                                                                 B. 2
+    C. 3                                                                 D. 4
+
+43. Which of the following statements is correct?                                                                    (1)
+    A. Interference is not superposition of waves.
+    B. Constructive interference results in decrease in the intensity.
+    C. Destructive interference results in an increases in the intensity.
+    D. Path difference which is integer multiple of wavelength results in constructive interference.
+
+44. Which of the following is not correct about a simple harmonic oscillator?                                        (1)
+    A. Total mechanical energy is conserved.
+    B. The acceleration is directly proportional to and opposite in direction to displacement
+    C. The period of small oscillation of a pendulum with string length l, a bob mass m attached to its end is T =
+       2π    g.
+             l
+               ​ ​
+
+
+
+
+    D. The frequency of an oscillating mass attached to a massless spring is independence of the spring constant.
+
+45. Which one of the following indicates the wavelength of a travelling wave?                                        (1)
+    A. The distance between an adjacent trough and a peak.
+    B. The amplitude of the wave.
+    C. The distance between a node and antinodes.
+    D. The distance between two adjacent points which are in phase.
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

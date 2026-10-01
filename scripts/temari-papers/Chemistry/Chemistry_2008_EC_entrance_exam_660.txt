@@ -1,0 +1,586 @@
+                                                                       Temari.et
+                                               Chemistry, 2008 EC, entrance exam
+                                                           Grade 12 · Chemistry · 2008 E.C.
+
+Time allowed: 120 minutes                                                 Questions: 68                                               Total marks: 68
+
+Name                                                       Grade                                      ID No.                   Date
+
+1.   A drug decomposes by zero-order kinetics with a rate constant of 2 mgmL−1 month−1 . If the initial concentration is 100 mgmL−1 , how           (1)
+     long will it take for the drug to decompose by 10%?
+     A. 2 months                                                                   B. 3 months
+     C. 5 months                                                                   D. 4 months
+
+2.   The value of Keq for the following reaction is 0.25. SO2 (g) + NO2 (g) ⇌ 2SO3 (g) + NO (g) What is the value of Keq at the same
+                      ​                                      ​             ​                  ​                                                     (1)
+     temperature for the reaction below? 2SO2 (g) + 2NO2 (g) ⇌ 2SO3 (g) + 2NO (g)
+                                                 ​               ​             ​
+
+
+
+
+     A. 0.25                                                                       B. 0.062
+     C. 0.50                                                                       D. 16
+
+3.   Which of the following would react to form pentyl ethanoate?                                                                                   (1)
+     A. 1- propanol and pentanoic acid                                             B. Ethanol and pentanoic acid
+     C. 1- pentanol and ethanoic acid                                              D. Ethanol and ethanoic acid
+
+4.   Which of the following is correct when 34495 is rounded to three significant figures?                                                          (1)
+     A. 345                                                                        B. 34500
+     C. 344                                                                        D. 3840
+
+5.   What is the first step of the scientific method?                                                                                               (1)
+
+     A. Making observations                                                        B. Forming a hypothesis
+     C. Performing an experiment                                                   D. Predicting the result of an experiment
+
+6.   What is the distance that a radio wave will travel in 0.250sec?                                                                                (1)
+                 7
+     A. 1.2 × 10 m                                                                 B. 12 × 10 m   7
+
+                 7
+     C. 7.5 × 10 m                                                                 D. 5.6 × 107 m
+
+7.   Which of the following is not a form of chemical bonding?                                                                                      (1)
+     A. Covalent bonding                                                           B. Metallic bonding
+     C. Ionic bonding                                                              D. Hydrogen bonding
+
+8.   Which of the following statements is not true about covalent bonding?                                                                          (1)
+     A. Covalent compounds are least likely to be formed between atoms of the same elements.
+     B. Covalent bonds are least likely to be formed between atoms of different elements of different elements on the right slide of the periodic
+        table.
+     C. Covalent bonds are least likely to be formed between an element in Group I and an element in Group VII.
+     D. Covalent bonds are least likely to be formed by head of the group elements with high ionization energies.
+
+9.   If we increase the concentration of a reactant, what happens to the collision between particles?                                               (1)
+     A. There are more collisions.
+     B. There are fewer collisions.
+     C. There are the same number of collisions, but they have less energy
+     D. There are the same number of collisions, but they have more energy
+
+10. What mass of magnesium is plated out upon electrolysis from molten MgCl2 using a current of 60A for a period of 4000 seconds?
+                                                                                         ​                                                          (1)
+
+     A. 30gm                                                                       B. 24gm
+     C. 60gm                                                                       D. 72gm
+11. For a voltaic (or galvanic) cell using Ag, Ag+ (1.0m) and Zn, Zn2+ (1.0m) half cells, which of the following statements is incorrect?              (1)
+    A. The zinc electrode is the Anode.
+    B. The electrons will flow through the external circuit from the zinc electrode to the silver electrode.
+    C. The mass of the zinc electrode will decreases as the cell operates.
+    D. Reduction occurs at the zinc electrode as the cell operates.
+
+12. The difference between fats and oils is that                                                                                                       (1)
+    A. Oils are liquid at room temperature.                                   B. Oils have more calories
+    C. Oils are sold at room temperature.                                     D. Fats are liquid at room temperature.
+
+13. What is the solvent in 70% alcohol solution?                                                                                                       (1)
+    A. Water                                                                  B. Alcohol
+    C. Sugar                                                                  D. Kerosene
+
+14. How many moles of H2 SO4 are needed to prepare 5.0 liters of a 2.0M solution of H2 SO4 ?
+                                 ​           ​                                                      ​   ​                                              (1)
+
+    A. 2.5                                                                    B. 5
+    C. 20                                                                     D. 10
+
+15. What is the balanced net ionic equation for the reaction of CaCl2 and AgNO3 ?
+                                                                         ​                  ​
+                                                                                                                                                       (1)
+                                                                                      2+                        −
+    A. CaCl2 (aq) + 2AgNO3 (aq) → 2(NO3 )2 (aq) + 2AgCl (s)
+                 ​                               ​   ​
+                                                                              B. Ca   (aq) + 2Cl                    (aq) + 2NO−
+                                                                                                                              3 (aq) → Ca
+                                                                                                                               ​
+                                                                                                                                          2+
+                                                                                                                                             (aq) + 2NO−
+                                                                                                                                                       3 +
+                                                                                                                                                        ​
+
+
+
+
+    C. Cl− (aq) + Ag+ (aq) → 2AgCl (s)                                        D. 2Cl− (aq) + 2Ag+ (aq) → 2AgCl (s)
+
+16. The Ka of Hypochlorous acid (HClO) is 3.0 × 10−4 at 250 C. What is the % ionization of hypochlorous acid in a 0.015M aqueous solution of
+             ​                                                                                                                                         (1)
+    HClO at 250 C?
+    A. 2.1 × 10−5                                                             B. 0.14
+    C. 1.4 × 10−3                                                             D. 3.3 × 10−3
+
+17. Which of the following combinations cannot produce a buffer solution?                                                                              (1)
+    A. HClO4 and NaClO4  ​               ​
+                                                                              B. HCN and NaCN
+    C. HNO2 and NaNO2​               ​
+                                                                              D. NH3 and (NH4 )2SO4
+                                                                                                ​           ​        ​
+
+
+
+
+18. What is the molality of a solution that contains 51.2gm of naphthalene, C10 H8 in 500ml of carbon tetrachloride? The density of CCl4 is
+                                                                                  ​     ​                                                        ​     (1)
+    1.60gm/ml
+    A. 0.750m                                                                 B. 0.500m
+    C. 0.84m                                                                  D. 1.69m
+
+19. What is the ionization constant for a weak acid, Ha, that is 1.60% ionized in 0.0950M solution?                                                    (1)
+    A. 2.69 × 10−3                                                            B. 3.77 × 10−2
+    C. 2.47 × 10−5                                                            D. 9.91 × 10−6
+
+20. Which of the following is correct?                                                                                                                 (1)
+                             2
+    A. 1pa = 10Nm                                                             B. 1N = 10Kg
+    C. 0.00072 = 7.2 × 10−3                                                   D. 1L = 1dm3
+
+21. For the Galvanic cell shown below, which one of the following statement is correct?                                                              (1)
+    [Figure: A hand-drawn galvanic cell. Two beakers stand side by side, each holding a solution drawn as horizontal wavy lines with a faint
+    formula written inside the liquid. A metal strip dips into each beaker: the left strip is labelled "Magnesium" by a leader line coming in from
+    the left, the right strip is labelled "Zinc" by a leader line coming in from the right. A wire runs up from each strip and the two wires meet at
+    a small circle containing the letter "V" (a voltmeter) at the top centre, closing the external circuit. Beneath that wire, a second inverted U-
+    tube joins the two beakers, dipping into both solutions; the word "Salt" is printed in the gap between the beakers, with a short tick mark on
+    the tube above it, labelling it as the salt bridge. No numerical values are shown.]
+    A. At the zinc electrode, zinc ions are formed.
+    B. The electrode potential is measured by the voltmeter.
+    C. The following reaction takes place at the magnesium electrode Mg2+ + 2e− → Mg.
+    D. Electrons flow from the zinc electrode to the magnesium electrode.
+22. What is the most common Ore used for the extraction of copper?                                                                                      (1)
+    A. CuO                                                                     B. CuSO4        ​
+
+
+
+
+    C. CuCO3     ​
+                                                                               D. CuFeS2           ​
+
+
+
+
+23. Which of the following statements about polyvinyl chloride is not correct?                                                                          (1)
+
+    A. Pvc can be used in making water pipes                                   B. Pvc is stiff
+    C. Pvc is softened on heating                                              D. The mnomer of Pvc is CHCl = CHCl
+
+24. Which of the following is a natural polymer?                                                                                                        (1)
+    A. Keratin                                                                 B. Polythene
+    C. Cellulose                                                               D. Polymethyl methacrylate
+
+25. Which of the following electrons, identified only by their n and l quantum numbers have the highest energy? n=3, l=0 n=4,l=1 n=3, l=2 n=4,          (1)
+    l=2
+    A. n = 3, l = 2                                                            B. n = 4, l = 1
+    C. n = 4, l = 2                                                            D. n = 3, l = 0
+
+26. What is the maximum number of unpaired electron in a d subshell?                                                                                    (1)
+    A. 2                                                                       B. 5
+    C. 3                                                                       D. 4
+
+27. The following energy level diagram represents the out most shell of what ground state element?                                                      (1)
+    [Figure: A hand-drawn orbital (box) energy-level diagram of an outermost shell. At the lower left is a single short horizontal line with a
+    small box sitting on it holding a pair of arrows drawn as "1" and an up arrow together (a filled, paired orbital); the label "3s" is written in a
+    box directly beneath that line. Higher up and to the right are three short horizontal lines of equal height, drawn side by side: the leftmost
+    carries a small box holding a single arrow (one unpaired electron), and the middle and right lines are bare. The label "3p" is written in a box
+    beneath the leftmost of those three lines. So the diagram shows a full 3s level below and three 3p levels above, of which only the first
+    holds one electron.]
+    A. B                                                                       B. He
+    C. Al                                                                      D. Be
+
+28. In order to advance the level of a theory, a hypothesis should:                                                                                     (1)
+    A. Be obviously accepted by most people.
+    B. Be repeatedly confirmed by experimentation.
+    C. Be a fully functional experiment.
+    D. Report the past experience.
+
+29. Which of the following types of rays combine to form atoms of Helium?                                                                               (1)
+    A. Gamma (γ ) rays                                                         B. Beta (β )
+    C. Alpha (α)                                                               D. X-rays
+
+30. What is the relationship between frequency (V), wavelength ( λ) and the speed of light (c)?                                                         (1)
+    A. λ/v = c                                                                 B. vc = λ
+    C. hc/λ = v                                                                D. c = vλ
+
+31. What is the magnitude of quantum energy and the frequency for an object whose wave length is 0.6 × 10−6 m?                                          (1)
+    A. 3.31 × 10−9 J, 5 × 1014 s−1                                             B. 3.98 × 10−40 J, 2 × 10−15 s−1
+    C. 1.99 × 10−25 J, 3.98 × 10−40 s−1                                        D. 9.94 × 10−12 J, 1.99 × 10−25 sec
+
+32. What new concept did Bohr adapt and use to formulate his made of the atom?                                                                          (1)
+
+    A. Electromagnetic theory developed by Maxwell.
+    B. The quantum concept developed by plank
+    C. Phoelectric theory developed by Thompson
+    D. Newtron theory developed by Chadwick.
+
+33. What values of l are permitted for an electron with n = 4?                                                                                          (1)
+    A. 1, 2, 3                                                                 B. 1, 2, 3, 4
+    C. 0, 1, 2, 3, 4                                                           D. 0, 1, 2, 3
+34. What would happen to the oxygen molecule upon ionization to O+
+                                                                 2?       ​                                                                       (1)
+    A. The bond length will increase and the bond energy will increase.
+    B. The bond length will increase and the bond energy will decrease.
+    C. The bond length will decrease and the bond energy will increase.
+    D. The bond length will decrease and the bond energy will decrease.
+
+35. For a first order reaction, a plot of _____ versus _____ is linear.                                                                           (1)
+    A. 1/[A]t , t         ​
+                                                                              B. Ln 1/[A]t , t              ​
+
+
+
+
+    C. [A]t , t
+              ​
+                                                                              D. ln [A]t , t            ​
+
+
+
+
+36. The rate law of the overall reaction A + B → C is rate = K [A]2 which of the following will not increase the rate of the reaction?            (1)
+    A. Increasing the concentration of reactant A.
+    B. Increasing the concentration of reactant B.
+    C. Increasing the temperature of the reaction.
+    D. Adding a catalyst for the reaction.
+
+37. How many bonding pairs and lone pairs, respectively does the ion ICl−
+                                                                        4 have?
+                                                                              ​                                                                   (1)
+    A. 3, 2                                                                   B. 4, 2
+    C. 5, 1                                                                   D. 4, 1
+
+38. Which of the following molecule does not have a tetrahedral central atom?                                                                     (1)
+    A. SF4    ​
+                                                                              B. AlH−
+                                                                                    4               ​
+
+
+
+
+    C. BF−
+         4        ​
+                                                                              D. SiCl4          ​
+
+
+
+
+39. Acrylonitrile has the following Lewis structure with the designation of x, y and z for each carbon atom. What will be the value of the bond   (1)
+    angle and geometry of
+    [Figure: A hand-drawn structural formula in two rows, printed as one image. Top row: "CH2 = C - C ≡ N", i.e. a CH2 group joined by a
+    double bond to a carbon, that carbon joined by a single bond to a further carbon, and that carbon joined by a triple bond to N. A single
+    vertical bond drops from the middle carbon of the top row. Directly below that vertical bond is the letter H. Below the H is a second row
+    reading "C - C ≡ N": a carbon joined by a single bond to a carbon, which is triple-bonded to N; the left carbon of this row carries the
+    vertical bond up to the H above it, and a further vertical bond descending below it, which is clipped off at the bottom edge of the image.
+    The x, y and z carbon labels named in the stem are not visible anywhere in the rendered picture.]
+    A. 1090, tetrahedral                                                      B. 1200, trigonal pyramidal
+    C. 1800, linear                                                           D. 900, T- shape
+
+40. Antimony (Sb) is a group v element, what will be the molecular geometry and number of lone pair electrons, respectively that exists in the    (1)
+    ion [SbCl5 ]2− ?          ​
+
+
+
+
+    A. Seesaw, 1                                                              B. Square payramid, 2
+    C. Seesaw, 2                                                              D. Linear, 3
+
+41. Which of the following molecules does not have a trigonal bipyramidal electron-pair geometry?                                                 (1)
+    A. SF4    ​
+                                                                              B. ClF3   ​
+
+
+
+
+    C. XeF2           ​
+                                                                              D. BrF5       ​
+
+
+
+
+42. How many atomic orbitals are required for an sp3 hybridization?                                                                               (1)
+    A. 2                                                                      B. 6
+    C. 4                                                                      D. 8
+
+43. Formic acid, which is released by ants, has a molecular formula of HCOOH. What are the possible hybridizations that exist in the molecule? (1)
+    A. Sp2 and sp3                                                            B. Sp and sp3
+    C. Sp, sp2 and sp3                                                        D. Sp and sp2
+
+44. Which of the following statements concerning fats and oils is incorrect?                                                                      (1)
+    A. They are also called triacylglycerols.                                 B. They are also called triglycerides.
+    C. They are fatty acid salts.                                             D. They are glycerol trimesters.
+45. Which of the following statement(s) is (are) applicable to a balanced chemical equation of an elementary reaction? I. Order is same as                                                                               (1)
+    molecularity. II. Order is less than the molecularity. III. Order is greater than the molecularity. IV. Molecularity can never be zero.
+    A. I                                                                                                   B. I, II
+    C. I, IV                                                                                               D. I, III
+
+46. At high pressure, the following reaction is zero order, Which of the following options is (are) correct for this reaction? I. Rate of reaction =                                                                     (1)
+    rate constant. II. Rate of reaction depends on the concentration of ammonia. III. Rate of decomposition of ammonia remains constant until
+                                                                                                                       1130 K, pt
+    ammonia decomposes completely. IV. Further increase in pressure will change the rate is reaction. 2NH3(g)                      N2(g) + 3H2(g)                                                ​       ​       ​   ​
+
+
+
+
+    A. I                                                                                                   B. I, III, IV
+    C. I, II                                                                                               D. I, II, IV
+
+47. Which of the following expressions is correct for the rate of reaction given below?                                                                                                                                  (1)
+    5Br− (aq) + BrO−          +
+                       3 + 6H (aq) → 3Br2 (aq) + 3H2 O (l) ​                               ​       ​
+
+
+
+
+    A. Δ[Br] = 5[ΔH]                                                                                       B. Δ[Br] = 5/6 ΔH
+              Δt      Δt                                                                                         Δt                                 Δt
+                             ​                 ​                                                                       ​                                         ​
+
+
+
+
+    C.       Δ[Br]       ΔH                                                                                D. Δ[Br] = 6 ΔH
+              Δt
+                   = 6/5 Δt  ​                             ​
+
+
+
+
+                                                                                                                 Δt    ​
+
+
+
+
+                                                                                                                                               Δt   ​
+
+
+
+
+48. The following equilibrium constants were determined at 3000 C. 2N2 O (g) ⇌ N2 (g) + O2 (g), Kc = 4.0 × 1018
+                                                                                                       ​                               ​                             ​       ​                                           (1)
+    N2 (g) + O2 (g) ⇌ 2NO (g), Kc = 4.0 × 10−31 What will be the equilibrium constant at 3000 C for the gaseous reaction of
+         ​                            ​                                            ​
+
+
+
+
+    2N2 O (g) + O2 (g) ⇌ 4NO (g)?
+             ​                             ​
+
+
+
+
+    A. 3.2 × 10                      −12                                                                   B. 6.4 × 1045
+    C. 5.0 × 1050                                                                                          D. 1.6 × 10−49
+
+49. When 0.50 mol of N2 O4 is placed in a 4.0 liter reaction vessel and heated to 400k, 80% of the N2 O4 decomposes to NO2 gas as follows: (1)
+                                                                   ​       ​                                                                                             ​       ​                           ​
+
+
+
+
+    N2 O4 (g) ⇌ 2NO2 (g) What will be the value of Kp , in units of pressure, at 400k for this reaction?
+         ​           ​                                         ​                               ​
+
+
+
+
+    A. 2.62                                                                                                B. 13.12
+    C. 50.48                                                                                               D. 16.2
+
+50. Which of the following is not true about carbonyl compounds?                                                                                                                                                         (1)
+    A. Carbonyl compounds contain 3σ - bond and 1π - bond.
+    B. The carbon oxygen bond is both longer and weaker.
+    C. The bond angle in carbonyl is about 1200 .
+    D. Carbonyl compounds may be hydrolysed.
+
+51. Sodium acetate spontaneously crystallizes out of a supersaturated solution on standing. Which of the following is true for the                                                                                       (1)
+    thermodynamic quantities of this system for such a process?
+    A. ΔS < 0, ΔH < 0                                                                                      B. ΔG < 0, ΔH > 0
+    C. ΔS > 0, ΔG < 0                                                                                      D. ΔS > 0, ΔH > 0
+
+52. In which of the following systems will the position of equilibrium shift to the left upon an increase in pressure, but to the right upon an                                                                          (1)
+    increase in temperature?
+    A. CO2 (g) + H2 (g) ⇌ CO (g) + H2 O (g), ΔH > 0.
+                         ​                         ​                                   ​
+                                                                                                           B. C2 H4 (g) + H2 O (g) ⇌ C2 H5 OH (g), ΔH < 0.
+                                                                                                                   ​               ​                         ​                       ​       ​
+
+
+
+
+    C. C2 H6 (g) ⇌ C2 H4 (g) + H2 (g), ΔH > 0.
+                 ​               ​                     ​               ​       ​
+                                                                                                           D. 2SO2 (g) + O2 (g) ⇌ 2SO3 (g), ΔH > 0.
+                                                                                                                               ​                            ​                            ​
+
+
+
+
+53. The hydrogen used in the Haber process is made by the following reaction CH4 (g) + H2 O (g) ⇌ CO (g) + 3H2 (g), ΔH 0 = ​                            ​                                            ​                   (1)
+    +206KJ Which of the following sets of conditions will favour the formation of H2 ?                                                     ​
+
+
+
+
+    A. Low pressure and high temperature.                                                                  B. Low pressure and low temperature.
+    C. High pressure and low temperature.                                                                  D. High pressure and high temperature.
+
+54. Which of the following types of compounds are expected products from the saponification of a fat?                                                                                                                    (1)
+
+    A. Glycerol and fatty acid salts.
+    B. Glycerol and fatty acids.
+    C. Fatty acid salts and fatty acids.
+    D. Glycerol, fatty acid salts and fatty acids.
+55. Which one of the following statements best describes the standard enthalpy of formation of any element?                                                (1)
+    A. The value of ΔH0f (element) depends on temperature.
+                                           ​
+
+
+
+
+    B. The value of ΔH0f (element) is zero for any element in the standard sate.
+                                       ​
+
+
+
+
+    C. The value of ΔH0f (element) is zero only for elements in the solid state.
+                                           ​
+
+
+
+
+    D. The value of ΔH0f (element) is zero only at absolute zero temperature.
+                                       ​
+
+
+
+
+56. Equal masses of He and Ne are placed in a sealed container. What is the partial pressure of Ne, if the total pressure is 6 atm?                        (1)
+    A. 2                                                                       B. 3
+    C. 1                                                                       D. 5
+
+57. What is the molarity of a solution made by dissolving 10g of glucose (C2 H12 O6 ) in sufficient water to form 200ml solution?
+                                                                                ​           ​           ​                                                  (1)
+    A. 0.18                                                                    B. 0.251
+    C. 0.362                                                                   D. 0.278
+
+58. In which direction will the following equilibrium shift, if a solution of CH3 CO2 Na is added?
+                                                                                    ​               ​                                                      (1)
+    CH3 COOH (aq) ⇌ CH3 CO−
+            ​
+                                                   +
+                                      2 (aq) + H (aq)
+                                               ​   ​
+
+
+
+
+    A. The equilibrium shift to the right (more products).
+    B. No change
+    C. The equilibrium shifts to the left (more resultant)
+    D. Cannot be predicted.
+
+59. A 1.0M solution a weak acid is found to dissociate by only 1.37%. Which of the following acid is it likely to be?                                      (1)
+    A. HF Ka        ​   = 7.2 × 10−4                                           B. HNO2 Ka                       ​   = 7.2 × 10−4
+    C. CH3 COOH Ka = 1.8 × 10−5
+                ​                  ​
+                                                                               D. HCOOH Ka = 1.9 × 10−4             ​
+
+
+
+
+60. Consider the following graph, which relates to the equilibrium system: CH3 COOH(aq) + H2 O ⇌ CH3 COO−
+                                                                                        ​
+                                                                                                                   +
+                                                                                                        (aq) + H3 O(aq) , ΔH < 0
+                                                                                                                        ​   ​      ​   ​   ​   ​           (1)
+    Which of the following actions caused the change in the concentration of [H3 O+ (aq) ] at time t?
+                                                                                                ​           ​
+
+
+
+
+    [Figure: A hand-drawn line graph with no numerical scale on either axis. The vertical axis, drawn with an arrowhead at the top, is labelled
+    [H3 O+ (aq) ] written sideways up the axis. The horizontal axis, also arrow-headed, is labelled "Time" at its right end, with the letter "t" printed
+        ​               ​
+
+
+
+
+    beneath it further left. A heavy vertical dashed line runs the full height of the plot at the position marking time t. The plotted curve begins
+    at a constant, relatively high value on the vertical axis and runs perfectly flat and horizontal up to the dashed line. At the dashed line it
+    turns downward, falling steeply at first and then curving over into a smooth decay, and finally flattens out at a new, lower constant value
+    that continues horizontally to the right edge of the graph. So the concentration is steady, drops sharply at time t, and settles at a lower
+    steady value.]
+    A. Addition of CH3 COO− (aq)
+                               ​
+                                                                               B. Addition of HCl
+    C. Decreasing of temperature.                                              D. Increasing the volume of the container.
+
+61. A 1.0 × 10−4 M solution has a PH of 10.00. The solution is a                                                                                           (1)
+
+    A. Weak acid                                                               B. Weak base
+    C. Strong base                                                             D. Strong acid
+
+62. A polysaccharide is a polymer made up of which kind of monomers?                                                                                       (1)
+    A. Amino acids                                                             B. Nucleotides
+    C. Simple sugars                                                           D. Alternating sugar and phosphate groups.
+
+63. What is the purpose of a salt bridge in an electrochemical cell?                                                                                       (1)
+    A. To provide a source of ions to react at the anode and cathode.
+    B. The maintain electrical neutrality in the half-cell through migration of ions.
+    C. To provide means of electrons to travel from the cathode to the anode.
+    D. To provide means of electrons to travel from the anode to the cathode.
+
+64. What is galvanized iron?                                                                                                                               (1)
+    A. Iron that is coated with tin.                                           B. Iron that is coated with zinc.
+    C. Iron that is coated with chromium.                                      D. Iron that is coated with aluminium.
+65. The standard cell potential (E0 ) for the reaction below is 1.10v. What is the cell potential for this reaction when [Cu2+ ] = 1 × 10−5 M and   (1)
+    [Zn2+ ] = 1M? Zn(s) + Cu2+
+                          ​
+                                             2+
+                                 (aq) → Zn(aq) + Cu(s)
+                                    ​                   ​          ​
+
+
+
+
+    A. 1.1                                                                                    B. 0.95
+    C. 1.2                                                                                    D. 1.35
+
+66. Which of the following statements is true?                                                                                                      (1)
+    A. The more positive the value of E0red , the greater the driving force for reduction.
+                                            ​
+
+
+
+
+    B. The more exothermic the value of E0red , the greater the driving force for reduction.
+                                                    ​
+
+
+
+
+    C. The more endothermic the value of E0red , the greater the driving force for reduction.
+                                                            ​
+
+
+
+
+    D. The more negative the value ofE0red , the greater the driving force for reduction.
+                                                ​
+
+
+
+
+67. Which of the following types of elements are good oxidizing agents?                                                                             (1)
+    A. Alkali metals                                                                          B. Halogens
+    C. Lanthanides                                                                            D. Transition elements
+
+68. Which of the following statements concerning petroleum is Not correct?                                                                          (1)
+    A. It is a renewable energy source.
+    B. It is a fossil fuel.
+    C. It is a mixture consisting mainly of hydrocarbons.
+    D. It was formed from marine organisms, which died millions of years ago.
+
+                                                                       — E N D O F E X A M I N AT I O N —
+                                                        Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

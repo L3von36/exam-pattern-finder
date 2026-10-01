@@ -1,0 +1,588 @@
+                                                                Temari.et
+                                Mathematics, 2010 EC, entrance exam
+                                                     Grade 12 · Mathematics · 2010 E.C.
+
+Time allowed: 120 minutes                                           Questions: 57                                     Total marks: 57
+
+Name                                                    Grade                                     ID No.       Date
+
+1.   What is the equation of the line that passes through (1, 1) and is parallel to the line 3y − x = 1?                           (1)
+     A. 3x − y = 2                                                      B. x + 3y = 4
+     C. 3y − x + 2 = 0                                                  D. x − 3y + 2 = 0
+
+2.   Which one of the following is an equation of the circle whose end points of a diameter are (0, -2) and (2, 2)?                (1)
+     A. x2 + y 2 − 2x − 4 = 0                                           B. x2 + y 2 = 4
+     C. (x − 1)2 + y 2 = 4                                              D. x2 + y 2 − 2y − 4 = 0
+
+3.   What is the maximum value of the function f (x) = x4 − 2x2 on [−2, 1] ?                                                       (1)
+
+     A. 8                                                               B. 12
+     C. 24                                                              D. 40
+
+4.   If the truth value of (p ∧ ¬p) ⇔ [(q ∨ ¬q) ⇒ r] is True, then which one of the following must be True?                        (1)
+     A. p                                                               B. q
+     C. ¬q                                                              D. ¬r
+
+5.   Let A and B be two events. Suppose that the probability that neither event occurs is 3/8. What is the probability             (1)
+     that at least one of the event occur?
+     A. 5/8                                                             B. 1/4
+     C. 1/8                                                             D. 3/4
+
+6.   What is the value of ∑20     1    1
+                           n=2 ( n−1 − n )
+                                 ​           ​   ​                                                                                 (1)
+
+     A.   17                                                            B.   21
+          20   ​
+
+
+
+                                                                             20   ​
+
+
+
+
+     C.   19                                                            D.   23
+          20                                                                 20
+               ​                                                                  ​
+
+
+
+
+7.   Which one of the following is a convergent sequence?                                                                          (1)
+     A. { (−1)n }                                                       B. { n1 + sin(n)}
+           2
+                       ​
+
+
+
+
+         1−3 n
+     C. { 2n }                                                          D. { 1+2
+                                                                                      n
+                   ​
+
+
+
+
+                                                                              3n }        ​
+
+
+
+
+8.   If a function f is differentiable at a, then what is the value of limx→a f (x)           ​                                    (1)
+
+     A. f\,'(a)                                                         B. f (a)
+     C. f\,'(a) - f(a)                                                  D. 0
+
+9.   If f ′ (x) = ex−1 + 3x2 − x1 and (1)=5, what is f(x) ?
+                                     ​                                                                                             (1)
+     A. f (x) = e(x−1) + x3 3 − ln x + 3?                               B. f (x) = e(x−1) − x3 + ln x + 5?
+     C. f (x) = ex−1 + 3x2 − x1 + 5      ​
+                                                                        D. f (x) = ex−1 + 3x2 − x12 + 2    ​
+10. If A is a square matrix of order 3 and det(A)=5, then what is the value of det(A.adj(A)) ?                             (1)
+    A. 3                                                                        B. 5
+    C. 25                                                                       D. 125
+
+11. A salesman sold items x1 , x2 and x3 , with different rates of commissions as shown in the table below. What are
+                                        ​   ​           ​                                                                  (1)
+    the rates of commission on items x1 , x2 and x3 , respectively.
+                                                    ​       ​   ​
+
+
+
+
+    [Figure: A table with a header row reading: Months | Sales of Unit (split into three sub-columns X1, X2, X3) | Total
+    Commission (in Birr). Data rows: February, X1 = 90, X2 = 100, X3 = 20, total commission 800; March, X1 = 130, X2
+    = 50, X3 = 40, total commission 900; April, X1 = 60, X2 = 100, X3 = 30, total commission 850.]
+    A. 4, 2 and 11                                                              B. 4, 11 and 2
+    C. 2, 4 and 11                                                              D. 11, 2 and 4
+
+12. If z = -3 + 4i and w= 1 + 2i, then what is the value of 2z
+                                                            w + w?
+                                                                        ​
+                                                                                                                           (1)
+    A. 2 + 3i                                                                   B. 3 + 2i
+    C. 3 + 5i                                                                   D. 3 − 2i
+
+13. The population of a certain city is increasing at a rate of 3% per year. If the population was 100,000 in 2010 E.C.,   (1)
+    then what will be the population in 2020 E.C? (Given: (1.03)9 = 1.30, (1.03)10 = 1.34, (1.3)9 = 10.60,
+    (1.3)10 = 13 .78)
+    A. 130,000                                                                  B. 134,000
+    C. 1,060,000                                                                D. 1,378,000
+
+14. What is the slope of the tangent line to the graph of f (x) = 3ex + sin x + 2 at the point (0, 5)?                     (1)
+    A. 2                                                                        B. 3
+    C. 4                                                                        D. 5
+
+15. What is the value of ∫12 x(x+2)
+                              x+4
+                                    dx
+                                    ​           ​                                                                          (1)
+
+    A. 2                                                                        B. ln 2
+    C. ln 3                                                                     D. ln 4 − ln 3
+
+16. What is the area of the region enclosed by the graph of y 2 = x + 1 and y 2 = −x + 1?                                  (1)
+
+    A. 8/3 sq.units                                                             B. 4/3 sq. units
+    C. 3/8 sq. units                                                            D. 3/4 sq. units
+                                                                    2
+17. What is the partial fraction decomposition of (x+2)(x
+                                                    x +x+1
+                                                          2 +1) ?           ​                                              (1)
+          5
+    A. 3(x+2)    2x+1                                                                 3
+                                                                                B. 5(x+2)    2x+1
+              + 3(x
+              ​
+
+                    2 +1)       ​                                                         + 5(x
+                                                                                          ​
+
+                                                                                                2 +1)   ​
+
+
+
+
+          2
+    C. 5(x+2)    3x+1                                                                 2
+                                                                                D. 3(x+2)    2x+1
+              + 5(x
+              ​
+                    2 +1)       ​                                                         + 3(x
+                                                                                          ​
+                                                                                                2 +1)   ​
+
+
+
+
+18. What is the area of the triangle (in sq. units) formed by the lines joining the vertex of the parabola x2 = −36y       (1)
+    to the end points of the latus rectum?
+    A. 126                                                                      B. 162
+    C. 216                                                                      D. 261
+
+19. The time needed to type a sample of 8 business letters in an office is 7, 8, 6, 8, 9, 7, 5, 6 minutes. What are the    (1)
+    mean (xˉ) and the standard deviation(s) of the data in minute?
+    A. x
+       ˉ = 7, s =       2​                                                      B. x
+                                                                                   ˉ = 7, s =      1.5      ​
+
+
+
+
+    C. x
+       ˉ = 8, s =       2   ​
+                                                                                D. x
+                                                                                   ˉ = 8, s =      1.5      ​
+20. Let A be a 3 × 3 invertible matrix and B any be any 3 × 3 matrix. If |A|= a and, |B|= b, then which one of the            (1)
+    following is NOT true?
+    A. ∣ AT A ∣= a2                                                                  B. If b = 0, then B is not invertible.
+    C. ∣ KA ∣= K 3 ∣ A ∣, for any K ∈ R                                              D. ∣ A−1 B ∣= ab
+
+21. Let z = ( 1−i )18 . Then what is the value of z ?                                                                         (1)
+                     1+i             ​
+
+
+
+
+    A. i                                                                             B. −1
+    C. −i                                                                            D. 1 − i
+
+22. If f (x) = ∣x∣
+                x and g(x) = x3 −4x , then what is the value of limx→−2 (f (x) + g(x))?
+                              x+2
+                                 ​                                       ​                                                    (1)
+
+    A. -9/8                                                                          B. -7/8
+    C. 9/8                                                                           D. ∞
+
+23. what is the value of limx→0 x12 sin2 ( x2 ) ?                ​   ​           ​
+                                                                                                                              (1)
+    A. 1/4                                                                           B. 1/2
+    C. 2                                                                             D. 4
+
+24. Which one of the following is NOT true about the function f (x) = 3x4 − 4x3 ?                                             (1)
+    A. (0, 0) is point of inflection of f.
+    B. 0 and 1 are critical numbers of f.
+    C. f is decreasing on (−∞, 1) and increasing on (1, ∞).
+    D. f is concave upward on (0, 2/3) and concave downward on (−∞, 0) and on (2/3, ∞)
+
+25. What is the value of ∫ x 1 − x2 dx?                                      ​
+                                                                                                                              (1)
+    A. 12 1 − x2 + c                                                                 B. −1 (1 − x2 )3/2 + c
+                                                                                         3
+         ​                               ​
+
+
+                                                                                                      ​
+
+
+
+
+    C. (1 − x2 )3/2 + c                                                              D. −2x 1 − x2 + c                ​
+
+
+
+
+26. What is the value of ∫ 9 e x dx ?                ​
+
+
+
+
+                                                                                                                              (1)
+                                             1       x
+                                                 ​           ​
+
+
+
+
+                                                         ​
+
+
+
+
+                                                                                         3
+    A. e3 − e                                                                        B. e − e
+                                                                                         3
+                                                                                              ​
+
+
+
+
+    C. 2 (e3 − e)                                                                    D. −2x 1 − x2 + c                ​
+
+
+
+
+27. A man running a race-course noted that the sum of the distance from the two flag posts from him is always 10              (1)
+    meters and the distance between the flag post is 8 meters. What is the equation of the path traced by the man?
+         2           2                                                                    2                   2
+    A. x + y = 1                                                                     B. x + y = 1
+       81  25​           ​
+
+
+
+                                                                                        64   100  ​               ​
+
+
+
+
+              2                                                                               2
+    C. x2 + y = 1                                                                    D. x2 + y = 1
+        100          64                                                                 25                9
+                 ​           ​                                                                    ​           ​
+
+
+
+
+28. Suppose the following are the premises of an argument. He is healthy and he is not angry. He is angry or he is            (1)
+    plan fails. His plan does not fail if he does not travel abroad. Given that the premises are true, which one of the
+    following can be a conclusion that makes the argument valid?
+    A. He travels abroad.
+    B. His plan fails and he is angry.
+    C. His plan does not fail.
+    D. His plans fails and he does not travel abroad.
+29. The age distribution of students in a certain class is given below: What is the modal value of the distribution?      (1)
+    [Figure: A two-row frequency table. Row 1, labelled Age, gives the class intervals 10 - 14, 15 - 19, 20 - 24 and 25 -
+    29. Row 2, labelled No. of Students, gives the matching frequencies 2, 10, 6 and 7.]
+    A. 17.38                                                       B. 17.83
+    C. 18.37                                                       D. 18.73
+
+30. Let A={1, 2, 3, 4, 5, 6, 7}, B={7, 8, 9} and C={8, 9, 10}. If one of the number is deleted randomly from each of these   (1)
+    sets, what is the probability that all the three deleted numbers are even or are multiples of 3?
+    A. 1/9                                                         B. 2/21
+    C. 8/63                                                        D. 4/5
+
+31. Let A be a 3 × 3 matrix and |A|= -2. Then what is the value of |adj(A)|?                                                 (1)
+    A. 4                                                           B. -2
+    C. -1/2                                                        D. -8
+
+32. If the sum of the first three consecutive terms of an arithmetic progression {An }, with An > 0 for all n, is 9 and
+                                                                                                ​    ​                       (1)
+    the sum of their squares is 35, then what is the sum sn of the first n terms?
+                                                               ​
+
+
+
+
+    A. n2 + 1                                                      B. n2 − 1
+    C. 2n2 + 1                                                     D. n2
+
+33. What is the value of ∫ x1 (ln x + x2 e−x ) dx?
+                                       ​                                                                                     (1)
+    A. 12 ln2 x − (x + 1)e−x + c
+           ​
+                                                                   B. 12 ln2 x + (2 − x)e−x + c
+                                                                          ​
+
+
+
+
+    C.   1 2                 −x + c                                D.   1 2                 −x + c
+         2 x ln x + (2 − x)e
+           ​
+
+
+
+
+                                                                        2 x ln x − (x + 1)e
+                                                                          ​
+
+
+
+
+34. Let f (x) = 3x+1
+                x−2 . Then what is the range of f(x)?
+                           ​                                                                                                 (1)
+
+    A. R ∖ {2}                                                     B. R
+    C. R ∖ {−1/3}                                                  D. R ∖ {3}
+                                                                              3     2
+35. Which one of the following is true about the graph of f (x) = 2x +2x
+                                                                     x2 +x
+                                                                          +3x
+                                                                              ?             ​                                (1)
+
+    A. The graph has y-intercept at (0, 3).
+    B. The vertical asymptote of the graph is only x = -1 and its oblique asymptote is y = 2x.
+    C. The graph has at least one x-intercept.
+    D. The vertical asymptotes of the graph are at x = 0 and x = -1 but it has no horizontal asymptote.
+
+36. If z = (1 +       3i)(1 + i), then which one of the following is the polar representation of z?
+                       ​                                                                                                     (1)
+
+                  ​
+                                   0
+    A. z = 2 2 (cos(105 ) + i sin(105 ))       0                                                0
+                                                                   B. z = 2 2 (cos(15 ) + i sin(15 ))
+                                                                                        ​
+                                                                                                         0
+
+    C. z = 4 (cos(1050 ) + i sin(1050 ))                           D. z = 4 (cos(750 ) + i sin(750 ))
+
+37. What is the sum of the series ∑∞    n −n
+                                   n=1 3 4 ?
+                                           ​
+                                                                                                                             (1)
+    A. ∞                                                           B. 3/6
+    C. 4                                                           D. 3
+
+38. Let f (x) = ln(x x). Then what is f\,'(x) equal to?
+                               ​                                                                                             (1)
+    A. 2x/3                                                        B.         x/2
+                                                                               ​
+
+
+
+
+    C. 3/2x                                                        D. 2/x x         ​
+39. What is the maximum possible area of a rectangle in square units with diagonal of length 16 units?                                    (1)
+      A. 128                                                       B. 64
+      C. 48                                                        D. 256
+
+40. Let U = N (the set of natural numbers) be the universe. Which one of the following proposition is true?                               (1)
+
+      A. (∃x)(x + x = x)                                           B. (∀x)(∃y)(x − y = x)
+      C. (∀x)(∃y)(y < x)                                           D. (∀x)(∃y)(x ÷ y = y ÷ x)
+
+41.                                                               ⎧x + 1,                           x<1
+      What are the values of a and b so that the function f (x) = ⎨ax + b,                          1 ≤ x < 2 is continuous everywhere?
+                                                                  ⎩
+                                                                            ​                   ​             ​                           (1)
+                                                                   3x,                              x≥2
+      A. a = 4, b = 2                                              B. a = 4, b = -2
+      C. a = -4, b = -2                                            D. a = -4, b = 2
+
+42. A cylindrical tank whose inner diameter is 2m contains 4π m3 oil. If the oil discharged from the tank at the rate                     (1)
+    of (2π/3) m3 /min, then how long (in min) does it take for the tank to be empty?
+      A. 4/3                                                       B. 4
+      C. 6                                                         D. 12
+
+43. Let f (x) = x − x2 and g(x) = 1/x . Then what is g (f ( x1 )) equals to
+                                                                        ​                                                                 (1)
+             2
+      A. x−1
+          x
+                     ​
+                                                                   B. x − x2
+      C. x21−x           ​
+                                                                   D. x−1
+                                                                       x2                   ​
+
+
+
+
+44. The variance of 20 observation is 5. If each observation is multiplied by 2, then what is the variance of the                         (1)
+    resulting observations?
+      A. 5                                                         B. 10
+      C. 40                                                        D. 20
+
+45. If f (x) = k ln x + esin x and f\,''(\pi) = -1, then what is the value of k?                                                          (1)
+      A. π                                                         B. 2π 2
+      C. π 2                                                       D. 2π
+
+46. If θ is the fourth quadrant angel and sec θ =       2 then what is csc θ equals to?
+                                                         ​                                                                                (1)
+      A.   1                                                       B. −1
+            2                                                                   2
+                 ​                                                                  ​
+
+
+
+
+                 ​                                                                  ​
+
+
+
+
+      C. − 2                 ​
+                                                                   D.           2       ​
+
+
+
+
+47. Consider the following assertion: P + 2n is an odd number for any prime p and any n ∈ N. Which one of the                             (1)
+    following is correct about a prove or disprove of the assertion?
+      A. There is a counter example that disproves the assertion.
+      B. The assertion can be proved by direct method; because p is odd and 2n = 2(2n−1 ) is even imply that p + 2n is
+         odd since the sum of odd and even is odd.
+      C. The assertion can be proved by the indirect method: because if n ∈
+                                                                          / N, then 2n ∈
+                                                                                       / N and hence p + 2n is not
+         odd
+      D. The assertion can be disproved by the method of contradiction.
+48. What is the standard equation of the line passing through the point (2,3) and parallel to the line given by                   (1)
+
+     {
+         x = 1 + 2λ
+                    , λ ∈ R?
+         y = −2 − λ
+                                 ​
+
+
+
+
+     A. x−2  y−3
+         −1 = 2
+             ​           ​                                           B. x−1  y−3
+                                                                         1 = −2
+                                                                             ​        ​
+
+
+
+
+     C. x−1  y−3
+         2 = −2
+             ​           ​
+                                                                     D. x−2  y−3
+                                                                         2 = −1
+                                                                             ​        ​
+
+
+
+
+49. Let P(n) be an open proposition on the set of natural numbers (N). Which one of the following is a correct                    (1)
+    application of the principle of mathematical induction?
+     A. If P(1) is true for n = 1; and if both P(n) and P(n+1) are true for certain n ∈ N , then P(n) is true for all n ∈ N .
+     B. If P(10) is true; and if p(n) is true implies that p(n+1) is true, then p(n) is true for all n ∈ N .
+     C. If p(10) is true; and assuming p(n) is true for any n > 10 if it follows that p(n+1) is true, then p(n) is true for all n ≥
+        10
+     D. If p(1) is true; and p(n) ⇒ p(n + 1) is true for any n ∈ N , then p(n) is true for all n?N.
+
+50. If the image of the line 2x - 3y = 7 under a translation is 2x - 3y = 0, which one of the following is a translation          (1)
+    vector of the translation line?
+     A. U = (-2, 1)                                                  B. U = (1, -2)
+     C. U = (-1, 2)                                                  D. U = (2, -1)
+
+51. Let P = (1, α, α) and Q = (α − 1, 1, 1) be two points in space and the distance between P and Q is 3. Then                    (1)
+    what is the value(s) of α?
+     A. α = −3, α = 1?3                                              B. &alpha = 1, α = −9
+     C. α = −1, α = 9                                                D. α = 3, α = −1/3
+
+52. What is the image of the circle x2 + y 2 − 4x − 6y + 12 = 0 when it is reflected with respect to the line y = -               (1)
+    x?
+     A. (x − 2)2 + (y − 3)2 = 1                                      B. (x + 3)2 + (y + 2)2 = 1
+     C. (x + 2)2 + (y + 3)2 = 1                                      D. (x − 3)2 + (y − 2)2 = 1
+
+53. If the dot products of a vector A with the vectors I - j + k, 2i + j - 3k and I + j + k are 4, 0 and 2, respectively, what (1)
+    is A ?
+     A. A = (2, 1, 1)                                                B. A = (−2, 1, −1)
+     C. A = (2, −1, 1)                                               D. A = (−2, −1, 1)
+
+54. In order to measure the height of a tower, suppose a surveyor takes two sightings from a transit 1 meter high                 (1)
+    which are positioned d meter s apart on the same ground level as in the figure below. If the first measured angle
+    of elevation is α and the second is β and d ?
+    [Figure: A side-on survey diagram. A tall tower stands upright at the right of the picture on level ground. Two
+    transit stands sit on the same ground level to the left of it, each drawn as a short vertical post: the farther one,
+    at the far left, is labelled 2 and the nearer one is labelled 1. A dashed line of sight runs from the top of each post
+    up to the top of the tower. The angle of elevation at the farther post is marked beta and the angle at the nearer
+    post is marked alpha. A horizontal dimension line with end ticks spans the ground between the two posts and is
+    labelled d.]
+     A. ( tan α tan β ) d + 1                                             tan α tan β
+                                                                     B. (tan α−tan β)
+                                                                                      +1  ​
+
+
+
+
+           tan α−tan β
+                             ​
+
+
+
+
+     C. ( tan α−tan β ) d + 1                                        D. ( tan α tan β ) d + 1
+           tan α tan β       ​
+
+
+
+                                                                           tan α+tan β        ​
+55. Let l be the line given by the vector equation (x, y) = (−2, 1) + λ(1, 1), λ ∈ R, which one of the following is    (1)
+    the equation of the image of l after being translated by the vector u=(2, -1) followed by a rotation through 45∘
+    about the origin?
+    A. y = −2 2 x      ​
+                                                                           B. y =       2   ​
+
+
+
+
+    C. y = 2 x     ​                                                       D. x = 0
+
+56. what is the period (p) and the range of f (x) = 5 sin ( 13 x + 2) + 3?
+                                                                       ​                                               (1)
+    A. P = 6π , range = [-5, 5]                                            B. P = 6π , range = [-2, 8]
+    C. p = 2π
+            3 , range = [−5, 5]
+               ​
+                                                                           D. p = 32 π , range = [−2, 8]
+                                                                                    ​
+
+
+
+
+57. What is the value of limn→∞ ∑n 2 [( 2k )3 + 5 ( 2k )] ?                                                            (1)
+                                 k=1 n
+                                  ​
+
+
+
+
+                                        n
+                                           ​   ​
+
+
+
+
+                                                    n
+                                                       ​           ​
+
+
+
+
+    A. 14                                                                  B. 10
+    C. 4                                                                   D. 18
+
+                                                   — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

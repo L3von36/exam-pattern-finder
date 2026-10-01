@@ -1,0 +1,672 @@
+                                                                           Temari.et
+                                                Mathematics, 2007 EC, entrance exam
+                                                                Grade 12 · Mathematics · 2007 E.C.
+
+Time allowed: 120 minutes                                                      Questions: 62                                Total marks: 62
+
+Name                                                               Grade                       ID No.                Date
+
+1.   Which one of the following is the equation of an ellipse with centre at (1, 4), vertices at (10, 4) and (1, 2) is :                 (1)
+     A. 4(x − 1)2 + 81(y − 4)2 = 324                                               B. (x − 1)2 + 9(y − 4)2 = 4
+     C. 9(x − 1)2 + 4(y − 4)2 = 1                                                  D. 2(x − 1)2 + 9(y − 4)2 = 4
+
+2.   Which of the following is convergent sequence?                                                                                      (1)
+     A. 1, 1/2, 1, 1/3, 1, 1/4, …                                                  B. {(−1)n }∞
+                                                                                              n=1        ​
+
+
+
+
+                  1    ∞                                                                           ∞
+     C. {10109 − 100 n}
+                       n=1
+                           ​            ​
+                                                                                   D. {n + sin n1 }n=1
+                                                                                                     ​       ​
+
+
+
+
+3.   Let f (x) = 2x(x2 + 1)4 , then which of the following is an anti- derivative of f(x)?                                               (1)
+     A.   2x   2    5                                                              B.   2   2    5
+           5 (x + 1) + c
+               ​
+
+
+
+
+                                                                                        5 (x + 1) + c
+                                                                                        ​
+
+
+
+
+     C.       2    5                                                               D.   1   2    5
+          5 (x + 1) + 1                                                                 5 (x + 1) − 1
+          x​                                                                            ​
+
+
+
+
+4.   Which one of the following is an arithmetic sequence?                                                                               (1)
+     A. 3, 5, 7, 9, 11, …                                                          B. 3, 6, 12, 24, 28, …
+     C. -3, 6, -9, 12, -15, …                                                      D. 1, 3, 6, 10, 15, 21, …
+
+5.   Suppose that p represents the statement “He missed the tournament”, q represents the statement “He got the                          (1)
+     gold medal.” And r represents the statement “he took a trip abroad.”. then which of the following symbolic
+     expressions represents the statement: “If He took a trip abroad and he does not miss the tournament, then he
+     get the gold medal.”?
+     A. (r ⇒ q) ¬p                                                                 B. r ∧ (p ⇒ q)
+     C. (r ∧ ¬p ⇒ q)                                                               D. ¬(r ∨ p) ∨ q
+
+6.               ⎧ sin x
+     Let f (x) = ⎨
+                  a      ,                      x<0
+                 ⎩e2x − 2,
+                                                          if f is continuous at x=0 , then what is the value of a?                       (1)
+                                    ​
+
+
+
+
+                      x​                    ​         ​
+
+
+
+
+                                                x≥0
+     A. 1/2                                                                        B. 2
+     C. -1/2                                                                       D. -2
+
+7.   The Ozone level (in ppb- parts per billion) on a sunny day in metropolitan area is given by formula p(t)= 80 + 12t                  (1)
+     � t2 where t is time in hours and t = 0 corresponds to 9A.M. what is the rate of increase of Ozone level after 3-
+     hrs(i.e. at 12 A.M)?
+     A. 6 ppb                                                                      B. 12 ppb
+     C. 107 ppb                                                                    D. 113 ppb
+
+8.   Which of the following functions is one to one correspondence?                                                                      (1)
+     A. f: R → R, f(x)=tanx, were R' is domain of f                                B. g: R → R, g(x) = 2x
+     C. h : [−∞, ∞) → [0, ∞) : h(x) = x2                                           D. r : [0, ∞) → [0, ∞): r(x) = x + 5
+9.   Different codes, each of which consisting of five characters, are to be generated in such a way that the first two          (1)
+     characters are any of the English capital letters (A to Z) and the remaining three are any of the digits (0, 1, 2,…,9).
+     How many distinct codes can be generated ?
+     A. 468,000                                                    B. 260
+     C. 676,000                                                    D. 26! X 10!
+
+10. A certain meeting hall has 20 rows of seats. There are 20 seats in the first row, 22 seats in the second row, 24             (1)
+    seats in the third row, and so on. How many seats are there on the last (20ᵗʰ) row of the hall?
+     A. 46                                                         B. 58
+     C. 76                                                         D. 5240
+
+11. Two perpendicular lines l1 and l2 are intersecting at (-1, 2). If the angle of inclination of l1 is 450 , then what is the
+                                        ​   ​                                                       ​                            (1)
+    equation of l2 ?        ​
+
+
+
+
+     A. y= -x + 3                                                  B. y= x + 3
+     C. y= -x + 1                                                  D. y= x + 1
+
+12. What is the area of the region between the graph of y= sinx and x-axis where 0 ≤ x ≤ 2π ?                                    (1)
+     A. 4                                                          B. 4π
+     C. 2                                                          D. 2π
+
+13. The following is the set of data representing the average mark of students: 91, 89, 93, 91, 87, 94, 92, 85, 91, 90,          (1)
+    96, 93, 89. Then which one of the following statements is true about the data?
+     A. the median is 90.5                                         B. the upper quartile is 92
+     C. the range of marks is 11                                   D. the mean is 91.5
+
+14. If f (x) = ln ( x2 + 1), which of the following is equal to f ′ (x)?
+                                    ​                                                                                            (1)
+    A.      x                                                 B.       x
+           x2 + 1                                                x +12
+                        ​                                                      ​
+
+
+
+
+                        ​
+
+
+
+
+    C.      2x                                                D. 2x
+           x2 + 1                                                x2 + 1
+                        ​                                                      ​
+
+
+
+
+                        ​
+
+
+
+
+15. If z = 3 + i is a given complex number, then what is the conjugate zˉ, of z?                                                 (1)
+           i−2
+                    ​
+
+
+
+
+    A. zˉ = −3 + i                                           B. zˉ = i − 3
+             2+i                                                     2−i
+                                ​                                                  ​
+
+
+
+
+    C. zˉ = −6 − 2i                                          D. zˉ = −1 − i
+
+16. What is the principal argument of (5 + 5i)11 ?                                                                               (1)
+     A. π/2                                                        B. 2π/3
+     C. π/4                                                        D. 3π/4
+
+17. Which one of the following is equal to lim x − 9 ?                                                                           (1)
+                                           x→9 3 −
+                                                  ​         ​
+
+
+
+
+                                                    x       ​
+
+
+
+
+    A. 6                                                           B. -3
+    C. -6                                                          D. ∞
+
+18. For arbitrary propositions p and q, which one of the following is a valid equivalence?                                       (1)
+     A. ¬(p ⇒ q) ≡ (q ⇒ p)                                         B. [¬(p ⇒) ∧ p] ≡ (p ∧ ¬q)
+     C. [p ∨ ¬q] ≡ p ⇒ q                                           D. [(p ∨ q) ⇒ q] ≡ [p ⇒ ¬q]
+19. If f and g are continuous on ℜ and a, b ∈ R, which one of the following is necessarily true?                                                 (1)
+      A. if ∫ b f (x)dx = ∫ b g(x)dx, then f(x) = g(x) for all               B. if f ′ (x) = g ′ (x) for all x ∈ [a, b], then
+                    a   ​
+
+
+
+                                    a   ​
+
+
+
+
+                                                                                           b                                 b
+           x ∈ [a, b]                                                             ∫a f (x)dx = ∫a g(x)dx
+                                                                                               ​                                 ​
+
+
+
+
+                                                 2
+      C. if f (x) ≥ 3 for all x ∈ [−2, 2], then ∫−2 f (x)dx ≥                D. ∫ b f (x)dx = ∫ a f (x)dx
+                                                                                 a             b
+                                                             ​                                 ​                                     ​
+
+
+
+
+           12
+
+20.                                                 ⎧ax + by = 2
+      Consider the following system of equations: ⎨x + 3y + 2z = 0 if the determinant of the coefficient matrix is
+                                                    ⎩
+                                                                 ​                                         ​                                     (1)
+                                                      2x + y + z = 0
+      2, then what is the solution set of the system?
+      A. {(1, 3, -5)}                                                        B. {(1/a, 1/b, 0)}
+      C. {(-2, -6, 10)}                                                      D. ∅
+
+21.
+      For what values of a and b is the function f (x) = {
+                                                                         1 − 3x2 ,                         for x ≤ 1
+                                                                                                                     is differentiable at x=1?   (1)
+                                                                         ax + b,                           for x > 1
+                                                                                   ​                                     ​
+
+
+
+
+      A. a = 6, b = 0                                                        B. a = -3, b = 1
+      C. a = 0, b = -2                                                       D. a = -6, b = 4
+
+22.                                                  ln x + x2 ex
+      Which one of the following is equal to ∫                    dx ?   ​                                                                       (1)
+                                                          x
+      A. 12 ln2 x + ex (x2 − 1) + c
+            ​
+                                                                     B. 12 ln2 x + ex (x − 1) + c
+                                                                                       ​
+
+
+
+
+      C.   1                                                                 D.   −1         x 2
+           x2 ln x + e (x − 1) + c                                                x2 ln x + e (x − 1) + c
+                      x
+                ​                                                                                  ​
+
+
+
+
+23. What is the focus of the parabola y 2 + 4y + 8x = 4?                                                                                         (1)
+      A. (1, -2)                                                             B. (-1, -2)
+      C. (3, -2)                                                             D. (-3, -2)
+
+24. A city has two daily newspapers, X and Y. the following information was obtained from the survey of 100                                      (1)
+    residents of the city: 35 people subscribe to X, 60 people subscribe to Y and 20 subscribe to both newspapers.
+    Then how many of the people in the survey do not subscribe to either of the newspapers?
+      A. 5                                                                   B. 25
+      C. 40                                                                  D. 55
+
+25. Which one of the following is necessarily true?                                                                                              (1)
+      A. if f ′ (x) = 0 for all x in the interval I, then f(x)= 0 for all x in I.
+      B. if f (x) = x2 sin x + 5, then there is c ∈ (0, π) such that f ′ (c) = 0
+      C. f (x) = ex is increasing on (−∞, ∞)
+      D. f(c) = 0, then f attains its maximum or minimum value at x = c
+
+26.                                                  x        dt
+      The derivative of the function f (x) = ∫−x                 is :                                                                            (1)
+                                                             1+t
+                                                         ​           ​
+
+
+
+
+      A.  2                                                                  B. ln ∣1 + x∣
+        1 − x2
+                                ​
+
+
+
+
+      C. 1                                                                   D.                            1+x
+                                                                                  ln
+        1+x
+                            ​
+
+
+
+
+                                                                                                           1−x
+                                                                                                       ​         ​   ​
+27.                                                                                                                  p(x)  1   1
+      If p(x) = 3x2 and q(x) = x2 + x, then what is the solution set of                                                   − =      ?                (1)
+                                                                                                                     3q(x) x
+                                                                                                                           ​       ​       ​
+
+
+
+
+                                                                                                                              q(x)
+      A. {-1, 2}                                                                                    B. {2}
+      C. {-3, 2}                                                                                    D. {-3}
+
+28. What are the values of u and v that satisfy the equation: u + 3i = 2 + vi ?                                                                     (1)
+                                                              4 − 2i       20
+                                                                                                             ​                 ​
+
+
+
+
+    A. u=2, v=3                                                B. u=-6, v=10
+    C. u=2, v=16                                               D. u=-4, v=6
+
+29. What is the sum of all multiples of 3 between 20 and 200?                                                                                       (1)
+      A. 7,227                                                                                      B. 6,570
+      C. 6,150                                                                                      D. 5,166
+
+30. The invers of the function defined by g(x) =                              2x
+                                                                                 is equal to:                                                       (1)
+                                                                             x+3
+                                                                                        ​
+
+
+
+
+      A. g −1 (x) = − 2x                                                              B. g −1 (x) = − 3x
+                      x−3                                                                             x−2
+                                         ​                                                                                             ​
+
+
+
+
+      C. g −1 (x) = − x + 3                                                           D. g −1 (x) = − x + 2
+                       2x                                                                              3x
+                                         ​                                                                                             ​
+
+
+
+
+31.                0       x        0                                1       1       1
+      If A =       1
+                   ​   ​   −1   ​   1        ​       ​   and A−1 =   3
+                                                                     ​   ​   0   ​   0 , then what are the value of x and y?
+                                                                                            ​   ​                                                   (1)
+                   0       y        −1                               2       0       −1
+      A. x = 3, y = -2                                                                              B. x = 2/3, y = 1/3
+      C. x = -3, y = 2                                                                              D. x = 1/3, y = 2/3
+
+32. If f(2)= -e, f ′ (2) = 4, g(1) = -5, g ′ (1) = 1 and F (x) = f (2x + 2)( g(x − x2 )), then what is the value of F '(0)?                         (1)
+
+      A. 19                                                                                         B. 0
+      C. -20                                                                                        D. -40
+
+33. A ladder 6m long rests against a vertical wall. If the bottom of the ladder slides away from the wall at a rate                                 (1)
+    (speed) of 0.5 m/s, how fast the angle between the top of ladder and the wall changing when the angle is π/4
+    rad?
+      A.   2/2 rad/sec
+              ​
+                                                                                                    B.       2/12 rad/sec
+                                                                                                                 ​
+
+
+
+
+      C.   2/6 rad/sec
+              ​
+                                                                                                    D.       2/3 rad/sec
+                                                                                                                 ​
+
+
+
+
+34.                                                                                             x2 − 1
+      The value(s) of x where the graph of the function y =                                            crosses its horizontal asymptote is (are):   (1)
+                                                                                                  x3
+                                                                                                         ​
+
+
+
+
+      A. x= -2                                                                                     B. x= -1 and x= 1
+      C. x= 0                                                                                      D. x = − 2 and x = + 2
+                                                                                                                       ​
+
+
+
+
+35.                3       −2       8
+      If A =       0
+                   ​   ​   6    ​   7 , then det(AT A) is equal to :
+                                     ​           ​                                                                                                  (1)
+                   0       4        5
+      A. 12                                                                                         B. 36
+      C. 30                                                                                         D. 15
+36. Suppose that the first 3 letters (A, B, and C) and number digits are to be used to form car plates in a small town.                 (1)
+    How many different plates can be formed in total that contains 1, 2 or 3 letters and then followed by 3 digits?
+      A. 3,000                                                                B. 27,000
+      C. 39,000                                                               D. 100,000
+
+37. A ball is thrown vertically from ground up to a height of 16m. Each time it drops h meters, it rebounds 0.80h m.                    (1)
+    noting that the ball travels every height of h twice, what is the total vertical distance travelled by the ball before
+    it comes to rest?
+      A. 40m                                                                  B. 80m
+      C. 160m                                                                 D. 320m
+
+38. Suppose that a function f has a property that f(x + y)= f(x)f(y) for all x and y and that f(0) = 2, f(0)= 1. Then which             (1)
+    one of the following represents the formula for the derivative f ′ (x)?
+      A. f (x) = 2f ′ (x) + 1                                                 B. f ′ (x) = f (x) + 2f ′ (x)
+      C. f ′ (x) = f (x) + 2                                                  D. no such function
+
+39.                                                                                                       x2    y2
+      Which one of the following is true about a conic section represented by the equation                   +     = 1?                 (1)
+                                                                                                               k−9
+                                                                                                              ​         ​
+
+
+
+
+                                                                                                          k
+      A. it is a circle whose center is at origin for some k ∈ R.
+      B. it is an ellipse whose major axis is vertical when k > 9.
+      C. it is a hyperbola whose foci are at (-3, 0) & (3, 0) when 0 < k < 9.
+      D. it is a hyperbola whose foci are at (-3k, 0) & (3k, 0) when 0 < k < 9.
+
+40. Which of the following is NOT a tautology?                                                                                          (1)
+      A. [p ∨ (q ⇒ r)] ⇔ [¬p ⇒ (q ⇒ r]                                        B. p ∨ (q ⇒ ¬q)
+      C. p ⇒ [(p ⇒ q) ∨ q]                                                    D. [p ⇔ (q ∧ ¬r)] ⇔ [¬p ⇔ (¬q ∨ r)]
+
+41.                                      ⎧x + y − z = 1
+      What is the solution of the system ⎨x + 2y − 3z = 1 ?
+                                         ⎩
+                                                    ​                     ​
+                                                                                                                                        (1)
+                                          2x + 3y − 4z = 2
+      A. {(0, 2, 1)}                                                          B. {(1 − k, 2k, k) ∣ k ∈        }
+      C. {(2k + 1, −k, k) ∣ k ∈ ℜ}                                            D. ∅
+
+42.       ⎧3 − 22x ,           if x < 0.5
+      Let ⎨ 2x − 5
+          ⎩
+                                            , if c is a zero of f , that is , f(c) =0, then which one of the following intervals must   (1)
+                   ,           if x ≥ 0.5
+             ​             ​            ​
+
+
+
+
+             x+1
+                       ​
+
+
+
+
+      contain c?
+      A. (−∞, 0]                                                              B. [0, 1]
+      C. [1, 2]                                                               D. [2, 3]
+43. Which of the following functions could most likely be drawn as in the Figure 1 below?                                  (1)
+    [Figure: A hand-drawn sketch of a rational function on x- and y-axes. The horizontal axis carries an arrowhead
+    on the right and is labelled x; the vertical axis carries an arrowhead at the top and is labelled y. A dashed vertical
+    line to the LEFT of the y-axis is labelled “x=-2” and acts as a vertical asymptote. A dashed horizontal line ABOVE
+    the x-axis is labelled “y=1” and acts as a horizontal asymptote. A single tick value “2” is marked on the x-axis to
+    the right of the origin. The curve has two branches. The left branch (for x to the left of the asymptote) enters
+    from the far left just BELOW the line y=1, runs almost flat, then bends downward, crosses the x-axis a little to
+    the left of x=-2, and plunges steeply toward minus infinity as it approaches the dashed line x=-2 from the left.
+    The right branch descends from high above (plus infinity) just to the right of the dashed line x=-2, drops steeply,
+    crosses the y-axis above y=1, then flattens and decreases slowly toward the dashed line y=1 from above as x
+    increases; this branch is drawn with a small visible break (a gap, i.e. a hole) at about x=2, over the marked tick
+    “2”. No other points, values or shading are shown.]
+    A. x + 3                                                       B. x2 − 2x
+        x+2
+                  ​
+
+
+
+
+                                                                       x2 − 4
+                                                                              ​
+
+
+
+
+            2
+    C. −x − x + 6                                                  D. x2 + x − 6
+            x2 − 4                                                      x2 − 4
+                              ​                                                    ​
+
+
+
+
+44. A measurement is grouped in to five class intervals with the following frequency distribution. Class Intervals: 5- (1)
+    15 | 15-25 | 25-35 | 35-45 | 45-55 Frequency: 22 | 40 | 68 | 50 | 20 What are the first quartile Q1 & the 75th
+                                                                                                          ​
+
+
+
+
+    percentile P75 of the measurement?
+                      ​
+
+
+
+
+    [Figure: A bordered two-row table with six columns. The first column holds the row headings. Row 1 heading
+    “Class Intervals”, then the five cells: 5-15, 15-25, 25-35, 35-45, 45-55. Row 2 heading “Frequency”, then the five
+    cells: 22, 40, 68, 50, 20.]
+      A. Q1 = 20, P75 = 40
+              ​           ​
+                                                                 B. Q1 = 22, P75 = 40
+                                                                          ​            ​
+
+
+
+
+      C. Q1 = 20, P75 = 39
+              ​           ​
+                                                                 D. Q1 = 22, P75 = 39
+                                                                          ​            ​
+
+
+
+
+45. The number of shoes s that a factory can produce per day is a function of the number of hours t it operates: s(t)= (1)
+    40t for 0 ≤ t ≤ 12 the daily cost c, in Birr, to manufacture s shoes is given by the function c(s) = 0.1s2 +
+    90s + 800 If the factory operates for 10 hours, what is the cost it incurs in producing as much shoes it can with
+    in this time?
+      A. Birr 400                                                B. Birr 1,600
+      C. Birr 52,800                                             D. Birr 124,600
+
+46. Three persons P1, P2 and P3 are firing at a target independently and have a probability 0.7, 0.5 and 0.4,               (1)
+    respectively, of hitting the target. What is the probability that at least one of them hits the target?
+      A. 0.95                                                    B. 0.85
+      C. 0.91                                                    D. 0.99
+                                                                −3x
+47.                                                3x
+      Which one of the following is equal to lim (      )             ?                                                     (1)
+                                             x→∞ 3x + 2
+                                                  ​         ​
+
+
+
+
+      A. e2                                                      B. e−3
+      C. e−2                                                     D. e3
+
+48. A company manufactures x computer sets per month. The monthly marginal profit (in Birr) is given by: p(x) = 165         (1)
+    - 0.1x, for 0 ≤ x ≤ 400 The company is currently manufacturing 10 sets of computer per month, but is planning
+    to increase production. What is the total change in the monthly profit if the monthly production increased to 60
+    sets?
+      A. Birr 50                                                 B. Birr 1,865
+      C. Birr 8,075                                              D. Birr 18,635
+49. If angle θ is an acute angle of a right triangle, what is the length of the side adjacent to θ, given the hypotenuse      (1)
+    has 6 units length and sec θ = 10/3?
+     A. 1.8 units                                                   B. 2 units
+     C. 18 units                                                    D. 20 units
+
+50. If A= (1,-2), B= (-3,2) and v is a position vector such that 2v + AB = o, then v ? is equal to                            (1)
+     A. (2, 0)                                                      B. (-1, 0)
+     C. (-2, 2)                                                     D. (2, -2)
+
+51. If each of the compound propositions P ∨ Q , P ⇒ R and ¬R is true, then which one of the following is True?               (1)
+
+     A. P                                                           B. Q
+     C. Q ⇒ P                                                       D. P ∧ ¬R
+
+                                                                2
+52. If A
+          = 4i − 3j and u is a unit vector such that A + u
+                      ​                                 ​       ​   = 27, then the cosine of the angle between A and u        (1)
+     is equal to
+     A. 0.1                                                         B. 0.2
+     C. 0.3                                                         D. 0.4
+
+53. What is the possible value of x that solves the equation: sin−1 x + cos−1 ( 35 ) = π ​                                    (1)
+
+     A. π/3                                                         B. 3/5
+     C. 5π/2                                                        D. 4/5
+
+54. If P= (3, α - 1, α + 2) and Q= (2α + 1, 3, 3α) are points in space, what should be the value(s) of α so that the          (1)
+    distance between the two points is 6?
+     A. α = 1, or α = 5                                             B.     4+2 7             4−2 7
+                                                                         α=         , or α =
+                                                                                     ​                    ​
+
+
+
+
+                                                                               3               3
+                                                                                     ​                    ​
+
+
+
+
+     C. α = −1, or α = 3                                            D. α = −3, or α = 2
+
+55. If (-1, 2, 2) and (1, 0, -2) are end points of a diameter of a sphere, then which one of the following is true about the (1)
+    sphere?
+     A. (0,1,0) is a point on the sphere                            B. the equation of the sphere is x2 + (y − 1)2 +
+                                                                       z2 = 6
+     C. the equation of the sphere is x2 + (y − 2)2 +               D. the radius of the sphere is 6
+        z2 = 6
+
+56. Suppose that the equation x2 + y 2 + z 2 + 2x + 8z = 6(y + 1), represents a sphere. Where is the point (1, -1,            (1)
+    4) located relative to the sphere?
+     A. inside the sphere                                           B. on the sphere
+     C. at the center of the sphere                                 D. outside the sphere
+
+57. Two ships, one with angle of depression 600 due east and the other with 300 due west are observed from a                  (1)
+    plane 1,000 metres above sea. If the two ships are on the same line, what is the distance between the two
+    ships? [you may use the values: sin 300 = cos 600 = 1/2 and sin 600 = cos 300 = 3/2]            ​
+
+
+
+
+    A. 1 4,000 m                                              B. 2,000m
+         3
+                  ​
+
+
+
+
+                  ​
+
+
+
+
+    C. 3 500 m​
+                                                              D. 1 600 m
+                                                                   3
+                                                                             ​
+
+
+
+
+                                                                             ​
+58. What is the image of the ellipse (x − 1)2 + 4y 2 = 1 under the transiation that takes (1, 1) to (0, 2) followed, by   (1)
+    the reflection through the x-axis?
+    A. x2 + 4(y − 1)2 = 1                                               B. 4x2 + (y − 1)2 = 1
+    C. x2 + 4(y + 1)2 = 1                                               D. 4x2 + (y + 1)2 = 1
+
+59. What is the amplitude and period, respectively, of the graph of f(x) = -6 sinx cosx ?                                 (1)
+    A. 3, π                                                             B. 6, π
+    C. 3, π/2                                                           D. 6, 2π
+
+60. What is the work done (in joule) when a force of 50 Newton is used to pull a cart 20 meters along path if the         (1)
+    force is at an angle of 600 ? [Remember that: Work=(Force) x (distance travelled)]
+    A. 360                                                              B. 500
+    C. 760                                                              D. 1500 2      ​
+
+
+
+
+61. Suppose L is the line through the center of the sphere x2 + y 2 + (z − 2)2 = 9 and the line intersects the            (1)
+    sphere at (1, 2, 4). What is the cosine of the angle between L and positive z-axis?
+    A. 2/3                                                              B. 1/3
+    C. 3/5                                                              D. 4/5
+
+62. Consider the formula for a natural number n ∈ N : 2 + 4 + 8 + ⋯ + 2n = 2n+1 + 1 To proof this formula a               (1)
+    person has used the following argument. “Assume the formula is true for n=k, for some k ∈ N . Then the person
+    has shown that the formula is also true for n=k + 1. And then, the person has concluded that, by the Principle of
+    Mathematical induction, the formula is true for all natural numbers n ∈ N .” which one of the following
+    statements is true about the above argument?
+    A. the formula holds true though it does not work for n=1
+    B. since the left-had-side is an even number and the right had side an odd number, the Principle of Mathematical
+       Induction is False.
+    C. this is one example where the Principle of Mathematical Induction fails to work.
+    D. the above formula does not work for all natural numbers n ∈ N
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

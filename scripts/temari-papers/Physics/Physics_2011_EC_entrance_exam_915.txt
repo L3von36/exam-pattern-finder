@@ -1,0 +1,586 @@
+                                                          Temari.et
+                                      Physics, 2011 EC, entrance exam
+                                                  Grade 12 · Physics · 2011 E.C.
+
+Time allowed: 120 minutes                                      Questions: 45                                     Total marks: 45
+
+Name                                              Grade                        ID No.                    Date
+
+1.   Which part of a scientific report discusses the accuracy of measurements taken?                                            (1)
+     A. Aim                                                        B. Theory
+     C. Methods                                                    D. Results
+
+2.   Two forces exerted on a block as shown in the figure below. What is the horizontal component of the net force?             (1)
+     [Figure: A rectangular block is shown. From its top-left corner, a force vector of magnitude 50 N is directed
+     upward and to the left, making an angle of 53° with the horizontal line extending to the left. From its top-right
+     corner, a force vector of magnitude 20 N is directed upward and to the right, making an angle of 37° with the
+     horizontal line extending to the right.]
+     A. 70 N, East                                                 B. 30 N, West
+     C. 14 N, West                                                 D. 28 N, West
+
+3.   What is the magnitude of the resultant velocity for a bird flying first at a speed of 10 m/s North East and then           (1)
+     flying to South at a speed of 8 m/s?
+     A. 7,13 m/s                                                   B. 16.6 m/s
+     C. 12.8 m/s                                                   D. 7.07 m/s
+
+4.   Let C = AXB and θ =     900 , where θ is the smaller angle between A and B when they are drawn with their                 (1)
+     tails at the same point. Which of the following is NOT true?
+     A. A.B = 0                                                    B. A.C = 0
+     C. /C / = /A//B / sin θ                                       D. −C = B XA
+
+5.   A driver of an automobile travelling at a constant speed of 20 m/s suddenly applies a brake and the automobile             (1)
+     comes to rest in 2.0 seconds after skidding for a certain distance. What is the length of the skid distance?
+     A. 400 m                                                      B. 10 m
+     C. 40 m                                                       D. 20 m
+
+6.   Which of the following is correct about the motion shown in the velocity – time graph below?                               (1)
+     [Figure: A velocity-time graph showing velocity v(m/s) on the vertical axis and time t(Sec) on the horizontal axis.
+     - Vertical axis has markings from 2 to 14 in increments of 2. - Horizontal axis has markings A, 2, 4, 6, 8, 10, 12, 14.
+     - A straight line starts at the origin A(0,0) and rises to point B(2,4), with dashed lines indicating t = 2 and v = 4. -
+     From B(2,4), a steeper straight line rises to point C(3,12), with a dashed horizontal line extending to v = 12. - From
+     C(3,12), a horizontal line segment connects to point D(6,12). - From D(6,12), a straight line descends to point
+     E(12,0) on the horizontal axis.]
+     A. Between C and D, the motion is with constant acceleration.
+     B. Between B and C, the acceleration is 4m/s2
+     C. Between D and E, the motion is with constant positive acceleration.
+     D. Total displacement is 84m.
+7.   An object of mass M is set in a vertical circular motion. The tension T from the rope keeps the object in a circular (1)
+     path with speed v. Where does the rope experience a maximum tension?
+     A. At the top of the circle                                                   B. At the bottom of the circle
+     C. When the object is at half of the circle                                   D. When it is at 45∘ to the vertical line
+
+8.   A shell is fired from a gun, whose barrel is inclined at an angle to the horizontal. During the flight, the shell                                                                               (1)
+     explodes in air into fragments. The center of mass of different fragments will follow
+     A. a horizontal straight line                                                 B. a vertical straight line
+     C. a parabola                                                                 D. an unpredictable path
+
+9.   A 5 kg mass pushed upward along an inclined plane of inclination 300 with constant force F. If the acceleration                                                                                 (1)
+     of the block for this motion is 1.0 m/s2 and the plane is assumed to be friction less, what is the magnitude of
+     the constant force F?
+     A. 5.0 N                                                                      B. 25.0 N
+     C. 20.0 N                                                                     D. 30.0 N
+
+10. A ball of mass M moves with speed V in the + x-direction. It explodes into two pieces that go off at angles θ1 and (1)                                                                       ​
+
+
+
+
+    θ2 , as shown below.
+       ​
+
+
+
+
+    What are the magnitude of the momenta of the two pieces?.
+    [Figure: A diagram shows a ball of mass M moving horizontally to the right along a straight line. At an explosion
+    point, the trajectory branches into two paths: one with mass labeled m1 moving along an arrow directed   ​
+
+
+
+
+    upwards and to the right at an angle θ1 relative to the horizontal line, and another with mass labeled m2 moving
+                                                                           ​                                                                                                                 ​
+
+
+
+
+    along an arrow directed downwards and to the right at an angle θ2 relative to the horizontal line.]
+                                                                                            ​
+
+
+
+
+             M V cos θ2
+     A. p1 = sin(θ                 M V cos θ1                                              M V sin θ2
+                                                                                   B. p1 = sin(θ                 M V sin θ1
+                   +θ ) , and p2 = sin(θ +θ )                                                    +θ ) , and p2 = sin(θ +θ )
+                                   ​                                   ​                                                 ​                                                   ​
+
+
+
+
+           ​                           ​       ​                                        ​                                        ​           ​                                   ​
+
+
+
+
+                   1   ​
+                           2   ​
+                                                       1   ​
+                                                               2   ​
+                                                                                                 1   ​
+                                                                                                                 2                                   1   ​
+                                                                                                                                                                 2   ​
+
+
+
+
+     C. p1 = M V tan θ2 , and p2 = M V tan θ1                                              M V cos θ2
+                                                                                   D. p1 = cos(θ                 M V cos θ1
+                                                                                                 +θ ) , and p2 = cos(θ +θ )
+                                                                                                                             ​                                                       ​
+
+
+
+
+           ​                               ​       ​                           ​        ​                                            ​           ​                                       ​
+
+
+
+
+                                                                                                 1       ​
+                                                                                                                 2   ​
+                                                                                                                                                     1       ​
+                                                                                                                                                                 2       ​
+
+
+
+
+11. The rate of change of momentum of the raindrop can be given by F = ma + u Δm
+                                                                              Δt                                                         ​                                                           (1)
+    In this expression what does u represent?
+     A. The velocity of the extra mass added to the raindrop
+     B. The velocity of the raindrop
+     C. The velocity of the loss in mass of raindrop
+     D. The rate of change of the velocity for combined system
+
+12. Which of the following is equal to the amount of work required to stop a moving object ?                                                                                                         (1)
+     A. the mass of the object times its acceleration
+     B. the kinetic energy of the object
+     C. the square of the velocity of the object
+     D. the mass of the object times its velocity
+
+13. A 1kg roller coaster is acted on by a 4N force over a displacement of 2m in the direction of force and then set    (1)
+    free. The roller is moving on a smooth and horizontal surface towards a free end of a spring of constant k, whose
+    other end is fixed on the wall. If the spring is compressed by 20cm to bring the roller coaster to rest, then what
+    is the value of the spring constant?
+     A. 100 N/m                                                                    B. 200 N/m
+     C. 400 N/m                                                                    D. 800 N/m
+14. In which of the following case is no work done by a dissipative force?                                                 (1)
+    A. When a parachute jump from a plane
+    B. For a freely falling object
+    C. On a racing car that moves in a desert
+    D. When someone slides a box on a horizontal rough surface.
+
+15. Five beads of equal mass are fixed on a rigid light rod that is free to rotate about a frictionless vertical bearing. (1)
+    The arrangement is such that, four of them are placed at 0.25 m and the fifth one is at 0.5m from the axis of
+    rotation. The rotational kinetic energy is 144J when the beads were rotating with angular speed of 48rad/s. What
+    is the mass of each bead?
+    A. 0.25Kg                                                   B. 0.5Kg
+    C. 0.75 Kg                                                  D. 1Kg
+
+16. A thin circular ring of mass M and radius r and moment of inertia M r2 is rotating about its axis with a constant      (1)
+    angular velocity ω . Two objects each of mass m, are attached gently to the opposite ends of a diameter of the
+    ring. What would be the angular velocity of the wheel ?
+    A. (MωM
+          +m)
+                                                                B. ω(M +2m)
+                                                                      (M +2m)
+                ​
+                                                                                ​
+
+
+
+
+    C.     ωM                                                   D.   ω(M +2m)
+         (M +2m)    ​
+
+
+
+
+                                                                         M
+                                                                                ​
+
+
+
+
+17. In a playing room a turn table of radius 2m has moment of inertia 250Kgm2 and is rotating about a frictionless         (1)
+    vertical axel. When a boy of mass 50Kg stands near the rim, the system rotates with angular speed 3rad/s. The
+    boy walks towards the center and stands at 1m from the axel. What is the final angular speed of the system?
+    A. 3rad/s                                                   B. 2.5rad/s
+    C. 5.4rad/s                                                 D. 4.5rad/s
+
+18. Two forcesF1 = 3^i N and F2 = 4^j N are acting on a particle of mass m. What is the magnitude and direction
+                                   ​      ​                                                                                (1)
+    of a force that balances the two?
+    A. Feq = 7N at 1270 counterclockwise from F1
+            ​                                         ​
+                                                                B. Feq = 5N at 1430 counterclockwise from F2
+                                                                        ​
+
+
+
+
+    C. Feq = 7N at 1270 counterclockwise from F2
+            ​                                         ​
+                                                                D. Feq = 5N at 1430 counterclockwise from F1
+                                                                        ​                                         ​
+
+
+
+
+19. The rod shown in the figure below is uniform and its weight is 2.8 N. The length of the rod is 3.0 m. Two ropes A      (1)
+    and B keep the rod in horizontal position. Rope A is 1.0 m from one end and rope B is at the other end of the
+    rope. What is the calculated value of the tension in rope A?
+    [Figure: A horizontal uniform rod of length 3 m and weight 2.8 N is shown in equilibrium. Two vertical ropes
+    labeled A and B support the rod from above. Rope A is attached at a distance of 1 m from the left end of the rod,
+    as indicated by a horizontal dimension line labeled '1 m'. Rope B is attached at the far right end of the rod. A
+    horizontal dimension line spanning the full length of the rod from the left end to the right end is labeled '3 m'. A
+    downward-pointing vertical arrow at the center of the rod is labeled '2.8 N', representing the weight of the rod.]
+    A. 2.1 N                                                    B. 0.7 N
+    C. 2.8 N                                                    D. 1.4 N
+
+20. Which of the following statement is correct about elastic behavior of materials?                                       (1)
+    A. For sufficiently small stress, stress is proportional to strain.
+    B. In tensile stress the force is parallel to the cross-sectional area, where as in shear stress, the force is
+       perpendicular to the area.
+    C. All materials do not necessarily have elastic limit.
+    D. With plastic materials, the body goes to original dimensions after removal of the force that caused deformation.
+21. Water flows at a rate of 0.4 litter per second through garden hose of inside diameter 4.0 cm. The nozzle of the      (1)
+    hose is a circular opening of diameter 2.0 cm. What is the speed of the water when it emerges? (π = 3.14)
+    A. 0.32 m/s                                                   B. 1.27 m/s
+    C. 3.2 m/s                                                    D. 12.7 m/s
+
+22. How much heat would be absorbed by 2g of ice at 0∘ c dropped into water at 0∘ c, to melt it totally to water at 0∘   (1)
+    c? (Latent heat of melting, L = 340,000J/Kg )
+    A. 680J                                                       B. 840J
+    C. 340J                                                       D. 420J
+
+23. The direction of heat flow is from:                                                                                  (1)
+    A. high pressure to low pressure
+    B. high temperature to low temperature
+    C. high density to low density
+    D. a point of higher emissivity to lower one
+
+24. External force of 220N applied on a piston of a cylinder containing 1.25g of ammonia gas move 10cm as shown          (1)
+    in the diagram below. Assuming adiabatic process, what is the rise in temperature of the gas? (Specific heat
+    capacity of ammonia, c = 2200J/Kg ∘ K)
+    [Figure: A horizontal cylinder containing gas with a piston inside. An external force arrow labeled 'F = 220N'
+    points to the left against the piston rod. A horizontal dimension below the piston indicates a displacement of
+    '10cm' to the left between dashed reference lines.]
+    A. 4 ∘ K                                                      B. 8 ∘ K
+    C. 0.004 ∘ K                                                  D. 0.008 ∘ K
+
+25. Which of the following statement is correct? (Here ρ is the density of an ideal gas, m is the mass of the gas and    (1)
+    c is speed of particles )
+    A. P(pressure of an ideal gas ) = 12 ρ⟨c2 ⟩
+    B. For a mixture of two gases in equilibrium in a container, ρ2 =    ​
+                                                                           ⟨c21 ⟩                ​
+
+
+
+
+                                                                    ρ1     ⟨c22 ⟩
+                                                                                 ​                   ​ ​
+
+
+
+
+                                                                         ​
+                                                                                                 ​
+
+
+
+
+                                                                         2
+    C. For a mixture of two gases in equilibrium in a container, ρ2 = ⟨c22 ⟩ ​
+                                                                                         ​
+
+
+
+
+                                                                 ρ1   ⟨c1 ⟩
+                                                                                     ​       ​
+
+
+
+
+                                                                             ​           ​
+
+
+
+
+    D. For a mixture of two different gases with equal partial pressure and equal number of molecules in a container,
+             ⟨c2 ⟩
+        m2
+           = ⟨c12 ⟩ .
+                   ​
+           ​
+
+
+
+
+        m1
+               ​       ​
+
+
+
+
+                2
+           ​
+                   ​
+
+
+
+
+26. Which of the following statement is NOT correct?                                                                     (1)
+    A. No process is possible in which there is an overall decrease in the entropy of the universe.
+    B. The spontaneous transfer of energy from cooler body to a hotter body is not possible.
+    C. Spreading out of random kinetic energy through heating does not represent an overall increase in entropy.
+    D. The complete conversion of energy from a hot source into work is not possible.
+
+27. Which one of the following is not an example of simple harmonic motion?                                              (1)
+    A. A mass attached to a spring system oscillating in horizontal direction to the surface of the Earth
+    B. Oscillation of simple pendulum
+    C. Rotation of second pointer in hand watch
+    D. A mass attached to a spring system oscillating in vertical direction to the surface of the Earth
+28. Travelling wave is given by the equation Y = A cos(kx − ωt), where k is the wave number and ω is the                      (1)
+    angular frequency. What is the distance that the wave travels in the time t = T /2?
+     A. full wavelength                                           B. half the wavelength
+     C. a quarter of the wavelength                               D. at the origin
+
+29. A 50 cm pipe is open at one end and closed at the other end. When air is blow at 150 Hz. What is the velocity of          (1)
+    the sound along the pipe?
+     A. 150 m/s                                                   B. 100 m/s
+     C. 330 m/s                                                   D. 300 m/s
+
+30. In Young's double slit experiment, if the slit separation is 1.2mm and the average spacing of the bright fringes          (1)
+    observed on a screen placed 4m away from the source is 2mm. What is the wavelength of the light source?
+     A. 550nm                                                     B. 600nm
+     C. 630nm                                                     D. 750nm
+
+31. The colors seen from soap bubbles and oil slicks are a manifestation of thin film interference. What is the cause         (1)
+    of this interference?
+     A. Interference from refraction of light
+     B. Interference from reflection of light from the two surfaces of the film
+     C. Interference from diffraction of light
+     D. Interference from superposition of lights that are incident and reflected
+
+32. Two like charges of value q are fixed at x= a and x= -a as shown in the diagram below.                                   (1)
+    If a test charge q0 is released at y = b, which path will it follow?
+                        ​
+
+
+
+
+    [Figure: A coordinate system with the horizontal x-axis and vertical y-axis. Two equal charges of value q are
+    positioned on the x-axis at coordinates (-a, 0) and (a, 0). A test charge labeled q₀ is located on the y-axis at (0, b),
+    with dashed lines connecting it to both charges at (-a, 0) and (a, 0).]
+     A. It stays at y = b                                         B. along a line y = − ab x + b
+                                                                                           ​
+
+
+
+
+     C. along a line y = ab x + b
+                            ​                                     D. along y- axis
+
+33. Two equal and opposite charges are located along x-axis at −2.0 cm and +2.0 cm as shown in the figure                     (1)
+    below. How much would be the electric potential at the origin?
+    [Figure: A horizontal line showing two charges: a charge of -4 μC located at -2 cm to the left of the origin
+    (labeled 0), and a charge of +4 μC located at +2 cm to the right of the origin.]
+     A. Zero                                                      B. 1.8 MV
+     C. 3.6 MV                                                    D. 4.5 MV
+
+34. A sheet of polythene (εr = 2.3) and 0.25 mm thick is to be used in a capacitor by sandwiching it between two
+                                ​                                                                                             (1)
+    sheets of aluminum foil. What area must the sheets have if the capacitor is to have a capacitance of 0.5 μF?
+     A. 12 m2                                                     B. 6.14 m2
+     C. 0.6 m2                                                    D. 0.12 m2
+
+35. A metal rod is measured to have a resistance R. If the same metal rod is stretched to reduce its radius by half           (1)
+    without affecting its density, what is its new resistance?
+     A. 2R                                                        B. 4R
+     C. 8R                                                        D. 16R
+36. The statement of Kirchoff's point rule follows from:                                                                                                              (1)
+    A. conservation of charge                                                                                        B. conservation of energy
+    C. Ohm's law                                                                                                     D. dependence of resistance on temperature
+
+37. You are given the bridge circuit as shown in the diagram below. The resistance R is used to limit the current in                                                  (1)
+    the galvanometer. Which of the following is correct in measuring Rx ?                                                             ​
+
+
+
+
+    [Figure: A bridge circuit connected across a DC voltage source labeled Vsour on the left. The bridge forms a                          ​
+
+
+
+
+    diamond with four resistor arms: top-left has resistor R1 , bottom-left has resistor R2 , top-right has resistor R3 ,
+                                                                                                                 ​                            ​                   ​
+
+
+
+
+    and bottom-right has resistor Rx . Across the horizontal diagonal between the left and right junctions is a
+                                                         ​
+
+
+
+
+    galvanometer labeled 'G' connected in series with a resistor labeled 'R4'.]
+    A. The bridge is balanced when R
+                                   R = R
+                                     1 R3                        ​
+
+
+
+
+                                                                     ​
+                                                                             ​
+
+
+
+
+                                                                                 ​
+
+
+
+
+                                                             2   ​
+                                                                         4   ​
+
+
+
+
+    B. The bridge balance condition is given by R
+                                                R = R .
+                                                  x R2                                       ​
+
+
+
+
+                                                                                                 ​
+                                                                                                         ​
+
+
+
+
+                                                                                                             ​
+
+
+
+
+                                                                                     3   ​
+                                                                                                     1   ​
+
+
+
+
+    C. R
+       R3 = R4
+         x  R1
+                 ​
+                     ​
+
+
+
+
+                             ​
+                                             ​
+
+
+
+
+                                             ​
+                                                     ​
+
+
+
+
+    D. R
+       R3
+         x
+           =R
+            R4
+             ​
+              2  ​
+
+
+
+
+                         ​
+                                         ​
+
+
+
+
+                                         ​
+                                                 ​
+
+
+
+
+38. What is the expression of the centripetal acceleration of a particle of charge q and mass m moving in a uniform                                                   (1)
+    magnetic field B on a circle of radius r if B is perpendicular to the particle's direction of motion?
+    A. qB
+       m
+                             ​
+                                                                                                                     B. 2qB
+                                                                                                                        mr
+                                                                                                                              ​
+
+
+
+
+         2                       2                                                                                       2    2
+    C. q B r                                                                                                         D. q B2 r
+         m                           ​
+
+
+
+
+                                                                                                                         m        ​
+
+
+
+
+39. Two long wires of 10 m in length carries a current of 2.0 A and 0.5A in the same direction. The wires are                                                         (1)
+    separated by 4.0 cm. What is the magnetic force that the wires exerted on each other?
+    A. 5 × 10−5 N                                                                                                    B. 5 × 10−6 N
+    C. 5 × 10−7 N                                                                                                    D. 4 × 10−6 N
+
+40. Lenz's law in electromagnetic induction follows from which law of conservation ?                                                                                  (1)
+
+    A. charge                                                                                                        B. energy
+    C. momentum                                                                                                      D. mass
+
+41. A rectangular loop of area 0.4m2 is placed in a magnetic field that is changing at a rate of 100T/s. If the normal                                                (1)
+    of the loop makes angle 60∘ with the magnetic field, what is the magnitude of induced emf?
+    A. 80V                                                                                                           B. 40V
+    C. 20V                                                                                                           D. 34.64V
+
+42. The applied ac voltage and the resulting current, in a circuit element, is shown below                                                                            (1)
+    What is the circuit element ?
+    [Figure: A Cartesian coordinate graph with a horizontal axis labeled 'Time' and a vertical axis marked with '+', '0',
+    and '-'. Two sinusoidal waveforms are shown: a solid curve labeled 'Voltage' passing through the origin (0, 0) and
+    going positive, and a dashed curve labeled 'Current' which is shifted to the right by a quarter period (90∘ phase
+    lag behind the voltage wave), reaching its first positive peak a quarter cycle after the voltage waveform peaks.]
+    A. inductor                                                                                                      B. capacitor
+    C. resistor                                                                                                      D. diode
+
+43. A series circuit consisting of 50 Ω resistor and capacitor of capacitive reactance 50 Ω are connected to                                                          (1)
+    alternating source of voltage(rms) 100V. What is the average power output and power factor of the circuit?
+    A. 141.4W, 0.8                                                                                                   B. 200W, 0.8
+    C. 70.7W, 0.707                                                                                                  D. 100W, 0.707
+44. When ultraviolet light is shone on a clean metal surface the surface will emit electrons. What is the necessary   (1)
+    precondition for electrons to be ejected from the metal surface is ?
+    A. The intensity of light must be high enough
+    B. The minimum energy required to release the electron is the same as the work function of the metal
+    C. The wave length of the light has to be greater than that of ultraviolet light.
+    D. The frequency of the metal has to be less than that of ultraviolet light.
+
+45. Complete the following equation which represents a nuclear fission reaction. What is the particle represented by (1)
+    X? 235 U +10 n → 95 Rb +139 Cs + 2X + energy ?
+                  ​
+
+
+
+
+    A. electron                                                        B. proton
+    C. neutron                                                         D. alpha particle
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

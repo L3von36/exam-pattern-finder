@@ -1,0 +1,339 @@
+                                                         Temari.et
+                                    Physics, 2007 EC, entrance exam
+                                                Grade 12 · Physics · 2007 E.C.
+
+Time allowed: 120 minutes                                      Questions: 42                                 Total marks: 42
+
+Name                                             Grade                         ID No.                Date
+
+1.   Which one of the following experimental errors can be reduced by taking repeated measurements?                         (1)
+     A. parallel errors                                           B. systematic
+     C. random errors                                             D. zeros errors
+
+2.   What is the angle between vectors A = (ai + a 3j ) units and B = (a 3i + aj) units?
+                                                           ​                            ​                                   (1)
+     A. 90∘                                                       B. 60∘
+     C. 37∘                                                       D. 30∘
+
+3.   The magnitude of two vectors A and B are 12 units and 5 units, respectively. Which of the following is NOT the         (1)
+     possible value for the magnitude of the resultant vector A + B ?
+     A. 60units                                                   B. 17units
+     C. 13units                                                   D. 7units
+
+4.   What is the vector product A x B of two vectors A = 7i + 4j − 8k and B = 3i − 2j + 5k                                  (1)
+
+     A. 36i + 11j − 2k                                            B. 4i + 59j − 26k
+     C. −4i + 59j + 26K                                           D. −36i − 11j + 2k
+
+5.   Which of the following statement is correct ?                                                                          (1)
+     A. An object moving toward the east cannot have an acceleration toward the west.
+     B. If the average velocity of an object is zero in some time interval, the average speed of the object for that time
+        interval is also zero
+     C. The velocity time graph of an object moving with constant acceleration is parallel to the time axis.
+     D. An object having zero velocity can have acceleration different from zero.
+
+6.   A car travels along a straight line at a constant speed of 20m/s for a distance d and then another distance d in       (1)
+     the same direction at a constant speed of 36 km/hr. what is the average speed for the entire trip?
+     A. 23km/hr                                                   B. 48km/hr
+     C. 54km/hr                                                   D. 60km/hr
+
+7.   If a long distance jumper athlete leaves the ground at an angle of 370 above the horizontal surface at a speed of      (1)
+     10.0m/s, how far does he jump in the horizontal direction?
+     A. 4.8m                                                      B. 6m
+     C. 9.6m                                                      D. 9m/s
+
+8.   Women is rotating a bucket of water in a vertical circle of radius 0.9m. The mass of bucket and water is 5kg.          (1)
+     What is the bucket's minimum speed at the top of circle if no water is to spill out?
+     A. 0                                                         B. 1m/s
+     C. 3m/s                                                      D. 9m/s
+9.   A force of magnitude 20N is applied to a block of mass 2kg that lies on a rough, horizontal surface as shown in        (1)
+     figure below. The coefficient of kinetic friction between the bock and surface is 0.4. What is the magnitude of
+     the acceleration of the block?
+     [Figure: A shaded rectangular block labelled "Block" rests on a horizontal surface drawn as a solid line with
+     hatching beneath it (the ground). From a point on the right-hand face of the block a straight arrow points up and
+     to the right and is labelled F at its head. A dashed horizontal line runs to the right from that same point, and the
+     angle between the dashed horizontal and the arrow F is marked 530 . A stray label "C(1,4)" is printed immediately
+     after the angle; it is a scanning artifact carried over from a neighbouring figure and belongs to no part of this
+     problem.]
+     A. 10 m/s2                                                  B. 5.2 m/s2
+     C. 4 m/s2                                                   D. 2.8 m/s2
+
+10. A hard ball moving on a horizontal frictionless surface with a speed of 5m/s in the positive x direction strikes a      (1)
+    stationary hard ball of the same mass. After the collision, the first ball moves with a speed of 4m/s along a
+    direction that makes an angle of 0.37∘ with its initial direction of motion. What is the struck ball's speed and the
+    smallest angle between its direction of motion and the positive x axis after the collision?
+     A. 3m/s and 53.0∘                                           B. 3m/s and 37.0∘
+     C. 4m/s and 53.0∘                                           D. 4m/s and 37.0∘
+
+11. A highway curve is banked (inclined) in such a way that a car traveling at a speed of 13.5m/s can round the             (1)
+    curve without skidding, in the absence of friction. If the banking angle is 300, what is the radius of the curve?
+     A. 10.5m                                                    B. 21.0m
+     C. 31.7m                                                    D. 36.7m
+
+12. A car of mass 1500 kg is travelling at a uniform velocity of 30m/s due east. The driver applies the brakes to slow (1)
+    down the car to a velocity of 10m/s due east. What is the work done in slowing down the car?
+     A. 15KJ                                                     B. 300KJ
+     C. 600KJ                                                    D. 750KJ
+
+13. Which one of the following statements is true about a spring mass system oscillation on a horizontal frictionless       (1)
+    surface?
+     A. The kinetic and potential energies are equal at all times.
+     B. The kinetic and potential energies are both constant.
+     C. The maximum potential energies is achieved when the mass passes through its equilibrium position.
+     D. The maximum kinetic energy and maximum potential energy are equal.
+
+14. A block of mass 10kg is pulled up a rough inclined plane with a force of 100N parallel to the inclined plane. The       (1)
+    inclined plane makes an angle of 370 with the horizontal. At the instant when the force is applied the block has
+    a speed of 1.5m/s. if the coefficient of kinetic friction is 0.40, and the block is pulled up 5m, what is the change
+    in the kinetic energy of the block?
+     A. 20J                                                      B. 30J
+     C. 40J                                                      D. 45.5J
+15. The particles shown in figure below are connected by rectangular rigid nods of negligible mass. The origin of the (1)
+    xy plane is the center of the rectangle. The system rotates in the xy plane about the z axis with an angular
+    speed of 6.00rad/s. what is the rotational kinetic energy of the system?
+    [Figure: A rectangle drawn on a set of x and y axes whose origin, labelled O, is at the centre of the rectangle; the
+    y axis runs vertically up through the middle of the rectangle and the x axis runs horizontally to the right through
+    the middle. A small particle (drawn as a small double circle) sits at each of the four corners. The top-right
+    particle is labelled 2 kg, the bottom-right particle 3 kg, the bottom-left particle 2 kg; the top-left particle carries
+    the label "3" with its unit cut off at the edge of the scan (evidently 3 kg). A double-headed vertical arrow at the
+    left of the figure spans the height of the rectangle and is labelled 6 m, with the annotation "Hyp=?" written
+    alongside it. A double-headed horizontal arrow along the bottom of the rectangle spans its width and is labelled
+    4 m.]
+    A. 2574J                                                   B. 2340J
+    C. 1287J                                                   D. 1170J
+
+16. Two blocks are connected by a string of negligible mass passing over a pulley of radius r = 0.2 m and moment of (1)
+    inertia I as shown on figure below. The block on the horizontal frictionless surface is moving with a constant
+    acceleration = 2.0 m/s2 . If the pulley axis is frictionless, the string is inextensible and does not slip on pulley,
+    what should be the moment of inertial of the pulley?
+    [Figure: A shaded block labelled 2 kg rests on a horizontal surface drawn as a line with hatching beneath it. A
+    horizontal string labelled T1 runs from the right-hand face of the block to a small pulley mounted at the right-
+                                 ​
+
+
+
+
+    hand edge of the surface. From the pulley a vertical string labelled T2 hangs straight down and is attached to
+                                                                           ​
+
+
+
+
+    the top of a second, unshaded rectangular block labelled 3 kg.]
+    A. 0.40 kgm2                                               B. 0.80 kgm2
+    C. 0.6 kgm2                                                D. 0.2 kgm2
+
+17. An object with a mass of m = 3.0kg is attached to the free end of a light string wrapped around a pulley of radius (1)
+    R = 0.50m and moment of inertia I = 0.75 kgm2 . The pulley if free to rotate in a vertical plane about a fixed
+    frictionless axis passing through its cernter as shown in figure. The suspended object is released from rest at
+    3.60m above the floor. What is the angular momentum of the pulley at the time when the object strikes the
+    floor?
+    [Figure: A large circle representing the pulley, drawn with a thick rim and a small dot at its centre; a line runs
+    from the centre out to the rim and is labelled R. A string leaves the right-hand side of the pulley rim and runs
+    vertically downward to the top of a rectangular block labelled M=3.]
+    A. 4.5 kgm2 /s                                             B. 9.0 kgm2 /s
+    C. 12.3 kgm2 /s                                            D. 18 kgm2 /s
+
+18. Which one of the following statements is not correct about a particle that is in equilibrium?                        (1)
+    A. It can have a velocity different from zero.
+    B. Its velocity can be equal to zero.
+    C. It can be under the action of more than one force.
+    D. It can have an acceleration different from zero.
+
+19. Which one of the following laws best describes the behaviour of elastic materials?                                   (1)
+    A. Gay Lussae's law                                        B. Hook's law
+    C. Newton's second law                                     D. Newton's law of gravitation
+20. Two solid spheres made of gold and silver having equal masses are suspended by strings and fully submerged             (1)
+    in a tank of water. Given that the density of gold is greater than that if silver, which one of the following
+    statement is true?
+    A. The buoyant force on each sphere is the same.
+    B. The volume of water displaced by the gold sphere is larger than that of the silver sphere.
+    C. The tension in the string supporting each sphere is the same.
+    D. The buoyant force on the silver sphere is greater than that on the gold sphere.
+
+21. The cross section areas of the small and large pistons of a hydraulic lift shown in figure are 4.0 cm2 and             (1)
+    0.02 m2 , respectively. What is the magnitude of the force that must be applied to the small piston to lift a
+    weight w = 15,000N placed on the larger piston?
+    [Figure: A U-shaped vessel drawn in cross section with thick walls, holding a fluid. Its left limb is narrow and its
+    right limb is wide; each limb is closed by a piston. A vertical arrow pointing downward is drawn inside the left
+    limb, above the small piston, and is labelled F1 . A shaded rectangular block labelled W rests on top of the large
+                                                     ​
+
+
+
+
+    piston in the right limb, which sits higher than the small piston.]
+    A. 3 × 102 N                                                 B. 2 × 104 N
+    C. 3 × 105 N                                                 D. 3 × 106 N
+
+22. An incompressible fluid flows through a horizontal pipe whose diameter varies along its length. The sum of the         (1)
+    kinetic energy per unit volume and pressure of the fluid at different section of the pipe would________
+    A. depend on the length of the pipe.
+    B. Increase as the pipe diameter increases.
+    C. Increase as the pipe diameter decreases.
+    D. Remain the same as the pipe diameter changes.
+
+23. The amount of heat required to raise the temperature of an object of mass m = 1Kg by 1 Kelvin is known                 (1)
+    as___________
+    A. specific heat capacity                                    B. heat capacity
+    C. expansion coefficient                                     D. internal energy
+
+24. The first law of thermodynamics takes the form dU = dW. This equation is valid fi the process                          (1)
+    is________________
+    A. isobaric                                                  B. isochoric
+    C. isothermal                                                D. adiabatic
+
+25. An ideal gas undergoes an isothermal process starting with a pressure of 2 × 105 pa and a volume of 6 cm3 .            (1)
+    Which one of the following might be the pressure and volume of the final state?
+    A. 4 × 105 pa and 4 cm3                                      B. 4 × 105 pa and 3 cm3
+    C. 5 × 105 pa and 3 cm3                                      D. 105 pa and 10 cm3
+
+26. The position of a particle moving with simple harmonic motion is given by an expression x = A cos(ωt + Φ),             (1)
+    where A is the amplitude of the oscillatioin, t is time, ω is angular frequency, and Φ is the phase constant. If
+    Φ = π/2, what will be the sign of the particle's position and velocity at t = 7T /8, were T is the period of
+    oscillation?
+    A. The position is positive, and the velocity is negative.
+    B. The position and velocity are both positive.
+    C. The position and velocity are both negative.
+    D. The position is negative and the velocity is positive.
+27. A given minimum point (trough) of a sinusoidal wave is traveling 480 cm long a rope in 12s. If the oscillator that     (1)
+    generates the wave completes 48 vibrations in 30s, what is the wave length of the wave?
+    A. 25m                                                          B. 15m
+    C. 0.25m                                                        D. 0.15m
+
+28. A wave traveling from a medium of index of refraction n1 toward a medium of index of refraction n2 undergoes
+                                                                ​                                           ​              (1)
+    partly transmission and partly reflection. If n2 is greater than n1 which one of the following statements is not
+                                                    ​                    ​
+
+
+
+
+    correct?
+    A. The speed of the wave in the medium with reflective index n1 is smaller than with n2
+                                                                             ​                  ​
+
+
+
+
+    B. The incident and the reflected waves are in phase.
+    C. The angle of reflection is the same as the angle of incidence.
+    D. The reflection angle is less than the incidence angle.
+
+29. Which one of the following statement is correct?                                                                       (1)
+
+    A. The electric field strength due to two point charges of equal magnitude and the same sign is zero only at one
+       point on the line joining the two charges.
+    B. If a point charge of mass m is released from the rest in uniform electric field, it will move along a line of force
+       with uniform speed.
+    C. The variation of the strength of the electric field due to an electric dipole is inversely proportional with the
+       square of the distance from its center of mass.
+    D. An electric dipole moment p in a uniform external electric field E is in stable equilibrium if p and E are in opposite
+       directions.
+
+30. In a certain region of space, a uniform electric field is directed in the positive x direction. If a particle with     (1)
+    negative charge is carried from x = 20cm to x = 60cm, what can we conclude about the electric potential and
+    the electric potential energy of the charge-field system?
+    A. The electric potential at x = 20cm is larger than that at x = 60cm.
+    B. The electric potential at x = 20cm is the same as that at x = 60cm.
+    C. The electric potential energy decrease.
+    D. The electric potential energy increase.
+
+31. A parallel plate capacitor has a capacitance of 10 μF. If the distance between the plates is doubled, keeping all      (1)
+    other quantities constant, what is the new capacitance of the capacitor?
+    A. 0.2 μF                                                       B. 5 μF
+    C. 10 μF                                                        D. 20 μF
+
+32. If several resistors are connected in parallel, the equivalent resistance is                                           (1)
+
+    A. greater than any of the resistances in the group.
+    B. is equal to the average resistances of the group.
+    C. less than any of the resistances in the group.
+    D. equal to the sum of the resistances in the group.
+
+33. In aluminium and copper wires with circular cross sections have equal length and equal resistance, then the            (1)
+    ratio of the radius of aluminium to that of copper should be the same as that of the________
+    A. ratio of the resistivity of aluminium to copper
+    B. ratio of the resistivity of copper to aluminium
+    C. square root of the ratio of the resistivity of aluminium to copper
+    D. square root of the ratio of the resistivity of copper to aluminium
+34. In the circuit shown below, what is the potential difference between point b and a?                                 (1)
+    [Figure: A circuit made of three horizontal branches joined between a left-hand vertical wire and a right-hand
+    vertical wire. Point a is marked as a node on the left wire where the middle branch meets it; point b is marked as
+    a node on the right wire where the middle branch meets it. Top branch: a resistor labelled 16 Ω, with a current
+    arrow drawn just beneath it pointing to the LEFT and labelled I3 . Middle branch, running from a to b: a resistor
+                                                                       ​
+
+
+
+
+    labelled 12 Ω, then a battery labelled 24 V, with a current arrow drawn beneath the resistor pointing to the RIGHT
+    and labelled I2 . Bottom branch: a battery labelled 12 V on the left and a resistor labelled 9 on the right, with a
+                    ​
+
+
+
+
+    current arrow drawn beneath the resistor pointing to the LEFT and labelled I1 .] ​
+
+
+
+
+    A. 19.2V                                                     B. 24.0V
+    C. 13.0V                                                     D. 12.0V
+
+35. An electron moving at a speed of 1.5 × 107 m/s enters a region of uniform magnetic field of magnitude 2 ×            (1)
+       −3
+    10 T, direction perpendicular to the field. The path followed by the electron is circular. What is the radius of the
+    circular path?
+    A. 0.43cm                                                    B. 4.3cm
+    C. 43cm                                                      D. 430cm
+
+36. If a wire carrying current in the plane of this paper toward the top of the page experiences a magnetic force           (1)
+    toward the right edge of the page, what will be the direction of the magnetic field causing this force?
+    A. In the plane pf the page and toward the left edge.
+    B. In the plane pf the page and toward the bottom edge.
+    C. Perpendicular and directed out of the plane of the page.
+    D. Perpendicular and directed in to the plane of the page.
+
+37. A square flat loop of wire is placed in a uniform magnetic field that is in the y direction. The magnetic flux          (1)
+    through the loop is a maximum if the plane of the loop is in the
+    A. xy plane                                                  B. xz plane
+    C. yz plane                                                  D. inclined 45∘ with respect to the xy plane
+
+38. Which one of the following actions increases the magnetic energy density in the interior of a very long current         (1)
+    carrying solenoid?
+    A. Increasing the number of turns per unit length of the solenoid.
+    B. Increasing the cross section area of the solenoid.
+    C. Increasing the length of the solenoid keeping the number of turns per unit length fixed.
+    D. Decreasing the cross section area of the solenoid.
+
+39. Figure below shows a rectangular loop of wire of width L and resistance R. one end of the loop is in a uniform         (1)
+    magnetic field of strength B directed perpendicular in to the plane of the page, the loop is pulled to the right at a
+    constant speed v. what are the magnitude and direction of the induced current in the loop?
+    [Figure: On the left, a shaded rectangular region filled with four rows of X symbols, representing a uniform
+    magnetic field directed into the plane of the page. A rectangular loop of wire is drawn across the figure so that
+    its left-hand portion lies inside the field region (its left side is buried among the X symbols) and its right-hand
+    side lies outside the field region, clear of the X symbols. A short double-headed vertical arrow beside the loop's
+    right side marks the loop's width and is labelled L. A horizontal arrow points to the right from the loop's right side
+    and is labelled v.]
+    A. I = BLvR and clockwise                                    B. I = BLv/R and clockwise
+    C. I = BLvR and counter clockwise                            D. I = BLv/R and counter clockwise
+40. A series RLC circuit has a total impedance of 75.0 Ω. If the resistance is R = 45.0 Ω and the average power   (1)
+    delivered to the circuit is P = 352.8 W, what is the root mean square value of the ac voltage source?
+    A. 83V                                                              B. 116V
+    C. 210V                                                             D. 297V
+
+41. Which of the following phenomena most clearly demonstrates the wave nature of electrons?                      (1)
+    A. The photoelectric effect                                         B. Blackbody radiation
+    C. The Compton effect                                               D. Diffraction of electrons by crystals
+
+42. When the radioactive element 144 Nd60 decays to 140 Ce58 , which one of the following particles is emitted?
+                                               ​                        ​                                         (1)
+
+    A. A beta particle                                                  B. An alpha particle
+    C. a proton                                                         D. a gamma ray
+
+                                                   — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

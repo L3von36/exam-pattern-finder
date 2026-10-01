@@ -1,0 +1,387 @@
+                                                        Temari.et
+                            Chemistry, 2012 EC, entrance exam, version 1
+                                              Grade 12 · Chemistry · 2012 E.C.
+
+Time allowed: 120 minutes                                   Questions: 77                                Total marks: 77
+
+Name                                            Grade                         ID No.              Date
+
+1.   According to World Health Organization (WHO), the standard for the concentration of alcohol used to prevent      (1)
+     COVID-19 virus is 70%. How much water has to be added to prepare the standard alcohol for 1L of 96% alcohol?
+     A. 1371.4 ml                                                B. 371.4 L
+     C. 371.4 ml                                                 D. 30 ml
+
+2.   In which of the following solvents would you expect the solubility of NaCl to be greatest?                       (1)
+     A. Carbon tetrachloride (CCl4)                              B. Water (H2O)
+     C. Methanol (CH3OH)                                         D. Methanol (CH3OH)
+
+3.   Which of the following substances might stabilize a colloidal suspension of oil in water?                        (1)
+     A. Sodium stearate NaCO2(CH2)16CH3                          B. Sodium bicarbonate (NaHCO3)
+     C. H2O                                                      D. CaCl2
+
+4.   How many moles of unknown weak acid (HA) in a 100 L solution are required to produce a solution with pH = 2?     (1)
+     Ka of the unknown weak acid (HA) = 5×10^-3.
+     A. 3×10^-3                                                  B. 0.3×10^-3
+     C. 3                                                        D. 0.3
+
+5.   If different processes are used to bring about the same change the enthalpy changes during these processes       (1)
+     are the same, this is the statement of
+     A. Hess's law                                               B. Standard Enthalpy
+     C. 1st law thermodynamics                                   D. 2nd law thermodynamics
+
+6.   Which of the following 0.1 M solutions has the lowest pH?                                                        (1)
+
+     A. NaNO2                                                    B. KClO4
+     C. NH4Cl                                                    D. NH3
+
+7.   The pH of a 0.1 M weak base B is 9. What is the Kb for B?                                                        (1)
+     A. 9.2×10^{-4}                                              B. 2×10^{-6}
+     C. 1×10^{-4}                                                D. 1×10^{-9}
+
+8.   Addition of HCl to an aqueous buffer solution containing NH3 and NH4Cl cause which of the following to occur?    (1)
+     I. pH of the solution increase II. pH of the solution decrease III. NH4+ concentration increase IV. NH3
+     concentration increase
+     A. I                                                        B. II
+     C. I and III                                                D. II and III
+
+9.   What is the equivalence point pH of the solution formed by the titration of 50 mL of 0.15 M CH3COOH using 25     (1)
+     mL of 0.3 M NaOH? [Use log 7.5 = 0.87, Kb of acetate ion = 5.6×10^{-10}]
+     A. 7.44                                                     B. 6.22
+     C. 8.44                                                     D. 8.87
+10. The solubility of a particular salt in water is 9.9 g/mL at room temperature. If 11.1 g is completely dissolved in one   (1)
+    milliliter of water, the solution is
+    A. Saturated                                                 B. Supersaturated
+    C. Unsaturated                                               D. Dilute
+
+11. The hybrid orbitals in a molecule of methane are oriented                                                                (1)
+    A. Towards the corners of a tetrahedron centered on the carbon atom.
+    B. Towards the corners of a cube centered on the carbon atom.
+    C. Towards the corners of a triangle centered on the carbon atom.
+    D. Towards the corners of a rectangle centered on the carbon atom.
+
+12. Which one of the following best describes chemical equilibrium?                                                          (1)
+    A. Concentrations of products are higher than concentration of reactants.
+    B. Forward and reverse reactions continue with no effect on the concentration of reactants and products.
+    C. Reactions stop only when reactants have been converted to products.
+    D. Forward and reverse reactions have stopped so that the concentration of the reactants equals the concentration
+       of products.
+
+13. Based on the Valence shell electron pair repulsion (VSEPR) theory which of the following would have a                    (1)
+    tetrahedral arrangement of electrons around the central atom?
+    A. BH3                                                       B. NO2-
+    C. CO3^2-                                                    D. SiH4
+
+14. When the 1s-orbitals of two hydrogen atoms combine to form a hydrogen molecule, then which molecular                     (1)
+    orbitals are formed?
+    A. One bonding molecular orbital only.
+    B. Two bonding molecular orbitals.
+    C. One bonding molecular orbital and one antibonding molecular orbital.
+    D. Two antibonding molecular orbitals.
+
+15. Which of the following solid substances contains positive ions immersed in a sea of mobile electrons?                    (1)
+    A. O2                                                        B. Cu
+    C. CuO                                                       D. SiO2
+
+16. Which one of the following compounds contains both covalent and ionic bond?                                              (1)
+    A. CCl4                                                      B. KCl
+    C. MgCl2                                                     D. NH4Cl
+
+17. Oxygen, nitrogen and fluorine bond with hydrogen to form molecules. These molecules are attracted to each                (1)
+    other by
+    A. Coordinate covalent bonds                                 B. Electro covalent bond
+    C. Ionic bonds                                               D. Hydrogen bonds
+18. Given the reaction: H2 + Cl2 → 2HCl. Which statement best describes the energy changes as bonds are formed           (1)
+    and broken in this reaction.
+    A. The forming of the H-Cl bond releases energy.
+    B. The forming of the H-Cl bond absorbs energy.
+    C. The breaking of the H-H bond releases energy.
+    D. The breaking of the Cl-Cl bond releases energy.
+
+19. The reaction CHCl3(g) + Cl2(g) → CCl4(g) + HCl(g) has the rate law: Rate = k[CHCl3][Cl2]. If the concentration of    (1)
+    CHCl3 is increased by a factor of five while the concentration of Cl2 is kept the same, the rate will be
+    A. Stay the same                                            B. Increased by a factor of five
+    C. Decreased by a factor of five                            D. Doubled
+
+20. What are the four quantum numbers of 4d^6 orbital? (Options in table)                                                (1)
+    A. n=4, l=1, ml=1, ms=±1/2                                  B. n=4, l=2, ml=-2, ms=-1/2
+    C. n=4, l=0, ml=0, ms=-1/2                                  D. n=4, l=2, ml=1, ms=-1/2
+
+21. Lava is a foam colloid. The dispersed phase and dispersion medium are respectively:                                  (1)
+    A. gas-liquid                                               B. solid-gas
+    C. liquid-gas                                               D. gas-solid
+
+22. Which of the following salts would form an acidic solution? I. KCl II. NaF III. NH4Cl IV. CaCO3                      (1)
+    A. I and III                                                B. I and IV
+    C. III and IV                                               D. only III
+
+23. Which of the following is a Lewis acid but not a Brønsted acid?                                                      (1)
+
+    A. HBr                                                      B. BBr3
+    C. NH3                                                      D. CH4
+
+24. What is the percentage dissociation of a 0.1 M unknown weak acid (HA) solution? [Use Ka of HA = 9×10^{-9}]           (1)
+    A. 9×10^{-9}                                                B. 3×10^{-9}
+    C. 9×10^{-2}                                                D. 3×10^{-2}
+
+25. A chemist adds water to 120 mL of a 6 M solution of HCl until the final volume is 2 L. What is the molarity of the   (1)
+    resulting solution?
+    A. 0.94 M                                                   B. 2.3 M
+    C. 0.36 M                                                   D. 8.7 M
+
+26. Which of the following is the correct increasing order of the atomic size of Mg+, Na, Si^3+, and Al^2+?              (1)
+    A. Na < Mg+ < Al2+ < Si3+                                   B. Si3+ < Al2+ < Mg+ < Na
+    C. Al2+ < Mg+ < Na < Si3+                                   D. Si3+ > Al2+ > Na > Mg+
+
+27. The standard enthalpy of formation of Nitrogen (N2) is?                                                              (1)
+    A. 1                                                        B. 0
+    C. -1                                                       D. 4
+28. We have three aqueous solutions of NaCl labeled 'A', 'B', and 'C' with concentrations 0.1 m, 0.01 m, and 0.001 m,     (1)
+    respectively. The van't Hoff factor for these solutions will be
+    A. iA < iB < iC                                             B. iA > iB > iC
+    C. iA = iB = iC                                             D. iA < iB > iC
+
+29. Which of the following is TRUE for the sublimation of solid carbon dioxide at room temperature and pressure?          (1)
+    A. Change in Enthalpy is negative, and change in Entropy is positive.
+    B. Change in Entropy is negative, and change in Enthalpy is positive.
+    C. Change in Enthalpy and change in Entropy are positive.
+    D. Change in Gibbs free energy is positive.
+
+30. Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible   (1)
+    result is that
+    A. An electron may move to an electron shell farther out from the nucleus.
+    B. An electron may move to an electron shell closer to the nucleus.
+    C. The atom would become a positively charged or cation.
+    D. The atom may become radioactive isotopes.
+
+31. Consider this equilibrium reaction in a sealed container: H2O(g) ⇌ H2O(l). Which one of the following will be the     (1)
+    effect on the equilibrium of increasing the temperature from 20°C to 30°C?
+    A. More of the water will be in the gaseous state at equilibrium.
+    B. More of the water will be in the liquid state at equilibrium.
+    C. At equilibrium the rate of condensation will be greater than the rate of evaporation.
+    D. At equilibrium the rate of evaporation will be greater than the rate of condensation.
+
+32. Which one of the following best describes the formation of pi (π) bond?                                               (1)
+    A. They are formed by sideways overlap of parallel orbitals.
+    B. They are formed by the axial overlaps of orbitals.
+    C. They are formed by the sideways overlaps of an s and p orbital.
+    D. They are formed by the axial overlaps of either s or p orbital.
+
+33. Which one is the function of iron in the Haber process?                                                               (1)
+    A. It shifts the position of equilibrium towards the products.
+    B. It decreases the rate of reactions.
+    C. It provides an alternative reaction pathway with lower activation energy.
+    D. It reduces the enthalpy change of the reaction.
+
+34. Which types of solid materials are typically hard, have high melting points and poor electrical conductivities? I.    (1)
+    Ionic II. Metallic III. Covalent-network
+    A. I and II only                                            B. I and III only
+    C. II and III only                                          D. I, II, and III
+
+35. For the reaction: H2(g) + I2(g) ⇌ 2HI(g), at a certain temperature the equilibrium concentrations in mol/L are        (1)
+    [H2]=0.2, [I2]=0.2, [HI]=2.0. Then based on this data, which one is the equilibrium constant Kc?
+    A. 0.002                                                    B. 20
+    C. 10                                                       D. 100
+36. Which statement is correct about the effect of adding a catalyst to a system at equilibrium? I. The rate of the     (1)
+    forward reaction increases. II. The rate of reverse reaction increases. III. The yield of the products increases.
+    A. I only                                                   B. III only
+    C. I and II only                                            D. I, II and III
+
+37. For the reaction: N2O4(g) ⇌ 2NO2(g), Kc = 8×10^4 mol/cm^3? Actually units: 8×10^4 mol/cm^3? That is huge;           (1)
+    likely 8×10^{-4}? Given options: [N2O4]=8×10^{-2} mol/cm^3, find [NO2]. Kc = [NO2]^2 / [N2O4] = 8×10^4? That
+    would give [NO2]^2 = 8×10^4 × 8×10^{-2} = 6.4×10^3, [NO2]=80, not matching options. If Kc=8×10^{-4}, then
+    [NO2]^2 = 8×10^{-4}×8×10^{-2}=6.4×10^{-5}, [NO2]=8×10^{-3}. Option C: 8.0×10^{-3}. So likely Kc=8×10^{-4}.
+    A. 8.0×10^{-1}                                              B. 8.0×10^{-2}
+    C. 8.0×10^{-3}                                              D. 4.5×10^{-4}
+
+38. For the reaction: C2H4(g) + H2(g) → C2H6(g), ΔH = -137 kJ. Which statement about the information is correct?        (1)
+    A. The total energy of the bonds broken in the reactants is greater than the total energy of the bonds formed in the
+       products.
+    B. The bonds broken and the bonds made are of the same strength.
+    C. The total energy of the bonds broken in the reactants is less than the total energy of the bonds formed in the
+       products.
+    D. No conclusion can be made about the sums of the bond enthalpies.
+
+39. Under what conditions can we absolutely say a system is at equilibrium at constant temperature and pressure?        (1)
+    A. Change in Enthalpy is equal to Zero.
+    B. Change in Gibbs free energy is equal to Zero.
+    C. Change in Entropy is greater than Zero
+    D. Change in Enthalpy is greater than Zero.
+
+40. Which of the following substances would you expect to have the highest entropy at 1 atm of pressure?                (1)
+    A. 1 mol of H2O(l)
+    B. 1 mol of H2O(s)
+    C. 0.5 mol of ethanol in 0.5 mol of H2O(l)
+    D. a gaseous solution of 0.5 mol of CH4(g) and 0.5 mol of H2O(g)
+
+41. Which of the following is capable of acting both as an oxidizing and reducing agent?                                (1)
+
+    A. SnCl2                                                    B. H2O2
+    C. NaF                                                      D. KMnO4
+
+42. Which of the following is NOT true about the anode of an electrolytic cell?                                         (1)
+    A. Oxidation occurs at it.
+    B. It is assigned as the positive pole.
+    C. Cations in solution move away from the surface of the electrode as the redox reaction occurs.
+    D. It is deficient in number of electrons.
+
+43. The reaction MnO4- + C2O4^2- → MnO2 + CO3^2- is not balanced. If the reaction is balanced using basic               (1)
+    medium, the coefficient of OH- and H2O will be respectively?
+    A. 4 and 2                                                  B. 2 and 4
+    C. 2 and 3                                                  D. 3 and 2
+44. In which of the following aqueous solution can water be oxidized and O2 forms at the anode and water is         (1)
+    reduced and H2 forms at the cathode?
+    A. KBr                                                     B. MgSO4
+    C. AgNO3                                                   D. NaBr
+
+45. If you want to plate out an iron spoon with silver metal, then which of the following is TRUE?                  (1)
+    A. The electrolyte must contain silver ion
+    B. The iron spoon must be set at the anode
+    C. The silver metal must be the cathode
+    D. The material to be plated must be the anode
+
+46. The standard state of water is?                                                                                 (1)
+    A. Steam                                                   B. Liquid
+    C. Ice                                                     D. Vapour state
+
+47. What type of bond you observe in phenol other than 5 C-H bond?                                                  (1)
+    A. 3C=C, 3C-C and 1O-H                                     B. 3C=C, 3C-C, 1C-O and 1O-H
+    C. 6C-C, 1C-O and 1O-H                                     D. 4C=C, 2C-C, 2C-O and 1O-H
+
+48. Which batteries are faced with leak out and environmental problem respectively?                                 (1)
+
+    A. Nickel-cadmium and fuel cells                           B. Nickel-cadmium and dry cells
+    C. Dry cells and Mercury cells                             D. Dry cells and fuel cells
+
+49. When the compounds below are listed in order of decreasing boiling point (highest to lowest) which one is the   (1)
+    correct order? 1. Ethane 2. Fluoroethane 3. Ethanol 4. Ethanoic acid
+    A. 4,3,1,2                                                 B. 3,4,1,2
+    C. 4,3,2,1                                                 D. 2,1,3,4
+
+50. Which one of the following is the formal charge on each atom in dichloromethane (CH2Cl2)?                       (1)
+    A. C=0, H=+1, Cl=-1                                        B. C=0, H=0, Cl=0
+    C. C=0, H=+1, Cl=-1                                        D. C=-2, H=+1, Cl=+1
+
+51. Which one of the following species has the same molecular geometry: CO2, H2O, BeCl2, and N2O?                   (1)
+    A. CO2 and N2O                                             B. H2O and N2O
+    C. CO2 and BeCl2                                           D. CO2, BeCl2, and N2O
+
+52. Which hybridization change does the carbon atom undergo in the combustion of methane? CH4(g) + 2O2(g) →         (1)
+    CO2(g) + 2H2O(g)
+    A. sp → sp^2                                               B. sp^3 → sp
+    C. sp^2 → sp^3                                             D. sp^2 → sp
+
+53. The number of sigma and pi bonds present in benzene (C6H6) molecule is                                          (1)
+    A. 12 sigma and 3 pi                                       B. 3 sigma and 12 pi
+    C. 18 sigma and 6 pi                                       D. 6 pi and 18 sigma
+54. Which one of the following characteristics applies to PCl3? I. Nonpolar molecule II. Polar bonds III. Trigonal-     (1)
+    pyramidal molecular geometry IV. sp^2 hybridized
+    A. I and II                                                   B. II and III
+    C. I, II and III                                              D. I, II, III and IV
+
+55. According to molecular orbital theory, which one of the following species is most likely to exist?                  (1)
+    A. He2                                                        B. Be2
+    C. Ne2                                                        D. Li2
+
+56. According to molecular orbital theory, what is the bond order of O2?                                                (1)
+
+    A. 1                                                          B. 2
+    C. 2.5                                                        D. 1.5
+
+57. Which of the following data gives the most precise measurement?                                                     (1)
+    A. 3.0                                                        B. 3.00
+    C. 3.000                                                      D. 3.0000
+
+58. Which one is the correct order of increasing Cl-A-Cl bond angle in the following species where A is central         (1)
+    atom: I. BCl3, II. SiCl4, III. SCl2, IV. PCl3?
+    A. III < IV < II < I                                          B. II < III < I < IV
+    C. IV < I < II < III                                          D. I < II < III < IV
+
+59. What substance is reduced in an alkaline-cell battery?                                                              (1)
+    A. Zn(s)                                                      B. Zn^2+(aq)
+    C. NH4+(aq)                                                   D. MnO2(s)
+
+60. When iron is 'galvanized', what metal is used to coat iron?                                                         (1)
+    A. Al                                                         B. Mn
+    C. Zn                                                         D. Cr
+
+61. What is E° for the following balanced reaction? Zn(s) + Pb^2+(aq) → Zn^2+(aq) + Pb(s). Given reduction potentials: (1)
+    Zn^2+/Zn = -0.763 V, Pb^2+/Pb = -0.126 V.
+    A. +0.637 V                                                   B. -0.889 V
+    C. -0.637 V                                                   D. +0.889 V
+
+62. The value of E° for the reaction Zn(s) + Cu^2+(aq) → Cu(s) + Zn^2+(aq) is 1.10 V. What is the value of Ecell when   (1)
+    the concentrations of Cu^2+ and Zn^2+ are equal to 0.025 M?
+    A. 1.10 V                                                     B. 0.95 V
+    C. 1.15 V                                                     D. 0.80 V
+
+63. Natural rubber is a polymer of                                                                                      (1)
+
+    A. butadiene                                                  B. isoprene
+    C. neoprene                                                   D. styrene
+
+64. Why the name given NYLON 66 co-polymer? This is because                                                             (1)
+    A. It is discovered in 1966                                   B. Both the monomers have 6 carbons each
+    C. The longest chain contains 6 carbons                       D. It is the sixth polymer
+65. Bakelite is obtained from phenol by reacting with                                                                    (1)
+    A. HCHO                                                    B. (CH2OH)2
+    C. CH3CHO                                                  D. CH3COCH3
+
+66. The froth-flotation process in metallurgy involves which of the following?                                           (1)
+
+    A. mining of an ore                                        B. smelting of iron
+    C. concentration of an ore                                 D. reduction of metal ion
+
+67. Which of the following substances are added to natural rubber to toughen it?                                         (1)
+    A. Calcium                                                 B. Carbon
+    C. Nitrogen                                                D. Sulfur
+
+68. Which will be the best method to decrease the random uncertainty of a measurement in an acid-base titration?         (1)
+    A. Repeat the titration                                    B. Use a different titrant
+    C. Use a different analyte                                 D. Use a different indicator
+
+69. Which of the following is the most important type of solute-solvent interaction in solution NaCl(s) in water?        (1)
+    A. Dispersion                                              B. Ion-dipole
+    C. Dipole-dipole                                           D. Hydrogen bonding
+
+70. Which of the following hydride orbital is favoring the formation of see-saw?                                         (1)
+
+    A. sp^3d                                                   B. sp^3d^2
+    C. sp^3                                                    D. sp^3d^3
+
+71. A neutral molecule having the general formula AX3 has one unshared pair of electrons on A. Which is the              (1)
+    hybridization of A?
+    A. sp^3                                                    B. sp^3d
+    C. sp^3d^2                                                 D. sp^3d^3
+
+72. For lithium, enthalpy of sublimation = +161 kJ/mol, first IE = +520 kJ/mol. Dissociation energy of F2 = +154         (1)
+    kJ/mol, electron affinity of F = -328 kJ/mol. Lattice energy of LiF = -1047 kJ/mol. The overall enthalpy of
+    formation for LiF is:
+    A. -617 kJ/mol                                             B. 2134 kJ/mol
+    C. -694 kJ/mol                                             D. 2066 kJ/mol
+
+73. Which of the following statements is correct about hydrogen cyanide (HCN)?                                           (1)
+
+    A. It has linear geometry with C as central atom.
+    B. It has bent or angular geometry with C as central atom.
+    C. It has trigonal planar geometry with N as central atom.
+    D. It has bent or angular geometry with N as central atom.
+
+74. Which one of the following electromagnetic radiations has the highest energy?                                        (1)
+    A. X-rays                                                  B. Gamma rays
+    C. UV rays                                                 D. Microwaves
+
+75. When electrons fall down from the higher energy level to the first excited state, the spectral lines correspond to: (1)
+    A. Pfund series                                            B. Paschen series
+    C. Lyman series                                            D. Balmer series
+76. The maximum number of electrons in p-orbital with n=6, ml=0 is                                                 (1)
+    A. 2                                                               B. 16
+    C. 6                                                               D. 14
+
+77. Which of the following electrons, identified only by their n and l quantum numbers, have the highest energy?   (1)
+
+    A. n=3, l=2                                                        B. n=4, l=1
+    C. n=4, l=2                                                        D. n=3, l=0
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

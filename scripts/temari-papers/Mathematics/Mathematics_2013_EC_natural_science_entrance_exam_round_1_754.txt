@@ -1,0 +1,480 @@
+                                                          Temari.et
+                Mathematics, 2013 EC, natural science, entrance exam, round 1
+                                              Grade 12 · Mathematics · 2013 E.C.
+
+Time allowed: 120 minutes                                    Questions: 55                                        Total marks: 55
+
+Name                                              Grade                        ID No.                  Date
+
+1.   Given two vectors u = (1, 3) and v = (−3, 5) in the plane. Then 6u + 2v is equal to                                       (1)
+     A. (0, 18)                                                   B. (3, 3)
+     C. (2, 28)                                                   D. (0, 28)
+
+2.   Which one of the following is the standard form of the equation of the circle centered at (2, −3) and radius 5?           (1)
+                  2          2                                                  2         2
+     A. (x − 2) + (y − 3) = 25                                    B. (x − 2) + (y + 3) = 25
+                  2           2
+     C. (x + 2) + (y + 3) = 5                                     D. (x + 2)2 + (y − 3)2 = 25
+
+3.   If f is a continuous function on [a, b] and F is its anti-derivative, then which of the following is true?                (1)
+     A. ∫ b F ′ (x)dx = f (b) − f (a)                             B. ∫ b F (x)dx = f (b) − f (a)
+         a                                                            a
+            ​                                                              ​
+
+
+
+
+     C. ∫ b f (x)dx = F (b) − F (a)                               D. ∫ b f ′ (x)dx = F (b) − F (a)
+         a  ​
+
+
+
+
+                                                                      a    ​
+
+
+
+
+4.   Which of the following defines the equation of a sphere whose center is at (0, −1, 2) and radius 6 units?                 (1)
+     A. x2 + (y + 1)2 + (z − 2)2 = 36                             B. x2 + (y − 1)2 + (z − 2)2 = 36
+     C. x2 + (y + 1)2 + (z − 2)2 = 12                             D. x2 + (y + 1)2 + (z + 2)2 = 36
+
+5.   Which of the following represents the vector (3, −5, 7) in the space using the standard unit vectors i, j and k?          (1)
+     A. 3i − 5j − 7k                                              B. 3i + 5j + 7k
+     C. 3i − 5j + 7k                                              D. −3i − 5j − 7k
+
+6.   Which one of the following is the scalar (dot) product of the vectors (2, −4, 6) and (−2, −1, 0)?                         (1)
+
+     A. 0                                                         B. -8
+     C. 8                                                         D. -4
+                                                                   3
+7.   What are the domain and range of the function f (x) = 2x 4 respectively?
+                                                                       ​
+
+
+
+
+                                                                                                                               (1)
+     A. R and [0, ∞)                                              B. [0, ∞) and R
+     C. [0, ∞) and R                                              D. [0, ∞) and [0, ∞)
+
+8.   Which one of the following defines a one-to-one function?                                                                 (1)
+
+     A. f = {(x, y) : x is a sister of y}                         B. f = {(x, y) : y = 3x − 1}
+     C. f = f (x, y) : y = x2 + 1}                                D. f = {(x, y) : y is a father of x}
+
+9.   The equation of a circle is given by (x − 3)2 + (y + 2)2 = 9. What are the center and the radius of the circle            (1)
+     respectively?
+     A. (3, -2) and 3                                             B. (3, 2) and 3
+     C. (3, -2) and 9                                             D. (3, 2) and 9
+10. Which one of the following sentences has a truth value?                                                                                   (1)
+      A. Man is selfish.                                                     B. We shall win!
+      C. Man is mortal!                                                      D. Tomorrow is a beautiful day.
+
+11.                                             1       −7
+      What is the determinant of the matrix [              ]?                                                                                 (1)
+                                                6       5
+                                                    ​     ​
+
+
+
+
+      A. -37                                                                 B. -47
+      C. 47                                                                  D. 37
+
+12. The additive inverse of the complex number 3 − 4i is                                                                                      (1)
+      A. −3 + 4i                                                             B. −3 − 4i
+      C. 3 − 4i                                                              D. 3 + 4i
+
+13. What is the modulus of the complex number −6 + 8i?                                                                                        (1)
+
+      A. 5                                                                   B. 2
+      C. 10                                                                  D. 8
+
+14. Consider the following frequency distribution graph Value 5 3 7 6 8 Frequency 3 4 5 3 5 What is the sixth decile? (1)
+      A. 6.5                                                                 B. 5
+      C. 7.5                                                                 D. 7
+
+15. In a certain health center there are 3 doctors, 8 nurses and 2 physicians. In how many ways one can form a                                (1)
+    group of 5 members consisting of 1 doctor, 3 nurses and 1 physician?
+      A. 168                                                                 B. 112
+      C. 336                                                                 D. 330
+
+16. Which one of the following forms represents an exhaustive set of events if a die is thrown once?                                          (1)
+      A. {1, 2}, {4}, {4, 5, 6}                                              B. {1, 2, 3}, {4, 5}, {6}
+      C. {1, 2}, {2}, {4, 5}, {5, 6}                                         D. {1, 2, 3}, {3, 4}, {6}
+
+17.                                                                                           −2                3             −1       5
+      Which of the following is the product AB of the two matrices A = [                                          ] and B = [            ]?   (1)
+                                                                                              1                 4             3        0
+                                                                                                        ​        ​                 ​    ​
+
+
+
+
+      A. −11 −10                                                             B. −11            10
+        [          ]                                                           [                 ]
+           11   5                                                                11            5
+                       ​           ​                                                      ​         ​
+
+
+
+
+      C. 11 −10                                                              D. −11            10
+        [        ]                                                             [                  ]
+          11  5                                                                  11            −5
+               ​               ​                                                          ​                 ​
+
+
+
+
+18. Which one of the following is NOT true about the determinant of a given square matrix A?                                                  (1)
+      A. If A contains a row of zeros, then its determinant is zero.
+      B. If A has identical rows, then its determinant is zero.
+      C. The determinant of A is equal to the determinant of its transpose.
+      D. Interchanging two rows of A gives the same determinant.
+
+19.                                                             2       3
+      Which of the following is the inverse of the matrix [               ]?                                                                  (1)
+                                                                3       4
+                                                                    ​    ​
+
+
+
+
+      A. −4 3                                                                B. −2             3
+        [      ]                                                               [                 ]
+          3 −2                                                                    3           −4
+                           ​                                                          ​         ​
+
+
+
+
+      C. 4 −3                                                                D. −4            −3
+        [      ]                                                               [                 ]
+          −3 2                                                                   −3           −2
+                   ​       ​                                                          ​         ​
+20. Consider the system of linear equation $ \left\{ \begin{array}{r l} 3x - ay & = 1 \\ 6x + 4y & = 5 \end{array} \right.   (1)
+    $ Then which of the following is true?
+     A. If a > −2, then the system has a unique solution.
+     B. If a = −2, then the system has a unique solution.
+     C. If a = 2, then the system has no solution.
+     D. If a > 2, then the system has infinitely many solutions.
+
+21. What is the magnitude of the vector whose initial point is at (1, -3) and terminal point is at (4, 1)?                   (1)
+     A. 5                                                             B. 6
+     C. 1                                                             D. 4
+
+22. Which of the following is true?                                                                                          (1)
+     A. The domain of y = tan−1 x is (−∞, ∞).                         B. The domain of y = cos−1 x is (−1, 1).
+     C. sin−1 (0) = π2 .                ​
+                                                                      D. tan−1 (0) = 1.
+
+23. Which one of the following is the fourth term of the sequence { cos( nπ
+                                                                          2 )}?                         ​                    (1)
+     A. 0                                                             B. -1
+     C. 1                                                             D. 0.5
+
+24. A factory that produces electric cable had sales Birr 1,000,000 the first day. During each successive days the           (1)
+    sales increased by Birr 10,000 every day. What is the total sales of the factory in the first 10 days?
+     A. Birr 10,000,000                                               B. Birr 1,090,000
+     C. Birr 20,900,000                                               D. Birr 10,450,000
+                                                                          ∞
+25. What is the least upper bound of the sequence {2 + n+1
+                                                        n
+                                                           }      ​                 ?
+                                                                                    ​                                        (1)
+                                                                          n=1
+     A. 1                                                             B. 0
+     C. 3                                                             D. 2
+
+26. Suppose an and bn are sequences with liman = Landlimbn = M . Then which of the following is NOT
+                    ​                       ​           ​                       ​
+                                                                                                                             (1)
+    necessarily true?
+     A.                                                               B.
+          lim (3an + 2bn ) = 3L + 2M
+                ​       ​                       ​                             lim (an − bn ) = L − M
+                                                                                        ​       ​           ​
+
+
+
+
+          n→∞                                                              n→∞
+
+     C.                                                               D.
+           lim ( ) =
+                an   L          ​
+
+                                                                              lim an bn = LM
+                                                                                        ​   ​       ​
+
+
+
+
+                ​                   ​               ​
+                                                                           n→∞
+          n→∞   bn   M      ​
+
+
+
+
+27. Which of the following is the same as the derivative of a function f' at a point P, where P is on the graph of f?        (1)
+     A. The continuity of the function at P.                          B. The slope of a secant line through P.
+     C. The slope of the tangent line through P.                      D. The graph of f has no jump at P.
+
+28. What is the derivative of the function f (x) = 3x2 + 2 x − 4x at x = 1?
+                                                                      ​                                                      (1)
+     A. -1                                                            B. -3
+     C. 3                                                             D. 1
+29. Which of the following is true about the zero of a function?                                                          (1)
+    A. It is the y-intercept of the function.
+    B. It is the x-intercept of the function.
+    C. It is the concavity point of the function.
+    D. It is the critical point of the function.
+
+30. Which of the following is true about the function defined by f (x) = x3 − 3x2 on [-1, 3]?                             (1)
+    A. Its critical numbers are 0 and 2 and its maximum value is 15.
+    B. Its critical numbers are 0, 2, 3 and its maximum value is 0.
+    C. It has critical numbers at 0 and 2 and its maximum value is 0.
+    D. Its critical numbers are 0 and 2 and its maximum value is -4.
+
+31. What is the number that satisfies Rolle's Theorem for f (x) = x3 − 3x + 1 on [0, 3]?                                  (1)
+    A. 1                                                        B. − 32          ​
+
+
+
+
+    C. 2                                                        D.   3
+                                                                     2
+                                                                         ​
+
+
+
+
+32. What are the length L and width W of a rectangle with perimeter 10,000m that maximizes the area?                      (1)
+    A. L = 2,500 m and W = 2,000 m                              B. L = 2,500 m and W = 2,500 m
+    C. L = 5,000 m and W = 5,000 m.                             D. L = 3,000 m and W = 2,500 m.
+
+33. If the radius r of a sphere is increasing at the rate of 2 cm/min, then the rate of change of the volume when r = 1   (1)
+    cm is
+    A. 6π cm3 /min                                              B. 4π cm3 /min
+    C. 12π cm3 /min                                             D. 8π cm3 /min
+
+34. Suppose ∫ 3 f (x) dx = 6 and ∫ 2 f (x) dx = 10, what is the value of ∫ 3 f (x) dx ?                                   (1)
+                  1                   1                                              2
+                      ​                   ​                                              ​
+
+
+
+
+    A. 2                                                        B. -4
+    C. 16                                                       D. 4
+
+35. Which of the following statements has a truth value T?                                                                (1)
+    A. (p ∧ q) ⇒ (p ∨ q)                                        B. (p ∧ q) ⇒ ¬(p ∨ q)
+    C. (p ∨ q) ⇒ (p ∧ q)                                        D. (p ⇒ q) ⇒ (p ∨ q)
+
+36. Which of the following is equal to ∫ (cos x − 2x)dx where c is a constant?                                            (1)
+    A. sinx + x^2 + c                                           B. -sinx - x^2 + c
+    C. sinx - x^2 + c                                           D. -sinx + x^2 + c
+
+37. What is the area of the region bounded by y = 0 and the graph of f (x) = 4 − x2 on the interval [−1, 1]?              (1)
+    A.                                                          B.
+         22                                                          2
+         3                                                           3
+              ​                                                              ​
+
+
+
+
+    C.                                                          D. 8
+         26
+         3
+              ​
+38. The inverse of the function y = 3x − 5 is equal to                                                                   (1)
+    A. y = x+5
+            3    ​
+                                                                B. y = x+3
+                                                                        5        ​
+
+
+
+
+    C. y = x−5
+            3    ​
+                                                                D. y = −5x + 3
+
+39. Which of the following is the universal set of the expression x12 ÷ xx+1
+                                                                          2 +x ?
+                                                                             ​       ​                                   (1)
+
+    A. R \ {0, 1}                                               B. R{0}
+    C. R \ {0, 1, -1}                                           D. R \ {0, -1}
+
+40. The equation of a line is given by 3x − 2y + 6 = 0. Then which of the following is true about the line?              (1)
+    A. Its y-intercept is −3                                    B. Its slope is 32       ​
+
+
+
+
+    C. (2, 5) lies on the line                                  D. Its x-intercept is 2
+
+41. Which one of the following is the standard form of the equation of the parabola with vertex (4, 6) and focus         (1)
+    (−8, 6)?
+    A. (x − 4)2 = −12(y − 6)                                    B. (x − 4)2 = 12(y − 6)
+    C. (y − 6)2 = 48(x − 4)                                     D. (y − 6)2 = −48(x − 4)
+                                                                     2
+42. Which of the following is true about the hyperbola given by x − y 2 = 1?                                             (1)
+                                                                     4
+                                                                         ​
+
+
+
+
+    A. Its foci are at (−5, 0) and (5, 0)                       B. Its vertices are at (−2, 0) and (2, 0)
+    C. Its center is at (2, 1)                                  D. An asymptote to the hyperbola is y = 2x
+
+43. Two statements p and q are given by: p : 22
+                                              7 is an irrational number. $q:$ The sum of two odd integers is odd.
+                                                  ​                                                                      (1)
+    Then which of the following has a truth value T ?
+    A. p ∧ ¬q                                                   B. p ∨ ¬q
+    C. −p ∧ q                                                   D. p ∧ q
+
+44. Which one of the following is the contrapositive of the statement: If 21 is a prime number, then 4 is an odd         (1)
+    number?
+    A. If 4 is an odd number, then 21 is not a prime number
+    B. If 4 is an odd number, then 21 is a prime number
+    C. If 4 is not an odd number, then 21 is not a prime number
+    D. If 21 is not a prime number, then 4 is an even number
+
+45. Which of the following is true where c is a constant?                                                                (1)
+
+    A.                                                          B.
+           sin x                                                                                  (3x + 5)7
+         ∫       dx = −2 cos x + c                                   ∫ (3x + 5)6 dx =                       +c
+                         ​
+
+
+
+
+                                                                                                      7
+                         ​            ​                                                                   ​
+
+
+
+
+              x      ​
+
+
+
+
+    C.                                                          D.
+                 1                                                                           x2 x
+         ln xdx = + c        ​
+
+
+                                                                     ∫ xex dx =                e +c
+                 x                                                                           2
+                                                                                              ​
+
+
+
+
+46. The acceleration of a body at any time t is given by a(t) = 4 − 2t + 3t2 with initial velocity v(0) = 5. Then what   (1)
+    is the velocity v of the body as a function of time?
+    A. v(t) = 1 + 4t − t2 + t3                                  B. v(t) = 5 + 4t − t2 + t3
+    C. v(t) = −2 + 6t                                           D. v(t) = 9 − t2 + t3
+47. Which of the following argument is valid?                                                                           (1)
+    A. p, ¬q ⊢ p ⟹ q                                                  B. ¬p, q ⊢ p ⟹ q
+    C. p, ¬q ⊢ p ⟹ q                                                  D. p, ¬q ⊢ p ∧ q
+
+48. Which of the following proof is more suitable to prove the assertion: 1 + 23 + 33 + ... + n3 = (1 + 2 + 3 +         (1)
+    ... + n)2
+    A. Proof by counter example
+    B. Proof by the principle of mathematical induction
+    C. Proof by contradiction
+    D. Proof by indirect proof
+
+49. What is the coefficient of x2 in the binomial expansion of (2x + 33 )8 ?                                            (1)
+                                                                                     x       ​
+
+
+
+
+    A. 6                                                              B. 0
+    C. 576                                                            D. 500
+
+50. Which of the following is true about the graph of y = −4 cos ( 2x
+                                                                    3 )?             ​                                  (1)
+    A. Its period is 3π
+    B. Its amplitude is −4
+    C. The graph completes one cycle on the interval [0, 3π
+                                                          2 ]     ​
+
+
+
+
+    D. The graph completes one cycle on the interval [0, 3 ]
+                                                         2π   ​
+
+
+
+
+51. Math test scores distribution of 20 students is given as in Table 2 below? Scores 1 - 5 6 - 10 11 - 15 16 - 20      (1)
+    Frequency 4 6 8 2 What is the standard deviation of the scores?
+    A. 5                                                              B. 4
+    C. 21          ​
+                                                                      D. 20              ​
+
+
+
+
+52. The angle of elevation of the top of a tree is found to be 60° as measured from a point on a level ground. What is (1)
+    the height of the tree if the angle of elevation of a point on the tree that is 8m below the top is 30° as measured
+    from the same point on the ground?
+    A. 8m                                                             B. 4m
+    C. 14m                                                            D. 12m
+
+53. Which of the following series is convergent?                                                                        (1)
+
+    A.   ∞                                                            B.   ∞                         −n
+                                                                               2
+         ∑5            11−2n
+                                                                           ∑( )
+                                                                               5
+               ​                                                                 ​               ​
+
+
+
+
+         n=1                                                               n=1
+
+    C.   ∞                   n
+                                                                      D.   ∞
+             3
+         ∑( )                                                              ∑ 22n−5
+             2
+               ​         ​                                                       ​
+
+
+
+
+         n=1                                                               n=1
+
+
+
+54. Let f be a function defined on a closed bounded interval [a, b]. Which of the following describes that f is         (1)
+    continuous on [a, b]?
+    A. f is continuous on (a, b), f is continuous from the right at a and from the left at b
+    B. f is continuous at each point in (a, b) and at both a and b
+    C. f is continuous on (a, b), f is continuous from the left at a and from the right at b
+    D. f is continuous on (a, b), f is continuous from the left at a and from the left at b
+55. If f ′ (1) = 4, f (1) = 3 and g(3) = 5, then (gof )′ (1) is equal to                                   (1)
+    A. 5                                                                B. 3
+    C. 20                                                               D. 15
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

@@ -1,0 +1,394 @@
+                                                         Temari.et
+                                    Physics, 2005 EC, entrance exam
+                                                Grade 12 · Physics · 2005 E.C.
+
+Time allowed: 120 minutes                                    Questions: 47                                    Total marks: 47
+
+Name                                             Grade                       ID No.                Date
+
+1.   Which of the following is correct about the meaning of Photon?                                                        (1)
+     A. quantum of matter                                        B. positively charged particle
+     C. negatively charged particle                              D. quantum of light
+
+2.   Consider a series RC circuit for which R = 1.0 MΩ, C = 5 μF and ε = 30 V. What is the time constant of the            (1)
+     circuit and the maximum charge on the capacitor after the switch is closed respectively?
+     A. 5 seconds, 150 ΩC                                        B. 7 seconds, 155 Ω C
+     C. 10 seconds, 160 ΩC                                       D. 9 seconds, 135 Mc
+
+3.   What is the direction with which a fish must push the water with its fins in order to propel eastward?                (1)
+     A. eastward                                                 B. upward
+     C. westward                                                 D. downward
+
+4.   One person drops a ball from the top of a building while another person at the bottom observes its motion. The        (1)
+     two people disagree on which of the following?
+     A. The value of the total energy of the ball.
+     B. The change in potential energy of the ball.
+     C. The value of the gravitational potential energy of the ball earth system.
+     D. The kinetic energy of the ball at some point in its motion if one of them is walking.
+
+5.   Two non-zero vectors A and B are related by A = cB where c is a scalar. If the two vectors have opposite              (1)
+     directions, then one of the following is true about c?
+     A. c is a positive number                                   B. c is a negative number
+     C. c = 1                                                    D. c = 0
+
+6.   On which of the following does the induced emf in a coil NOT depend when a magnet is inserted into it?                (1)
+
+     A. resistance of the coil                                   B. number of turns of the coil
+     C. speed approach of the magnet                             D. magnetic moment of the magnet
+
+7.   A wave have a speed of 50m/s and a wavelength of 25,000m. What is the frequency of the wave?                          (1)
+     A. 2.0 × 10−3 HZ                                            B. 5.0 × 10−2 HZ
+     C. 6.0 × 101 HZ                                             D. 1.8 × 106 HZ
+
+8.   An oscillating system is used to create a succession of wave on a water surface. The rate of wave generation is       (1)
+     one every 0.33 seconds. What is the period of these wave?
+     A. 0.3 seconds                                              B. 1.0 seconds
+     C. 2.0 seconds                                              D. 3.0 seconds
+9.   A vector that represents the position of an object in relation to another object is called                              (1)
+     A. unit vectors                                             B. position vectors
+     C. coplanar vectors                                         D. collinear vectors
+
+10. In a reversible thermodynamic process, the system                                                                        (1)
+
+     A. is always close to equilibrium states
+     B. might never be close to any equilibrium states
+     C. is close to equilibrium states only at the beginning and end
+     D. is close to equilibrium states throughout, except at the beginning and end
+
+11. Points A and B are each a distance d from each of two equal and opposite charge as shown below. What will be             (1)
+    the work required to move a negative charge q from A to B?
+    [Figure: A hand-drawn rhombus (diamond) standing on one of its diagonals. The point A is at the top vertex and
+    the point B is at the bottom vertex. A large circle labelled +Q sits at the left vertex and a large circle labelled -Q
+    sits at the right vertex; a straight horizontal line joins the two charges through the centre, and a straight vertical
+    line joins A to B through the same centre. Each of the four sides of the rhombus is labelled d: the upper-left side
+    (from +Q to A), the upper-right side (from A to -Q), the lower-left side (from +Q to B) and the lower-right side
+    (from B to -Q).]
+    A. zero                                                         B. qQ
+                                                                       4πεo d2
+                                                                              ​
+
+
+
+
+                                                                          ​
+
+
+
+
+    C. qQ                                                           D.    qQ
+        4πεo d                                                         4πεo (4d2 )
+                  ​                                                                       ​
+
+
+
+
+                                                                          ​
+              ​
+
+
+
+
+12. An air-filled parallel-plate capacitor has a capacitance of 1Pf. The plate separation is then doubled and a wax     (1)
+    dielectric is inserted, completely filling the space between the plates. As a result, the capacitance becomes 2 Pf.
+    What is the dielectric constant of the wax?
+     A. 8.0                                                      B. 4.0
+     C. 2.0                                                      D. 0.5
+
+13. A step-up transformer is used to                                                                                         (1)
+     A. increase the power                                       B. decrease the power
+     C. increase the voltage                                     D. decrease the voltage
+
+14. A 220-V power line is protected by a 15-A fuse. What is the maximum number of "220V, 500W" light bulbs that              (1)
+    can be operated at full brightness from this line?
+     A. 2                                                        B. 4
+     C. 6                                                        D. 8
+
+15. If A = 8i + j − 2k and B = 5i − 3j + k , then what is the value of B × A?
+                          ​                  ​                                                                               (1)
+     A. 3i + 4j − 3k  ​
+                                                                 B. −3i − 4j + 3k     ​
+
+
+
+
+     C. −5i − 18j − 29k       ​
+                                                                 D. 5i + 18j + 29k​
+
+
+
+
+16. A woman driving a 2000 kg car along a level road at 30m/s takes her foot off the gas to see how far her car will (1)
+    roll before it slows to a stop. She discovers that it takes 150m.What is the average force of friction acting on the
+    car?
+     A. 9000N                                                    B. 6000N
+     C. 3000N                                                    D. 400N
+17. The radius of the wheel shown below is 0.75m. What is its moment of inertia?                                         (1)
+    [Figure: A hand-drawn wheel: a large circle (the rim) with a small hub at the centre and four straight spokes
+    running from the hub to the rim at the top, bottom, left and right. Where each spoke meets the rim there is a
+    small circle representing a point mass, and each of the four masses is labelled 3kg.]
+    A. 2.25 kgm2                                                B. 3.38 kgm2
+    C. 6.75 kgm2                                                D. 9.00 kgm2
+
+18. An ordinary refrigerator is turned on and its door is open in a thermally insulated kitchen. What is the             (1)
+    temperature of the room?
+    A. increases according to the first law of thermodynamics
+    B. decreases according to the first law of thermodynamics
+    C. remains constant according to the first law of thermodynamics
+    D. remains constant according to the second law of thermodynamics
+
+19. The length of an aluminium rod at a temperature of 20∘ c is 3m. What will be the ratio of change in the length of (1)
+    the rod to its original length if its temperature is raised to 120∘ c? the coefficient of linear expansion of aluminium
+    is 3.31 × 10−5 /K
+    A. 23%                                                      B. 3.2%
+    C. 3%                                                       D. 0.23%
+
+20. A very large open tank is full of oil whose density is 800kg/m. if the absolute pressure at the bottom of the tank   (1)
+    is 1.81 × 105 Pa, then what is the depth of the oil? (Note that atmospheric pressure is 1.01 × 105 Pa)
+    A. 100.0m                                                   B. 75.0m
+    C. 10.0m                                                    D. 9.5m
+
+21. A 1.5kg particle moves in the xy-plane with velocity v = (4.2i − 3.6j ) what is its angular momentum when the
+                                                                             ​                                           (1)
+    position vector is r = (1.5 i + 2.2 j )m?
+                                          ​
+
+
+
+
+    A. −22k kgm2                                                B. 14.6k kgm2
+    C. −14.6k kgm2                                              D. 22k kgm2
+
+22. A 2kg object experiences two concurrent forces of 100N at 30∘ above the positive x-axis and 80N at 60∘ above         (1)
+    the negative x-axis. What is the magnitude of acceleration of the object?
+    A. 68 m/s2                                                  B. 64 m/s2
+    C. 48 m/s2                                                  D. 46 m/s2
+
+23. A driver moving at a constant speed of 20m/s sees an accident up ahead and hits the brakes. If the car               (1)
+    decelerates at a constant rate of −5 m/s2 , how far does the car go before it comes to a stop?
+    A. 120m                                                     B. 100m
+    C. 40m                                                      D. 20m
+
+24. The energy spectrum emitted by a black body at different temperature is as shown in figure below. Which of the       (1)
+    following statements is NOT correct about the black body energy spectrum?
+    A. T1 < T2 < T3 < T4
+          ​      ​     ​     ​
+
+
+
+
+    B. λ1 > λ2 > λ3 > λ4
+          ​      ​     ​     ​
+
+
+
+
+    C. black body radiate energy over the entire electromagnetic spectrum
+    D. the wavelength corresponding to the maximum intensity increases with temperature
+25. A rectangular loop carrying a current is situated near a long straight wire such that the wire is parallel to one of    (1)
+    its sides of the loop and it is in a plane of the loop. If a steady current is established in the wire as shown in
+    figure below, the loop will
+    [Figure: A hand-drawn figure. On the left is a long straight vertical wire carrying a current labelled I, with an
+    arrowhead near the top of the wire showing the current flowing upward. To the right of the wire, in the same
+    plane, is a rectangular loop whose left side is parallel to the straight wire. The loop carries a current labelled i,
+    drawn clockwise: an arrowhead on the top side points to the right, an arrowhead on the right side points down,
+    an arrowhead on the bottom side points to the left, and an arrowhead on the left side points up.]
+    A. Remain stationary.
+    B. Move toward the wire.
+    C. Move away from the wire.
+    D. Rotate about an axis parallel to the wire.
+
+26. Which devices uses the principle of electromagnetic induction for its operation?                                        (1)
+    A. AC generator                                               B. moving coil meter
+    C. cathode ray tube                                           D. light emitting diode
+
+27. An electron enters a region of uniform electric field of 5 × 103 N/C. what is the force on the electron?                (1)
+
+    A. 8 × 10−22 N                                                B. 5.3 × 10−22 N
+    C. 8 × 10−16 N                                                D. 1.88 × 1022 N
+
+28. In the circuit shown below, what is the potential difference between points B and D?                               (1)
+    [Figure: A hand-drawn circuit. A 6 V battery sits in the top wire of an outer rectangular loop. The left-hand side
+    of that loop comes down to a node labelled A and the right-hand side comes down to a node labelled C.
+    Between A and C there are two parallel branches. The upper branch runs from A through a 6 ohm resistor to a
+    point labelled B and then through a 12 ohm resistor to C. The lower branch runs from A through a 12 ohm resistor
+    to a point labelled D and then through a 6 ohm resistor to C.]
+    A. 1V                                                         B. 2V
+    C. 3V                                                         D. 4V
+
+29. The planet Jupiter is about 318 times as massive as earth, yet on its surface you would weigh only about 2.4            (1)
+    times your weight on earth. Why is this happened?
+    A. Your mass is 132.5 times less on Jupiter.
+    B. You are 132.5 times more weightless there.
+    C. Jupiter is significantly farther from the sun.
+    D. Jupiter's radius is about 11.5 times the earth's radius.
+
+30. A uniform ball of radius r and mass m starts from rest and rolls down a frictionless inline of height h. when the       (1)
+    ball reaches the ground, how fast is it going?
+    A.      10                                                    B.       9
+               gh                                                            gh
+            7                                                             10
+                ​   ​                                                         ​   ​
+
+
+
+
+    C.      10                                                    D.      7
+               gh                                                            gh
+             9                                                            10
+                ​   ​                                                         ​   ​
+
+
+
+
+31. A ladder of length 3m and mass 20 kg leans against a smooth, vertical wall so that the angle between the wall (1)
+    and the ladder is 30∘ . What are the magnitudes of the normal forces at the contact point on the wall (Nw ) and at
+                                                                                                                  ​
+
+
+
+
+    the contact point on the ground?
+    A. Nw = 0 N, Ng = 200N
+            ​           ​
+                                                                  B. Nw = 200 N, Ng = 0N
+                                                                          ​            ​
+
+
+
+
+    C. Nw = 57.7 N, Ng = 200N
+            ​               ​
+                                                                  D. Nw = 200 N, Ng = 57.7N
+                                                                          ​            ​
+32. A container resting on the floor of an elevator contains an incompressible fluid of density ρ. When the elevator        (1)
+    has an upward acceleration of magnitude "a" then what will be the pressure difference between two points in
+    the fluid separated by a vertical distance Δh?
+    A. ρaΔh                                                      B. ρ(g + a)Δh
+    C. ρgΔh                                                      D. ρgaΔh
+
+33. If two particles have equal momenta, then which one of the following statements is TRUE about their kinetic             (1)
+    energies?
+    A. Their kinetic energies are always equal.
+    B. Their kinetic energies are never equal.
+    C. Their kinetic energies are equal when their masses are the same.
+    D. Their kinetic energies are equal when the speed of one of the particle is half the speed of the other and their
+       masses are the same.
+
+34. In Young's double slit experiment both the separation between the slits and the distance between the slits and          (1)
+    the screen are halved then, what is the fridge width?
+    A. halved                                                    B. unchanged
+    C. zero                                                      D. doubled
+
+35. What is the capacitance of a capacitor that should be connected with 2 other capacitors having capacitance of           (1)
+                                                                   24
+    4F and 8F all in series to produce an effective capacitance of    μF?
+                                                                   11
+                                                                        ​
+
+
+
+
+    A. 12 μF                                                   B. 10 μF
+    C. 8 μF                                                    D. 4 μF
+
+36. A particle of mass m is fired into a magnetic field of strength B at speed V. the particle travels in a circular path   (1)
+    inside the field with a radius r. which of the following expressions gives the magnitude of the charge on the
+    particle?
+    A. mr   ​
+                                                                 B. mv 2
+        vB                                                           Br
+                                                                                ​
+
+
+
+
+    C. vB                                                        D. mv      ​
+
+
+
+
+        mr
+            ​
+
+
+
+
+                                                                     Br
+
+37. An alternating current is represented by I(t) = 10.0 A sin(100πt). What are the amplitude and frequency of              (1)
+    the alternating current?
+    A. 100A, 75Hz                                                B. 10.0A, 100Hz
+    C. 10.0A, 50Hz                                               D. 5.0A, 25Hz
+
+38. A series RLC circuit has a resistance of 45Ω and an impedance of 75Ω. What average power is delivered to this           (1)
+    circuit when ΔVrms = 210V?
+                          ​
+
+
+
+
+    A. 573w                                                      B. 353w
+    C. 255.4w                                                    D. 237.6w
+
+39. A thin film of oil (n=1.25) is located on a smooth wet floor. When viewed perpendicular to the floor, the film          (1)
+    reflects most strongly red light at 640nm and reflects no blue light at 512nm. How thick is the oil film?
+    A. 640nm                                                     B. 612nm
+    C. 548nm                                                     D. 512nm
+40. Which one of the following changes to parallel plate capacitor would not increase energy stored in the capacitor (1)
+    at a fixed voltage across the plates?
+    A. increasing the area of the plates
+    B. increasing the dielectric constant
+    C. decreasing the charges on the pates
+    D. increasing the distance between the plates
+
+41. Suppose that a voltage source produces 240V for a moment. By what percentage does the power output of                   (1)
+    220V light bulb increases?
+    A. 38%                                                       B. 36%
+    C. 19%                                                       D. 18%
+
+42. If all the three resistors in the circuit shown in the figure have equal resistance , and the current flowing into      (1)
+    resistor B is 4A, then what is the current flowing into resistor G?
+    [Figure: A hand-drawn circuit on a rectangular frame with a battery in the left-hand side. Two parallel horizontal
+    branches run between the left and right vertical wires near the top of the frame: the upper branch contains two
+    resistors in series labelled B (on the left) and C (on the right); the branch immediately below it contains two
+    resistors in series labelled D (on the left) and E (on the right). On the right-hand vertical wire, below where those
+    two branches join, there is a resistor labelled F. Along the bottom wire, which returns to the battery, there is a
+    resistor labelled G.]
+    A. 16A                                                       B. 8A
+    C. 2A                                                        D. 1A
+
+43. Refraction of a wave does NOT involve change in its                                                                     (1)
+    A. speed                                                     B. wavelength
+    C. frequency                                                 D. speed and wavelength
+
+44. Gas at a pressure P is contained in a vessel. If the masses of all the molecules are doubled and their speeds are       (1)
+    half, then what will be the resulting pressure?
+    A. 2P                                                        B. P/3
+    C. P/2                                                       D. 3P
+
+45. Water flows through a fire hose of diameter 6.35cm at a rate of 0.012 m3 /s. the fire hose ends in a nozzle of          (1)
+    inner diameter 2.20cm. What is the speed with which the water exits the nozzle?
+    A. 63.2m/s                                                   B. 46.8m/s
+    C. 31.6m/s                                                   D. 23.4 m/s
+
+46. A bullet of mass 10gm, moving horizontally, strikes and embeds itself in a box of mass 1kg suspended from a             (1)
+    light string as shown in the figure below. If the composite mass rises to a height, h=0.45m, then what is the
+    speed of the bullet before collision?
+    [Figure: A hand-drawn ballistic pendulum. On the left a small bullet is drawn as a short pointed shape with a
+    horizontal arrow beside it showing it travelling to the right. In the middle a light string hangs vertically from a
+    horizontal ceiling support; a rectangular box hangs at the lower end of the string, resting at the level of a
+    horizontal ground line. A second string is drawn from the same ceiling point sloping down to the right to the
+    same box shown swung up to a raised position, where a small dark bullet shape with an arrow is drawn inside
+    the box. The vertical rise from the low position to the raised position is labelled h=0.45m.]
+    A. 303m/s                                                    B. 300m/s
+    C. 90.9m/s                                                   D. 90m/s
+47. A rocket moving in free space has a speed of 3 × 103 m/s relative to the earth. Its engines are turned on and        (1)
+                                                                                    3
+    fuel is ejected in a direction opposite the rocket's motion at a speed of 5 × 10 m/s relative to the rocket. What
+    is the speed of the rocket relative to the earth once the rocket's mass is reduced to half its mass before ignition?
+    A. 7 × 103 m/s                                                      B. 5 × 103 m/s
+    C. 4 × 103 m/s                                                      D. 2 × 103 m/s
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

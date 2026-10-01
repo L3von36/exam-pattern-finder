@@ -1,0 +1,345 @@
+                                                        Temari.et
+                                   Physics, 2008 EC, entrance exam
+                                               Grade 12 · Physics · 2008 E.C.
+
+Time allowed: 120 minutes                                   Questions: 40                                                 Total marks: 40
+
+Name                                            Grade                          ID No.                             Date
+
+1.   A man is standing on a spring scale in an elevator. When the elevator is at rest, the scale reads 560N. When the                  (1)
+     elevator stars to move, the scale reads 600N. The elevator has
+     A. An upward acceleration                                  B. A constant down ward speed
+     C. A constant upward speed                                 D. A constant upward speed
+
+2.   What is the necessary and sufficient condition for conservation of linear momentum?                                               (1)
+     A. The presence of more linear than non linear forces in the system.
+     B. Net force on the system is zero.
+     C. The presence of only non-linear forces.
+     D. Internal forces exceed external forces.
+
+3.   An airplane flies at speed of 720.0 km/hr at 37∘ North of west direction. How far does the plane travel to the                    (1)
+     west in 1 hour?
+     A. 432km                                                   B. 720km
+     C. 576km                                                   D. 504km
+
+4.   Abrehet (A), Bekele(B) and Chaltu(C) are pulling a box horizontally with forces FA , FB and FC , respectively as
+                                                                                                      ​       ​   ​                    (1)
+     shown below, which statement is correct if the box is in equilibrium?
+     [Figure: A hand-drawn rectangular box (drawn in three-dimensional perspective, lying horizontally) with three
+     force arrows radiating from a small circle marked at a point on the box's right-hand face. One arrow points up
+     and to the right at roughly 30 degrees above the horizontal and is labelled FB ; a second arrow from the same
+                                                                                              ​
+
+
+
+
+     point points down and to the right at roughly 25 degrees below the horizontal and is labelled FA ; a third arrow ​
+
+
+
+
+     runs horizontally to the left, passing through the box and out its left side, labelled FC . A small angle mark is
+                                                                                                          ​
+
+
+
+
+     drawn between the two right-going arrows at their common origin. No numerical values are given.]
+     A. FA = FB X FC
+           ​      ​          ​
+                                                                B. −FA = FB X FC
+                                                                           ​          ​           ​
+
+
+
+
+     C. FA = FB ⋅ FC
+           ​      ​      ​
+                                                                D. FA = FB − FC
+                                                                       ​          ​       ​
+
+
+
+
+5.   Determine the torque in Nm due to a force F =(2i � 3j + 4k)N acting at point r=(3i + 2j + 3k)m about the origin?                  (1)
+     A. 6i ? 6j + 12K                                           B. -6i + 6j + 12k
+     C. 17i - 6j � 13k                                          D. -17i + 6j + 13k
+
+6.   An airplane travelled from Addis Ababa to Mekele, 780km in 45minutes. What was it average speed?                                  (1)
+     A. 0.28m/s                                                 B. 1040km/hr
+     C. 17.3m/min                                               D. 585km/hr
+
+7.   An example of a body moving with constant speed but still accelerating is                                                         (1)
+     A. a body moving on a straight road.
+     B. a body moving on a straight railway track
+     C. a body moving in a circular path
+     D. a body falling in a viscous fluid.
+8.   A student moves along the boundary of a square field of side 10m in 40sec. if he starts from one end of the                    (1)
+     corners of the square what will be the magnitude of the displacement of the student at the end of 2 minutes
+     and 20 seconds from his initial position?
+     A. 10m                                                           B. 10 2m  ​
+
+
+
+
+     C. 40m                                                           D. 30m
+
+9.   The graph below illustrates the position and time for a cat that runs to catch a rat and then returns with it. The             (1)
+     cat caught the rat after 2 seconds. What was the cat�s average speed as it returned with rate?
+     [Figure: A position-time graph on a ruled grid. The vertical axis is labelled "Position (m)" and is marked 0, 1, 2, 3,
+     4, 5, 6, 7, 8. The horizontal axis is labelled "Time (s)" with major gridlines at 0, 2, 4, 6, 8, 10 and 12 (the 8, 10 and 12
+     labels are degraded in the scan and print as "R", "1" and "1"). A single continuous line starts at the origin (0 s, 0
+     m), rises steeply and roughly linearly to about 5 m at 1 s, then continues up to a peak of about 7 m at 2 s. From
+     that peak it falls, first gently, then more steeply, passing about 6 m at 3 s, 5 m at 5 s, 4 m at 6.5 s, 2 m at 8 s, and
+     reaching 0 m at 10 s. Small kinks in the descending line occur near 5 s and near 6.5 s. The stem's apostrophe is
+     corrupted in the capture and renders as a replacement glyph.]
+     A. its average return speed was 2m/s.                            B. its average return speed was 4m/s.
+     C. its average return speed was 0.7m/s.                          D. it average return speed was 0.9m/s.
+
+10. A uniform 6m long and 600N beam, rest on two supports as shown. The forces exerted on the beam by the right                     (1)
+    support B is closes to:
+    [Figure: A long horizontal rectangular beam drawn in side view, resting on two vertical pillar supports that stand
+    under it. The left support is labelled A and the right support is labelled B. A dimension mark at the top left reads
+    "1m" and spans from the beam's left end to the position of support A. A dimension mark at the top right reads
+    "2m" with arrowheads at both ends and spans from the position of support B to the beam's right end. No other
+    distances or forces are marked on the drawing.]
+     A. 75N                                                           B. 240N
+     C. 400N                                                          D. 320N
+
+11. A rod PQ is attached at P to a vertical wall, as shown in the figure below. The length of the rod is 1.8m. The                  (1)
+    weight W of the rod acts at 0.60m from P. the rod is kept horizontal and in equilibriums by a wire attached to Q
+    and to the wall at R. The wire provides a force F on the rod of 50N at 30∘ to the horizontal. By taking moments
+    about P determine the weight W of the rod.
+    [Figure: A right-triangle arrangement against a hatched vertical wall drawn on the left. Two small circles on the
+    wall mark the attachment points: R at the top and P lower down. A horizontal line labelled "rod" runs to the right
+    from P and ends at a small circle labelled Q. A straight line labelled "wire" runs from R down to Q; a small
+    arrowhead on the wire points up and back toward R, indicating the direction of the tension force on the rod. The
+    angle between the wire and the rod at Q is marked 30∘ (printed as "30⁰"). A downward arrow drawn from a point
+    on the rod is labelled W; the distance from P to that point is marked "0.6m" and the distance from that point
+    across to the vertical line dropped from Q is marked "1.2m".]
+     A. 130N                                                          B. 150N
+     C. 75N                                                           D. 50N
+
+12. A large mass (A and a small mass (B) are pushing one another apart, as shown in the figure below. The small                     (1)
+    mass moves away at a velocity of 20m/s to the right. What is the recoil velocity of the large mass?
+    [Figure: Two rectangular blocks drawn side by side and touching. The larger block on the left is labelled A above
+    it and carries the value "5kg" inside; the smaller block on the right is labelled B above it and carries "2kg" inside.
+    Below the left block a horizontal arrow points to the left, labelled VA . Below the right block a horizontal arrow
+                                                                                    ​
+
+
+
+
+    points to the right, and to its right is written VB = 20 ms to the right.]
+                                                        ​         ​
+
+
+
+
+     A. -20m/s                                                        B. 8m/s
+     C. 20m/s                                                         D. -8m/s
+13. Find the distance of the center of mass of the system shown in the diagram from point A. The rod is mass less          (1)
+    [Figure: A straight horizontal rod drawn with four small filled circles (point masses) on it. From left to right the
+    masses are labelled above the rod as "3k", "3k", "3k" and "2k" (the labels are truncated in the print; they read as
+    3 kg, 3 kg, 3 kg and 2 kg). A short tick drops from each mass. The leftmost mass is marked A beneath it. The
+    spacing between the first and second mass is marked "3m", between the second and third "3m", and between
+    the third and fourth "1m".]
+    A. 3.73m                                                    B. 2.09m
+    C. 2.45m                                                    D. 5.86m
+
+14. The area under a force versus distance graph represents                                                                (1)
+    A. acceleration                                             B. the change in energy
+    C. the change in momentum                                   D. work done
+
+15. A net external non zero force acts on a particle that is moving along a straight line which one of the following       (1)
+    statements is correct?
+    A. The velocity, but not the kinetic energy of the particle is changing.
+    B. Both the velocity and kinetic energy of the particle are changing.
+    C. The kinetic energy but not the velocity of the particle is changing.
+    D. The momentum is conserved.
+
+16. Which statement is correct about conservative and dissipative force?                                                   (1)
+    A. The work done by conservative forces is path dependent.
+    B. The work done along a closed path by non-conservative forces is non zero.
+    C. Gravitational force is an example of non-conservative force.
+    D. Friction is an example of conservative force.
+
+17. The rotational analogue of mass is                                                                                     (1)
+    A. moment of inertia                                        B. torque
+    C. angular momentum                                         D. angular acceleration
+
+18. If the impulse of a rotating disc is non zero what can you conclude?                                                   (1)
+    A. The change in linear momentum is zero.
+    B. The torque acting on object is constant.
+    C. Impulse of the disc equals its moment of inertia.
+    D. The change in angular momentum is non zero.
+
+19. The number of joules of heat energy required to raise the temperature of a body by 1k is                               (1)
+    A. heat capacity                                            B. specific heat capacity
+    C. expansion coefficient                                    D. calorific value
+
+20. A simple pendulum is made using a long thin metal wire. What happens to the period of the pendulum when the            (1)
+    temperature drops?
+    A. increase
+    B. remain the same
+    C. decrease
+    D. period of oscillation has random dependence on temperature.
+21. Pressure at the bottom of a liquid column is independent of:                                                                  (1)
+    A. shape of the column                                       B. the density of the fluid
+    C. the depth of the point                                    D. the acceleration due to gravity.
+
+22. A water pipe has a diameter of 5.0cm in the in let side and 1.5cm in the out let side. Water flows at 0.50m3 per              (1)
+    minute at the in let paint. What is the speed of the water at the out let point?
+    A. 46.99m/s                                                  B. 13.33m/s
+    C. 74.1m/s                                                   D. 148.1m/s
+
+23. A metal ball has a diameter that is slightly greater than the diameter of a hole that has been cut in to a metal              (1)
+    plate. The coefficient of linear expansion for the metal from which the ball is made is greater than that for the
+    metal of the plate. Which one of the following procedures can be used to make the ball pass through the hole?
+    A. raise the temperatures of the ball and the plate by the same amount.
+    B. heat the ball and cool the plate.
+    C. lower the temperatures of the ball and the plate by the same amount.
+    D. there is no way of passing the ball through the hole.
+
+24. A billiard ball of radius 4cm is falling through a liquid of viscosity 0.985 at a velocity of 2.5m/s the drag force on        (1)
+    the ball is
+    A. 0.591π N                                                  B. 0.118π N
+    C. 1.82π N                                                   D. 0.059π N
+
+25. Which one of the following statements is correct?                                                                             (1)
+    A. Elastic materials retain their shape after deformation.
+    B. Plastic materials can recover the original size or shape after being distorted.
+    C. Plastic materials change their shape by pressure.
+    D. Elastic materials cannot recover the original size or shape after being distorted.
+
+26. Two bodies that are separately in thermal equilibrium with their body must be in thermal equilibrium with each                (1)
+    other. This statement is statement of
+    A. The first law of thermodaynamics.                         B. The zeroth law of thermodynamics.
+    C. The second law of thermodynamics.                         D. The third law of thermodynamics.
+
+27. A device for transforming heat energy to mechanical energy is referred to as                                                  (1)
+
+    A. transformer                                               B. Refrigerant
+    C. generator                                                 D. engine
+
+28. Three resistors connected in series have individual voltages labelled,Δv1 , Δv2 and Δv3 respectively. Which of
+                                                                                  ​               ​               ​
+                                                                                                                                  (1)
+    the following expresses the value of the voltage ΔvT taken over the three resistors together?
+                                                             ​
+
+
+
+
+    A. ΔvT = Δv1 + Δv2 + Δv3
+             ​       ​           ​           ​                   B. ΔvT = Δv1 = Δv2 = Δv3
+                                                                          ​           ​               ​               ​
+
+
+
+
+                1     1      1                                                               −1
+    C.                                                           D.
+       ΔvT = (     +     +     )                                    ΔvT = (
+                                                                             1
+                                                                                +
+                                                                                   1
+                                                                                      +
+                                                                                          1
+                                                                                            )
+               Δv1   Δv2   Δv3
+             ​               ​           ​           ​
+
+
+
+
+                                                                            Δv1   Δv2   Δv3
+                                                                          ​                   ​               ​               ​
+
+
+
+
+                         ​           ​           ​
+
+                                                                                          ​               ​               ​
+
+
+
+
+29. What fundamental frequency can a string vibrate at if it is 30cm long and the velocity of traveling waves along               (1)
+    the string is 120m/s?
+    A. 400Hz                                                     B. 600Hz
+    C. 800Hz                                                     D. 200Hz
+30. A wavelength is                                                                                                         (1)
+    A. A line that represents the direction of propagation of light.
+    B. The minimum distance between two points that are in phase.
+    C. The locus of all points of a travelling wave that are in phase.
+    D. The number of waves crossing a given plane in a unit time.
+
+31. In the sketch below, which best describes the location of the negative charges (electrons) when a negatively            (1)
+    charged rod is brought near but not touching the conducting sphere?
+    [Figure: Four small sketches labelled A, B, C and D, arranged as two columns of two (A above B on the left, C
+    above D on the right). Each sketch shows a long horizontal rod with a rounded right-hand end, drawn covered in
+    short dashes standing for negative charge, with a circle (the conducting sphere) to its right. In sketch A the
+    sphere carries minus signs on its left side (the side facing the rod) and plus signs spread over its right side. In
+    sketch B the sphere carries plus signs on its left side (facing the rod) and minus signs on its right side. In sketch
+    C the sphere is drawn empty, with no charge marks on it at all. In sketch D the sphere carries plus signs on its
+    left side and minus signs on its right side, the same arrangement as B. No numbers or field lines are drawn.]
+    A. C                                                         B. D
+    C. A                                                         D. B
+
+32. What is the potential (V) at a distance of 10m from a charge of +5.0C?                                                  (1)
+    A. ?4.45 × 109 V                                             B. -0.5V
+    C. +4.45 × 109 V                                             D. +0.5V
+
+33. A positive charge of 1.0 × 10−4 C is on the negatively charged plate of a parallel plate capacitor as shown             (1)
+    below. If the potential(V) on the top plate is +10,000V and that of the bottom plate is -10,000V, how much work
+    (w) is required to move the charge from the bottoms to the top plate?
+    [Figure: A parallel-plate capacitor drawn in side view. The top plate is a long horizontal rectangle containing a
+    row of eight plus signs. The bottom plate is an identical rectangle containing a row of eight minus signs.
+    Between the plates, closer to the bottom plate, sits a small circle labelled +q . No distances, field lines or
+    potential values are marked on the drawing itself.]
+    A. 2.0J                                                      B. 1.0J
+    C. zero                                                      D. 2.0 × 104
+
+34. Which statements is Not correct about emission from radioactive isotopes?                                               (1)
+    A. Alpha particles are positively charged and less penetrating than beta and gamma.
+    B. Beta particles are negatively charged and more penetrating than alpha particles.
+    C. Alpha emissions are least influenced by magnetic field.
+    D. the most penetrating emissions are gamma particles.
+
+35. The torque experienced by a current carrying loop, in an external, magnetic field is:                                   (1)
+    A. Independent of the number of turns of the loop.
+    B. Independent of the current in the loop.
+    C. Dependent on the orientation of the loop.
+    D. Dependent on magnetic field generated according to Lenz�s law.
+36. Two long wires of the same length and cross sectional area carry the same amount of current. Which one of the   (1)
+    following statements is correct about the magnetic field and the magnetic forces on the wires?
+    A. The magnetic field is zero at the midpoint between the wires when the currents are in the same direction.
+    B. The force is attractive between the wires when they carry current in opposite direction.
+    C. The magnetic fields between the wires reinforce each other when the currents are in the same direction.
+    D. The magnetic field due to one is proportional to the current through the other wire.
+
+37. Which conversion process forms the bases for the function of an electric generator?                             (1)
+    A. Alternating current to direct.
+    B. Mechanical energy to electrical.
+    C. Electrical energy to mechanical.
+    D. Low voltage to high voltage or vice versa.
+
+38. What is the change in magnetic flux in a coil of area 5m2 as its orientation relative to the perpendicular of   (1)
+    uniform 3.0T magnetic field changes from 45∘ to 90∘ ?
+    A. 0Wb                                                              B. -11Wb
+    C. 7.5Wb                                                            D. 11Wb
+
+39. A common unit of energy in atomic physics is                                                                    (1)
+
+    A. Plank?s constant                                                 B. Electron volt
+    C. De Broglie wavelength                                            D. Uncertainty principle
+
+40. In photo electric effect, the energy of photoelectrons is proportional to the                                   (1)
+    A. Frequency of light                                               B. Intensity of light
+    C. Speed of light                                                   D. Absorbance of the metal
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

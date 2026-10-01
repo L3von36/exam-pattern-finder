@@ -1,0 +1,219 @@
+                                                         Temari.et
+                        Physics, 2014 EC, natural science, entrance exam
+                                                Grade 12 · Physics · 2014 E.C.
+
+Time allowed: 120 minutes                                    Questions: 30                                   Total marks: 30
+
+Name                                             Grade                       ID No.                  Date
+
+1.   Which of the following statements does NOT describe coherent light or interference of coherent light?                (1)
+     A. Coherent light waves have the same frequency and wavelength.
+     B. In order for two waves to be coherent, they must be the same type of wave.
+     C. Sustainable interference pattern can be formed by two waves with variable phase difference.
+     D. Two waves which maintain a constant phase relationship can produce sustained interference.
+
+2.   Kirchhoffs junction rule is a consequence of conservation of                                                         (1)
+     A. electrical energy.                                       B. charge.
+     C. mass.                                                    D. momentum.
+
+3.   Which one of the following statements describes the photoelectric effect interaction of radiation with matter?       (1)
+     A. The intensity of radiation incident on a material can affect the energy of photoelectrons emitted from the metal
+        surface.
+     B. In photoelectric effect, the photoelectron energy is directly proportional to the wavelength of incident radiation.
+     C. Any value of energy of photons (radiations) is capable of producing photoelectrons from a metal.
+     D. When radiation of certain frequency f, interact with atoms of a material, electrons will be emitted with energies
+        proportional to the radiation energy.
+
+4.   An object is placed 25.0 cm in front of a concave mirror having focal length of 10.0 cm. The magnification Of the    (1)
+     mirror is
+     A. 2.5                                                      B. 16.7
+     C. 0.67                                                     D. 1.5
+
+5.   Which of the following statements distinguishes between random and systematic errors?                                (1)
+     A. Systematic error can be minimized by taking several readings and averaging; where as random error cannot be
+        minimized.
+     B. Systematic error makes measured values to be always above or always below the true value; whereas random
+        error causes measured vales to be sometimes above and sometimes below the true value.
+     C. Random error makes measured values to be always above or always below the true value; whereas systematic
+        error causes measured values to be sometimes above and sometimes below the true value.
+     D. Random error makes measured values to be always above or always below the true value; whereas systematic
+        error causes measured values to be sometimes above and sometimes below the true value.
+
+6.   Which of the following pair of vectors are collinear?                                                                (1)
+     A. 2i + 3j and -4i + 6j                                     B. 2i - 3j and -4i - j
+     C. 2i + 3j and -4i - 6j                                     D. i + j and -i + j
+7.   For an object moving in straight line,                                                                                     (1)
+     A. If the displacement changes by equal amount in equal time interval, the displacement-time graph is horizontal
+        line.
+     B. The area of the region under the displacement-time graph and the slope of velocity-time graph are, respectively,
+        the acceleration and displacement of the object.
+     C. If the velocity increases by equal amount in equal time interval, the velocity -time graph is straight line with
+        positive slope and the acceleration-time graph is horizontal.
+     D. The slope of displacement-time graph and the area of the region under acceleration-time graph are,
+        respectively, the acceleration and velocity Of the object.
+
+8.   Which of the following is true about satellite motion?                                                                     (1)
+     A. A satellite moving closer to the Earth takes longer time to complete one revolution than a satellite farther from
+        the Earth.
+     B. For two satellites moving around the Earth at equal orbital radius, a heavier satellite has larger speed than a
+        lighter one.
+     C. For equal orbital radius, a satellite moving around the Earth has smaller speed than a satellite moving about
+        moon.
+     D. A satellite closer to Earth is faster than a satellite farther from the Earth.
+
+9.   According to the work- energy theorem,                                                                                     (1)
+     A. work done by tension on an object tied to a string and moving a horizontal circle is negative.
+     B. work done by gravity on an object downward is negative.
+     C. work done by gravity on an object thrown upward and moving upward is negative.
+     D. work done by gravitational force on a satellite moving around the earth in a circular is positive.
+
+10. A young double slit experiment consists of two narrow slits separated by 0.06 mm and 1.2 m away from a                      (1)
+    screen. If the slits are illuminated with a light of wavelength 563 nm, the location of the fourth bright fringe on
+    the screen is
+     A. 0.394 cm                                                   B. 0.45 cm
+     C. 3.94 cm                                                    D. 4.5 cm
+
+11. An electric dipole consists of a negative charge —q placed at a point with 'x' and 'y' coordinates (—2, —2) and a           (1)
+    positive charge +q at (2, 2). The dipole is placed in a uniform electric field directed 'E' in the positive direction. If
+    the dipole axis makes an angle θ nith the field, which of the following is true about the dipole?
+     A. The field rotates the dipole in the direction of decreasing the angle θ, until the dipole becomes parallel to the
+        field.
+     B. The field rotates it in the direction of increasing the angle θ, until the dipole is perpendicular to the filed.
+     C. It is in both translational and rotational equilibrium.
+     D. It travels in the direction of the electric field.
+
+12. The electric potential at a distance of 2 cm from -1.6 change is                                                            (1)
+
+     A. 4.4V                                                       B. -720V
+     C. -14.4V                                                     D. 720V
+13. Consider a long and tightly wound solen ind length L and N turghtly wound solenoid carrying current I, having        (1)
+    length, which of the following describes the magnetic field produced by the solenoid?
+    A. The magnetic field inside the solenoid is zero, whereas the field outside is perpendicular to the length of the
+       solenoid.
+    B. The magnetic field inside the solenoid is constant and is parallel to the solenoid's axis, whereas the field outside
+       is negligible.
+    C. The magnetic field inside the solenoid is uniform and perpendicular to the axis of the solenoid.
+    D. The magnetic field outside the solenoid is as strong as the field inside it.
+
+14. According to the law of electromagnetic induction,                                                                   (1)
+    A. the magnitude of emf induced in a circuit is directly proportional to the rate of change the magnetic flux
+       crossing any surface bounded by the circuit.
+    B. a changing magnetic field parallel to the plane of a circuit induces an emf in it.
+    C. a constant magnetic flux crossing the surface of a circuit induced an emf in the circuit.
+    D. an emf is induced in a circuit when a constant magnetic field crosses its surface.
+
+15. According to the Heisenberg's uncertainty principle,T                                                                (1)
+    A. the larger the position uncertainty, the larger the momentum uncetainty.
+    B. if the uncertainty in position decreases, the momentum uncertainty decreases, too.
+    C. the more precisely we measure the position of a particle; we become less precise of its momentum and vice
+       versa.
+    D. we can measure both the position and momentum Of a particle simultaneously with unlimited precision.
+
+16. The graph of nuclear binding energy per nucleon (BE/A) versus mass number (A) has its peak near an atomic            (1)
+    weight A = 56. Which of the following statements is true about the graph?
+    A. Uranium (A = 235), which has larger binding energy than iron 56), is more stable than iron.
+    B. Nucleus with larger number of neutron is more stable than nucleus of the same atom with smaller number of
+       neutron.
+    C. For heavier nuclei (A > 56), the binding energy per nucleon decreases with the increase of mass number;
+       implying that heavier atoms can increase their stabili b increasin their roton's number.
+    D. For smaller atoms (A < 56), the biding energy per nucleon generally increases with the increase of mass number;
+       indicating that lighter atoms can increase stability through nuclear fission.
+
+17. Which of the following statements is NOT correct about reflection and refraction of sound waves and their            (1)
+    applications?
+    A. In pre-natal scanning, reflection and refiraction of sound allows doctors to monitor the progress of a developing
+       baby.
+    B. Reflection of sound (echo) is formed when sound enters a medium of varying densities.
+    C. Reflection and refiraction of sound are used to detect flaws in metals and to help people park their cars.
+    D. Refraction of sound is the change in its direction as it travels through a medium having different densities.
+
+18. A torque τ rotates an object of mass m and moment of inertia I through an angle θ. The work done on the object       (1)
+    by the torque is
+    A. Iθ                                                      B. mθ
+    C. τθ                                                      D. τI
+19. A satellite revolves around the earth in a circular orbit of radius r = 4 x 1016 m. The period of the satellite is   (1)
+     A. 2.5 x 10^(19) s                                            B. 3.7 x 10^(26) s
+     C. 3.7 x 10^(27) s                                            D. 2.5 x 10^(18) s
+
+20. One of the following statements is a correct description of the charging processes?                                  (1)
+
+     A. During charging a neutral object by induction using a negatively charged rod, charge flows from the rod to the
+        object.
+     B. When a neutral metallic sphere is charged by induction using a negatively charged rod, the sphere acquires a net
+        negative charge.
+     C. When a positively charged object is momentarily brought into contact with a neutral metallic sphere. the sphere
+        acquires a net positive charge.
+     D. When a plastic rod is rubbed with wool, the two objects acquire a net charge of the same region.
+
+21. A parallel plate capacitor is charged with a battery. The battery is thenm disconnected, and a dielectric material   (1)
+    is inserted between the plates of the capacitor. Which of the following is correct about the effect of the
+    dielectric?
+     A. The potential difference between the plates remains the energy stored increases.
+     B. The charge on the plates decreases and the energy stored increases.
+     C. The electric field between the plates and the energy stored decrease.
+     D. The capacitance remains the same and the electric field between the plates increases.
+
+22. Which one of the following statements is correct about the resistance of a conductor with a circular cross-          (1)
+    section?
+     A. At a given temperature, the resistance of copper and silver wires of them same length and diameter is the same.
+     B. The resistance of the conductor increases as its length increases and its diameter decreases.
+     C. The resistance of the conductor increases as its length and diameter increases.
+     D. The resistance of the conductor decreases as it is heated.
+
+23. The primary coil of a transformer has 250 turns and its secondary coil consists of 1500 turns. If 220 V is applied   (1)
+    to its primary coil, the voltage induced in the secondary coil, respectively, are
+     A. 1320 V and 6                                               B. 1330 V and 60
+     C. 1330 V and 6                                               D. 1320 V and 60
+
+24. A diode is an electronic component thatR                                                                             (1)
+     A. is useful to covert a DC voltage to AC voltage,
+     B. allows electric current to pass through it in one direction.
+     C. allows the flow of current when its p-type region is connected to the negative terminal of a cell.
+     D. allows current to mass through it either from cathode to anode or from anode to cathode.
+
+25. A student throws a ball vertically upward with a speed of 20 m/s. The maximum height reached by the ball and         (1)
+    its velocity 30 s after it was thrown aret respectively
+     A. 20 m and 30 m/s upward                                     B. 105 m and 50 m/s upward.
+     C. 15 and 10 m/s downward.                                    D. 20 and 10 m/s downward.
+26. Which one of the following statements describes the difference between different types of friction?                      (1)
+    A. For an object at rest on a horizontal surface, static friction increases with the increase of the applied force and
+       reaches a maximum value just before slidin occurs.
+    B. Limiting friction is the minimum value Of static friction that keeps an object stationary.
+    C. If there is a constant force applied to a stationary object on a horizontal surface, the static friction becomes
+       equal to the limiting friction.
+    D. Limiting and kinetic frictions exist at the same time between two surfaces sliding over each other.
+
+27. The apparent weight of a 60 kg student standing inside a lift is                                                         (1)
+
+    A. 600 N when the lift accelerates with acceleration equal to gravilational acceleration.
+    B. 600 N when the lift accelerates upward with 2 m/s^2.
+    C. 480 N when the lift accelerates downward with 2 m/s^2.
+    D. 720 N when the lift is at rest.
+
+28. Which of the following statements describe the use of energy resources?                                                  (1)
+    A. Solar energy produced by photovoltaic cells in free of greenhouse gases and has a very low running cost.
+    B. Hydroelectric power generates a large amount of energy using small dam with little environmental impact and
+       cheap initial cost of construction.
+    C. Geothermal energy is the most accessible, environmental friendly and inexpensive source of energy.
+    D. Wind energy, which is due to the pressure difference in space as the result of uneven sun heat, is a consistent
+       and economical source of energy. Wind energy, which is due to the pressure difference in space as the result of
+       uneven sun heat, is a consistent and economical source of energy.
+
+29. According to the law of floatation, an object must displaces a volume of fluid                                           (1)
+    A. equal to the weight of undisplaced fluid.
+    B. equal to its apparent weight.
+    C. less than its own weight.
+    D. equals to its own weight.
+
+30. Which one of the following statements describes the unusual behavior of expansion of water?                              (1)
+    A. The density of water at 0?C is less than its density at 4?C, since water molecules move further apart and form a
+       second hydrogen bond with other water molecules.
+    B. As a temperature of water increases above 4?C, its density increases since water molecules move further apart
+       to form a second hydrogen bond with other molecules.
+    C. At 0?C, water has larger density and smaller volume than its density and volume at 4?C.
+    D. As a temperature of water increases from 0?c to 4?c, its density increases since one molecule of water forms
+       one hydrogen bond with another molecule
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

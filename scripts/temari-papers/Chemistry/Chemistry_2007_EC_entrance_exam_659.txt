@@ -1,0 +1,682 @@
+                                                                Temari.et
+                                       Chemistry, 2007 EC, entrance exam
+                                                    Grade 12 · Chemistry · 2007 E.C.
+
+Time allowed: 120 minutes                                          Questions: 71                                             Total marks: 71
+
+Name                                                    Grade                       ID No.                    Date
+
+1.   According to valence bond theory. Which orbitals on bromine atoms overlap in the formation of the bond in Br2 ?     ​                (1)
+     A. 3s                                                              B. 3P
+     C. 4s                                                              D. 4P
+
+2.   The type of compound that is most likely to contain a covalent bond is one that is                                                   (1)
+     A. A solid metal
+     B. Composed of only non-metals
+     C. Composed of a metal from the far left and a non-metal from far right of the periodic table
+     D. Held together by the electrostatic forces between oppositely charged ions.
+
+3.   The first step of the scientific method involves                                                                                     (1)
+     A. Forming a hypothesis                                            B. Making observations.
+     C. Performing an experiment.                                       D. Predicting the result of an experiment
+
+4.   The process of solute particles being surrounded by solvent particles is known as                                                    (1)
+     A. Saturation                                                      B. Agglomeration
+     C. Solvation                                                       D. Dehydration
+
+5.   Which one of the following represents an acceptable possible set of quantum numbers (in the order n, l, ml , ms ) for an
+                                                                                                                     ​       ​            (1)
+     electron in an atom?
+     A. 2, 1, 0, 0                                                      B. 2, 0, 2, +1/2
+     C. 2, 1, -1, 1/2                                                   D. 2, 0, 1, -1/2
+
+6.   Of the three types of radioactivity characterized by Rutherford, which of the following are particles?                               (1)
+
+     A. γ - rays                                                        B. β - rays
+     C. α - rays and β - rays                                           D. α - rays, β - rays, and γ - rays
+
+7.   Which kind of energy is converted in a galvanic cell?                                                                                (1)
+     A. Chemical energy is converted into electrical energy.
+     B. Chemical energy is converted to heat.
+     C. Chemical energy is obtained from heat.
+     D. Electrical energy is converted into chemical energy.
+
+8.   The conversion of nitrogen gas to nitrates by bacteria is called                                                                     (1)
+
+     A. Nitrification                                                   B. Nitrogen fixation
+     C. Execretion                                                      D. Denitrification
+
+9.   According to the Arrhenius concept, an acid is a substance that                                                                      (1)
+     A. Is capable of donating one or more H+ to any solvent.
+     B. Causes an increase in the concentration of H+ in aqueous solutions.
+     C. Can accept a pair of electrons to form a coordinate covalent bond.
+     D. Reacts with the solvent to form the cation formed by auto ionization of that solvent.
+10. A system which can exchange both matter and energy with its surroundings is said to be a/an                                       (1)
+    A. Isolated system                                                B. Open system
+    C. Ideal system                                                   D. Closed system
+
+11. At which point can only the solid and liquid phases coexist in the phase diagram of water given below?                            (1)
+    [Figure: A scanned phase diagram. The vertical axis is labelled "Pressure", the horizontal axis "Temperature"; no numerical
+    scale is marked on either axis. Three boundary curves meet at a single point labelled 3 in the middle of the plot (the triple
+    point). From point 3 one line runs up and to the LEFT with a negative slope, passing through a marked point labelled 4
+    part-way along it and ending at a marked point labelled 7 high on the left, near the pressure axis. From point 3 a second
+    line runs up and to the RIGHT, passing through a marked point labelled 5 and ending at a marked point labelled 8 at the
+    top right. A third, gently curving line runs from point 3 down and to the left, flattening out and meeting the pressure axis
+    low down. Three further points are marked away from any line: point 1 lies in the region to the left of the 7-4-3 line and
+    above the low curved line; point 2 lies in the upper middle region, to the right of the 7-4-3 line and above the 3-5-8 line;
+    point 6 lies below and to the right of point 3, under the 3-5-8 line. Points 4 and 5 sit ON their respective lines; points 1, 2
+    and 6 sit inside regions.]
+    A. 3                                                              B. 4
+    C. 5                                                              D. 8
+
+12. What type of solute-solvent interaction should be the most important in a solution of iodine in carbon tetrachloride?             (1)
+    A. London forces                                                  B. Ionic bonding
+    C. Ion-dipole forces                                              D. Dipole-dipole forces
+
+13. The distance between tow carbon atoms in a diamond is 154pm. What is the distance between the carbon atoms in                     (1)
+    millimetres?
+    A. 7.7 × 10−5                                                     B. 7.7 × 10−7
+    C. 1.54 × 10−7                                                    D. 1.54 × 10−9
+
+14. For the acid-base equilibrium.                                                                                                    (1)
+
+                                                 HCO−
+                                                    3 + H2 O ⇌ H2 CO3 + OH
+                                                         ​       ​       ​
+                                                                           −
+                                                                              ​
+
+
+
+
+    The Bronsted- Lowry acids are
+    A. H2 O and OH−
+            ​
+                                                                      B. HCO−
+                                                                            3 and OH
+                                                                                  ​
+                                                                                     −
+
+    C. H2 O and H2 CO3
+            ​        ​     ​
+                                                                      D. HCO−
+                                                                            3 and H2 CO3
+                                                                                  ​       ​     ​
+
+
+
+
+15. How many sigma and Pi bonds are present in the following molecule?                                                                (1)
+
+                                                      H3 C − CH = CH − CH3
+                                                             ​                        ​
+
+
+
+
+    A. 8σ bonds and 1π bond                                           B. 8σ bonds and 2π bonds
+    C. 10σ bonds and 2π bond                                          D. 11σ bonds and 1π bond
+
+16. How many orbital are there in an atom with n = 4?                                                                                 (1)
+    A. 2                                                              B. 8
+    C. 16                                                             D. 25
+
+17. The most abundant metal on the surface of the earth is                                                                            (1)
+    A. Fe                                                             B. Al
+    C. Ca                                                             D. Na
+
+18. Which of the following is correct?                                                                                                (1)
+
+    A. 1L = 1dm3                                                      B. 1L = 10dm3
+    C. 10L = 1cm3                                                     D. 1L = 0.1dm3
+19. The decreasing order of electrochemical characteristics of some metals is given as: Mg > Al > Zn > Cu > Ag. What will         (1)
+    happen if a copper spoon is used to stir a solution of aluminium nitrate (Al(NO3 ))3 ?         ​   ​
+
+
+
+
+    A. There is no reaction
+    B. The solution becomes blue
+    C. The spoon will get coated with aluminium
+    D. An alloy of copper and aluminium is formed.
+
+20. What hybridization change does the carbon atom undergo in the combustion of methane?                                          (1)
+
+                                              CH4 (g) + 2O2 (g) → CO2 (g) + 2H2 O (g)
+                                                        ​           ​              ​           ​
+
+
+
+
+    A. Sp → ?sp2                                                            B. Sp2 → �sp3
+    C. Sp3 → �sp                                                            D. Sp2 → �sp
+
+21. Which of the following ionic compounds has the greatest lattice energy?                                                       (1)
+    A. LiF                                                                  B. LiCl
+    C. LiBr                                                                 D. Lil
+
+22. Condider the three electromagnetic waves shown below Which of the electromagnetic waves has the highest frequency? (1)
+    [Figure: A scanned drawing of FOUR sinusoidal waves stacked vertically, all spanning the same horizontal width and each
+    labelled with a numeral on its left. Wave 1 (top): about 7 complete cycles, small amplitude. Wave 2: about 7 complete
+    cycles, noticeably larger amplitude than wave 1. Wave 3: about 4 to 5 complete cycles, large amplitude, the longest
+    wavelength of the four. Wave 4 (bottom): roughly 15 tightly packed cycles, small amplitude, by far the shortest wavelength.
+    No axes, units or values are marked.]
+    A. 1                                                                    B. 2
+    C. 3                                                                    D. 4
+
+23. Considering the reaction below, in which of the following will the effect of concentration and temperature simultaneously     (1)
+    cause an increase in the rate at which products are formed?
+
+                              CaCO3 (s) + 2HCl (aq) → CO2 (g) + CaCl2 (aq) + H2 O(l) + heat
+                                      ​                                 ​                  ​               ​
+
+
+
+
+    A. Decrease [HCl] and decrease temperature.                             B. Increase [HCl] and increase temperature.
+    C. Increase [HCl] and decrease temperature.                             D. Grind up the CaCO3 and decrease temperature.
+                                                                                                               ​
+
+
+
+
+24. The wave number of an electromagnetic radiation is 1 × 105 cm−1 . The frequency of the radiation would be                     (1)
+
+    A. 3 × 108 s−1                                                          B. 3 × 106 s−1
+    C. 3 × 1010 s−1                                                         D. 3 × 1015 s−1
+
+25. For the gas phase reaction                                                                                                    (1)
+
+                                                  N2 + O2 ⇌ 2NO
+                                                    ​           ​       ΔH = +180 KJmol−1
+    the value of K changes with the
+    A. Change in pressure                                                   B. Introduction of NO
+    C. Change in concentration of N2      ​
+                                                                            D. Change in temperature.
+
+26. In the reaction (2SO2 + O2 ⇌ 2SO3 , Keq = 100). What will be the concentration of O2 , if the concentration of SO2 is
+                          ​       ​           ​             ​                                                      ​          ​
+                                                                                                                                  (1)
+    the same as that of SO3 ? ​
+
+
+
+
+    A. [O2 ] = [SO2 ]
+           ​          ​                                                     B. [O2 ] = 0.01M
+                                                                                       ​
+
+
+
+
+    C. [O2 ] = 100M
+           ​
+                                                                            D. [O2 ] = 0.1M
+                                                                                       ​
+27. The decomposition of nitrosyl chloride was studied as                                                                       (1)
+
+                                                 2NOCl (g) ⇌ 2NO (g) + Cl2 (g)  ​
+
+
+
+
+    The following data were obtained where Rate= −Δ[NOCl]/Δt What is the rate law in the above decomposition?
+    [Figure: A bordered two-column data table sitting between the "Rate" line and the question sentence. Left column
+    heading: [NOCl]0 (molecules/cm3 ). Right column heading: Initial Rate (molecules/cm3 .s). Four data rows, in this printed
+                       ​
+
+
+
+
+    order: 3.0 × 1016 and 5.98 × 104 ; 2.0 × 1016 and 2.66 × 104 ; 1.0 × 1016 and 6.64 × 103 ; 4.0 × 1016 and 1.66 × 105
+    .]
+    A. r = k[NOCl]2                                                B. r = K[NOCl]
+    C. r = K[NOCl][NO]                                             D. r = k[NOCl][Cl]
+
+28. Considering the mechanism for a reaction below, which of the following statements is correct? Step 1:                       (1)
+    HBr + O2 → HOOBr Step 2: HBr + HOOBr → 2HOBr Step 3: 2HOBr + 2HBr → 2Br2 + 2H2 O
+                ​                                                                                      ​         ​
+
+
+
+
+    A. Br2 is a reactant
+            ​
+                                                                   B. HBr is a product
+    C. HOBr is a catalyst                                          D. HOOBr is a reaction intermediate
+
+29. The acid-base indicator bromocresol green is a weak acid. The yellow acid and blue base forms of the indicator are          (1)
+    present in equal concentrations in a solution when the PH is 4.68. What is the PKa of bromocresol green?
+    A. 4.48                                                        B. 4.68
+    C. 5.68                                                        D. 6.68
+
+30. A lipid is any substance of biochemical origin that is                                                                      (1)
+    A. Soluble in both water and non-polar solvents.
+    B. Insoluble in both water and non-polar solvents.
+    C. Soluble in water but insoluble in non-polar solvents.
+    D. Soluble in non-polar solvents and insoluble in water.
+
+31. A solution in an electrolytic cell contains Cu2+ (E 0 = 0.34V), Ag+ (E 0 = 0.80V), and Zn2+ (E 0 = 0.76V). If the           (1)
+    voltage is initially very low and slowly increased, in which order will the metals be plated out on to the cathode?
+    A. Zn2+ > Cu2+ > Ag+                                           B. Cu2+ > Zn2+ > Ag+
+    C. Ag+ > Zn2+ > Cu2+                                           D. Ag+ > Cu2+ > Zn2+
+
+32. What is the molality of a 5g hydrogen peroxide (H2 O2 ) in 100mL solution that is used for hair bleaching?
+                                                        ​    ​                                                                  (1)
+    A. 0.015M                                                      B. 0.15M
+    C. 1.5M                                                        D. 3M
+
+33. The maximum number of electrons in P-orbital with n = 6, ml = 0 is                                                          (1)
+    A. 2                                                           B. 6
+    C. 16                                                          D. 14
+
+34. How many unpaired electrons are there in the Lewis structure of a N3− ion?                                                  (1)
+
+    A. 0                                                           B. 1
+    C. 2                                                           D. 3
+
+35. Which of the following transitions will emit maximum energy in the hydrogen atom?                                           (1)
+    A. n = 4 → n = 3                                               B. n = 4 → n = 2
+    C. n = 2 → n = 1                                               D. n = 3 → n = 23
+36. what is the IUPAC name for the compound                                                                                         (1)
+    [Figure: A scanned condensed structural formula on one line: (CH3)2CHCH2CHCOH. A double-bonded O is drawn ABOVE
+    the final carbon of the COH group (two short parallel vertical strokes joining the C to the O), making that group a carboxyl.
+    A single vertical bond descends from the chain (drawn at the junction between the CH2 and the following CH) to a CH3
+    group written below the line. No other labels, charges or stereochemistry are shown.]
+    A. 2, 4-dimethylylpentanoic acid                                       B. 1, 1, 3-trimethylbutanoic acid
+    C. 1-hydroxy-2, 4-dimethyl pentanone                                   D. 2-carboxyisohexane
+
+37. The connectional equilibrium constant expression (Kc ) for the system
+                                                           ​                                                                        (1)
+
+                                                    2ICl (s) ⇌ I2 (s) + Cl2 (g)
+                                                                       ​                              ​
+
+
+
+
+    is
+    A. [I2 ] [Cl2 ]/[ICl]2
+           ​       ​
+                                                                           B. [I2 ][Cl2 ]/2[ICl]
+                                                                                  ​                           ​
+
+
+
+
+    C. [Cl2 ]  ​
+                                                                           D. ([I2 ] + [Cl2 ]/2[ICl]
+                                                                                      ​                           ​
+
+
+
+
+38. Which of the following compound does NOT follow the octet rule?                                                                 (1)
+
+    A. CS2     ​                                                           B. PBr3                ​
+
+
+
+
+    C. IBr                                                                 D. BrF5            ​
+
+
+
+
+39. Chemically, fats and oils are                                                                                                   (1)
+    A. Acids                                                               B. Alcohols
+    C. Esters                                                              D. Alkenes
+
+40. The reaction A + 3B = 2C + D is first order with respect to reactant A and second order with respect to reactant B. if the      (1)
+    concentration of A is doubled and the concentration of B is halved, the rate of the reaction would by a factor of .
+    A. Increases, 2                                                        B. Decreases, 2
+    C. Increases, 4                                                        D. Decreases, 4
+
+41. The molecular geometry of H3 O+ ion is
+                                    ​                                                                                               (1)
+    A. Linear                                                              B. Tetrahedral
+    C. Bent                                                                D. Trigonal pyramidal
+
+42. What is the final concentration of Cl− ion when 250ml of 0.20M CaCl2 solution is mixed with 250ml of 0.4M KCl
+                                                                                                          ​                         (1)
+    solution? (Assume additive volumes)
+    A. 1.6M                                                                B. 0.4M
+    C. 0.20M                                                               D. 0.60M
+
+43. Which of the following is used in the reaction called saponification?                                                           (1)
+    A. Strong base                                                         B. Strong acid
+    C. Hydrogen                                                            D. Nickel
+
+44. How many electrons will appear when the following half-reaction is balanced?                                                    (1)
+
+                                                          S4 O2−      2−
+                                                              6 → S2 O3
+                                                               ​   ​          ​           ​
+
+
+
+
+    A. 3                                                                   B. 2
+    C. 4                                                                   D. 1
+
+45. PKa values of three acids x, y and z are 4.5, 3.5 and 6.5, respectively. Which of the following represents the correct order    (1)
+    of acid strength?
+    A. x > y > z                                                           B. z > x > y
+    C. y > x > z                                                           D. z > y > x
+46. Standard electrode potential for Sn4+ /Sn2+ couple is +0.15V and that for the Cr3+ /Cr couple is -0.74V. These two              (1)
+    couples in their standard state are connected to make a spontaneous reaction. The cell potential will be
+    A. +1.83V                                                                B. +1.19V
+    C. +0.89V                                                                D. +0.18V
+
+47. The enthalpies of formation of gaseous N2 O and NO at 298K are 82 and 90KJ/mol, respectively. The enthalpy change for
+                                                ​                                                                                   (1)
+    the reaction
+
+                                                    N2 O (g) + 1/2 O2 (g) → 2NO (g)
+                                                      ​                  ​
+
+
+
+
+    is
+    A. -8KJ                                                                  B. 98KJ
+    C. -74KJ                                                                 D. 8KJ
+
+48. The following data were collected at the end point of a titration performed to find the molarity of an HCl solution. Volume     (1)
+    of acid (HCl) used = 14.4ml Volume of base (NaOH) used = 22.4ml Molarity of standard base (NaOH) = 0.20M On the basis
+    of the above data, what is the molarity of the acid solution?
+    A. 1.6M                                                                  B. 0.64M
+    C. 0.31M                                                                 D. 0.13M
+
+49. The hybridization of the central atom in the XeF4 molecule is
+                                                          ​
+                                                                                                                                    (1)
+    A. Sp2                                                                   B. Sp3
+    C. Sp3 d                                                                 D. Sp3 d2
+
+50. For the reaction.                                                                                                               (1)
+
+                                                              N2 + 3H2 ⇌ 2NH3
+                                                                ​    ​                    ​
+
+
+
+
+    The rate of disappearance of H2 is 0.01 mol L−1 min−1 . The rate of appearance of NH3 would be
+                                      ​                                                               ​
+
+
+
+
+    A. 0.01 mol L−1 min−1                                                    B. 0.02 mol L−1 min−1
+    C. 0.007 mol L−1 min−1                                                   D. 0.002 mol L−1 min−1
+
+51. Bakelite is obtained from phenol by reacting with                                                                               (1)
+    A. HCHO                                                                  B. (CH2 OH)2 ​   ​
+
+
+
+
+    C. CH3 CHO
+             ​
+                                                                             D. CH3 COCH3
+                                                                                      ​           ​
+
+
+
+
+52. In which one of the following numbers are all of the zeros significant?                                                         (1)
+
+    A. 100.09009                                                             B. 0.14329
+    C. 0.1                                                                   D. 0.003002
+
+53. An aqueous solution contains 0.100M NaOH at 25.00 C. The PH of the solution is?                                                 (1)
+    A. 0.1                                                                   B. 1
+    C. 7                                                                     D. 13
+
+54. The solubility of oxygen gas in water at 250 C and 1.0 atm pressure of oxygen is 0.41g/L. the solubility of oxygen in water at (1)
+    3.0 atm and 250 C is g/L.
+    A. 0.014                                                                 B. 0.31
+    C. 0.041                                                                 D. 0.123
+55. The decomposition of carbon disulphide, CS2 , to carbon mono sulphide, CS, and sulphur is first order with K = 2.8 ×
+                                                                             ​                                                       (1)
+    10−7 s−1 at 10000 C. What is the half-life of the reaction below at 10000 C?
+
+                                                                                      CS2 → CS + S
+                                                                                          ​
+
+
+
+
+    A. 5.0 × 107 s                                                                                B. 4.7 × 10−6 s
+    C. 3.8 × 105 s                                                                                D. 2.5 × 106
+
+56. The PKa of a weak monoprotic acid is 4.8. What should be the ratio of [Acid]/[Salt] of a buffer, if PH = 5.8 is required?
+                         ​                                                                                                           (1)
+    A. 0.1                                                                                        B. 1
+    C. 2                                                                                          D. 10
+
+57. The dissolution of water in octane (C8 H18 ) is prevented by
+                                                             ​           ​                                                           (1)
+
+    A. Dipole-dipole attraction between octane molecules.
+    B. Hydrogen bonding between water molecules.
+    C. London dispersion forces between octane molecules.
+    D. Repulsion between like charged water and octane molecules.
+
+58. At 4450 C, Kc for the following reaction is 0.020.                                                                               (1)
+
+                                                                                 2HI (g) ⇌ H2 (g) + I2 (g)
+                                                                                              ​           ​
+
+
+
+
+    A mixture of H2 , I2 , and HI in a vessel at 4450 C has the following concentrations: [HI] = 2.0M, [H2 ] = 0.5M and [I2 ] =
+                             ​   ​                                                                                           ​   ​
+
+
+
+
+    0.10M, which one of the following statements concerning the reaction quotient, Qc , is true for the above system?​
+
+
+
+
+    A. Qc is less than Kc ; more HI will be produced.
+                 ​                   ​
+
+
+
+
+    B. Qc is greater than Kc ; more HI will be produced.
+             ​                               ​
+
+
+
+
+    C. Qc is less than Kc ; more H2 and I2 will be produced.
+                 ​                       ​           ​           ​
+
+
+
+
+    D. Qc is greater than Kc ; more H2 and I2 will be produced.
+             ​                               ​           ​           ​
+
+
+
+
+59. Natural rubber is a polymer of                                                                                                   (1)
+    A. Butadiene                                                                                  B. Isoprene
+    C. Neoprene                                                                                   D. Styrene
+
+60. Which of the following statements is true?                                                                                       (1)
+    A. All forms of electromagnetic radiation are visible.
+    B. Radio waves have shorter wavelength than visible light.
+    C. Ultraviolet light has longer wavelengths than visible light.
+    D. The frequency of radiation increases as the wavelength decreases.
+
+61. If the enthalpy change for a certain reaction A → B is -2KJ at 300K, what would be the entropy change in the                     (1)
+    surroundings?
+    A. 6.67J/K                                                                                    B. 40J/K
+    C. −3.6 × 106 J/K                                                                             D. 3.6 × 106 J/K
+
+62. During the electrolysis of an aqueous solution of copper sulphate using platinum electrodes, the reaction takes place at         (1)
+    the anode is
+    A. Cu2+ + 2e− → Cu                                                                            B. Cu → Cu2+ + 2e−
+    C. 2H2 O → 4H+ + O2 + 4e−
+                     ​                           ​
+                                                                                                  D. 4H+ + O2 + 4e− → H2 O
+                                                                                                                 ​       ​
+63. What is the major product of the reaction?                                                                                     (1)
+    [Figure: The stem carries a reaction scheme: a benzene ring (hexagon with three inner double-bond lines) drawn on the
+    left. At the ring carbon on the upper right an acetyl group is attached, drawn as a bond up to a carbon that carries a
+    double-bonded O above it and a plain bond out to the right (a methyl). At the ring carbon immediately below that one (the
+    ortho position) a bond runs down-right to the label Br. To the right of the structure a long horizontal reaction arrow points
+    right, with NaOH written above it and nothing written below it. The four options are pictures, all built on the same benzene
+    ring with a substituent at the top-right ring carbon and another at the ortho position below it. A: top-right substituent is a
+    carbon double-bonded to O above and single-bonded out to the right to the label ON; ortho substituent is Br. B: top-right
+    substituent is a carbon double-bonded to O above and single-bonded to OH; ortho substituent is OH. C: top-right
+    substituent is a carbon double-bonded to O above and single-bonded to ON; ortho substituent is OH. D: top-right
+    substituent is a single carbon carrying three OH labels (one drawn up-left, one up-right, one to the right); ortho substituent
+    is Br.]
+    A. [structure] benzene ring carrying a C(=O)-ON group and, on the adjacent (ortho) ring carbon, Br
+    B. [structure] benzene ring carrying a C(=O)-OH group and, on the adjacent (ortho) ring carbon, OH
+    C. [structure] benzene ring carrying a C(=O)-ON group and, on the adjacent (ortho) ring carbon, OH
+    D. [structure] benzene ring carrying a carbon bearing three OH groups and, on the adjacent (ortho) ring carbon, Br
+
+64. Which of the following is an acceptable IUPAC name for the organic compound shown below?                                                            (1)
+    [Figure: A scanned skeletal (zig-zag) structure of a carboxylic acid, drawn left to right. At the far left a carbon bears two
+    methyl groups drawn as short bonds going up-left and down-left (an isopropyl end). From that branch carbon the chain
+    zig-zags right through four further vertices (up, down, up, down) and ends at a carbon that carries a double-bonded O
+    drawn above it and a bond to the right to the label OH. Counting the branch carbon plus one of its two methyls into the
+    longest chain gives an eight-carbon acid chain with a methyl substituent on the carbon next to the far end. No numbers,
+    stereochemistry or other labels are drawn.]
+    A. Octanoic acid                                                        B. 7-methyl heptanoic acid
+    C. δ - methyl heptanoic acid                                            D. 7 - methyl octanoic acid
+
+65. Which of the following describes the balanced molecular equation when perchloric acids is mixed with solid iron (III)                               (1)
+    hydroxide?
+    A. HCl4 (aq) + Fe(OH)3 (s) → H2 O (I) + FeClO4 (aq) B. 3HClO4 (aq) + Fe(OH)3 (s) → 3H2 O (l) + Fe(ClO4 )3
+                    ​               ​       ​                  ​                                            ​                   ​           ​       ​         ​
+
+
+
+
+    C. 3HOClO2 (aq) + Fe(OH)3 (s) → 3H2 O (I) + Fe(ClO3D.)3 HOClO
+                            ​           ​          ​
+                                                            (aq) 2 (aq) + Fe(OH)3 (s) → H2 O (l) + Fe(ClO3 ) (
+                                                                            ​   ​                                   ​               ​   ​       ​
+
+
+
+
+66. At 298 K the following two gaseous equilibrium involving SO2 SO3 and O2 are established.
+                                                                        ​           ​                           ​                                       (1)
+
+                                                 SO2 (g) + 1/2 O2 (g) ⇌ SO3 ; K1
+                                                       ​                ​                               ​
+
+
+
+
+                                                2SO3 (g) ⇌ 2SO2 (g) + O2 (g); K2
+                                                           ​        ​                               ​
+
+
+
+
+    Which of the following equilibrium expression is correct?
+    A. K1 = K2
+            ​           ​                                                   B. K2 = K12     ​                           ​
+
+
+
+
+    C. K2 = 1/K12
+                ​               ​
+                                                                            D. K2 = 1/K1    ​                               ​
+
+
+
+
+67. A compound is formed by the combination of V and X as follows. What is empirical formula for the compound?                                          (1)
+    [Figure: A small, low-resolution scanned strip showing five Lewis electron-dot symbols side by side, each a capital letter
+    surrounded by dots. Left to right: V with a single dot above it (1 valence electron); W with two dots above it (2 valence
+    electrons); X with two dots above, one dot to the left, one dot to the right and one dot below (5 valence electrons); Y with
+    two dots above, one dot to the left, one dot to the right and two dots below (6 valence electrons); Z with two dots above,
+    two dots to the left, one dot to the right and two dots below (7 valence electrons). Only V and X are referred to in the
+    question.]
+    A. VX                                                                   B. V2 X     ​
+
+
+
+
+    C. V3 X ​
+                                                                            D. VX2              ​
+68. ΔH for solid to liquid transitions for compound A is 2.73Kcal/mol and for compound B is 3.0 Kcal/mol. The melting point                                         (1)
+    for compound A is 00 C and the melting point for compound B is 300 C. the entropy changes ΔSA and ΔSB at the two                                ​           ​
+
+
+
+
+    transition temperatures are related as
+    A. ΔSA ?= ΔSB      ​               ​
+                                                                                                    B. ΔSA �< ΔSB       ​               ​
+
+
+
+
+    C. �ΔSB �< ΔSA             ​               ​                                                    D. �ΔSA = 300ΔSA /273       ​               ​
+
+
+
+
+69. Which of the following metals forms a volatile compound that is taken as an advantage for its extraction?                                                       (1)
+    A. CO                                                                                           B. Fe
+    C. Ni                                                                                           D. W
+
+70. A 0.1M solution of HCl is dissolved in water. What species of ions are present at equilibrium, and what will be their                                           (1)
+    equilibrium concentrations?
+    A. [H3 O+ ] = 0.1M [OH− ] = 10−13 M [Cl− ] = 0.1M
+               ​
+                                                                                                    B. [H3 O+ ] = 0.1M [OH− ] = 0.1M [Cl− ] = 0.1M
+                                                                                                                ​
+
+
+
+
+                           +
+    C. [H3 O ] = 0.1M [OH ] = 10                       −    −13          −                          D. [H3 O+ ] = 10−13 M [Cl− ] = 0.1M [OH− ] = 0.1M
+               ​                                                  M [Cl ] = 0M                                  ​
+
+
+
+
+71. The following bases and their conjugate acids (as the chlorides) are available in the laboratory: NH3 (Kb = 1.8 × 10−5 ),                           ​   ​       (1)
+    C6 H5 NCH3 CH2 NH2 (Kb = 6.4 × 10−4 ) and CH3 NH2 (Kb = 4.4 × 10−4 ). Which of these acid-base pairs are the
+       ​   ​                               ​       ​   ​                           ​      ​     ​
+
+
+
+
+    best to prepare a buffer solution having a PH of about 9?
+    A. NH3 + conjugate acid
+                   ​
+                                                                                                    B. C6 H5 N + conjugate acid
+                                                                                                            ​               ​
+
+
+
+
+    C. CH3 NH2 + conjugate acid
+                   ​               ​                                                                D. CH3 CH2 NH2 + conjugate acid
+                                                                                                                    ​               ​       ​
+
+
+
+
+                                                                         — E N D O F E X A M I N AT I O N —
+                                                           Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

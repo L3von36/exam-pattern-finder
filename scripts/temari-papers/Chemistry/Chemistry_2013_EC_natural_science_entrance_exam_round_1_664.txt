@@ -1,0 +1,414 @@
+                                                         Temari.et
+               Chemistry, 2013 EC, natural science, entrance exam, round 1
+                                               Grade 12 · Chemistry · 2013 E.C.
+
+Time allowed: 120 minutes                                    Questions: 69                                   Total marks: 69
+
+Name                                             Grade                       ID No.                   Date
+
+1.   From the magnitude of the equilibrium constant, Keq one can deduce that                                               (1)
+     A. large K eq value indicates that the reaction reaches equilibrium with very little reactants remaining.
+     B. Small K eq values indicate the reaction yields very higher amounts of products near equilibrium.
+     C. K eq will be larger when we have higher amounts of reactants over products.
+     D. Intermediate K eq value indicates that the reaction does proceed in the forward direction.
+
+2.   The statement 'If a system at equilibrium is subjected to a stress, the system will readjust itself to reduce the     (1)
+     effects of the stress' is known as
+     A. Avogadro's principle.                                    B. Faradays law.
+     C. Le-Chatelier's principle.                                D. Boyle's law.
+
+3.   The law of mass action states that                                                                                    (1)
+     A. The K eq expression is the ratio of the concentrations of reactants to the products raised to their coefficients.
+     B. The rate of a reaction is directly proportional to the product of the concentration of reactants raised to the power
+        of their respective coefficients in the balanced equation.
+     C. For a reaction at equilibrium, the reaction quotient, Q is always less than the equilibrium constant, Keq.
+     D. A chemical equilibrium is attained only when the reaction is started with reactants.
+
+4.   For the reaction between gaseous NO and O 2 to for NO 2 (g), what will be the equilibrium constant expression,        (1)
+     2NO(g) + O 2 (g)↔ 2NO 2 (g)
+     A. K p =(P NO2 )/(P NO )(P O2 )                             B. K c =(NO 2 ) 2 / (NO) 2 (O 2)
+     C. K p =(P NO2 ) 2 (P O2 ) / (P NO2 )                       D. K p =(P NO2 ) 2 /(NO) 2 (O 2 )
+
+5.   The equilibrium constant K p for the reaction 2SO 2 (g) ⇌ 2SO 3 (g) + O 2 (g) is 3.8 × 10 -3 K p at 227 °C. What is   (1)
+     the value of K c for the reaction at the same temperature?
+     A. 4.6 × 10 -4 mol m -3                                     B. 1.8 × 10 -3 mol m -3
+     C. 2.3 × 10 -4 mol m -3                                     D. 9.1 × 10 -4 mol m -3
+
+6.   In the Galvanic cell given in the diagram below Identify the component parts correctly labelled for the letters a,    (1)
+     b, c, d and choose the correct one among the following a, b, c, and d , respectively
+     A. Copper anode, Zinc cathode, voltmeter , salt bridge
+     B. Zinc cathode, Copper cathode, Zinc anode, Copper cathode
+     C. Copper anode, Zinc anode, CuSO 4 (sol), voltmeter
+     D. Zinc anode, Copper cathode, ZnSO 4 (sol), salt bridge
+
+7.   The conversion of nitrogen gas into useful nitrogen compounds is known as                                             (1)
+     A. Photosynthesis                                           B. Respiration
+     C. Oxidation                                                D. Fixation
+8.   CO 2 is released into the atmosphere by one of the following processes                                          (1)
+     A. Animals eat plants and release CO 2 by photosynthesis
+     B. Plants consume atmospheric carbon dioxide during photosynthesis
+     C. Utilization of electrical energy as energy sources
+     D. Natural fires and volcanoes release CO 2 into the air
+
+9.   One of the following is NOT a common application of silicon                                                     (1)
+     A. in the control of the frequency of television transmissions
+     B. in the construction of transistors and microprocessors
+     C. in coating iron to prevent it from rusting
+     D. in the production of polish body parts cars
+
+10. The branch of chemistry that is involved in separation, identifying and determining the relative amounts of      (1)
+    components in a sample of material is known as
+     A. analytical chemistry                                   B. biochemistry
+     C. inorganic chemistry                                    D. physical chemistry
+
+11. Significant figures are figures with                                                                             (1)
+     A. measured values with the highest accuracy
+     B. measured values with the highest precision
+     C. exactly known digits with the last digit uncertain
+     D. measured values with the highest uncertainty
+
+12. For the determination of the density of a new ceramic, a student measured the mass of a piece on an analytical   (1)
+    balance and obtained 3.8056 gram and its volume 2.5 mL by displacement of water in a graduated cylinder. The
+    correct reported density of the ceramic should be
+     A. 1.5224 g/mL                                            B. 1.5222 g/mL
+     C. 3.5 g/mL                                               D. 1.5 g/mL
+
+13. The scientific method is                                                                                         (1)
+     A. a method of arriving at an organized body of knowledge based on reproducible experiments and observations
+     B. a collection of scientific guesses and hypotheses by seeking patterns in the observations
+     C. the result of fortunate, accidental discovery in the development of science
+     D. the sum total of unique guidelines for the practice of science in the world
+
+14. One of the following is NOT a cause of uncertainty in measurement?                                               (1)
+     A. The person doing the experiment
+     B. The type of material measured
+     C. The environment where the measurement is made
+     D. The measuring device
+15. Hydrogen bonding occurs in compounds that contain H-N, H-O and H-F bonds. These bonds are stronger than             (1)
+    the ordinary dipole-dipole interactions because
+    A. the H-N, H-O and H-F bonds are less polar than ordinary covalent bonds
+    B. the partially positive H of one molecule is attracted to the partially negative lone pairs on the N, O or F of
+       another molecule
+    C. the H-N, H-O and H-F bonds are non-polar and thus do not interact with neighboring molecules
+    D. the small sizes of N, O and F makes these atoms so electropositive that their covalently bonded H is highly
+       negative
+
+16. Which of the following is an example of exception to the octet rule?                                                (1)
+    A. CCl 4                                                    B. NH 3
+    C. PCl 5                                                    D. H 2 O
+
+17. When the boiling point of hydrides of group VIA elements, H 2 O, H 2 S, H 2 Se and H 2 Te are arranged in the       (1)
+    order of increasing boiling point. The trend is H 2 Te< H 2 Se< H 2 S< H 2 O, water having the highest boiling
+    point, this is due to
+    A. the basic different structures of each hydride
+    B. the small size of O compared to the other group VIA elements
+    C. hydrogen bonding present in H 2 O molecules
+    D. increasing boiling points with increasing molecular mass
+
+18. Which one of the following is a common reaction of tin?                                                             (1)
+    A. Sn (s) + H 2 O (g) → SnO 2 (s)
+    B. Sn (s) + dil. 2HCl (aq) → SnCl 2 (aq) +H 2 (g)
+    C. Sn (s) + 2Cl 2 (g) → SnCl 2 (s) in cold media
+    D. Sn (s) + 2H 2 O (g) → Sn(OH) 4 (s)
+
+19. A chemistry teacher has added different reactants and reagents in three different test tubes as described below: (1)
+    I . Into the test tube A, he added ethanol, sodium dichromate, sulphuric acid. II . Into the test tube B, he added
+    acetaldehyde, sodium borohydride and water. III . Into the tube C, he added methyl acetate and ethanol and
+    sodium hydroxide. In which test tube would a reaction take place that provide acetic acid?
+    A. I and II                                                 B. III
+    C. I                                                        D. II and III
+
+20. One of the following examples of polymers is correctly matched with its uses                                        (1)
+    A. Polypropylene; electrical insulation                     B. Polyethylene; food containers
+    C. Polytetrafluoroethylene; making shoes                    D. Polyvinyl chloride; making pipes
+
+21. Natural polymers are                                                                                                (1)
+    A. polymers produced by condensation reaction of monomer units
+    B. polymers produced by the addition reaction of monomer units.
+    C. polymers produced by the substitution of one or more atoms in the monomer units.
+    D. polymers found in some substances like rubber in nature.
+
+22. Oils are unsaturated fatty acids. The process of converting oils to solid fats involves                             (1)
+    A. saponification with NaOH.                                B. esterification of the acids.
+    C. halogenations of the C-C double bonds.                   D. hydrogenation of the C-C double bonds.
+23. The difference between colloids and suspension is that                                                            (1)
+    A. most colloids and suspensions appear cloudy.
+    B. colloidal particles are small enough and do not settle down unlike in a suspension.
+    C. colloids are as transparent as solutions.
+    D. both colloids and suspensions are heterogeneous mixtures.
+
+24. The solubility of a substance is the amount of a substance that                                                   (1)
+    A. dissolves more amount of solute than it can normally dissolve.
+    B. gives an unsaturated solution of substance at given temperature.
+    C. dissolves double the amount of solute than it can normally dissolve.
+    D. gives a saturated solution of the substance at a given temperature.
+
+25. 50 mL of the supernatant saturated solution of NaCl was taken in an evaporating dish (weight=w₀) and              (1)
+    evaporated over a Bunsen burner until all the water has evaporated and dry sodium chloride is left in the
+    evaporating dish. The evaporating dish with the dry sodium chloride is weighed (weight=w₁). Given the following
+    information, w₀=47.5 g and w₁=66.2. Calculate the solubility of NaCl in water assuming 50 mL of the solution is
+    equal to 50 mL of the solvent
+    A. 113.7 g/100 g of water                                 B. 37.4 g/100 g of water
+    C. 187 g/100 g of water                                   D. 18.7g/100 g of water
+
+26. One of the following given pairs represents examples of buffer systems                                            (1)
+    A. NH₄Cl/H₂O and H₂O/CH₃COONa                             B. NaOH/HCl and HNO₃/KOH
+    C. NH₄OH/NH₄Cl and CH₃COOH/CH₃COONa                       D. NH₄OH/CH₃COOH and NH₄Cl/CH₃COONa
+
+27. The reaction between a weak acid and strong base as represented by the reaction between acetic acid and           (1)
+    NaOH gives a basic solution because
+    A. CH₃OO⁻ as a strong base picks up H+ and causes excess OH⁻ ions.
+    B. Na+ is a strong acid and causes high concentration of H+.
+    C. CH₃COOH does not produce sufficient amount of H+ ions.
+    D. The OH⁻ ions from NaOH are not completely neutralized.
+
+28. An acid is a substance that                                                                                       (1)
+    A. produces more OH ions in water than H+ ions.
+    B. has a bitter taste.
+    C. donates a pair of electrons to a chemical species.
+    D. donates a proton in a chemical reaction.
+
+29. One of the following given mass of acids constitutes the corresponding equivalent of the acid                     (1)
+
+    A. HCl = 36.5 g=2 equivalents                             B. H₂SO₄=98 g=2 equivalent
+    C. H₃PO₄= 98 g=2 equivalents                              D. H₂SO₄= 49 g= 4 equivalents
+
+30. One of the following pairs shows Brønsted-Lowry acids behavior in water?                                          (1)
+    A. H 3 O + and NH 3                                       B. HNO 3 and NO 3 -
+    C. HCl and NH 4 +                                         D. HPO 4 2- and PO 4 3-
+31. Covalent compounds are liquids or gases at room temperature and have statements low melting and boiling          (1)
+    points. Which of the following statements explains these properties of covalent compounds?
+    A. The unit of particles in covalent compounds are ions.
+    B. The intermolecular forces of attraction in covalent compounds are strong.
+    C. Covalent compounds exist as separate molecules.
+    D. There are no forces of attraction between the molecules in covalent compounds.
+
+32. Both carbonyl sulphide, COS (SCO), S=C=O and carbon dioxide (CO 2 ) O=C=O are linear molecules. COS is polar     (1)
+    whereas CO 2 is non-polar. This is because
+    A. the C=O bonds in both COS and CO2 are polar.
+    B. CO2 has a net dipole moment of zero.
+    C. sulphur is more electronegative than oxygen.
+    D. regions of high negative charge is distributed equally around the central atom in COS.
+
+33. Which of the following statements is true about the formation of CH4 according to valence bond theory?           (1)
+    A. The 2s and three 2p orbitals in carbon hybridize to form four sp³ orbitals.
+    B. The 2s and two 2p orbitals in carbon hybridize to form three sp² orbitals.
+    C. Carbon can form two hybrid orbitals as it has got only two half-filled orbitals.
+    D. The 2s and one 2p orbitals in carbon hybridize to form two sp orbitals.
+
+34. Phosphorus (Z=15) has the electronic configuration 1s²2s²2p⁶3s²3p³, what kind of hybridization does phosphorus   (1)
+    undergo in the formation of phosphorus pentachloride (PCl5)?
+    A. sp³d                                                     B. sp³
+    C. sp                                                       D. sp²
+
+35. One of the following reactions illustrates the formation of coordinate covalent bond?                            (1)
+    A. Be + 2F2 → BeF2                                          B. NaOH + HCl → NaCl+H2O
+    C. CaCO3+ HCl → CaCl2 +H2O +CO2                             D. NH3 + HCl → NH4+ + Cl-
+
+36. In the production of NH3 by the Haber process according to the equation N2(g)+3H2(g) ⇌ 2NH3(g) ΔH=-92KJ          (1)
+    mol-1 What are the favorable conditions for the production of high yield of NH3?
+    A. High pressure and low temperature                        B. Low pressure and low temperature
+    C. Low pressure and high temperature                        D. High pressure and high temperature
+
+37. Which one of the following statements describes laboratory and industrial preparation of acetic respectively?    (1)
+    A. Reduction of ethanol by NaBH4 and fermentation of propanol.
+    B. Reduction of toluene by KMnO4 and reduction of ethanol by sodium dichromate.
+    C. The oxidation of ethanol by sodium dichromate and fermentation of ethanol.
+    D. Oxidation of toluene by KMnO4 and fermentation of ethanol.
+
+38. One of the following reactions illustrates the formation of coordinate covalent bond?                            (1)
+    A. Be + 2F2 → BeF2                                          B. NaOH + HCl → NaCl+H2O
+    C. CaCO3+ HCl → CaCl2 +H2O +CO2                             D. NH3 + HCl → NH4+ + Cl-
+
+39. In the production of NH3 by the Haber process according to the equation N 2 (g)+3H 2 (g) ⇌ 2NH 3 (g)             (1)
+    ΔH=-92KJ mol -1 What are the favorable conditions for the production of high yield of NH 3 ?
+    A. High pressure and low temperature                        B. Low pressure and low temperature
+    C. Low pressure and high temperature                        D. High pressure and high temperature
+40. Which one of the following statements describes laboratory and industrial preparation of acetic respectively?          (1)
+    A. Reduction of ethanol by NaBH4 and fermentation of propanol.
+    B. Reduction of toluene by KMnO4 and reduction of ethanol by sodium dichromate.
+    C. The oxidation of ethanol by sodium dichromate and fermentation of ethanol.
+    D. Oxidation of toluene by KMnO4 and fermentation of ethanol.
+
+41. Which of the following is true about carboxylic acids?                                                                 (1)
+    A. Methanoic, Ethanoic and Citric acids are monocarboxylic acids.
+    B. Carboxylic acid with the formation RCOOH.
+    C. Citric acid is a typical dicarboxylic acid.
+    D. Propanedioic acid is the simplest dicarboxylic acid.
+
+42. What is the IUPAC name for the branched carboxylic acid: CH 3 -CH(Cl)-CH(CH 3 )-CH(CH 3 )-COOH                         (1)
+    A. 4-chloro-2, methyl 1-pentanoic acid                       B. 1, 2-dimethyl-4-chloro 1-pentanoic acid
+    C. 4-chloro-1-methyl-1-pentanoic acid                        D. 4-chloro-2, 3-dimethyl-1-pentanoic acid
+
+43. Esters are characterized by the following properties EXCEPT                                                            (1)
+    A. esters have lower boiling point compared to the carboxylic acid alcohols
+    B. esters have pleasant odors of perfumes and food flavoring
+    C. esters have higher boiling point than carboxylic acid and alcohol
+    D. all esters are soluble in inorganic solvents and organic
+
+44. The sanitizer in wide use for protection against Covid-19 is labelled 83% alcohol. How can one scientifically          (1)
+    check the concentration?
+    A. experimentation                                           B. forming hypothesis
+    C. making observation                                        D. collection of data
+
+45. According to Hund's rule equal energy (degenerate) orbitals are filled with                                            (1)
+    A. maximum number of unpaired electrons with parallel spins
+    B. two electrons of opposite spins placed in the first orbitals
+    C. maximum number of unpaired electrons with opposite spins
+    D. two electrons of parallel spins placed in the first orbital
+
+46. In the modern periodic table                                                                                           (1)
+
+    A. elements with similar properties are placed in the same period
+    B. non-metals are placed on the right side of the periodic table
+    C. transition and inner-transition elements are placed in the middle of the periodic table
+    D. metals are placed on the right hand side of the periodic table
+
+47. The electrolysis of liquid (molten) NaCl in the set-up for the electrochemical cell is given in the following figure   (1)
+    below. Which of the following statements is true about the electrolysis of molten sodium chloride?
+    A. Na is oxidized at the anode
+    B. Cl 2 is formed at the cathode
+    C. O 2 is produced at the anode due to the oxidation of water
+    D. The net reaction produces Cl 2 at the anode and Na at the cathode.
+48. In the reaction mixture of two species NH 4 OH and NH 4 Cl, which one of the following is true about the              (1)
+    reaction mixture?
+    A. The presence of NH 4 + ion suppresses the dissociation of the weak based NH 4 OH.
+    B. The NH 4 + ion is a spectator ion in the reaction mixture.
+    C. The reaction equilibrium is shifted towards the right due to the presence of NH 4 + ions.
+    D. The presence of NH 4 + in the reaction mixture makes the solution more basic.
+
+49. Which one of the following is correct about K w at different temperature? The ionic product of water K w equals       (1)
+    K w =1.0x10 -14 at 25 °C K w =2.92x10 -14 at 40 °C √K w =1x10 -7 √K w =1x10 -7
+    A. At 40 o C pure water is no more neutral
+    B. Water dissociates to a higher extent at 40 o C than at 25 o C.
+    C. Hydroxyl ion concentration is higher at 40 o than hydrogen ion concentration
+    D. Hydrogen ion concentration at 25 o C is higher than at 40 o C.
+
+50. What is reduction? Reduction is                                                                                       (1)
+    A. loss of electrons and decrease in oxidation number
+    B. gain of electrons and increase in oxidation number
+    C. gain of electrons and no change in oxidation number
+    D. gain of electrons and decrease in oxidation number
+
+51. During the electrolysis of dilute aqueous sulphuric acid, the ions present in solution are H + , OH - and SO 4 2- .   (1)
+    Which ions are preferentially discharged at the cathode and anode, respectively?
+    A. Anode = SO 4 2- (aq) + 4H + (aq) +2e - → SO 2 (g) + 2H 2 O, Cathode=2H + (aq) + 2e - → H 2 (g)
+    B. Anode=4OH(aq) → H 2 O(l) + O 2 (g) +4e - , Cathode=2H + (aq) +2e - → H 2 (g)
+    C. Anode= 2H 2 O(l) → O 2 (g) + 4H + (aq) +4e - , Cathode=2H + (aq) +2e - → H 2 (g)
+    D. Anode=4OH(aq) → H 2 O(l) + O 2 (g) +4e - , Cathode=2H 2 O (l) +2e - → H 2 (g) + 2OH - (aq)
+
+52. Which one of the following is NOT correct about electrodes and electrochemical cells?                                 (1)
+
+    A. The overall cell potential is calculated by the formula E° cell =E Cathode − E Anode
+    B. Electrons flow spontaneously from negative to positive electrodes
+    C. The difference in the electrical potential of the electrode is positive that is positive cell
+    D. E° cell is greater than zero for non-spontaneous process
+
+53. Which one of the following is NOT correct about electrodes and electrochemical cells?                                 (1)
+    A. The overall cell potential is calculated by the formula E° cell =E° cathode - E° anode
+    B. Electrons flow spontaneously from negative to positive electrodes.
+    C. The difference in the electrical potential of the electrode is positive that is positive cell.
+    D. E° cell is greater than zero for non-spontaneous process.
+
+54. The "like dissolves like" rule accounts for one of the following observation                                          (1)
+    A. The solubility of C 2 H 6 in H 2 O.                        B. The solubility of C 6 H 6 in CCl 4 .
+    C. The insolubility of I 2 in H 2 O.                          D. The solubility of KBr in C 7 H 8 .
+55. The concentrated sulphuric acid H 2 SO 4 we use in the laboratory is 98% H 2 SO 4 by mass and has a density of (1)
+    1.83 g/mL. Below are given the concentrations of the acid in various units, which of the given alternatives
+    correctly describes the concentration of the acid?
+    A. Molarity 36.6 M, Normality 18.3 N, Mole fraction 0.1
+    B. Molarity 18.3 M, Normality 36.6 N, Mole fraction 0.9
+    C. Molarity 1.83 M, Normality 3.66 N, Mole fraction 0.9
+    D. Molarity 18.3 M, Normality 3.66 N, Mole fraction 0.9
+
+56. In the electrolysis of copper sulphate solution using graphite electrodes, O 2 is liberated at the anode and           (1)
+    copper metal is deposited at the cathode. If the electrolysis of CuSO 4 is performed using copper electrode,
+    what happens at the anode and cathode?
+    A. At the anode H 2 is liberated, whereas copper is deposited at the cathode.
+    B. At the anode the copper electrode dissolves and copper metal is deposited at the cathode.
+    C. No electrochemical reaction takes place involving copper.
+    D. At the anode copper is reduced, whereas copper is oxidized at the cathode.
+
+57. The statement 'the amount of a substance consumed or of produced in an electrolytic cell is directly                   (1)
+    proportional to the amount of electricity that passes through the cell' is known as
+    A. Raoult's law.                                            B. Dalton's law.
+    C. Henry's law.                                             D. Faraday's law.
+
+58. Given the following electromotive series of selected metals with their standard reduction potentials Which of          (1)
+    the following statements is correct about reactivity of the metals?
+    A. K is the strongest reduction agent among the metal silver.
+    B. Cu is the strongest reducing agent in the group.
+    C. Pb is more easily oxidized than Al.
+    D. The reaction Cu + Zn 2+ ⇌ Cu 2+ + Zn is spontaneous.
+    E. Al is the most reactive metal in the series.
+
+59. One of the following is NOT true about the effects of corrosion?                                                       (1)
+    A. It causes enormous damage to buildings, bridges, ships and cars.
+    B. It causes deterioration of metals by spontaneous chemical process.
+    C. Corrosion forms protection oxide layers to prevent damage.
+    D. Damage from corrosion costs billions of dollars annually.
+
+60. Which statement is true about catalysts?                                                                               (1)
+    A. A positive catalyst decreases the rate of a reaction by increasing the activation energy.
+    B. A catalyst slows down or speeds up a reaction, itself being consumed.
+    C. The role of a catalyst is to increase or decrease the rate of a reaction by lowering or increasing the activation
+       energy.
+    D. A negative catalyst increases the rate of a reaction by decreasing the value of activation energy.
+61. According to the transition state theory                                                                               (1)
+    A. in the activated complex, the original bonds are weakened and the new bonds are partially formed.
+    B. the collision between two reacting species results in the formation of an activated complex, which has less
+       energy than both the reactants and products.
+    C. the standard reaction enthalpy (ΔH°) depends on the magnitude of the activation energy (Ea).
+    D. the activation energy is the energy that must be absorbed or released by reactants to reach the activated
+       complex.
+
+62. Which of the following is true about the rate reactant?                                                                (1)
+
+    A. The value of a rate constant tells us how fast or slow a reaction is.
+    B. It expresses the relationship between the rate of a chemical reaction and the volume of reacting species.
+    C. A small rate constant indicates a faster reaction and a larger rate indicates a slower reaction.
+    D. The value of a rate constant is independent of reaction conditions.
+
+63. The mathematical expression log k=(-E a /2.303R)1/T + log A derived from the Arrhenius equation is of important (1)
+    as it shows
+    A. for a given value of activation energy the value of the rate constant increases as the temperature increases.
+    B. reactions with larger activation energies have higher values of k and are therefore faster.
+    C. for a given value of activation energy, the value of the rate constant decreases as the temperature increases.
+    D. reactions with larger activation energies, the value of the rate constant decreases as the temperature increases.
+
+64. Which of the following is true about isotopes? Isotopes of an element have                                             (1)
+    A. different number of neutrons and same number of protons.
+    B. the same number of electrons and neutrons.
+    C. the same atomic mass but different atomic numbers.
+    D. different physical and chemical properties.
+
+65. For a first order reaction, the concentration versus time of the reaction mixture is given by the following graph If   (1)
+    a is the initial concentration of the reactant and if the half-life is the 1hr, after how many hours would be the
+    concentration of reactant produced to a/32?
+    A. 4hr                                                      B. 1hr
+    C. 3hr                                                      D. 5hr
+
+66. Silver (Z=47) has several known isotopes, but two occur naturally, 107 Ag and 109 Ag.Given the following mass          (1)
+    spectrometric data, calculate the atomic mass of Ag
+    A. 107.94 amu                                               B. 108.9 amu
+    C. 107.86 amu                                               D. 107.4 amu
+
+67. Which statement correctly describes Heisenberg's uncertainty principle?                                                (1)
+    A. A particle with a mass moving at a given speed can be described by the wave characteristic of material
+       particles.
+    B. If we measure the momentum of a particle precisely then its position will be correspondingly precise.
+    C. Both the location and the momentum of a subatomic particle like the electron cannot be precisely known.
+    D. A small particle like the reaction can behave both as a particle and a wave.
+
+68. According to the Lewis definition of an acid, an acid is a substance that                                              (1)
+    A. accepts a H+ ion.                                        B. dissociates in water to yield H3O+.
+    C. accepts a pair of electrons.                             D. donates an OH- ion.
+69. Water is a weak electrolyte because                                                                   (1)
+    A. it can accept a proton from an acid and donate a proton to a base.
+    B. it has a very high ionic product, Kw.
+    C. it acts both as Bronsted-Lowry and base.
+    D. it undergoes a reversible dissociation with a very low ionic product, Kw.
+
+                                               — E N D O F E X A M I N AT I O N —
+                                 Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

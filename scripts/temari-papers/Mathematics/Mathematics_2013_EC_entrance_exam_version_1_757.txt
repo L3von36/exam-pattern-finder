@@ -1,0 +1,171 @@
+                                                           Temari.et
+                            Mathematics, 2013 EC, entrance exam, version 1
+                                                Grade 12 · Mathematics · 2013 E.C.
+
+Time allowed: 120 minutes                                      Questions: 36                                      Total marks: 36
+
+Name                                               Grade                       ID No.                     Date
+
+1.   Let a function f(x) = -4x^3 - 2x - 10, then which one of the following is true about f.                                   (1)
+     A. f is neither even nor odd                                  B. f is odd
+     C. f is even                                                  D. f is both even and odd
+
+2.   If (g o f)(x) = x^2 + x + 6 and f(x) = x + 2, then what is the equivalent expression for g(x)?                            (1)
+     A. x^2 - 3x + 8                                               B. -x^2 - 3x + 6
+     C. x^2 + 3x + 8                                               D. x^2 - 3x - 6
+
+3.   Which one of the following is incorrect about the relation R = {(x,y): y = (x+3)/(x+10)}?                                 (1)
+
+     A. The range of R is (-∞,1) ∪ (1,∞)
+     B. Domain of R is (-∞,-10) ∪ (-10,∞)
+     C. R = {(x,y): y = (x+3)/(x+10)} can be a function
+     D. The inverse of R is {(y,x): y = (10x+3)/(x+1)}
+
+4.   Which one of the following is correct one-to-one correspondence?                                                          (1)
+     A. f: ℝ → ℝ given by f(x)=log_a x, ∀x∈ℝ
+     B. f: ℝ → ℚ given by f(x)=4^x, ∀x∈ℝ
+     C. f: [0,∞) → [0,∞) given by f(x)=x^2, ∀x∈ℝ
+     D. f: [1,∞) → (3,∞) given by f(x)=-3+√(x-1), ∀x∈ℝ
+
+5.   Which one of the following is not a rational expression?                                                                  (1)
+     A. (x^5+9)/(x^2-16)                                           B. √((x+2)^2)/(x^2-4)
+     C. ∛((x+2)^6)/(x^2-25)                                        D. ∛((x+2)^12)/(x^2+16)
+
+6.   What is the solution set of the expression (36x-72)/(-x^3+4x) = [ (x-1)/(x+1) - (x+1)/(x-1) ] / [ (x+2)/(x^2-1) ] ?       (1)
+     A. {-3,-2}                                                    B. {-3,3}
+     C. {3,2}                                                      D. {3,3}
+
+7.   Which one of the following is incorrect about the parabola y^2 + 16x - 6y - 23 = 0?                                       (1)
+
+     A. its directrix is x=6                                       B. its axis of symmetry is y=3
+     C. its vertex is (3,2)                                        D. its focus is (-2,3)
+
+8.   Let (-6,-4) & (2,2) are end points of the diameter. Which one is the equation of the circle?                              (1)
+     A. x^2+y^2+4x+2y-30=0                                         B. x^2+y^2+4x+2y+20=0
+     C. x^2+y^2+4x+2y=20=0                                         D. x^2+y^2+4x+2y=30=0
+
+9.   What are the intersection points of the line and the circle, with equation (x-1)^2+(y+1)^2=100 and the line 8x-           (1)
+     6y=14?
+     A. (8,9) and (-8,-8)                                          B. (8,9) and (8,8)
+     C. (7,7) and (-5,-9)                                          D. (-7,7) and (5,-9)
+10. Which one of the following is false about the ellipse 25x^2+16y^2+200x+64y+64=0?                                  (1)
+     A. its center is C(-4,-2)                                      B. its major axis is vertical
+     C. its foci are (-4,-5) & (-4,1)                               D. its vertices are (-4,-5) & (-5,-2)
+
+11. Which one of the following sentences is not a proposition?                                                        (1)
+
+     A. Plant produces their own food                               B. Welcome!
+     C. There is no medicine for HIV/AIDS.                          D. Man is mortal
+
+12. If (p ⇔ ¬q) ⇒ (¬p ∨ r) is False, then which of the following has a truth value false?                             (1)
+     A. ¬q ⇔ r                                                      B. q ⇒ p
+     C. q ∨ ¬r                                                      D. ¬p ⇔ r
+
+13. Which one of the following pairs of compound propositions are not equivalent propositions?                        (1)
+     A. p⇒q ≡ ¬p∨q                                                  B. ¬(p∨q) ≡ ¬p∧¬p
+     C. ¬(p∨q) ≡ ¬p∧¬q                                              D. p⇒q ≡ ¬q⇒¬p
+
+14. Then which one of the following quantifier has a truth value false, ∀x,y∈ℝ?                                       (1)
+     A. (∀x)(∀y)(x^2+y^2 ≥ 0)                                       B. (∃x)(∃y)(x^2+y^2 < 0)
+     C. (∃x)(∃y)(x^2+y^2 = 0)                                       D. (∀x)(∀y)(-x^2-y^2 ≤ 0)
+
+15. A committee of 8 students has to be formed from 6 boys and 4 girls. What is the probability that the committee    (1)
+    contains 5 boys and 3 girls?
+     A. 2/13                                                        B. 5/7
+     C. 8/15                                                        D. 2/3
+
+16. A bag contains 4 red, 5 yellow and 3 green balls. Three balls are drawn without replacement. Probability of red   (1)
+    first, yellow second, green third?
+     A. 12/22                                                       B. 1/22
+     C. 7/22                                                        D. 9/22
+
+17. What is the constant term in the expansion of (-2x + 5/x^5)^6?                                                    (1)
+
+     A. 160                                                         B. -960
+     C. -160                                                        D. -960
+
+18. How many three-digit numbers can be formed from the digits 2,3,5,7,9 if each digit is used once only?             (1)
+     A. 60                                                          B. 125
+     C. 100                                                         D. 50
+
+19. If A = [[1,-1,2],[-1,2,-1],[-2,3,1]]. Then what is the determinant of 2A?                                         (1)
+     A. 32                                                          B. -32
+     C. 64                                                          D. -64
+
+20. What is the value of x, if |[2+x,0,0],[0,x+2,0],[0,0,x+2]| = 125?                                                 (1)
+     A. -3                                                          B. 3
+     C. 5                                                           D. -5
+21. Let system: x+2y+z=2, -x+y-2z=1, bx+y+z=1. Which one is not true?                                             (1)
+     A. If B≠1/5, then the system has no solution
+     B. If B≠4/5, then the system has unique solution
+     C. If B=4/5, then the system has infinitely many solution
+     D. If B=1/5, then the system has unique solution
+
+22. Let Z = (2-3i)^4 / [(3+4i)(5-12i)]. Then what is the magnitude of Z?                                          (1)
+     A. 169/√65                                                   B. 169/65
+     C. 13/5                                                      D. 13/√65
+
+23. Let Z = ((√6+√6 i)/(1+√3 i))^15. Which one is true about Z?                                                   (1)
+     A. Arg z = 3π/4
+     B. The modulus of Z is 3^15
+     C. The polar form of Z is 3^(15/2)(cos(-15π/12)+i sin(-15π/12))
+     D. Arg z = 15 Arg((√6+√6 i)/(1+√3 i))
+
+24. Let Z = 2√2 (cos(11π/4) + i sin(11π/4)). What is the Cartesian representation?                                (1)
+     A. -2-2i                                                     B. -2+2i
+     C. 2+2i                                                      D. 2-2i
+
+25. Let an equation of a circle is (x-3)^2+(y-4)^2=64. Then what is the equation of the image of circle after a   (1)
+    reflection about the line y = -x+5?
+     A. x^2+(y-5)^2=64                                            B. (x-1)^2+(y-2)^2=64
+     C. (x-5)^2+y^2=64                                            D. (x-2)^2+(y-3)^2=64
+
+26. What is the general solution of 2cos^2 x + 3 sin x = 0?                                                       (1)
+     A. {7π/6+2nπ, 11π/6+2nπ}                                     B. {-7π/6+2nπ, 11π/6+2nπ}
+     C. {-7π/6+2nπ, -11π/6+2nπ}                                   D. {7π/6+2nπ, -11π/6+2nπ}
+
+27. Angle of elevation to top of building 60°, to a point 14m below top is 45°. Find height of building.          (1)
+
+     A. 30m                                                       B. 34m
+     C. 24m                                                       D. 20m
+
+28. lim_{x→1} (√(1+√(8x+1)) - 2)/(x-1) = ?                                                                        (1)
+     A. -1/24                                                     B. 1/24
+     C. 1/3                                                       D. -1/3
+
+29. Let f(x)=e^{4x+3} and g(x)=sin x. If F(x)=x f(x)+ f(g(x)), then F'(0)=?                                       (1)
+     A. 5/e^3                                                     B. 5e^3
+     C. -5e^3                                                     D. -5/e^3
+
+30. If the region bounded by y=2.5x^2 and y=10 rotates about x-axis, volume?                                      (1)
+     A. 80π                                                       B. 320π
+     C. 160π                                                      D. 300π
+
+31. Radius of cylinder height 10 cm increases at 6 cm/min. Rate of change of volume when radius=5 cm?             (1)
+
+     A. 200π                                                      B. 800π
+     C. 500π                                                      D. 600π
+32. Let f(x) = (x^2-25)/|x-5| = { x+5 if x>5, undefined? if x=5, -x-5 if x<5 }. Which is true?              (1)
+     A. f is continuous on (-∞,5)∪(5,∞)                                  B. f is continuous at x=5
+     C. The limit of f exists                                            D. f is continuous on (-∞,∞)
+
+33. lim_{x→∞} ((2x+5)/(2x-11))^{2x+1} = ?                                                                   (1)
+
+     A. e^{16}                                                           B. e^{8}
+     C. e^{-16}                                                          D. e^{-8}
+
+34. Let f(x)=e^x cos x. Then f''(x) = ?                                                                     (1)
+     A. -2e^x cos x                                                      B. 2e^x sin x
+     C. -2e^x sin x                                                      D. 2e^x cos x
+
+35. Let f(x)=√(64-x^2). Then the largest interval that f is differentiable?                                 (1)
+     A. (-8,8)                                                           B. [-8,8]
+     C. (-∞,-8]∪[8,∞)                                                    D. (-∞,-8)∪(8,∞)
+
+36. Solve system: x-2y+z=7, 3x+y-z=2, 2x+3y+2z=7. Solution set?                                             (1)
+     A. {-2,-1,-3}                                                       B. {2,-1,3}
+     C. {-2,1,-3}                                                        D. {-2,-1,3}
+
+                                                 — E N D O F E X A M I N AT I O N —
+                                   Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

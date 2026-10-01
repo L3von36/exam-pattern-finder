@@ -1,0 +1,636 @@
+                                                               Temari.et
+                                 Chemistry, 2005 EC, entrance exam
+                                               Grade 12 · Chemistry · 2005 E.C.
+
+Time allowed: 120 minutes                                             Questions: 74                                   Total marks: 74
+
+Name                                               Grade                              ID No.                   Date
+
+1.   Which of the following is NOT a basic SI unit?                                                                                (1)
+     A. Candela                                                          B. Gram
+     C. Mole                                                             D. Second
+
+2.   Which of the following statements is TRUE?                                                                                    (1)
+     A. Ultraviolet light has longer wavelength than visible light.
+     B. The energy of radiation decreases as the wavelength decreases.
+     C. The frequency of radiation increases as the wavelength decreases.
+     D. Wave number of an electromagnetic radiation increases as wavelength increases.
+
+3.   Which of the following ionic compounds is formed from the reaction between magnesium and nitrogen?                            (1)
+     A. MgN2     ​
+                                                                         B. Mg2 N2
+                                                                                 ​    ​
+
+
+
+
+     C. Mg3 N2
+             ​       ​
+                                                                         D. Mg2 N3
+                                                                                 ​    ​
+
+
+
+
+4.   Which of the following molecules represents a non-polar covalent bond?                                                        (1)
+     A. B-Cl                                                             B. C-Cl
+     C. Cl-Cl                                                            D. Mg-Cl
+
+5.   Which of the following groups in the periodic table has paramagnetic atoms?                                                   (1)
+
+     A. Group zero                                                       B. Group IIA
+     C. Group IIB                                                        D. Group IVA
+
+6.   How many types of cubic unit cells are known?                                                                                 (1)
+     A. 2                                                                B. 3
+     C. 4                                                                D. 5
+
+7.   What is the process that converts liquid vegetable oils to solid fats?                                                        (1)
+     A. Hydration                                                        B. Hydrogenation
+     C. Hydrolysis                                                       D. Saponification
+
+8.   What would be the solubility of HOCH2 (CH2 )6 CH2 OH compared to CH3 (CH2 )6 CH2 OH?
+                                               ​      ​    ​      ​                            ​   ​   ​   ​                       (1)
+     A. Less soluble in water
+     B. More soluble in water
+     C. The same solubility in water.
+     D. More soluble in a non-polar solvent such as dichloroethane.
+
+9.   Which of the following gases is manufactured using the Haber process?                                                         (1)
+     A. Ammonia                                                          B. Nitric oxide
+     C. Nitrogen                                                         D. Nitrogen dioxide
+10. Which one of the mixture of the following pairs will NOT give a buffer solution?                                 (1)
+    A. HCN and NaCN                                            B. NH3 and NH4 Cl
+                                                                       ​                  ​
+
+
+
+
+    C. H3 PO4 and KH2 PO4
+            ​   ​             ​   ​
+                                                               D. HNO3 and NaNO3
+                                                                            ​                 ​
+
+
+
+
+11. Which one of the following is TRUE for salts formed from strong acids and strong bases?                          (1)
+
+    A. No hydrolysis takes place.
+    B. Produces ions that are proton donors.
+    C. Produces ions which are proton acceptors.
+    D. Depends on the pKa and pKb of the parent acids and bases, respectively.
+
+12. Which of the following metals is NOT obtained by commercial electrolytic process?                                (1)
+    A. Ag                                                      B. Al
+    C. Cu                                                      D. Na
+
+13. Which of the following metals has the highest electrical and thermal conductivities?                             (1)
+
+    A. Ag                                                      B. Co
+    C. Cu                                                      D. Ni
+
+14. Enthalpy is defined as the heat content of the system at constant:                                               (1)
+    A. Heat                                                    B. Moles
+    C. Pressure                                                D. Volume
+
+15. Which of the following elements is the second most abundant element in the earth's crust?                        (1)
+    A. Aluminium                                               B. Iron
+    C. Oxygen                                                  D. Silicon
+
+16. What is the number of significant figures in 0.0030050?                                                          (1)
+    A. 4                                                       B. 5
+    C. 7                                                       D. 8
+
+17. Which of the following properties of a substance does NOT represent an intensive physical property?              (1)
+
+    A. Boiling point                                           B. Colour
+    C. Density                                                 D. Volume
+
+18. What is the mass of one molecule of water?                                                                       (1)
+    A. 3.0 × 10     −23                                        B. 1.8 × 10      −23
+                          g                                                           g
+    C. 0.0003g                                                 D. 18.0g
+
+19. Which of the following quantum number (s) is (are) related to the size and energy of an electron in a hydrogen   (1)
+    atom?
+    A. n                                                       B. n,l
+    C. n,l,m                                                   D. n,l,m,s
+
+20. An electron has a spin quantum number, s = +1/2 and a magnetic quantum number, m1 = +1. In which of the
+                                                                                                  ​                  (1)
+    following orbital will it NOT be present?
+    A. S-orbital                                               B. P-orbital
+    C. d-orbital                                               D. f-orbital
+21. Which of the following molecules has a trigonal bi pyramidal structure?                                             (1)
+    A. PCl5         ​
+                                                                   B. IF5   ​
+
+
+
+
+    C. ICl−
+          4     ​
+                                                                   D. BrF5      ​
+
+
+
+
+22. Which of the following represents the general configuration of the transition elements?                             (1)
+
+    A. ns np2           6                                          B. ns(n − 1)d
+    C. ns(n − 2)f                                                  D. ns2 np6 (n − 1)d10
+
+23. The total number of electrons participating in the bond formation of carbonate anion, CO2−
+                                                                                            3 in the molecule of
+                                                                                                        ​
+                                                                                                                        (1)
+    carbonic acid are:
+    A. 16                                                          B. 10
+    C. 8                                                           D. 5
+
+24. Which of the following crystals possess high electrical and thermal conductivities?                                 (1)
+    A. Ionic crystals                                              B. Metallic crystals
+    C. Molecular crystals                                          D. Covalent network crystals
+
+25. What is the valid rate expression for the following reaction? 2NO + 2H2 → N2 + 2H2 O​       ​   ​                   (1)
+    A. 1/2 ?(Δ[H2 ])/Δt     ​
+                                                                   B. -1/2 □(Δ[H2 O])/Δt    ​
+
+
+
+
+    C. -1/2 □(Δ[NO])/Δt                                            D. (Δ[N2 ])/Δt
+
+26. Which of the following statements is TRUE about equilibrium reaction?                                               (1)
+    A. No more reactants are transformed into products.
+    B. There are equal amounts of reactants and products.
+    C. The rate constant for the forward reactions equals that of the reverse reaction.
+    D. The rate for the forward reactions equals that of the reverse reactions.
+
+27. Three gases are in equilibrium in a closed chamber sealed with a piston. The following equilibrium is established: (1)
+
+                                             2NH3 (g) ⇌ N2 (g) + 3H2 (g)
+                                                    ​          ​                    ​
+
+
+
+
+    What will happen if the piston is pushed into the chamber?
+    A. The mole fraction of N2 increases.
+                                        ​
+
+
+
+
+    B. The mole of N2 decreases.​
+
+
+
+
+    C. The mole fraction of N2 remains the same.
+                                        ​
+
+
+
+
+    D. The mole fraction of N2 increases and then decreases.
+                                    ​
+
+
+
+
+28. Which of the following reactions will produce an akyl carboxylic acid?                                              (1)
+
+    A. Heating a methyl ketone with acid and iodine.
+    B. Reacting an alkyl halide with hydrogen gas and platinum.
+    C. Reacting an alcohol with ozone.
+    D. Oxidation of a primary alcohol with hot permanganate or chromate.
+
+29. Which of the following statements is NOT TRUE?                                                                      (1)
+    A. Naturally derived soaps consists of a soluble salt of a long chain fatty acid.
+    B. Triacylglycerols are esters of glycerol and long chain carboxylic acids.
+    C. Long chain carboxylic acids are also known as fatty acids.
+    D. The major acidic component of vinegar is formic acid.
+30. What is the name of triacylglycerol(triglycerides) that is solid at room temperature?                                                                                         (1)
+    A. Lecithin                                                                        B. Fat
+    C. Wax                                                                             D. Oil
+
+31. Which of the following is the most important type of solute-solvent interaction in a solution of n- butanol in                                                                (1)
+    water?
+    A. Dispersion                                                                      B. Ion-dipole
+    C. Dipole-dipole                                                                   D. Hydrogen bonding
+
+32. What is the product of the hydrolysis of easters in the presence of a mineral acid catalyst?                                                                                  (1)
+
+    A. Alcohol                                                                         B. Carbon dioxide
+    C. Ether                                                                           D. Ketones
+
+33. To which organic functional group does the following molecular representation, i.e, R1 R2 CHCOH belong? (R1                                           ​   ​               ​
+                                                                                                                                                                                  (1)
+    and R2 represent different alkyl chains)
+                    ​
+
+
+
+
+    A. Amides                                                                          B. Aldehyde
+    C. Ethers                                                                          D. Organic acid
+
+34. What is the quantity of water, in mL, required to prepare 0.5 M of HCl from a concentrated solution of 3.5M in 50 (1)
+    mL is?
+    A. 50mL                                                                            B. 100mL
+    C. 300mL                                                                           D. 350mL
+
+35. What is the equivalent weight of HNO3 , as an oxidizing agent, in the following balanced reaction?
+                                                                   ​
+                                                                                                                                                                                  (1)
+
+                                            3Fe2+ + 4H+ + +NO− 3 ⟶ 3Fe3+ + NO + 2H2 O
+                                                                                   ​                                                      ​
+
+
+
+
+    A. 10.5                                                                            B. 15.75
+    C. 21.00                                                                           D. 31.50
+
+36. Given the following equilibria and equilibrium constant: ( I ) HC2 H3 O2 + H2 O ⇌ H3 O+ + C2 H3 O−
+                                                                                                  ​
+
+
+                                                                                                     2 ;
+                                                                                                      ​           ​               ​                   ​           ​   ​   ​       (1)
+                     −5                                +            −                 −7
+    Ka = 1.80 × 10 ( II ) H2 CO3 + H2 O ⇌ H3 O + HCO 3 ; Ka = 4.20 × 10 ( III )
+        ​                               ​      ​           ​               ​                  ​           ​
+
+
+
+
+    NH+                    +
+        4 + H2 O ⇌ H3 O + NH3 ; Ka = 5.6 × 10
+            ​               ​       ​              ​
+                                                       −10 ( IV ) HCOOH + H O ⇌ H O+ + COOH− ;
+                                                       ​
+
+
+                                                                                2      3                                  ​                       ​
+
+
+
+
+    Ka = 1.80 × 10−4 What is the strength of the acids in DECREASING order?
+        ​
+
+
+
+
+    A. I, IV, II and III                                                               B. II, III, IV and I
+    C. III, II, I and IV                                                               D. IV, I, II and III
+
+37. Given the reaction:                                                                                                                                                           (1)
+
+                                                       H2 PO−              +     2−
+                                                            4 + H2 O → H3 O + HPO4
+                                                               ​       ​       ​          ​                                   ​
+
+
+
+
+    Which of the following represents a conjugate acid base pair?
+    A. H2 PO−
+            4 and H2 O
+                ​       ​       ​                                                      B. H2 PO−4 and HPO4
+                                                                                                  ​
+                                                                                                          2−
+                                                                                                              ​                               ​
+
+
+
+
+    C. H2 PO−
+            4 and H3 O
+                ​
+                       +​       ​
+                                                                                       D. H2 O and H2 PO2−
+                                                                                                  ​
+
+
+                                                                                                        4             ​               ​
+
+
+
+
+38. Which of the following statements is TRUE about colligative properties?                                                                                                       (1)
+    A. Both vapour pressure and freezing point increase when a non-volatile solute is added to a solvent.
+    B. Both freezing point and boiling point increase when a non-volatile solute is added to a solvent.
+    C. Both vapour pressure and boiling point decrease when a non-volatile solute is added to a solvent.
+    D. Colligative properties depend only upon the number of solute particles in a solution and not upon their identity.
+39. What is the pH of 0.005 M solution of Ca(OH)2 ?   ​                                                               (1)
+    A. 2.3                                                     B. 10
+    C. 12                                                      D. 14
+
+40. How many kilo joules of heat are absorbed when 20 g of NaCl(s) is decomposed in to Na(s) and Cl2 (g) at
+                                                                                                         ​            (1)
+    constant pressure according to the following reaction?
+
+                                   2Na(s) + Cl2 (g) → 2NaCl(s)
+                                               ​                       ΔH = −821.8 kl
+
+    A. -281.0                                                  B. -140.5
+    C. +140.5                                                  D. +281.0
+
+41. In the electroplating of nickel from a solution containing Ni2+ ion, what will be the weight of the metal         (1)
+    deposited on the cathode by a current of 8 A flowing for 500 minutes?
+    A. 73g                                                     B. 103g
+    C. 117.4g                                                  D. 145g
+
+42. A 1M solution of Cu(NO3 )2 is placed in a beaker with a strip of Cu metal. A 1M of SnSO4 is placed in a second
+                               ​   ​                                                            ​                     (1)
+    beaker with a strip of Sn metal. The two beakers are then connected by a salt bridge and the two metal
+    electrodes are connected by wires to a voltmeter. Which of the following electrodes serves as the anode and
+    which electrode gains mass? Given that E0 Cu2+ /Cu = 0.34V and E0 Sn2+ /Sn = 0.14V
+    A. Anode, Sn, Sn electrode gains mass.                     B. Anode, Sn, Cu electrode gains mass.
+    C. Anode, Cu, Sn electrode gains mass.                     D. Anode, Cu, Cu electrode gains mass.
+
+43. Which of the following metal alloys does NOT contain tin?                                                         (1)
+    A. Brass                                                   B. Bronze
+    C. Pewter                                                  D. Plumber's solde
+
+44. What structural feature is usually needed to present in order for an addition polymer to be produced?             (1)
+    A. A carbon-carbon sigma bond.                             B. A carbon-oxygen pi bond.
+    C. A carbon-oxygen sigma bond.                             D. A carbon-carbon pi bond.
+
+45. What are the raw materials required to synthesize nylon 6, 6, a specific king of nylon?                           (1)
+
+    A. Diacids                                                 B. Diamines
+    C. Diacids and diamines                                    D. Polyethylene
+
+46. Which of the following substances are added to natural rubber to toughen it?                                      (1)
+    A. Calcium                                                 B. Carbon
+    C. Nitrogen                                                D. Sulphur
+
+47. What is the quantity of heat required to raise the temperature of 80g of ethanol from 250 C to 750 C? (specific   (1)
+    heat of ethanol = 2.46 Jg−1 K−1 )
+    A. 2.46kJ                                                  B. 4.0kJ
+    C. 9.84kJ                                                  D. 18.68kJ
+48. Consider the following gaseous reaction at 250C:                                                                    (1)
+
+                            CH4 (g) + 202 (g) → CO2 (g) + 2H2 O(g)
+                                 ​             ​         ​             ​          ΔH = −802 kJ
+
+    Which energy change would occur if 3.2 moles of CH4 is completely combusted?
+                                                             ​
+
+
+
+
+    A. 2.57 × 103 kJ will be released.                           B. 2.57 × 102 kJ will be absorbed.
+    C. 6.43 × 103 kJ will be released.                           D. 6.43 × 103 kJ will be absorbed.
+
+49. What is the number of chloride ions (Cl− ) present in 1.0 × 10−5 mol of AlCl3 ?     ​                               (1)
+    A. 1.80 × 109                                                B. 6.02 × 1018
+    C. 6.02 × 1023                                               D. 6.02 × 1028
+
+50. Which of the following is the most important ingredients used for production of DAP fertilizer?                     (1)
+
+    A. Ammonia and phosphoric acid.                              B. Nitric acid, urea and phosphoric acid.
+    C. Phosphoric acid, urea and ammonia.                        D. Sulphuric acid, ammonia and urea.
+
+51. Which of the following bio molecules forms a zwitterions at higher or lower PH?                                     (1)
+    A. Cellulose                                                 B. Glucose
+    C. Protein                                                   D. Starch
+
+52. Which of the following form of synthetic rubbers can be vulcanized to greatly enhance its mechanical strength?      (1)
+    A. Neoprene                                                  B. Isoprene
+    C. Styrene-butadiene rubber                                  D. Butyl rubber
+
+53. What is the range in the number of carbon atom of the monosaccharides that are found in nature?                     (1)
+    A. 3 to 7                                                    B. 4 to 10
+    C. 4 to 12                                                   D. 5 to 12
+
+54. What are the two principal polysaccharide forms of starch?                                                          (1)
+
+    A. Aldohexose and ketopentose.                               B. Amylose and amylopectin.
+    C. Maltose and cellobiose.                                   D. Sucrose and lactose.
+
+55. What is the Kelvin scale (K) corresponding to the temperature readings when the degree Celsius (0 C) is identical   (1)
+    to the degree Fahrenheit (0 F)?
+    A. 0 k                                                       B. 37 k
+    C. 233 k                                                     D. 273 k
+
+56. What is the wavelength associated with an electron of mass, m = 9.11 × 10−28 g, travelling at 40% of the            (1)
+    velocity of light?
+    A. 6.06 × 10−15 m                                            B. 2.42 × 10−15
+    C. 6.06 × 10−12 m                                            D. 2.42 × 10−11 m
+
+57. The quantum numbers listed below are meant for four different electrons in an atom: I. n = 4, 1 = 0, m1 =  ​
+                                                                                                                        (1)
+    0, ms = +1/2 II. n = 3, 1 = 1, m1 = 1, ms = +1/2 III. n = 4, 1 = 2, m1 = 0, ms = +1/2 IV. n =
+           ​                               ​         ​                                      ​      ​
+
+
+
+
+    4, 1 = 1, m1 = 0, ms = −1/2 When these sets of quantum numbers are arranged in order of increasing
+                     ​       ​
+
+
+
+
+    energy, one may get:
+    A. I < II < III< IV                                          B. I < III < II < IV
+    C. □II < I < IV < III                                        D. IV < III < II < I
+58. Which of the following hybrid orbitals is favouring the formation of trigonal bipyramidal?                                (1)
+     A. sp3 d                                                     B. sp3
+     C. sp3 d2                                                    D. sp3 d3
+
+59. Which one of the following molecules/molecular ions is paramagnetic according to the molecular orbital                    (1)
+    theory?
+     A. O2−
+         2       ​
+                                                                  B. O2       ​
+
+
+
+
+     C. F2   ​
+                                                                  D. O2+
+                                                                      2           ​
+
+
+
+
+60. For the reaction: 2A + B → C the following experimental results were obtained: What is the value of the rate              (1)
+    constant?
+    [Figure: A four-column data table sits between the stem and the follow-up question. Column headings, left to
+    right: "Experiment", "[A]", "[B]", "Rate (mol L^-1 S^-1)". Three data rows follow. Row 1: Experiment 1, [A] = 0.50, [B]
+    = 0.50, Rate = 0.300. Row 2: Experiment 2, [A] = 0.50, [B] = 0.25, Rate = 0.075. Row 3: Experiment 3, [A] = 0.25,
+    [B] = 0.25, Rate = 0.075. The table is drawn with plain black rules around every cell; no other marks, axes or
+    arrows appear.]
+     A. 0.6 mol L−1 S−1                                           B. 0.6 L−1 S−1
+     C. 1.2 L−1 S−1                                               D. 2.4 mol−1 S−1
+
+61. If a piece of aluminium (Al) foil measuring 24 cm by 31 cm has a mass of 10.35 g, (density of Al = 2.70 gcm−3 ).          (1)
+    What is the thickness of the foil in millimetres?
+     A. 5.15 × 10−3                                               B. 5.15 × 10−2
+     C. 3.833                                                     D. 744
+
+62. Which of the following molecules has a dipole moment?                                                                     (1)
+     A. XeF4             ​
+                                                                  B. H2 S ​
+
+
+
+
+     C. SO3          ​
+                                                                  D. CH4              ​
+
+
+
+
+63. Which of the following reactions will convert carboxylic acids to primary amines?                                         (1)
+
+     A. Decarboxylation with HBr and peroxide, then reaction of the alkyl bromide with ammonia.
+     B. Reduction of the acid to the alcohol with NaOH/ formaldehyde then reaction with ammonium chloride and heat.
+     C. A two-step conversion, first to the amide with ammonia and heat, and then by reduction with lithium aluminium
+        hydride or hydrogen plus catalyst.
+     D. Lactase fermentation in the presence of ammonia atmosphere
+
+64. A solution was prepared by adding 48g of methanol (CH3 OH) in to 81g of water (H2 O). What is the mole
+                                                                  ​                           ​                               (1)
+    fraction of methanol in this solution?
+     A. 0.25                                                      B. 0.75
+     C. 1.5                                                       D. 4.5
+
+65. A solution was prepared by dissolving 3.75 g of pure hydrocarbon in 95.0g of cyclohexane. The boiling point of            (1)
+    pure cyclohexane was observed to be 80.700 C and that of the solution was 81.450 C. What is the approximate
+    molecular weight of the hydrocarbon? (Kb for cyclohexane = 2.790 C/m)
+                                                  ​
+
+
+
+
+     A. 71.0g/mol                                                 B. 105g/mol
+     C. 147g/mol                                                  D. 312g/mol
+66. To 0.2 M solution of a weak monoprotic acid, HA, enough quantity of its sodium salt, NaA, was dissolved to give                                                                               (1)
+    a concentration of 0.2 M of the salt. What will be the acid concentration, [H3 O+ ], in the final solutions? (Ka of       ​                                                               ​
+
+
+
+
+    HA = 1.80 × 10−5 )
+    A. 3.60 × 10−6 M                                                                                   B. 1.00 × 10−5 M
+    C. 1.80 × 10−5 M                                                                                   D. 1.90 × 10−3 M
+
+67. Gaseous petrol in a combustion system has done 375kJ of work during its expansion in the piston.                                                                                              (1)
+    Simultaneously, it absorbed 586 kJ of heat from the engine. What is the internal energy change during the
+    process?
+    A. +211kJ                                                                                          B. +961kJ
+    C. -211kJ                                                                                          D. -961kJ
+
+68. Which of the following reactions is expected to have negative value of entropy change (ΔS )?                                                                                                  (1)
+    A. C6 H6 (s) + 6O2 (g) → 6CO2 (g) + 6H2 O(l)
+           ​           ​                   ​                           ​                       ​
+                                                                                                       B. CaCO3 (s) → CaO(s) + CO2 (g)
+                                                                                                                      ​                                                   ​
+
+
+
+
+    C. N2 O4 (g) + Cl(g) → 2NOCl(g) + O2 (g)
+               ​           ​                                                               ​           D. 2SO2 (g) + O2 (g) → 2SO3 (g)
+                                                                                                                  ​               ​                                   ​
+
+
+
+
+69. Consider the following unbalanced redox reaction in acidic solution:                                                                                                                          (1)
+
+                                                                                       MnO−
+                                                                                          4 + Fe
+                                                                                                 2+
+                                                                                                   ​→ Mn2+ + Fe3+
+
+    what is the change in oxidation state for both the substances oxidized and reduced, and the coefficients of Fe2+
+    and Mn2+ , respectively after balancing?
+    A. 2 and 7, and 2 and 5                                                                            B. 3 and 2, and 5 and 1
+    C. 1 and 5, and 5 and 1                                                                            D. 2 and 5, and 5 and 2
+
+70. How many mL conc. HNO3 and how many mL of water are required to prepare 500mL of 0.1M HNO3 from a
+                                                           ​                                                                                                                              ​
+                                                                                                                                                                                                  (1)
+    conc. 13M HNO3 ?               ​
+
+
+
+
+    A. 1mL HNO3 and 496.15 mL H2 O.
+                               ​                                   ​                                   B. 3mL HNO3 and 500mL H2 O.
+                                                                                                                          ​                                       ​
+
+
+
+
+    C. 3.85 mL HNO3 and 500mL H2 O.    ​                                   ​
+                                                                                                       D. 3.85 mL HNO3 and 496.15 mL H2 O.
+                                                                                                                                      ​                                           ​
+
+
+
+
+71. What is the pH of an aqueous solution prepared to contain 1.3 × 10−3 M sodium nitrite (NaNO2 ) if the acid                                                                        ​
+                                                                                                                                                                                                  (1)
+    dissociation equilibrium constant, Ka for nitrous acid (HNO2 ) is 5.1 × 10−4 ? Kw = 1.0 × 10−14
+                                                                               ​                          ​
+
+
+
+
+    A. 3.1                                                                                             B. 5.1
+    C. 6.0                                                                                             D. 7.3
+
+72. What reactions occur at the anode and cathode when an aqueous solution of Na2 SO4 is electrolyzed? E0 red I.                              ​           ​
+                                                                                                                                                                                                  (1)
+    S2 O2−
+       ​
+                −          2−                  +     −                              −
+         8 + 2e → 2SO4 2.01V II. O2 + 4H + 4e → 2H2 O 1.23V III. 2H2 O + 2e → H2 + 2OH -0.83V
+                   ​                                   ​                           ​
+                                                                                                      −       ​                           ​                                   ​
+
+
+
+
+    IV. Na+ + e− → Na -2.71V
+    A. H2 at cathode and O2 at anode.
+               ​                                   ​
+                                                                                                       B. Na at cathode and S2 O2−
+                                                                                                                                8 at anode.       ​           ​
+
+
+
+
+    C. H2 at cathode and S2 O8 2- at anode.
+               ​                               ​               ​
+                                                                                                       D. Na at cathode and O2 at anode.              ​
+
+
+
+
+73. Which synthetic polymer is produced from caprolactam?                                                                                                                                         (1)
+
+    A. Nylon -6                                                                                        B. Nylon 6, 10
+    C. Teflon                                                                                          D. Terylene
+74. For the following hypothetical equation, in aqueous solution, what is the correct representation of the cell   (1)
+    notation?
+
+                                             A(s) + B2+ (aq) _ A2+ (aq) + B(s)
+
+    A. A(s)∣A2+ (aq)∣∣B2+ (aq)∣B(s)                                     B. B2+ (aq)∣B(s)∣∣A2+ (aq)∣A(s)
+    C. A2+ (aq)(s)∣A(s)∣∣B(s)∣B2+ (aq)                                  D. B(s)∣B2+ (aq)∣∣A2+ (aq)∣A(s)
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

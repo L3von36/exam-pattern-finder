@@ -1,0 +1,208 @@
+                                                         Temari.et
+                      Chemistry, 2013 EC, natural science, entrance exam
+                                               Grade 12 · Chemistry · 2013 E.C.
+
+Time allowed: 120 minutes                                     Questions: 30                                Total marks: 30
+
+Name                                             Grade                        ID No.               Date
+
+1.   Significant figures are figures with                                                                               (1)
+     A. measured values with the highest precision.
+     B. measured values with the highest accuracy.
+     C. measured values with the highest uncertainty.
+     D. exactly known digits with the last digit uncertain.
+
+2.   The branch of chemistry that is involved in separation, identifying and determining the relative amounts of        (1)
+     components in a sample of material is known as
+     A. Biochemistry.                                            B. Physical chemistry.
+     C. Analytical chemistry.                                    D. Inorganic chemistry.
+
+3.   For the determination of the density of a new ceramic, a student measured the mass of a piece on an analytical     (1)
+     and obtained 3.8056 gram and its volume 2.5 mL by displacement of water in a graduated cylinder. The correct
+     reported density of the ceramic should be
+     A. 1.5222 g/mL                                              B. 1.5 g/mL
+     C. 1.5224 g/mL                                              D. 3.5 g/mL
+
+4.   The scientific method is                                                                                           (1)
+
+     A. a collection of scientific guesses and hypotheses by seeking patterns in the observation.
+     B. a method of arriving at an organized body of knowledge based on reproducible experiments and observation.
+     C. the sum total of unique guidelines for the practice of science in the world.
+     D. the result of fortunate, accidental discovery in the development of science.
+
+5.   One of the following is NOT a cause of uncertainty in measurement?                                                 (1)
+     A. The type of material measured
+     B. The person doing the experiment
+     C. The measuring device
+     D. The environment where the measurement is made
+
+6.   Which of the following is true about isotopes? Isotopes of an element have                                         (1)
+     A. the same number of electrons and neutrons.
+     B. different number of neutrons and the same number protons.
+     C. different physical and chemical properties.
+     D. the same atomic mass but different atomic numbers.
+7.   Which statement correctly describes Heisenberg's uncertainty principle?                                             (1)
+     A. If we measure the momentum of a particle precisely then its position will be correspondingly precise.
+     B. A particle with a mass moving at a given speed can be described by the wave characteristics of material
+        particles.
+     C. A small particle like the electron can behave both as a particle and a wave.
+     D. Both the location and the momentum of a subatomic particle like the electron cannot be precisely known.
+
+8.   Which of the following statement is correct about energy changes when an electron changes its energy level?         (1)
+     A. When an electron jumps from a lower energy level to a higher level, the photon emitted is equal to the difference
+        between the two energy levels.
+     B. When an electron falls from a higher energy level to a lower energy level, the energy is equal to the difference
+        between the two energy levels is observed.
+     C. When an electron jumps from a lower energy to a higher energy level, the energy is equal to the difference
+        between the two energy levels is absorbed.
+     D. When an electron falls from a higher energy level to a lower energy level, the energy is higher than the difference
+        between the two energy levels is emitted.
+
+9.   The sanitizer in wide use for protection against Covid-19 is labeled 83% alcohol. How can one scientifically        (1)
+     check the concentration? This can be done by
+     A. forming a hypothesis.                                   B. collection of data.
+     C. experimentation.                                        D. making observation.
+
+10. The correct electronic configuration for chromium (Cr, Z=24) is                                                      (1)
+
+     A. 1s^(2)2s^(2)2p^(6)3s^(2)3p^(6)3d^(4)4d^(2)
+     B. 1s^(2)2s^(2)2p^(6)s^(2)3p^(6)4s^(1)3d^(5)
+     C. 1s^(2)2s^(2)3s^(2)3p^(6)4s^(1)d^(6)
+     D. 1s^(2)2s^(2) 2p^(6)3s^(2)3p^(6)4s^(2)3d^(4)
+
+11. According to Hund's rule equal energy (degenerate) orbitals are filled with                                          (1)
+     A. two electrons of opposite spins placed in the first orbitals.
+     B. maximum number of unpaired electrons with parallel spins.
+     C. two electrons of parallel spins placed in the first orbital.
+     D. maximum number of unpaired electrons with opposite spins.
+
+12. In the modern periodic table                                                                                         (1)
+     A. non-metals are placed on the right hand side of the periodic table.
+     B. elements with similar properties are placed in the same period.
+     C. metals are placed on the right hand side of the periodic table.
+     D. transition and inner transition elements are placed in the middle of the periodic table.
+
+13. Covalent compounds are liquids or gases at room temperature and have low melting and boiling points. Which of (1)
+    the following state. ments explains these properties of covalent compounds?
+     A. The intermolecular forces of attraction in covalent compounds are strong.
+     B. The unit of particles in covalent compounds are ions.
+     C. There are no forces of attraction between the molecules in covalent compounds.
+     D. Covalent compounds exist as separate molecules.
+14. Both carbonyl sulphide, COS(SCO), S = C = O and carbon dioxide (CO2)O = C = O are linear molecules. COS is               (1)
+    polar whereas C02 is non-polar. this is because
+    A. C0_2 has a net dipole moment of zero.
+    B. the C = O bonds in both COS and C0_2 are polar.
+    C. regions of high negative charge is distributed equally around the central atom is COS.
+    D. Sulphur is more electronegative than oxygen.
+
+15. Which of the following statements is true about the formation of CH4 according to valence bond theory?                   (1)
+
+    A. The 2 s and two 2p orbitals in carbon hybridize to form three sp^(2)
+    B. The 2s and three 2p orbitals in carbon hybridize to form four sp^3
+    C. The 2s and one 2p orbitals in carbon hybridize to form two SP orbitals.
+    D. Carbon can form two hybrid orbitals as it has got only two halffilled orbitals.
+
+16. Phosphorus (Z = 15) has the electronic configuration 1s22s22p63s23p3, what kind of hybridization does                    (1)
+    phosphorus undergo in the formation of phosphorus pentachloride (PCl5)
+    A. sp^3                                                     B. sp^3 d
+    C. sp^2                                                     D. sp
+
+17. One of the following reactions illustrates the formation of coordinate covalent bond?                                    (1)
+    A. NaOH + HCl → NaCl + H_(2)0                               B. Be + 2F2 → BeF_2
+    C. NH_3 + HCl -+NH_4 + CI^(-)                               D. CaCO_3 + HCl + CaCl_(2) + H_(2)0 + C0_2
+
+18. Hydrogen bonding occurs in compounds that contain H — N, H — O and H-F bonds. These bonds are stronger                   (1)
+    than the ordinary dipole-dipole interaction because
+    A. the partially positive H of one molecule is attracted to the partially negative lone pairs on the N, O or F another
+       molecule.
+    B. the H — N, and H — F bonds are less polar than ordinary covalent bonds.
+    C. the small sizes of N, O and F makes these atoms so electropositive that their covalently bonded H is highly
+       negative.
+    D. the H — N, H — O and H — F bonds are non-polar and thus do not interact with neighboring molecules.
+
+19. Which of the following is an example of exception to the octet rule?                                                     (1)
+    A. NH_3                                                     B. CCl_4
+    C. H_(2)O                                                   D. PCl_(5)
+
+20. When the boiling point of hydrides of group VIA elements, H2O, H2S , H2Se and H2Te are arranged in the order of (1)
+    increasing boiling point. The trend is H2Te < H2Se < H2S < H20, water having the highest boiling point, this is due
+    to
+    A. the small size of O compared to the other group VIA elements.
+    B. the basic different structures of each hydride.
+    C. increasing boiling points with increasing molecular mass.
+    D. hydrogen bonding present in H_(2)O molecules.
+21. Given the following catalyzed reactions                                                                                (1)
+
+
+    I. 2CO2( s) → 2SO3 (g); V2O5(s) as a catalyst
+    II. OCl-(aq) + I-(aq) → OI-(aq) + Cl-(aq); OH-(aq) as inhibitor
+    III. CO(s) + H2(g) → CH4(g) + H2O(g);
+    IV. CO(s) + H2(g) → HCHO(g); Cu(s) as a catalyst
+
+    Which reactions is examples for homogeneous catalysis?
+    A. I and II                                                       B. II
+    C. II and III                                                     D. IV
+
+22. Which statement is true about catalyst?                                                                                (1)
+    A. A catalyst slows down or speeds up a reaction, itself being consumed.
+    B. A positive catalyst decreases the rate of a reaction by increasing the activation energy.
+    C. A negative catalyst increases the rate of a reaction by decreasing the value of activation energy.
+    D. The role of a catalyst is to increase or decrease the rate of a reaction by lowering or increasing the activation
+       energy.
+
+23. According to the transition state theory                                                                               (1)
+
+    A. the collision between two reacting species results in the formation of an activated complex, which has less
+       energy than both reactants and products.
+    B. in the activated complex, the original bonds are weakened and the new bonds are partially formed.
+    C. the activation energy is the energy that must be absorbed or released by reactants to reach the activated
+       complex.
+    D. the standard reaction enthalpy (ΔH^(0)) depends on the magnitude of the activation energy (E_(a)).
+
+24. Which of the following is true about the rate constant?                                                                (1)
+    A. It expresses the relationship between the rate of a chemical reaction and the volume of reacting species.
+    B. The volume of a rate constant tells us how fast or slow a reaction is.
+    C. The value of a rate constant is independent of reaction conditions.
+    D. A small rate constant indicates a faster reaction and a larger rate constant indicates a slower reaction.
+
+25. The mathematical expression K = (-Ea / (2.3303R)) 1/T + log A derived from the Arrhenius equation is of                (1)
+    important as it Shows
+    A. reactions with lar rer activation energies have higher values of k and are therefore faster.
+    B. for a given value of activation energy of the rate constant increases as the tem erature increases.
+    C. reactions with lar yer activation energies, the value of the rate constant decreases as the temperature increases.
+    D. for a given value of activation energy, the value of the rate constant decreases as the timperature increases.
+
+26. From the magnitude of the contribution constant, Keq one can deduce that                                               (1)
+
+    A. small K_eq values indicate the reaction yields very high amounts of products near equilibrium.
+    B. large K_eq value in licates that the reaction reaches equilibrium with little reactants rer laining.
+    C. intermediate K_eq value indicates that the reaction does proceed in the forward direction.
+    D. K_eq will be larger when we have higher amounts or reactants over products.
+27. The statement "If a system at equilibrium is subjected to a stress, the system will readjust itself to reduce the    (1)
+    effects of the stress is known as
+    A. Faradays law                                                     B. Boyle's law
+    C. Avogadro's principle                                             D. Le-Chaterlier's principle
+
+28. The law of mass action states that                                                                                   (1)
+    A. the rate of a reaction is directly proportional to the product of the concentration of reactants raised to the power
+       of their respective coefficients in the balanced equation.
+    B. the K_eq expression is the ratio of the concentrations reactants to the products raised to their coefficients.
+    C. a chemical equilibrium is attained only when the reaction is started with reactants.
+    D. for a reaction at equilibrium, the reaction quotient, Q is always less than the equilibrium constant, (K_eq)^(-)
+
+29. For the reaction between gaseous NO and 02 to form NO2( g), what will be the equilibrium constant expression.        (1)
+
+
+    2NO(g) + O2(g ⇌ 2NO2(g)
+    A. Kc = [NO_(2)]^2 / [NO]^(2) [O_(2)]                               B. Kp = [P NO_(2)]^(2) / [NO]^(2) [O_(2)]
+    C. Kp = [P NO_(2)] / (P NO)^(2) (P O_(2))                           D. Kp = [P NO]^(2) (P O_(2)) / (P NO_(2))
+
+30. In the production of NH3 by the Haber process according to the equationN2(g) + 3H2(g) ⇌ 2NH3(g) ΔH =                 (1)
+
+    -92KJmol-1 What are the favorable conditions for the production of high yield of NH3?
+    A. Low pressure and low temperature                                 B. High pressure and low temperature
+    C. High pressure and high temperature                               D. Low pressure and high temperature
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+

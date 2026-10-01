@@ -1,0 +1,376 @@
+                                                          Temari.et
+                                     Physics, 2013 EC, entrance exam
+                                                 Grade 12 · Physics · 2013 E.C.
+
+Time allowed: 120 minutes                                     Questions: 47                                      Total marks: 47
+
+Name                                              Grade                       ID No.                      Date
+
+1.   Kirchhoff's junction rule state that                                                                                     (1)
+     A. current traversing any closed loop at particular time is zero.
+     B. the potential drop at a given junction equals the electromotive force at that particular point
+     C. charge entering the junction equals the charge leaving that junction at a particular time.
+     D. the sum of the voltage drop across any closed loop equals the sum of electromotive force.
+
+2.   Which one of the following statement is NOT correct about the magnetic properties of matter?                             (1)
+     A. There is a tendency to oppose the applied magnetic field in a diamagnetic substance.
+     B. The unpaired electrons in diamagnetic materials will align with the applied magnetic field and parallel to each
+        other.
+     C. The unpaired electrons in ferromagnetic materials will align with the applied magnetic field and parallel to each
+        other.
+     D. The unpaired electrons in paramagnetic substance which will tend to align themselves in the same direction as
+        the applied magnetic field.
+
+3.   Suppose a conductor of length l carrying a current I placed in a uniform magnetic field of magnitude B. When             (1)
+     the conductor is making an angle θ with that of the magnetic field then the force experienced by the conductor
+     due to the magnetic field is given by
+     A. F = I(B × l)                                              B. F = BIl cos θ
+     C. F = BIl tan θ                                             D. F = I(l × B )
+
+4.   Which one of the following statement is correct about tangent galvanometer?                                              (1)
+     A. The current through a coil of the wire generates a magnetic field at the center of the coil
+     B. It consists of a coil of insulated copper wire on a circular magnetic frame.
+     C. The current is inversely proportional to the tangent of the angle of the needle's deflection.
+     D. It is a device used to measure the electric current in terms of the electric field it produces.
+
+5.   A long conductor shown in the figure carries a current I in the direction indicated by the arrow.                        (1)
+     Which statement is NOT correct about the magnetic field produced by this current carrying conductor?
+     [Figure: A vertical straight line representing a conductor, with an upward-pointing arrow to its right labeled with
+     the current "I".]
+     A. Doubling the current through the conductor doubles the field strength.
+     B. Reversing the current direction will reverse the direction of the magnetic field.
+     C. The magnetic field encircles the conductor.
+     D. The field strength is directly proportional to the distance from the conductor.
+6.   A coiled copper has 50 turns and coil cross-sectional area of 9 × 10−4 m2 ? This coil is initially placed in a      (1)
+     uniform magnetic field 0.02 T and pulled out of a field completely (where the field is zero) in 0.5 seconds. What
+     is the magnitude of the induced electromotive force?
+     A. 3.2 mV                                                 B. 9.0 mV
+     C. 18 mV                                                  D. 1.8 mV
+
+7.   A 15.0 mH inductor is used to induce an electromotive force of 5.0 mV. What is the rate change of the induced       (1)
+     current?
+     A. 3.0 A/s                                                B. 0.30 A/s
+     C. 0.33 A/s                                               D. 3.3 A/s
+
+8.   A coil and a permanent magnet are set in relative motion. Which one of the following statement is NOT correct       (1)
+     about induced electromotive force?
+     A. Coil with larger number of turns produce greater induced electromotive forces.
+     B. Moving a magnet relative to the coil and the coil relative to the magnet with equal speed will produce the same
+        electromotive force.
+     C. The magnitude of the induced electromotive force is directly proportional to the relative velocity between the
+        two.
+     D. The direction in which the coil moves relative to the magnetic field does not have any effect on the induced
+        electromotive force.
+
+9.   What is the advantage of using alternating current in transmission of electric energy?                              (1)
+     A. It enables to reach the consumers at very high voltage.
+     B. It enables a transformer to increase or decrease the voltage as required.
+     C. It completely avoids energy loss due to heating.
+     D. It uses very high current in the transmission line.
+
+10. Capacitive reactance is defined as                                                                                   (1)
+
+     A. the equivalent quantity to resistance when we are talking about capacitors.
+     B. the equivalent quantity to impedance of in RLC circuit.
+     C. the equivalent quantity to resistance when we are talking about inductors.
+     D. the equivalent quantity to resistance when we are talking about resistors.
+
+11. The second law of thermodynamics states that                                                                         (1)
+     A. the increase in the internal energy of a system is equal to the sum of the energy entering the system through
+        heating, and work done on the system.
+     B. two bodies that are separately in thermal equilibrium with a third body must be in thermal equilibrium with each
+        other.
+     C. no process is possible in which there is an overall decrease in the entropy of the universe.
+     D. no process is possible in which there is an overall increase in the entropy of the universe.
+
+12. A mass-spring system set to oscillate in a simple harmonic motion over friction less horizontal surface. The         (1)
+    amplitude of this oscillation is 20 cm. A second mass-spring system with the same spring constant is set to
+    oscillate in the same way but with amplitude of 10 cm. The energy of the
+     A. first mass-spring system has four times the second one.
+     B. second mass-spring system has the square of the first one.
+     C. first mass-spring system has twice the second one.
+     D. second mass-spring system has half of the first one.
+13. 13. Suppose you are given the following travelling waves that have the same frequency and the same amplitude (1)
+    A.
+    Which graph represents the super position of the two waves?
+    [Figure: Two graphs of travelling waves are shown side by side, each plotting Amplitude(cm) against
+    time(second) with grid lines. The vertical axes have markings at +2A, +1A, 0, -1A, and -2A. - Left wave: A
+    sinusoidal wave with amplitude A that starts at (0, 0), initially moves downward to a trough of -1A, crosses zero,
+    reaches a crest of +1A, and repeats. - Right wave: A sinusoidal wave with the same frequency and amplitude A
+    that starts at (0, 0), initially moves upward to a crest of +1A, crosses zero, reaches a trough of -1A, and repeats
+    (exactly 180 degrees out of phase with the left wave).
+    The choices show four possible superposition graphs on identical axes: - Graph A: Shows only positive rectified
+    lobes with peaks reaching +2A. - Graph B: Shows a sinusoidal wave oscillating between approximately +1.8A and
+    -2.2A. - Graph C: Shows a sinusoidal wave of amplitude 2A oscillating symmetrically between +2A and -2A. -
+    Graph D: Shows a flat horizontal line along zero amplitude (complete destructive interference).]
+    A. [Graph A]                                               B. [Graph B]
+    C. [Graph C]                                               D. [Graph D]
+
+14. 14. A string vibrates with speed of 110 m/s in its fourth harmonic has a frequency of 880 Hz. What is the length       (1)
+    of the string?
+    A. 25.0 cm                                                 B. 12.5 cm
+    C. 50.0 cm                                                 D. 31.3 cm
+
+15. 15. An interference patterns observed after a monochromatic beam of light passes through a single slit and a           (1)
+    double slit. Which one of the following is correct about the width of the central maxima and the first order
+    maxima in single slit and double slit?
+    A. The width of the central maxima has equal with the width of the first order maxima in a single slit interference
+       while it has twice the width of the first order maxima in double slit interference.
+    B. The width of the central maxima has twice the width of the first order maxima in both cases.
+    C. The width of the central maxima and first order maxima has equal width in both cases.
+    D. The width of the central maxima has twice the width of the first order maxima in a single slit interference while
+       it has equal width in double slit interference.
+
+16. 16. A light wave of wavelength 590 nm pass through a narrow double slit of 0.2 mm slit separation. An                  (1)
+    interference pattern is formed on a screen at a distance of 1.5 m. What is the distance between the consecutive
+    bright fringes on the screen?
+    A. 1.97 mm                                                 B. 4.43 mm
+    C. 0.43 mm                                                 D. 44.3 mm
+
+17. According to Gauss's law the net electric flux through any hypothetical closed surface is proportional to the          (1)
+    enclosed;
+    A. Electric field.                                         B. Potential difference.
+    C. Electric current.                                       D. Electric charge.
+
+18. When a dielectric material placed between two parallel metal plates in the presence of electric fields they            (1)
+    enable the plates to store
+    A. much less charge at different potential difference.
+    B. the same charge at the same potential difference.
+    C. much more charge at the same potential difference.
+    D. much more charge at different potential difference.
+19. A parallel plate capacitor with plate area A and plates separation d stores a charge Q when a potential difference (1)
+    V is kept between the plates. Then the region between the plates is completely filled with a dielectric material of
+    dielectric constant εr . If E denotes the electric field between the plates, the energy density stored by the
+                             ​
+
+
+
+
+    capacitor is
+    A. u=\frac{1}{2} \varepsilon_0 \varepsilon_r E^2
+    B. u=\frac{\varepsilon_0 \varepsilon_r Q V^2}{Ad}
+    C. \frac{1}{2} \varepsilon_r E Q^2 V
+    D. \frac{\varepsilon_0 \varepsilon_r V^2 A}{2dE}
+
+20. A uniform conductor of length L and cross-sectional area A carries a current I when a potential difference V is     (1)
+    applied across its ends. If the number of free electrons per unit volume of the conductor is n, and the electron
+    charge is e, then the drift velocity of the electrons in the conductor is
+    A. V_d=\frac{I}{eLA}                                               B. V_d=\frac{I}{neA}
+    C. V_d=\frac{I}{neLA}                                              D. V_d=\frac{I}{neL}
+
+21. A student wants to measure the length and height of the school laboratory. There are Vernier calipers, meter        (1)
+    stick, micrometer screw gauge and meter tape measuring instruments in the laboratory. Which one of the
+    following measuring instrument and unit is appropriate for the measurement?
+    A. Meter tape and meter                                            B. Vernier calipers and millimeter
+    C. Micrometer screw gauge and millimeter                           D. Meter stick and centimeter
+
+22. In reporting an experimental result the collected data has to be clearly tabulated with appropriate units. Which    (1)
+    of the following table correctly represents a data collected during an experiment?
+    [Figure: Three horizontal tables representing experimental data for Voltage and Current:
+    Table A has two rows and six columns:
+    Row 1: Voltage | 4V | 6V | 8V | 12V | 16V
+    Row 2: Current | 0.5 I | 0.75 I | 1I | 1.5 I | 2.0 I
+    Table B has two rows and six columns:
+    Row 1: Voltage (V) | 4 | 6 | 8 | 12 | 16
+    Row 2: Current (C) | 0.5 | 0.75 | 1 | 1.5 | 2.0
+    Table C has two rows and six columns:
+    Row 1: Voltage (V) | 4 | 6 | 8 | 12 | 16
+    Row 2: Current (A) | 0.5 | 0.75 | 1 | 1.5 | 2.0
+    Option D is not visible on this page.]
+    A. | Voltage | 4V | 6V | 8V | 12V | 16V | | Current | 0.5 I | 0.75 I | 1I | 1.5 I | 2.0 I |
+    B. | Voltage (V) | 4 | 6 | 8 | 12 | 16 | | Current (C) | 0.5 | 0.75 | 1 | 1.5 | 2.0 |
+    C. | Voltage (V) | 4 | 6 | 8 | 12 | 16 | | Current (A) | 0.5 | 0.75 | 1 | 1.5 | 2.0 |
+    D. | Voltage | 4 V | 6 V | 8 V | 12 V | 16 V | | Current | 0.5 C | 0.75 C | 1 C | 1.5 C | 2.0 C |
+
+23. 25. Which of the following pair of vectors are collinear?                                                           (1)
+
+    A. 4   −4                                                          B. 4   −4
+      [ ],[ ]                                                            [ ],[ ]
+       2   −2                                                             2   2
+           ​        ​                                                         ​        ​
+
+
+
+
+    C. 4    4                                                          D. −4    4
+      [ ],[ ]                                                            [ ],[ ]
+       2   −2                                                             −2   −2
+           ​        ​                                                             ​        ​
+24. 26. Instantaneous velocity is different from average velocity in that; instantaneous velocity is                   (1)
+    A. the velocity at a particular instant of time.
+    B. in opposite direction to the displacement of the moving object.
+    C. the total displacement to the time taken.
+    D. the average velocity during the time of acceleration.
+
+25. A car travelling at 20 m/s starts to speedup. After 5 minutes its speed is 144 m/s. What is the acceleration of    (1)
+    the car?
+    A. 28.8 m/s                                                 B. 0.41 m/s
+    C. 24.8 m/s                                                 D. 0.55 m/s
+
+26. A bullet of 200 g mass fired from a 30.0 m high building, horizontally. At the same time a bullet of the same      (1)
+    mass fired vertically down from the same height. What can be concluded about the motion of the two bullets?
+    A. A bullet fired vertically takes more time to strike the ground.
+    B. Both bullets move with the same horizontal velocity
+    C. Both bullets strike the ground at the same time.
+    D. A bullet fired horizontally takes more time to strike the ground.
+
+27. A bird flies at speed of 10m/s to south relative to the Earth. A wind blows at speed of 4m/s to East relative to   (1)
+    the Earth. What is the speed of the relative to the wind?
+    A. 6m/s in the direction of North-East                      B. 10.8m/s in the direction of North-West
+    C. 6m/s in the direction of South-East                      D. 10.8m/s in the direction of South-West
+
+28. Dynamics is a branch of mechanics concerned with the motion or an object                                           (1)
+
+    A. under the action of forces.                              B. under the action of balanced forces.
+    C. without its causes.                                      D. whose velocity is constant.
+
+29. The necessary condition for an object to be in rotational equilibrium is                                           (1)
+    A. the net moment of all forces should be non-zero.
+    B. the net torque acting on the object is different from zero.
+    C. the net force exerting on the object must be zero.
+    D. the sum of clockwise torques equals to the sum of counter clockwise torques.
+
+30. An aluminum wire of initial length 2.0 m where increased by 2.0 cm in its length being on application of a force   (1)
+    of 9.0 N. What is the strain energy of the material?
+    A. 0.18 J                                                   B. 0.9 J
+    C. 9.0 × 10−2 J                                             D. 4.5 × 10−2 J
+
+31. Ethanol has a surface tension of 22 × 10−3 N/m and its density is of 0.789 g/cm3 . The radius of the capillary     (1)
+    tube is 15 mm, and the contact angle is 30∘ . Determine the height rise in the column of the capillary tube.
+    A. 0.32 mm                                                  B. 0.16 mm
+    C. 3.2 mm                                                   D. 1.6 mm
+
+32. Suppose a stream of fluid flows past a solid object, which one of the following does NOT affect the laminar flow   (1)
+    of the fluid?
+    A. Viscosity of the fluid                                   B. The density of the solid object
+    C. The shape of the solid object                            D. The speed of the solid object
+33. Water enters a tube of non-uniform diameter. The speed of the force at the entry of area A1 is 12 m/s and the
+                                                                                                  ​                   (1)
+    speed| becomes 4 m/s at the exit opening of area A2 . Which one is correct about the ratio of A
+                                                               ​
+
+
+
+
+                                                                                                  A2 ?
+                                                                                                    1 ​
+
+
+
+
+                                                                                                      ​
+                                                                                                          ​
+
+
+
+
+    A. 14   ​
+                                                                    B. 4
+    C. 3                                                            D. 13   ​
+
+
+
+
+34. The particular temperature and pressure at which the solid, liquid, and gaseous phases of a given substance are   (1)
+    all at equilibrium with another is known as:
+    A. Heat capacity                                                B. Triple point
+    C. Critical point                                               D. Phase change
+
+35. Most solids expand upon heating, which one of the following statements correctly describe the phenomena?          (1)
+    A. Increase in temperature decreases the vibrational kinetic energy and increases the amplitude of the atoms
+       constituting the solid.
+    B. Increase in temperature increases the vibrational kinetic energy and decreases the amplitude of the atoms
+       constituting the solid.
+    C. Increase in temperature increases the vibrational kinetic energy and amplitude of the atoms constituting the
+       solid.
+    D. Increase in temperature decreases the vibrational kinetic energy and amplitude of the atoms constituting the
+       solid.
+
+36. If 25 J is taken away by heat from a system, and the system does 20 J of work, what is the change in internal     (1)
+    energy of the system?
+    A. 45.0 J                                                       B. -45.0 J
+    C. 5.0 J                                                        D. -5.0 J
+
+37. A sample mixture of gas contains 72% of hydrogen and 28% of Helium. What is the partial pressure of helium at     (1)
+    an atmospheric pressure of 76 cm of mercury (Hg)?
+    A. 33.44 cm of Hg                                               B. 76.0 cm of Hg
+    C. 54.72 cm of Hg                                               D. 21.28 cm of Hg
+
+38. Which one of the following statements is NOT correct about the concept and units of coefficient of friction?      (1)
+    A. Coefficient of friction is the ratio of frictional force to normal force.
+    B. Coefficient of static friction is less than its value of kinetic friction.
+    C. Coefficient of static friction has no unit.
+    D. The coefficient of friction is always less or equal to unity (1).
+
+39. A car is traveling at constant velocity along a straight line. Which, statement is correct?                       (1)
+
+    A. The displacement of the car increase linearly with time.
+    B. The displacement of the car is in opposite direction.
+    C. The net force on the car is different from zero.
+    D. The acceleration of the car is in opposite direction.
+
+40. Which one of the following statements is correct about the impulse on an object?                                  (1)
+    A. The impulse on an object is changed when the net force acting on the object is zero.
+    B. The area under the curve of momentum versus time graph is the impulse on an object.
+    C. Impulse is the change in momentum when a force is exerted on an object for a very short period of time.
+    D. Impulse is the rate of change in momentum due to external force exerted on an object for a very short period of
+       time.
+41. Consider two collisions that occurred between two trollies having the same mass, moving with the same speed,         (1)
+    and in opposite directions,
+    Collision 1:- after collision the two trollies bounce back with the same speed.
+    Collision 2:- after collision the two trollies stick together due to magnetic coupler.
+    Which of the following statement is correct about the two collisions?
+      A. Both collisions are elastic.
+      B. Collision 1 is elastic and collision 2 is inelastic.
+      C. Both collisions are inelastic.
+      D. Collision 1 is inelastic and collision 2 is elastic.
+
+42. Suppose that you are given a mass attached to a spring and oscillates up and down. This mass-spring system           (1)
+    has maximum gravitational potential energy (GPE), elastic potential energy (EPE) and kinetic energy (KE) at the
+      A. middle, top and bottom respectively.                     B. middle, bottom and top respectively.
+      C. bottom, middle and top respectively.                     D. top, bottom and middle respectively.
+
+43. A pendulum shown in the figure below has 2.5 m length and mass m. When it pass point A, its mass has a speed         (1)
+    of 2.0 m/s. (neglect the air resistance)
+    The height of the pendulum at displacement positions B and C is
+    [Figure: A diagram of a simple pendulum of mass m suspended from a fixed pivot. The solid vertical line
+    represents the equilibrium position with the bob at the lowest point labeled 'A' and having mass 'm'. Two dashed
+    lines show the pendulum displaced to the left to point 'C' and to the right to point 'B' (bob labeled 'm'). A
+    horizontal dashed line connects positions C and B. Double-headed vertical arrows show the vertical height 'h'
+    from the level of point A to the level of displacement positions C and B.]
+      A. 0.1 m                                                    B. 2.5 m
+      C. 0.2 m                                                    D. 0.4 m
+
+44. A 5.0 kg stone is dropped from a top of 30.0 m building. At a height of 10.0 m above the ground, 60% of its initial (1)
+    potential energy is converted to kinetic energy. Which of the following statements is correct about the
+    transformation of energy for the stone?
+      A. The sum of its potential energy and kinetic energy is the same at every point during its fall.
+      B. 6.7 % of its gravitational potential energy is dissipated due to air resistance.
+      C. 60% of its original potential energy is converted to heat energy due to air resistance.
+      D. The remaining 40% of the energy is still available as gravitational potential energy.
+
+45.                   3                               4
+      48. A force of [ ] N acts at a displacement of [ ]m. The magnitude and the direction of the torque produced is     (1)
+                      4                               3
+                        ​                                  ​
+
+
+
+
+      A. -7.0 N.m k^                                            B. -24.0 N.m k^
+      C. 24.0 N.m k^                                              D. 7.0 N.m k^
+
+46. 49. A wheel starts rotating at 1.2 Hz and reaches 1.8 Hz in 5 seconds. Calculate the angular displacement it         (1)
+    covers within 5 seconds?
+      A. 10π rad                                                  B. 3π rad
+      C. 30π rad                                                  D. 15π rad
+47. 50. If you are given the following physical quantities in angular motion: torque (τ ), Linear momentum (ρ),   (1)
+    moment of inertia (I), angular speed (ω ), and angular acceleration (α). The angular momentum (L) is the
+    A. product of moment of inertia and angular speed.
+    B. ratio of moment of inertia to angular acceleration.
+    C. product of moment of inertia and torque.
+    D. ratio of linear momentum to moment of inertia.
+
+                                                — E N D O F E X A M I N AT I O N —
+                                  Generated on Meskerem 21, 2019 E.C. (October 1, 2026 G.C.) · Temari.et
+
