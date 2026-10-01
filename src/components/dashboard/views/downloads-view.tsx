@@ -241,13 +241,24 @@ export function DownloadsView() {
             ))}
           </div>
           <Button asChild className="w-full gap-2 bg-amber-600 hover:bg-amber-700" disabled={isLoading}>
-            <a href="/downloads/ethiopian-textbooks.zip" download>
+            <a
+              href="https://github.com/L3von36/exam-pattern-finder/releases/download/v1.0-textbooks/ethiopian-textbooks.zip"
+              download
+            >
               <Download className="size-4" />
               Download all textbooks as .zip ({(TOTAL_TEXTBOOK_MB / 1024).toFixed(1)} GB)
             </a>
           </Button>
-          <p className="text-xs text-amber-600 dark:text-amber-400">
-            ⚠️ The textbooks zip is large (818 MB) — download may take a while depending on your connection.
+          <p className="text-xs text-muted-foreground">
+            ⚠️ 818 MB download from GitHub Releases. May take 5–15 minutes depending on your connection.
+            <a
+              href="https://github.com/L3von36/exam-pattern-finder/releases/tag/v1.0-textbooks"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="ml-1 underline hover:text-foreground"
+            >
+              View release notes
+            </a>
           </p>
         </CardContent>
       </Card>
