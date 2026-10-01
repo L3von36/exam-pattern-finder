@@ -4,13 +4,39 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { useQuery } from '@tanstack/react-query'
-import { Download, FileArchive, FileText, Github, ExternalLink, Loader2, Package, FolderTree } from 'lucide-react'
+import { Download, FileArchive, FileText, Github, ExternalLink, Loader2, Package, FolderTree, BookText } from 'lucide-react'
 
 type ExamList = {
   ok: boolean
   total: number
   exams: Array<{ id: string; subject: string; title: string; sizeKb: number; year: string }>
 }
+
+type Textbook = {
+  filename: string
+  subject: string
+  grade: 'Grade 11' | 'Grade 12'
+  sizeMb: number
+  curriculum: 'current' | 'old'
+}
+
+// Static list of all textbooks we've downloaded
+const TEXTBOOKS: Textbook[] = [
+  { filename: 'biology__grade_12.pdf', subject: 'Biology', grade: 'Grade 12', sizeMb: 173, curriculum: 'current' },
+  { filename: 'chemistry__grade_12.pdf', subject: 'Chemistry', grade: 'Grade 12', sizeMb: 8, curriculum: 'current' },
+  { filename: 'english__grade_12.pdf', subject: 'English', grade: 'Grade 12', sizeMb: 16, curriculum: 'current' },
+  { filename: 'mathematics__grade_12.pdf', subject: 'Mathematics', grade: 'Grade 12', sizeMb: 118, curriculum: 'current' },
+  { filename: 'physics__grade_12.pdf', subject: 'Physics', grade: 'Grade 12', sizeMb: 11, curriculum: 'current' },
+  { filename: 'civics__ethical_education__grade_12_old_curriculum.pdf', subject: 'Civics & Ethical Education', grade: 'Grade 12', sizeMb: 3, curriculum: 'old' },
+  { filename: 'biology__grade_11.pdf', subject: 'Biology', grade: 'Grade 11', sizeMb: 39, curriculum: 'current' },
+  { filename: 'chemistry__grade_11.pdf', subject: 'Chemistry', grade: 'Grade 11', sizeMb: 9, curriculum: 'current' },
+  { filename: 'english__grade_11.pdf', subject: 'English', grade: 'Grade 11', sizeMb: 140, curriculum: 'current' },
+  { filename: 'mathematics__grade_11_old_curriculum.pdf', subject: 'Mathematics', grade: 'Grade 11', sizeMb: 220, curriculum: 'old' },
+  { filename: 'physics__grade_11_old_curriculum.pdf', subject: 'Physics', grade: 'Grade 11', sizeMb: 93, curriculum: 'old' },
+  { filename: 'civics__ethical_education__grade_11_old_curriculum.pdf', subject: 'Civics & Ethical Education', grade: 'Grade 11', sizeMb: 6, curriculum: 'old' },
+]
+
+const TOTAL_TEXTBOOK_MB = TEXTBOOKS.reduce((acc, t) => acc + t.sizeMb, 0)
 
 export function DownloadsView() {
   const { data, isLoading } = useQuery<ExamList>({
@@ -31,7 +57,7 @@ export function DownloadsView() {
           Downloads
         </h1>
         <p className="text-muted-foreground mt-1">
-          Grab the scraped Ethiopian exam archive, the source code, or both.
+          Grab the scraped Ethiopian exam archive, official Grade 11 &amp; 12 textbooks, the source code, or all three.
         </p>
       </div>
 
@@ -163,6 +189,68 @@ export function DownloadsView() {
           </CardContent>
         </Card>
       )}
+
+      {/* Textbooks section */}
+      <Card className="border-2">
+        <CardHeader>
+          <div className="flex items-start justify-between">
+            <div className="size-12 rounded-lg bg-amber-50 dark:bg-amber-950/30 flex items-center justify-center mb-2">
+              <BookText className="size-6 text-amber-600 dark:text-amber-400" />
+            </div>
+            <Badge variant="secondary">Textbooks</Badge>
+          </div>
+          <CardTitle className="text-xl">Grade 11 &amp; 12 Textbooks</CardTitle>
+          <CardDescription>
+            Official Ethiopian Ministry of Education textbooks for entrance exam subjects, scraped from temari.et.
+          </CardDescription>
+        </CardHeader>
+        <CardContent className="space-y-4">
+          <div className="grid grid-cols-3 gap-3 text-center">
+            <div className="rounded-lg border bg-card p-3">
+              <div className="text-2xl font-bold">{TEXTBOOKS.length}</div>
+              <div className="text-[10px] text-muted-foreground">Textbooks</div>
+            </div>
+            <div className="rounded-lg border bg-card p-3">
+              <div className="text-2xl font-bold">2</div>
+              <div className="text-[10px] text-muted-foreground">Grades</div>
+            </div>
+            <div className="rounded-lg border bg-card p-3">
+              <div className="text-2xl font-bold">{(TOTAL_TEXTBOOK_MB / 1024).toFixed(1)} GB</div>
+              <div className="text-[10px] text-muted-foreground">Total size</div>
+            </div>
+          </div>
+          <div className="grid sm:grid-cols-2 gap-3">
+            {(['Grade 11', 'Grade 12'] as const).map((grade) => (
+              <div key={grade} className="space-y-2">
+                <h3 className="text-sm font-semibold">{grade}</h3>
+                <div className="space-y-1.5">
+                  {TEXTBOOKS.filter((t) => t.grade === grade).map((t) => (
+                    <div key={t.filename} className="flex items-center justify-between gap-2 p-2 rounded-md border bg-card text-xs">
+                      <div className="flex items-center gap-2 flex-1 min-w-0">
+                        <FileText className="size-3.5 flex-shrink-0 text-muted-foreground" />
+                        <span className="font-medium truncate">{t.subject}</span>
+                        {t.curriculum === 'old' && (
+                          <Badge variant="outline" className="text-[10px] flex-shrink-0">old</Badge>
+                        )}
+                      </div>
+                      <span className="text-muted-foreground flex-shrink-0">{t.sizeMb} MB</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+          <Button asChild className="w-full gap-2 bg-amber-600 hover:bg-amber-700" disabled={isLoading}>
+            <a href="/downloads/ethiopian-textbooks.zip" download>
+              <Download className="size-4" />
+              Download all textbooks as .zip ({(TOTAL_TEXTBOOK_MB / 1024).toFixed(1)} GB)
+            </a>
+          </Button>
+          <p className="text-xs text-amber-600 dark:text-amber-400">
+            ⚠️ The textbooks zip is large (818 MB) — download may take a while depending on your connection.
+          </p>
+        </CardContent>
+      </Card>
     </div>
   )
 }
