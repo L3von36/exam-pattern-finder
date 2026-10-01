@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { useQuery } from '@tanstack/react-query'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Textarea } from '@/components/ui/textarea'
 import { Button } from '@/components/ui/button'
@@ -10,7 +11,7 @@ import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/component
 import { Badge } from '@/components/ui/badge'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { SAMPLE_EXAMS } from '@/lib/sample-exams'
-import { Loader2, Sparkles, BookOpen, FileText, Settings2, ChevronDown, ChevronUp, Wand2 } from 'lucide-react'
+import { Loader2, Sparkles, BookOpen, FileText, Settings2, ChevronDown, ChevronUp, Wand2, BookMarked } from 'lucide-react'
 
 type Props = {
   onAnalyze: (input: { examContent: string; bookContent?: string; focus?: string }) => void
@@ -18,11 +19,33 @@ type Props = {
   preloadedContent?: string
 }
 
+type TextbookMeta = {
+  id: string
+  filename: string
+  subject: string
+  grade: 'Grade 11' | 'Grade 12'
+  curriculum: 'current' | 'old'
+  sizeKb: number
+  pdfSizeMb: number
+  hasGoodExtraction: boolean
+}
+
+type TextbookList = { ok: boolean; total: number; textbooks: TextbookMeta[] }
+
 export function ExamInput({ onAnalyze, loading, preloadedContent }: Props) {
   const [examContent, setExamContent] = useState('')
   const [bookContent, setBookContent] = useState('')
   const [focus, setFocus] = useState('')
   const [showAdvanced, setShowAdvanced] = useState(false)
+  const [loadingTextbook, setLoadingTextbook] = useState(false)
+
+  // Fetch list of available textbooks (loaded once, cached by react-query)
+  const { data: textbookData } = useQuery<TextbookList>({
+    queryKey: ['textbooks'],
+    queryFn: () => fetch('/api/textbooks').then((r) => r.json()),
+    staleTime: 5 * 60_000,
+  })
+  const textbooks = textbookData?.textbooks ?? []
 
   // Sync with preloaded content from the dashboard store (e.g. when a paper
   // is loaded from the question bank). This is an effect-driven state sync,
@@ -41,6 +64,25 @@ export function ExamInput({ onAnalyze, loading, preloadedContent }: Props) {
   function loadSample(id: string) {
     const sample = SAMPLE_EXAMS.find((s) => s.id === id)
     if (sample) setExamContent(sample.content)
+  }
+
+  async function loadTextbook(textbookId: string) {
+    if (!textbookId || textbookId === 'none') {
+      setBookContent('')
+      return
+    }
+    setLoadingTextbook(true)
+    try {
+      const res = await fetch(`/api/textbooks/${textbookId}`)
+      const data = await res.json()
+      if (data.ok) {
+        setBookContent(data.content)
+      }
+    } catch {
+      // ignore — the textarea just stays empty
+    } finally {
+      setLoadingTextbook(false)
+    }
   }
 
   function handleSubmit() {
@@ -128,17 +170,49 @@ export function ExamInput({ onAnalyze, loading, preloadedContent }: Props) {
           </CollapsibleTrigger>
           <CollapsibleContent className="space-y-4 pt-4">
             <div className="space-y-2">
-              <Label htmlFor="book" className="text-sm font-medium flex items-center gap-1">
-                <BookOpen className="size-4" />
-                Reference book excerpt (optional)
-              </Label>
+              <div className="flex items-center justify-between gap-2 flex-wrap">
+                <Label htmlFor="book" className="text-sm font-medium flex items-center gap-1">
+                  <BookOpen className="size-4" />
+                  Reference book excerpt (optional)
+                </Label>
+                {textbooks.length > 0 && (
+                  <Select onValueChange={loadTextbook} disabled={loadingTextbook}>
+                    <SelectTrigger className="w-[260px] h-8 text-xs">
+                      <SelectValue placeholder={loadingTextbook ? 'Loading textbook...' : 'Load from textbook library'} />
+                    </SelectTrigger>
+                    <SelectContent>
+                      <SelectItem value="none">— Clear book content —</SelectItem>
+                      {textbooks.map((t) => (
+                        <SelectItem key={t.id} value={t.id}>
+                          <div className="flex items-center gap-2">
+                            <span>{t.subject}</span>
+                            <span className="text-[10px] text-muted-foreground">{t.grade}</span>
+                            {t.curriculum === 'old' && (
+                              <span className="text-[10px] px-1 rounded bg-muted">old</span>
+                            )}
+                            {!t.hasGoodExtraction && (
+                              <span className="text-[10px] px-1 rounded bg-amber-100 text-amber-700">scan</span>
+                            )}
+                          </div>
+                        </SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                )}
+              </div>
               <Textarea
                 id="book"
                 value={bookContent}
                 onChange={(e) => setBookContent(e.target.value)}
-                placeholder="Paste a sample from the textbook or study guide. The engine will use this as ground-truth when classifying topics."
+                placeholder="Paste a sample from the textbook or study guide, OR pick a textbook from the dropdown above to auto-load an excerpt. The engine will use this as ground-truth when classifying topics."
                 className="min-h-[120px] font-mono text-sm resize-y"
               />
+              {bookContent && (
+                <p className="text-xs text-muted-foreground flex items-center gap-1">
+                  <BookMarked className="size-3" />
+                  {bookContent.length.toLocaleString()} chars of book content loaded
+                </p>
+              )}
             </div>
             <div className="space-y-2">
               <Label htmlFor="focus" className="text-sm font-medium flex items-center gap-1">
